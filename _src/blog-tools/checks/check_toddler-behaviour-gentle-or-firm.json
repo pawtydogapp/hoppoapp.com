@@ -1,0 +1,68 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "Checked against WHO, AAP and UNICEF guidance and 6 peer-reviewed studies",
+      "new": "Checked against WHO, AAP and UNICEF guidance and 7 peer-reviewed studies",
+      "why": "The Sources list has 7 peer-reviewed papers (Baumrind 1966, Pinquart 2017, Pinquart and Kauser 2018, Gershoff and Grogan-Kaylor 2016, Laas Sigurdardottir 2025, Dadds and Tully 2019, Gunderson 2013), not 6."
+    },
+    {
+      "old": "<h1>Gentle or firm? 60 years of research says toddlers do best when you are both</h1>",
+      "new": "<h1>Gentle or firm? 60 years of research favours parents who are both</h1>",
+      "why": "Overclaim. The research (Pinquart 2017, Pinquart and Kauser 2018) covers children and adolescents generally, is mostly observational and finds very small to small links. It does not show that toddlers specifically do best. The softer wording matches the article's own key box (\"60 years of research favours warm parenting with clear limits\"). Update the headline in the meta JSON to match."
+    },
+    {
+      "old": "says searches for \"positive discipline\" rose 295% and \"authoritative parenting\" rose 115% year on year. Treat these as a signal of interest, not a study. Pinterest gives no method, no region and no base numbers.",
+      "new": "says searches for \"positive discipline\" rose 295% and \"authoritative parenting\" rose 115%. Treat these as a signal of interest, not a study. Pinterest gives no time period, method, region or base numbers for these figures.",
+      "why": "Pinterest Parenting Trend Report 2026 (24 February 2026) lists +295% and +115% with no time frame. \"Year over year\" appears only for other figures (screen free activities). Figures and date otherwise confirmed."
+    },
+    {
+      "old": "The US parenting site The Bump named \"hybrid\" parenting its number 1 trend for 2026, and reported that fewer than 40% of Gen Z parents say they use gentle parenting. The Bump does not name the survey or its size, so read that figure with care.",
+      "new": "The US parenting site The Bump put \"hybrid\" parenting first in its list of trends for 2026, and reported that fewer than 40% of Gen Z parents say they use gentle parenting. That figure comes from an online survey of 2,000 US parents of children aged 0 to 6, run by Talker Research for the childcare chain Kiddie Academy in August 2025, which found 32%. It is a commercial poll, so read it with care.",
+      "why": "The Bump (22 December 2025) does not number its trends, \"Goodbye Gentle, Hello Hybrid\" is simply listed first. Its Gen Z figure links to a Kiddie Academy release: Talker Research surveyed 2,000 parents of children 0 to 6 online, 21 to 27 August 2025, and found 32% of Gen Z parents use gentle parenting. So the survey can be named."
+    },
+    {
+      "old": "<h2>The 1966 study that found a third way</h2>",
+      "new": "<h2>The 1966 paper that named a third way</h2>",
+      "why": "Baumrind's 1966 Child Development paper (37(4):887 to 907) was a conceptual paper describing 3 prototypes of parental control. Her observational studies came in 1967 and 1971. \"Paper\" also matches the next sentence."
+    },
+    {
+      "old": "3 honest limits. The effects were \"very small to small\",",
+      "new": "3 honest limits. The links for warmth, clear rules and the authoritative style were \"very small to small\",",
+      "why": "In the Pinquart 2017 abstract, \"very small to small\" describes the links for warmth, behavioural control, autonomy granting and authoritative parenting, not every effect. Harsh and psychological control had the strongest links."
+    },
+    {
+      "old": "linked with worse results in 13 of 17 outcomes, including more aggression and defiance.",
+      "new": "linked with worse results in 13 of 17 outcomes, including more aggression and antisocial behaviour.",
+      "why": "In Gershoff and Grogan-Kaylor 2016, immediate defiance was 1 of the outcomes NOT significantly linked with spanking (d = 0.14, 5 studies). Aggression (d = 0.37) and antisocial behaviour (d = 0.39) were significant. 160,927 children and 13 of 17 confirmed."
+    },
+    {
+      "old": "predicted, 5 years later, a stronger belief that ability grows with practice.</li>",
+      "new": "predicted, 5 years later, a stronger belief that ability grows with practice. It observed families, so it shows a link rather than proof.</li>",
+      "why": "Gunderson 2013 (N = 53, praise at 14 to 38 months, beliefs at 7 to 8 years) is correlational, and it found that praise of the child's traits was not linked with later fixed beliefs. Adds the same causal caution the article uses elsewhere."
+    },
+    {
+      "old": "<li>Behaviour problems come with worries about speech, sleep, eating or development.</li>",
+      "new": "<li>Behaviour problems come with worries about speech, sleep, eating or development, or your child loses words or skills they used to have.</li>",
+      "why": "Safety. Loss of previously acquired skills (regression) is a standard red flag in NHS and CDC developmental guidance and should prompt a timely check. It was missing."
+    },
+    {
+      "old": "<li>If you ever feel you might hurt your child, put them somewhere safe, step away and call someone you trust, as the AAP advises. Then talk to your doctor.</li>",
+      "new": "<li>If you ever feel you might hurt your child, put them somewhere safe, step away and call someone you trust. Talk to your doctor or health visitor the same day. If a child is in danger, call your local emergency number.</li>",
+      "why": "Safety and attribution. The AAP page (HealthyChildren, 5 November 2018) advises a parent who feels out of control to make sure the child is safe, take a few minutes and call a friend. It does not address feeling you might hurt your child, so the attribution was stretched. A risk of harm needs a same-day contact and an emergency route, not an open-ended 'then talk to your doctor'."
+    },
+    {
+      "old": "Laas Sigurðardóttir LB and others: Individual differences in mediators",
+      "new": "Laas Sigurðardóttir LB and others: Individual participant data meta-analysis, individual differences in mediators",
+      "why": "Exact title begins \"Individual Participant Data Meta-Analysis:\" (JAACAP 2025, 64(5):564 to 576). Findings in the text (14 European trials, 3,252 families, ages 1 to 13, follow-through and less harsh verbal discipline strongest mediators) confirmed."
+    }
+  ],
+  "notes": [
+    "Meta JSON: change headline to \"Gentle or firm? 60 years of research favours parents who are both\" to match the h1. The description (\"says you do not have to pick\", \"why smacking fails\") is fine.",
+    "Confirmed without change: Baumrind 1966 (Child Development 37(4), December 1966, DOI correct), 60 years (1966 to 2026), Pinquart 2017 (1,435 studies, harsh and psychological control strongest, bidirectional links), Pinquart and Kauser 2018 (428 studies, authoritative linked with at least 1 positive outcome in all regions, with some regional variation), Gershoff and Grogan-Kaylor 2016 (160,927 children, 13 of 17, none beneficial), AAP 2018 policy wording (minimally effective short term, not effective long term), AAP 1 minute per year of age, AAP parent time-out, AAP follow through right away, WHO fact sheet dated 11 May 2026 (1.2 billion aged 0 to 18, no positive outcomes, more behaviour problems over time), WHO 20 August 2025 report (24% less likely developmentally on track, 49 LMICs), WHO parenting guidelines 10 February 2023, End Corporal Punishment (70 states, 15% of children fully protected, Czech Republic 31 October 2025 and Switzerland 17 November 2025, Thailand also listed for 2025), Sweden 1979, UNICEF page dated 11 May 2026 (10 minutes quality time, 10 slow deep breaths, clear age-appropriate boundaries and consistency), Mumsnet threads exist (almost 3 year old 17/10/2026, 4yo emotional regulation 16/10/2026, daughter not bothered when told off 18/10/2026), The Bump date and psychotherapist quote (David Bruce, RP, Toronto).",
+    "Dadds and Tully 2019 is a conceptual reanalysis rather than a systematic review. It cites \"overwhelming evidence\" for time-out efficacy, so \"found strong evidence\" is acceptable, but the authors are time-out researchers and the article fairly presents the critics' view.",
+    "HealthyChildren's distraction and replacement advice is given for babies under 1. \"Under about 2, simply move your child or the object\" is reasonable general practice but is not attributed to AAP, so left as is.",
+    "Product claims (\"Hoppo's weekly 5-minute practice skill\", CTA \"1 short practice skill a week\") were not checkable. Confirm they match the app.",
+    "No CHECK comments were present in the file. All Sources links resolve (PubMed, Crossref, WHO, UNICEF, Pinterest, The Bump, End Corporal Punishment, Mumsnet checked)."
+  ]
+}

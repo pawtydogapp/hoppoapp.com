@@ -1,0 +1,30 @@
+<!doctype html><html lang="{{lang}}"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="{{description}}">
+<title>{{title}}</title>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32.png">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<meta name="theme-color" content="#6B4FBB">
+{{canonical}}
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{url}}">{{og_locale}}
+<meta property="og:image" content="https://hoppoapp.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="/fonts/nunito-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+{{css}}
+{{posthog}}{{ld}}</head><body>
+<nav><a class="logo" href="/"><img src="/img/mascot-64.png" alt="" width="34" height="34">Hoppo</a>
+<span class="links"><a href="/">{{nav_home}}</a><a href="/guides.html">{{nav_guides}}</a>{{nav_blog_link}}<a href="/support.html">{{nav_support}}</a></span>@@LANGSWITCH@@</nav>{{main}}<footer>{{footer_tagline}}
+<div class="legalrow">
+<a href="/support.html">{{footer_support}}</a>·<a href="/privacy.html">{{footer_privacy}}</a>·<a href="/terms.html">{{footer_terms}}</a>
+</div>
+@@LANGFOOT@@<div class="imprint">
+{{footer_operator}}<br>
+{{footer_contact}} <a href="mailto:info@hoppoapp.com">info@hoppoapp.com</a>
+</div>
+</footer>{{js}}
+
+</body></html>

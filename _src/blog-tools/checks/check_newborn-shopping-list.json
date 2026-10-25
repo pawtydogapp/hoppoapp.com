@@ -1,0 +1,95 @@
+{
+ "verdict": "publish after fixes",
+ "fixes": [
+  {
+   "old": "and still ran out of nappies in week 1.",
+   "new": "and still underestimated how many nappies they would need.",
+   "why": "Aldi (Mortar, January 2024) says 62% were underprepared for how many nappies and wipes they would use. Nothing about running out in week 1."
+  },
+  {
+   "old": "Most families overbuy the extras and underbuy the basics.",
+   "new": "Many families overbuy the extras and underbuy the basics.",
+   "why": "Only 30% in the Aldi research bought unused items, so 'most' overclaims."
+  },
+  {
+   "old": "More than you think. Parents on Mumsnet suggest dozens, for spills, burps and everything else",
+   "new": "More than you think, say parents on Mumsnet, for spills, burps and everything else",
+   "why": "Neither Mumsnet thread gives a number like dozens. Posters say 'more muslins than you think'."
+  },
+  {
+   "old": "The same goes for Moses baskets, swings, swaddles, dummies and bottle preparation machines.",
+   "new": "Oster also suggests trial sets of swaddles, dummies and bottles, because babies differ, and notes that items such as a Moses basket may get used for almost no time.",
+   "why": "ParentData does not put these on both lists. Swings are not mentioned and the Baby Brezza bottle machine scored 'more love than hate'. The article does recommend trial sets for swaddles, pacifiers and bottles, and says a Moses basket gets used for almost no time."
+  },
+  {
+   "old": "<h2>The 7 buys parents most often call a waste of money</h2>",
+   "new": "<h2>7 buys parents often call a waste of money</h2>",
+   "why": "Several items (nappy bin, baby bath, changing table) rest on single Mumsnet posts, so 'most often' is not supported."
+  },
+  {
+   "old": "Wipe warmers and bottle warmers were among the lowest-rated items in the ParentData survey.",
+   "new": "Warmers, for anything, were on the ParentData worst list and not on the best list.",
+   "why": "ParentData says 'warmers, for anything' appear on the worst list. Wipe warmers are not named separately."
+  },
+  {
+   "old": "<b>Fancy outfits.</b> They are also the most common gift, so you will probably get plenty anyway.",
+   "new": "<b>Fancy outfits.</b> Outfits were on the ParentData worst list. They are also a popular gift, so you will probably get plenty anyway.",
+   "why": "No source for 'the most common gift'. ParentData lists outfits on the worst list, which supports the item."
+  },
+  {
+   "old": "and the most wished-for buy in the 2018 Mumsnet thread",
+   "new": "and 1 of the most recommended buys in the 2018 Mumsnet thread",
+   "why": "The 2018 thread recommends slings and carriers often but does not show them as the single most wished-for item. Many replies say they wished they had bought less."
+  },
+  {
+   "old": "and are the option the NHS calls safer than loose blankets.",
+   "new": "and the NHS lists a baby sleeping bag as an option alongside lightweight blankets and sheets.",
+   "why": "The NHS SIDS page says sleeping bags are safer than swaddling when bed-sharing. It does not call them safer than blankets. It lists 'lightweight blankets, sheets or a baby sleeping bag'."
+  },
+  {
+   "old": "Some of these are sold as baby sleep products, and 1 major UK store checklist still suggests a pod for daytime naps.",
+   "new": "Some of these are sold as baby sleep products.",
+   "why": "No source given and could not be verified. The Mumsnet and Tesco list in the Sources does not suggest a pod. Restore only with a named, linked source."
+  },
+  {
+   "old": "A serious risk to babies. Banned from sale in the US",
+   "new": "A serious risk to babies. Padded bumpers are banned from sale in the US",
+   "why": "The US Safe Sleep for Babies Act 2022 bans padded crib bumpers specifically (CPSC)."
+  },
+  {
+   "old": "If your baby falls asleep in a carrier, bouncer or car seat, the AAP says",
+   "new": "If your baby falls asleep in a carrier, swing or car seat, the AAP says",
+   "why": "AAP HealthyChildren lists car seats, strollers, swings and carriers or slings. Bouncers are not in its list (the Lullaby Trust covers bouncers)."
+  },
+  {
+   "old": "accept one only from someone you know well, with its full history and instructions.",
+   "new": "accept one only from family or friends, and only if you know its full history, it has the original instructions and it is not too old.",
+   "why": "RoSPA childcarseats.org.uk: only accept one from a family member or friend 'if you are absolutely certain that you know its history, it comes with the original instructions and it is not too old'. The age condition was missing."
+  },
+  {
+   "old": "The Lullaby Trust goes further and says new is best even then",
+   "new": "The Lullaby Trust goes further and advises against using any second-hand car seat",
+   "why": "Lullaby Trust second-hand products page: 'We advise you not to use a second-hand car seat'. States the advice directly."
+  },
+  {
+   "old": "it should be firm, flat, clean, dry, fit with no gaps and have a waterproof cover",
+   "new": "it should be firm, flat, clean, dry, free of rips or water damage, fit with no gaps and have a waterproof cover and a fire-resistant label",
+   "why": "Lullaby Trust mattresses page lists no rips or tears, no water damage and a fire-resistant label as conditions for a used mattress."
+  },
+  {
+   "old": "American Academy of Pediatrics, HealthyChildren.org: A parent's guide to safe sleep</a>",
+   "new": "American Academy of Pediatrics, HealthyChildren.org: How to keep your sleeping baby safe, AAP policy explained</a>",
+   "why": "The page title at this URL is 'How to Keep Your Sleeping Baby Safe: AAP Policy Explained'. Date 11 September 2026 confirmed."
+  }
+ ],
+ "notes": [
+  "No <!-- CHECK --> comments were present in the HTML.",
+  "Verified and correct as written: Lullaby Trust head sinks no more than a few millimetres, sleep bags usually from about 4 kg, blankets no higher than shoulders, pillows, quilts and duvets raise SIDS risk 3 times, weighted swaddles, blankets and sleeping bags on the Lullaby Trust avoid list, pods and nests, hammocks, positioners, bouncers and swings, and standards not meaning a product reduces SIDS risk. AAP 10 degree incline and no weighted products. CPSC 10 degrees and weighted products. NHS sling fabric not covering head. Which? 89% satisfied with second-hand pushchair (2024 survey), EN 1888, EN 1930, lead paint before 1973, loose stickers, monitor passwords, drawstrings, hooded novelty sleeping bags, button batteries and magnets. RSA: R44 seats no longer sold in the EU from 1 September 2024 and seats in use remain legal. BFU 4.5 to 6.5 cm bar gaps and EN 716 (August 2016). Michigan MDHHS: use only the mattress sold with a pack and play. NIJZ 2020 advises against folding cots with taut mesh sides because of injury risk. Aldi figures 30%, 62%, 30% shoes at £33, over a quarter for mittens and dressing gowns, 78% emotional support, research by Mortar January 2024, press release 2 February 2024. ParentData about 1,400 respondents in 2024, carrier most popular best item, feeding pillow at the midpoint, bouncers, monitors and gyms on both lists, sleep sacks high, nappy cream spatula a surprise. Mumsnet Tesco advertisement feature with affiliate links, about 41 essentials plus 7 nice-to-haves, updated 18 July 2025, no do not buy list. Mumsnet 2020 thread: nappy bin 'complete waste of money', white noise app 'best money I ever spent'.",
+  "Bar spacing differs by source: BFU gives 4.5 to 6.5 cm (matching EN 716), NIJZ gives 4.5 to 6.0 cm and Which? gives 2.5 to 6.5 cm. The article follows BFU and EN 716, which is defensible. The editor may want to mention NIJZ for Slovenian readers.",
+  "The R44 sale ban sentence is limited to the EU, which is correct. Rules for retailers in Great Britain may differ, so UK readers should not read it as a UK rule.",
+  "The RSA page could not be fetched directly (Cloudflare block). Its content was confirmed through a fetch tool, but the link title 'ISOFIX and i-Size' could not be confirmed against the page heading.",
+  "The Mumsnet 2018 thread has 6 pages and only page 1 could be checked.",
+  "Headline and meta: '8 things' and 'Parents say you need 8 first' are an editorial count built from the Mumsnet thread's short core list, not a number parents gave. Acceptable as a hook, but the meta description 'Top lists run to 48 items' refers to 1 list (Mumsnet and Tesco). Consider 'The best-known list runs to 48 items'.",
+  "Mesh travel cots: the article fairly states that US and Slovenian advice differ. Hoppo's own suggestion is labelled as Hoppo's."
+ ]
+}

@@ -1,0 +1,71 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "<h2>The honest range: about 1,500 to 6,500 EUR, and you choose where you land</h2>",
+      "new": "<h2>Our estimate: about 1,500 to 6,500 EUR, and you choose where you land</h2>",
+      "why": "The 1,500 to 6,500 EUR range is Hoppo's own estimate, not a published figure (the body text says so). The heading presented it as 'the honest range' without labelling it as an estimate."
+    },
+    {
+      "old": "<p>In 2011, a widely reported survey said the first year cost £5,200. On Mumsnet, parents pointed out that it came from a company selling baby equipment. A parent who had spent about £900 asked who could have spent enough to push the average above £5,000. Totals shared in that thread ran from about £600 to about £4,000, and nursery fees drove the top end.</p>",
+      "new": "<p>In 2011, a widely reported survey said the first year cost £5,200. On Mumsnet, one parent pointed out that it came from a company selling baby equipment. A parent who had spent about £900 asked who could have spent enough to push the average above £5,000. Totals shared on the first pages of that thread ran from about £900 to over £5,000. For one parent, nursery fees made up more than half of a £4,000 total.</p>",
+      "why": "Mumsnet thread (15 November 2011): only 1 poster made the baby equipment company claim. No first-year total of about £600 appears (the £600 mention was a pram and cot only). The lowest totals are about £900 and the highest 'easily over £5K', so 'up to about £4,000' was wrong. The £4,000 total included about £2,400 of nursery fees (60%). Nursery fees did not drive the other high totals."
+    },
+    {
+      "old": "<p>In a small 2011 poll on the MoneySavingExpert forum (61 votes), 81% of parents said they spent under £100 a month on baby items.</p>",
+      "new": "<p>In a small 2011 poll on the MoneySavingExpert forum, 50 of 61 voters (82%) said they spent under £100 a month on baby items.</p>",
+      "why": "Recalculated: the MSE poll (30 November 2011) shows 50 of 61 votes for 'less than £100'. That is 82.0%. The forum displays a rounded-down 81%. Voters were not necessarily parents, and the person who started the thread had no children yet."
+    },
+    {
+      "old": "About 1,500 EUR for 5,000 disposables over all the nappy years, against about 400 EUR for cloth plus washing (Germany)",
+      "new": "About 1,500 EUR for 5,000 disposables over all the nappy years, against about 400 EUR for a cloth set, plus washing costs (Germany)",
+      "why": "Sparkasse (updated 22 September 2026) gives about 400 EUR for a cloth nappy set and says washing costs come on top. It gives no figure for washing, so 400 EUR does not include washing."
+    },
+    {
+      "old": "Cheapest instead of priciest brand saves about £300 to £500 in year 1",
+      "new": "Switching from a mid-priced or premium brand to a low-priced one saves about £300 to £500 in year 1 if fully formula fed",
+      "why": "CMA press release (14 February 2025): switching from a mid-priced to a low-priced brand saves about £300 and from a premium to a low-priced brand about £500. Both figures assume exclusive formula feeding from birth to 12 months. 'Cheapest instead of priciest' only covers the £500 end."
+    },
+    {
+      "old": "Deciding before the birth can save £300 to £500 in year 1.",
+      "new": "Choosing a low-priced brand can save about £300 to £500 in year 1 if you formula feed from birth (CMA).",
+      "why": "Overclaim. The CMA saving comes from the cheaper brand, not from deciding before the birth. It also assumes exclusive formula feeding for 12 months (CMA, 14 February 2025)."
+    },
+    {
+      "old": "<li>All formula brands meet nutritional needs. Cheaper ones can save £300 to £500 a year.</li>",
+      "new": "<li>All formula brands meet nutritional needs. A cheaper one can save about £300 to £500 in year 1 if you formula feed from birth.</li>",
+      "why": "Same CMA assumption (exclusive formula feeding from birth to 12 months). The saving is a year 1 figure, not an ongoing annual one."
+    },
+    {
+      "old": "When a first-time parent on the MoneySavingExpert forum asked what a baby really costs, experienced parents agreed.",
+      "new": "When someone planning their first baby asked on the MoneySavingExpert forum what a baby really costs, experienced parents agreed.",
+      "why": "The MSE thread (30 November 2011) was started by someone about to try for their first child. They had no children yet, so they were not a parent."
+    },
+    {
+      "old": "eligible working parents can now get up to 30 hours of free childcare a week from 9 months (GOV.UK).",
+      "new": "eligible working parents can now get up to 30 hours of free childcare a week, for 38 weeks a year, from 9 months (GOV.UK).",
+      "why": "GOV.UK (30 hours free childcare) says 30 hours a week for 38 weeks of the year. Without that, parents may overestimate the cover, which works out at about 22 hours a week if spread over the full year."
+    },
+    {
+      "old": "look for the approval label with an E in a circle and R129, also called i-Size.",
+      "new": "look for the approval label with an E in a circle and R129, the newer standard that includes i-Size seats.",
+      "why": "i-Size is a category within UN R129. Not every R129 seat is i-Size (for example, some booster seats and vehicle-specific seats), so the 2 terms are not the same."
+    },
+    {
+      "old": "<li><a href=\"https://www.solicitorsjournal.com/sjarticle/infant-formula-market-study-cma-publishes-final-report\">Solicitors Journal: Infant formula market study, CMA publishes final report</a>, February 2025</li>",
+      "new": "<li><a href=\"https://www.solicitorsjournal.com/sjarticle/infant-formula-market-study-cma-publishes-final-report\">Solicitors Journal: Infant formula market study, CMA publishes final report</a>, 3 April 2025</li>",
+      "why": "The Solicitors Journal article is dated 3 April 2025. The CMA final report itself came out on 14 February 2025."
+    }
+  ],
+  "notes": [
+    "There were no CHECK comments in the file.",
+    "Arithmetic verified. MoneyHelper: £600 + 11 x £95 = £1,645. SMP on £500 a week: 6 x £450 = £2,700, plus 33 x £194.32 = £6,412.56, total £9,112.56 (about £9,100). Full pay 39 x £500 = £19,500. Gap £10,387 (about £10,400). Child Benefit: £27.05 x 52 = £1,406.60 (about £1,407), which is 86% of £1,645. Remitly: 2,813 / 4,727 / 6,294 / 4,701 EUR and the category figures 1,465 / 1,187 / 1,152 EUR all match Euronews (20 September 2026).",
+    "Rates confirmed as current. SMP is £194.32 (2026 to 2027 rate, per GOV.UK and payroll sources). Child Benefit is £27.05 for the first child. The Sure Start Maternity Grant is £500, with the claim window and Scotland exclusion as stated. Kindergeld is 259 EUR (Bundesagentur, 4 December 2025). Elterngeld is 65% to 100% of previous net income, 300 to 1,800 EUR a month, 14 months shared with 2 to 12 months each (BMFSFJ). The Kela grant is 210 EUR tax-free, with the month 4 check and the 2-month application deadline (page modified 14 October 2026). Both the RoSPA quote and the Which? (31 October 2025) claims match their sources.",
+    "Hoppo's lower bound of 1,500 EUR is below the lowest published figure (MoneyHelper £1,645, about 1,900 EUR). The article attributes it to breastfeeding and used kit and labels it as Hoppo's estimate, which is acceptable. MoneyHelper does not say whether its 'very basic' figure assumes formula.",
+    "MoneyHelper's childcare figure is £157.68 a week, which comes to £8,199 a year (157.68 x 52), not the £8,194 it states. The article quotes MoneyHelper's own annual figure, so I left it. The figure dates from a 2024 survey of Great Britain, before the 9-month free hours expansion. The Family and Childcare Trust is now called Coram Family and Childcare.",
+    "Elterngeld has an income limit (175,000 EUR taxable household income for births from April 2025), so very high earners get nothing. The article does not mention this. It is optional to add.",
+    "The Sure Start Maternity Grant is also available for a multiple birth when you already have children. The article says 'for a first child', which is fine as a simplification.",
+    "Headline, description and card in the meta JSON are accurate and do not overclaim.",
+    "The CMA page metadata shows an update on 14 October 2026, but the 14 February 2025 publication date in the Sources list is correct."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "<li><b>Formula feeding:</b> the NHS suggests partners share the feeds. 1 example is 9 pm to 2 am for 1 parent and 2 am to 7 am for the other.</li>",
+      "new": "<li><b>Formula feeding:</b> the NHS suggests partners share the feeds. You could split the night, for example 9 pm to 2 am for 1 parent and 2 am to 7 am for the other.</li>",
+      "why": "The NHS Sleep and tiredness after having a baby page (reviewed 24 August 2026) only says 'If you're formula feeding, they could share the feeds'. It gives no example times, so the 9 pm to 2 am split must not read as NHS advice."
+    },
+    {
+      "old": "Google searches for it rose by 5,000% in early 2026, after a paid campaign by a parenting app. The spike was bought, but the feeling is real",
+      "new": "Searches for it rose by 5,000% in early 2026, during an advertising campaign by the parenting app Peanut, according to Chief Marketer. The spike came with a marketing push, but the feeling is real",
+      "why": "Chief Marketer (3 April 2026) reports the 5,000% rise alongside Peanut's campaign (New York Times print ad, outdoor ads, social posts) but does not say the spike was caused by paid media. 'The spike was bought' overclaims."
+    },
+    {
+      "old": "<li>You have thoughts of harming yourself or your baby. Get help the same day from your GP, or call your local emergency number.</li>",
+      "new": "<li>You have thoughts of harming yourself or your baby. Get help the same day from your GP. If you or your baby are in danger now, call your local emergency number.</li>",
+      "why": "Safety. The original reads as if a GP appointment and an emergency call are equal options. Immediate danger must go straight to the emergency number, in line with NHS crisis advice."
+    },
+    {
+      "old": "or a domestic abuse support line in your country. The NHS says nobody has to put up with domestic abuse.</li>",
+      "new": "or a domestic abuse support line in your country. If you are in danger now, call your local emergency number. The NHS says nobody has to put up with domestic abuse.</li>",
+      "why": "Safety. The domestic abuse bullet had no route for immediate danger. NHS Relationships after having a baby (reviewed 20 May 2026) confirms 'Nobody has to put up with domestic abuse'."
+    },
+    {
+      "old": "<h2>The 15-minute Sunday check-in that prevents most rows</h2>",
+      "new": "<h2>The 15-minute Sunday check-in that can head off rows</h2>",
+      "why": "Overclaim. No cited study shows a weekly check-in prevents most rows."
+    },
+    {
+      "old": "<li>Depression after a birth affects mothers and partners. Sharing the load protects both of you.</li>",
+      "new": "<li>Depression after a birth affects mothers and partners. A fairer load may help protect both of you.</li>",
+      "why": "Overclaim. The cited evidence (Dew and Wilcox 2011, Paulson and Bazemore 2010) is correlational and does not show that sharing the load prevents depression."
+    },
+    {
+      "old": "A second US study, published in 2011 with data from 569 new mothers, looked at why.",
+      "new": "A second US study, published in 2011 with national survey data on 569 wives, looked at why new mothers became less happy in their marriage.",
+      "why": "The Dew and Wilcox abstract gives N = 569 from the National Survey of Families and Households but does not say all 569 were new mothers. The analysis likely includes wives who did not have a baby as a comparison group. The new wording is accurate either way."
+    },
+    {
+      "old": "<a href=\"https://www.chiefmarketer.com/mom-app-peanut-aims-to-legitimize-matrescence/\">Chief Marketer: Mom app Peanut aims to legitimize matrescence</a>, 2026</li>",
+      "new": "<a href=\"https://www.chiefmarketer.com/mom-app-peanut-aims-to-legitimize-matrescence/\">Chief Marketer: Mom app Peanut aims to legitimize matrescence</a>, 3 April 2026</li>",
+      "why": "The article is dated Friday 3 April 2026."
+    }
+  ],
+  "notes": [
+    "Verified as accurate: Ohio State release 7 May 2015 (182 couples, perceived rise of more than 4 hours, measured rise of 2 hours for women and about 40 minutes for men, both about 15 hours of housework before birth, men cut 5 hours, measured in the third trimester and at about 9 months). EIGE CARE Survey (over 65,000 respondents aged 16 to 74 in all 27 EU countries, fieldwork 2024, published 25 February 2026). COFACE (20 May 2026): 41% of women and 20% of men caring for children under 12 spend more than 35 hours a week, and 73% of women and 54% of men do physical childcare every day. Daminger 2019 (35 couples, 70 interviews, 4 steps, women do more anticipating and monitoring, decision making roughly equal, invisible work, frequent source of conflict). Doss 2009 (218 couples, 8 years, sudden decline for parents, more gradual decline for nonparents). Dew and Wilcox 2011 (less couple time and more perceived unfairness explain the decline, and role traditionalization does not explain it directly). Paulson and Bazemore, JAMA 2010 (43 studies, 28,004 participants, 10.4%, moderate correlation r = 0.31 with maternal depression). NHS England (up to 20%). WHO (13% of women who have just given birth, mainly depression).",
+    "NHS postnatal depression page (reviewed 18 March 2026) confirms that the baby blues usually pass within 2 weeks, that fathers and partners can be affected, and the symptoms of sleeping badly even when able to rest and feeling guilty or worthless. The help box matches these.",
+    "NHS sleep and tiredness page confirms the advice on nappies and dressing for breastfeeding partners, occasional expressed milk at night, resting when the baby sleeps, and a friend or relative staying for a few days. NHS relationships page confirms 'they cannot read your mind'. Tommy's confirms the advice on keeping feelings to yourself and on co-parents agreeing roles and talking regularly.",
+    "Mumsnet: the thread '6 week old baby, partner not helping, don't know what to do.' exists on the childbirth board with 119 replies, last updated 21 September 2026. The date it was started could not be confirmed, but the September 2026 wording is consistent with the listing. 2 threads on the same page have more replies (129 and 183), so 'one of the busiest' is fair.",
+    "The Bump (22 December 2025) confirms the split-shift trend and the 1 in 2 Gen Z figure, which comes from a YourTango poll with no published method. The article's caveat is appropriate.",
+    "Tone: balanced and does not blame either parent ('The drift rarely comes from bad intentions'). It does frame the mother as the usual default manager, which matches the evidence, and it covers same-sex, co-parenting and single-parent families.",
+    "Headline and meta description in partner-support-mental-load.json are accurate and need no change.",
+    "No CHECK comments were present in the file."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+ "domain": "https://hoppoapp.com",
+ "languages": [["en", "English", "en_GB"]],
+ "pages": [
+  {"path": "index.html", "kind": "page", "lastmod": "2026-10-18", "priority": "1.0", "ld": "raw"},
+  {"path": "guides.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.9"},
+  {"path": "support.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.6"},
+  {"path": "privacy.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.4"},
+  {"path": "terms.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.4"},
+  {"path": "404.html", "kind": "page", "noindex": true}
+ ]
+}

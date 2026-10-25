@@ -1,0 +1,84 @@
+{
+ "verdict": "publish after fixes",
+ "fixes": [
+  {
+   "old": "Signs of choking that do not clear, such as difficulty breathing or a pale or blue face (OPSS).",
+   "new": "Choking that does not clear, or signs the NHS treats as an emergency, such as difficulty breathing or blue, grey or pale skin, lips or tongue.",
+   "why": "Wrong attribution. The OPSS button battery and magnet page (4 April 2022) lists only coughing, gagging, drooling and pointing to the throat or stomach. Difficulty breathing and blue, grey or pale skin, lips or tongue are NHS call-999 signs (NHS: When to get urgent medical help for babies and children under 5). Source added to the list."
+  },
+  {
+   "old": "reviewed 22 October 2024</li>",
+   "new": "reviewed 22 October 2024</li>\n<li><a href=\"https://www.nhs.uk/baby/health/when-to-get-urgent-medical-help-for-babies-and-children-under-5/\">NHS: When to get urgent medical help for babies and children under 5</a></li>",
+   "why": "Adds the source for the corrected emergency signs."
+  },
+  {
+   "old": "Vomiting or tummy pain can start hours or a day later.",
+   "new": "Vomiting or tummy pain can start hours, or even a day or more, later.",
+   "why": "OPSS PSA7 says symptoms may show \"hours or even a day or more after swallowing a bead\". The article capped it at a day, which could falsely reassure a parent the next morning."
+  },
+  {
+   "old": "Plant seeds and check them daily.</li>",
+   "new": "Plant seeds together, with you holding the packet, and check them daily. Wash hands afterwards.</li>",
+   "why": "This is a 2 to 3 year activity. Seeds fit easily inside a toilet roll tube, so letting under 3s handle them contradicts the article's own rule 2 (Canadian Paediatric Society test via INSPQ). Soil can carry toxocara eggs, and the NHS advises hand washing after touching soil."
+  },
+  {
+   "old": "Dig and plant seeds.",
+   "new": "Dig, and plant seeds with you holding the packet.",
+   "why": "Same choking issue in the printable, which parents will use without the article text."
+  },
+  {
+   "old": "A washing-up bowl of water, cups, a funnel and a sieve.</li>",
+   "new": "A washing-up bowl of water, cups, a funnel and a sieve, with you within arm's reach. Empty it straight after.</li>",
+   "why": "A washing-up bowl holds more water than the 6 to 12 month tray, which carries a supervision note, yet this item had none. CAPT: children drown silently in a few centimetres of water, keep them within arm's reach."
+  },
+  {
+   "old": "A big brush and a bucket of water on a fence or wall.",
+   "new": "A big brush and a small bucket of water on a fence or wall.",
+   "why": "Toddlers can topple head first into a large bucket and drown (CPSC warning on buckets and young children). A small bucket is enough for this activity."
+  },
+  {
+   "old": "Blobs of paint in a strong freezer bag",
+   "new": "Blobs of non-toxic paint in a strong freezer bag",
+   "why": "6 to 12 month olds mouth and bite the bag, which can split. The paint must be safe if it gets out."
+  },
+  {
+   "old": "a silicone spatula",
+   "new": "a 1-piece silicone spatula",
+   "why": "Many silicone spatulas have a detachable head on a handle. Once separated, parts can be mouthed or choked on by a 6 to 12 month old."
+  },
+  {
+   "old": "Lemon, cinnamon and mint in cups.",
+   "new": "Lemon, a cinnamon stick and mint in cups.",
+   "why": "Sniffing ground cinnamon with eyes closed risks inhaling the powder, which can cause choking, coughing and lung inflammation (Grant-Alfieri and colleagues, Pediatrics 2013, on the cinnamon challenge). A stick gives the same smell."
+  },
+  {
+   "old": "Measuring, stirring and kneading are maths and sensory play at once.</li>",
+   "new": "Measuring, stirring and kneading are maths and sensory play at once. No tasting raw dough, as raw flour can carry harmful bacteria.</li>",
+   "why": "The UK Food Standards Agency and NHS advise that raw flour and raw dough should not be eaten because of E. coli risk. Small children routinely lick spoons."
+  },
+  {
+   "old": "Go easy with homemade salt dough.",
+   "new": "Do not let children eat homemade salt dough.",
+   "why": "\"Go easy\" is vague. The Tennessee Poison Center (Vanderbilt) piece says 1 tablespoon of some recipes can put a 10 kg child in the toxic range for salt, so the risk is eating it, which the advice should say plainly."
+  },
+  {
+   "old": "On your chest or a floor blanket,",
+   "new": "On your chest while you are wide awake, or on a floor blanket,",
+   "why": "Safe sleep: the Lullaby Trust warns about falling asleep with a baby on you, especially on a sofa or armchair. Chest tummy time is fine only while the adult is alert."
+  },
+  {
+   "old": "<h2>Searches for sensory play rose 1,070% in a year. You already own the kit</h2>",
+   "new": "<h2>Pinterest searches for sensory play rose 1,070% in a year. You already own the kit</h2>",
+   "why": "Overclaiming. The figure is Pinterest searches for the term \"sensory play ideas\" only, not searches in general (Pinterest Parenting Trend Report 2026, 24 February 2026)."
+  }
+ ],
+ "notes": [
+  "No CHECK comments were present in the file.",
+  "Verified correct: WHO 2019 table (all ages, tummy time, 1 hour restraint, screens, sleep ranges, reading and storytelling, strong recommendations with very low quality evidence), WHO publication date 2 April 2019; AAP Power of Play quotes and January 2025 reaffirmation; OPSS PSA7 (19 September 2024, over 400 times, no X-ray, surgery, under 5s and households); CPSC 6,300 ED visits 2017 to 2022 and 2023 death of a 10-month-old girl, release dated 21 August 2025; CAPT drowning wording; NHS allergen introduction 1 at a time and anaphylaxis signs, reviewed 22 October 2024; Vanderbilt salt dough claim and date; OPSS button batteries and magnets 4 April 2022 including act fast even with no symptoms and no food, drink or vomiting; Health Canada 2 hours, page dated 29 September 2026; INSPQ cites the Canadian Paediatric Society toilet roll test.",
+  "Pinterest: the +1,070% figure for \"sensory play ideas\" is listed without its own comparison period. The report introduction frames its figures as year over year, so \"on the year before\" is a fair reading, but not stated explicitly next to this number.",
+  "Mumsnet: the Sources link is a general board index, not a thread. Threads on whether baby sensory classes are worth it do exist (for example mumsnet.com/talk/am_i_being_unreasonable/5349921), so consider linking a specific thread.",
+  "\"Light-up toys, musical cards\" is not in the cited OPSS or Health Canada pages (OPSS mentions TV remote controls). It is accurate general knowledge but unsourced.",
+  "Item-by-item review, no change needed: 0 to 6 months rice shaker is acceptable because the adult holds it and it is glued and taped; under a tree gives the shade NHS advises for under 6 months. 6 to 12 months food play (banana, soft pasta, yoghurt) suits age, and allergens are covered by rule 5. Treasure basket scarf is standard practice under supervision, but keep it short. 1 to 2 year large jar lids pass the toilet roll test, but choose lids with smooth edges. Frozen rescue uses a large toy and warm, not hot, water. 3 to 5 year dried pasta sorting matches the article's over 3 rule, provided younger siblings are kept away, as rule 2 says.",
+  "Meta card text \"A wooden spoon beats a pricey kit\" is a mild overclaim. The AAP says inexpensive toys and household objects support play, not that they beat bought kits. Consider \"A wooden spoon can do as much as a pricey kit\". The headline and description are accurate."
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "404.html": {
+  "title": "Page not found | Hoppo",
+  "description": "Page not found on hoppoapp.com."
+ },
+ "index.html": {
+  "title": "Hoppo: one small skill a week, from pregnancy to age 5",
+  "description": "Calm, friendly help for parents. 100 short skills to practise from birth to age 5, 188 milestones with keepsake cards, every pregnancy week and 35 Is this normal? guides. Free.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Free app for parents from pregnancy to age 5: weekly practice skills, milestones with keepsake cards, pregnancy week by week, Is this normal? guides, calendar, sleep, feeding and growth logs.\",\"url\":\"https://hoppoapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
+ },
+ "guides.html": {
+  "title": "35 Is this normal? guides for parents | Hoppo",
+  "description": "Short, checked guides on crying, baby sleep, fever, teething, first foods, tantrums, potty training, pregnancy and more. What is common, what helps and when to get help."
+ },
+ "support.html": {
+  "title": "Support | Hoppo",
+  "description": "Help with the Hoppo app: born early, baby arrived, more than 1 child, shared accounts, photos, reminders and deleting your account."
+ },
+ "privacy.html": {
+  "title": "Privacy Policy | Hoppo",
+  "description": "How Hoppo handles your data: explicit consent for health data, photos that stay on your phone, EU storage, advertising choices and your GDPR rights."
+ },
+ "terms.html": {
+  "title": "Terms and Conditions | Hoppo",
+  "description": "Terms and Conditions for the Hoppo parenting app, including the medical disclaimer and affiliate link policy."
+ },
+ "blog.html": {
+  "title": "The Hoppo blog: honest answers for parents, pregnancy to age 5",
+  "description": "Articles on baby sleep, first-year costs, newborn visitors, formula, sensory play, toddler routines and family life. Sourced, international and free of product links."
+ }
+}

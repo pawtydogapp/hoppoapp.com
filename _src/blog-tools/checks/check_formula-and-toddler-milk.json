@@ -1,0 +1,64 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "<tr><td>Goodnight milk</td><td>Formula sold for bedtime</td><td>NHS: not needed, no evidence of better sleep</td></tr>",
+      "new": "<tr><td>Goodnight milk</td><td>Follow-on milk with added cereal, sold for bedtime</td><td>UNICEF UK: not needed, no independent evidence it helps babies settle</td></tr>",
+      "why": "None of the current NHS formula pages (Types of formula, Formula milk common questions, Making up baby formula, Best Start in Life bottle feeding) mention goodnight milk, so the NHS attribution is unsupported. UNICEF UK Baby Friendly Initiative, A guide to infant formula for parents who are bottle feeding: goodnight milks contain follow-on milk and cereal, 'are not necessary for any baby and there is no independent evidence to support the claim that they help babies settle'. Source added to the list."
+    },
+    {
+      "old": "Opinion 37/2022</a>, 6 December 2022</li>",
+      "new": "Opinion 37/2022</a>, 6 December 2022</li>\n<li><a href=\"https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2016/12/Parents-guide-to-infant-formula.pdf\">UNICEF UK Baby Friendly Initiative: A guide to infant formula for parents who are bottle feeding</a>, 2016</li>",
+      "why": "Adds the source for the corrected goodnight milk row."
+    },
+    {
+      "old": "<li>In 2024, the UK charity First Steps Nutrition Trust found these milks were the top source of free sugars for 12 to 18-month-olds who drink them, at <b>49.8% of their free sugar intake</b>.</li>",
+      "new": "<li>In 2024, the UK charity First Steps Nutrition Trust found that formula milks, including growing-up and toddler milks, were the top source of free sugars for 12 to 18-month-olds who drink them, at <b>49.8% of their free sugar intake</b>.</li>",
+      "why": "Sustain's report of the First Steps Nutrition Trust findings (20 September 2024) attributes the 49.8% figure to 'Formula including growing up and toddler milks', not to growing-up milks alone."
+    },
+    {
+      "old": "<h2>Toddler milk: half the free sugar for the toddlers who drink it</h2>",
+      "new": "<h2>Toddler milk: more sugar and cost, with no extra benefit</h2>",
+      "why": "Overclaim. The 49.8% figure covers all formula milks combined, and only 12 to 18-month-olds who drink them, so 'half the free sugar' for toddlers in general is not supported (First Steps Nutrition Trust via Sustain, 20 September 2024)."
+    },
+    {
+      "old": "<li>After 12 months, toddler milk is not needed. Most contain more sugar and cost more than cows' milk.</li>",
+      "new": "<li>After 12 months, toddler milk is not needed. Most are high in free sugars and cost more than cows' milk.</li>",
+      "why": "The evidence is about free sugars (14 of 16 products exceed the free sugar limit at 350 ml) and cost, not total sugar compared with cows' milk, which contains natural lactose (First Steps Nutrition Trust via Sustain)."
+    },
+    {
+      "old": "<tr><td>HMOs or GOS (added sugars and fibres modelled on breast milk)</td>",
+      "new": "<tr><td>HMOs or GOS (prebiotic carbohydrates meant to mimic those in breast milk)</td>",
+      "why": "'Added sugars' is misleading in an article that warns about sugar. HMOs (human-identical milk oligosaccharides) and GOS (galacto-oligosaccharides) are prebiotic oligosaccharides, not added sugars in the nutritional sense (BfR Opinion 37/2022)."
+    },
+    {
+      "old": "<li>Pour the water into the bottle first, then add powder with the scoop from that tin, levelled off, exactly as the label says.</li>",
+      "new": "<li>Pour the water into the bottle first, while it is still hot, then add powder with the scoop from that tin, levelled off, exactly as the label says.</li>",
+      "why": "Safety. NHS How to make up baby formula: 'Always put the water in the bottle first, while it is still hot, before adding the powdered formula.' The heat is what kills bacteria in the powder, so this should not be lost after the hand washing step."
+    },
+    {
+      "old": "<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/275875/WHO-NMH-NHD-18.11-eng.pdf\">WHO and UNICEF: Classification of follow-up formulas for children 6 to 36 months as breast-milk substitutes</a>, 2018</li>",
+      "new": "<li><a href=\"https://iris.who.int/handle/10665/275875\">WHO: Information note, clarification on the classification of follow-up formulas for children 6 to 36 months as breastmilk substitutes</a>, 2018</li>",
+      "why": "Old apps.who.int bitstream link now redirects to an iris.who.int page that serves an HTML shell rather than the PDF. The stable IRIS record carries the exact title 'Information note: clarification on the classification of follow-up formulas for children 6-36 months as breastmilk substitutes'."
+    },
+    {
+      "old": "<a href=\"https://www.sustainweb.org/news/sep24-growing-up-milks/\">Sustain: First Steps Nutrition Trust report on growing-up milks</a>",
+      "new": "<a href=\"https://www.sustainweb.org/news/sep24-growing-up-milks/\">Sustain: Government urged to restrict marketing of commercial growing up and toddler milks</a>",
+      "why": "Corrects the source title to the actual page title (20 September 2024 confirmed)."
+    }
+  ],
+  "notes": [
+    "No CHECK comments were present in the file.",
+    "Verified and correct: CMA final report 14 February 2025 (quotes 'often in hospital immediately after birth' and 'actively choose a more expensive product, assuming this means better quality', around £300 and up to £500 savings assuming exclusive formula feeding for 12 months, recommendation to ban claims that cannot be easily checked, similar branding across infant and follow-on formula). 'Just 3 firms account for over 90% of supply' is in the CMA interim press release of 8 November 2024, which is in the list.",
+    "Food Foundation 18 June 2025: £6.99 for 800 g at Aldi (Mamia) and Lidl (Lupilu), dearest £14.00 (Aptamil 1 at Co-op). The Food Foundation itself says 'twice as much'. 'More than twice' is true by 1p, so left unchanged.",
+    "First Steps Nutrition Trust figures (14 of 16 products over the free sugar limit at 350 ml, about £14 a month more than cows' milk) confirmed via Sustain. The First Steps page itself does not repeat the numbers.",
+    "Regulation 2016/127: applied from 22 February 2020, DHA mandatory, nutrition and health claims banned on infant formula (Article 8), infant and follow-on labels must be clearly distinct (Article 6(6)), still directly applicable in Northern Ireland, retained in GB. All confirmed by GOV.UK guidance updated 3 April 2024. For formulas made from protein hydrolysates the regulation only applied from 22 February 2022, a detail the article can omit.",
+    "Preparation steps match NHS (at least 1 litre fresh tap water, never reboiled, cool no more than 30 minutes so at least 70°C, water first, levelled scoop from the pack, cool under cold running water with the lid on, wrist test 'warm or cool, but not hot', discard leftovers, 1 feed at a time, no microwave, no sugar or cereals, bottled water not usually recommended, prep machines must deliver at least 70°C) and WHO (no less than 70°C, discard feeds not consumed within 2 hours).",
+    "Editor may wish to add 1 line: the NHS notes that some anti-reflux formulas are made up at lower temperatures on the manufacturer's instructions, so parents using a prescribed or specialist formula should follow the pack or their health professional. The keybox line 'Make feeds with water at 70°C or above' could otherwise appear to conflict.",
+    "NHS quote 'All infant formulas will meet your baby's nutritional needs, regardless of brand or price' is on the NHS Best Start in Life bottle feeding page (updated 23 December 2025), not the Types of formula page. Both are listed, so no change needed.",
+    "Other confirmed: NHS formula type claims (comfort, hungrier, goats' milk, anti-reflux, lactose-free, hydrolysed), 'no evidence that switching to a different formula does any good or harm', cows' milk and plant drink guidance, no rice drinks under 5, around 6 wet nappies a day, 999 allergy red flags. AAP 20 October 2023 quote 'generally unnecessary and nutritionally incomplete' and whole cow milk from 12 months. EFSA 25 October 2013. BfR Opinion 37/2022 of 6 December 2022, no indications of adverse effects. WHO fact sheet dated 4 August 2026. WHO 2007 guidelines page live.",
+    "EUR-Lex links return a bot check page to automated tools (HTTP 202). This is normal and the links work in a browser.",
+    "Tone: supportive of all feeding choices, states the WHO breastfeeding recommendation first, names no formula brands, and treats follow-on and growing-up milks as unnecessary in line with WHO and UNICEF. Consistent with the WHO Code. Internal links to crying, spitting-up and enough-milk guides exist in the site build.",
+    "Headline, description and card in the meta JSON are accurate and need no change."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "Whooping cough from 16 weeks, usually at about 20 weeks.<!-- CHECK: NHS whooping cough in pregnancy page was due for review in March 2026, confirm 16 and 20 weeks are still current -->",
+      "new": "Whooping cough from 16 weeks, usually at about 20 weeks.",
+      "why": "Confirmed on the live NHS page (checked 19 October 2026): 'You usually have the whooping cough vaccine at 20 weeks pregnant, but you can have it from 16 weeks.' The page still shows last reviewed 24 March 2023, so the source date is correct."
+    },
+    {
+      "old": "<h2>The 5 rules most health bodies agree on</h2>",
+      "new": "<h2>The 5 rules, and what health bodies say</h2>",
+      "why": "Overclaim. Only handwashing, staying away when ill and no kisses from anyone with a cold sore are shared by HSE, AAP, NHS and NIJZ. 'No kisses on the face for everyone' is the article's own suggestion (it says 'We suggest'), spreading visits is HSE only, and the article itself says vaccine advice for family differs between countries."
+    },
+    {
+      "old": "This guide gives you the few rules that health bodies actually agree on, the facts behind them,",
+      "new": "This guide gives you 5 simple rules based on health body advice, the facts behind them,",
+      "why": "Same overclaim as the rules heading. Not all 5 rules are agreed by health bodies (see HSE, AAP, NHS pages)."
+    },
+    {
+      "old": "These 3 rules carry most of the protection.",
+      "new": "These 3 everyday rules go a long way.",
+      "why": "Unsupported quantification. No source says these 3 rules give most of the protection, and vaccination in pregnancy is a major protection against whooping cough and RSV (NHS, CDC)."
+    },
+    {
+      "old": "AAP says babies under 6 months have the highest rates of hospital care and death from flu,",
+      "new": "AAP says that, among children, babies under 6 months have the highest rates of hospital care and death from flu,",
+      "why": "AAP HealthyChildren.org (updated 1 May 2026) makes this statement in the context of children ('Kids younger than age 2 years are at highest risk. Infants younger than age 6 months have the highest rates of hospitalization and death'). Across all ages, older adults have higher flu death rates."
+    },
+    {
+      "old": "RSV at 32 to 36 weeks, September to January.",
+      "new": "RSV at 32 to 36 weeks, September to January in most of the US.",
+      "why": "CDC (reviewed 18 August 2025) says 'during September through January in most of the U.S.' Seasonal timing differs elsewhere."
+    },
+    {
+      "old": "Ring your GP, midwife or health visitor the same day for advice.",
+      "new": "Ring your GP, midwife or health visitor the same day for advice. If your baby has a fever, a blister-like rash or seems unwell, get urgent advice straight away, using the signs at the end of this guide.",
+      "why": "Safety. AAP says a blister-like rash or fever in a newborn could be a dangerous neonatal herpes infection, and the NHS says any baby under 3 months with a temperature of 38C or higher needs urgent advice. Without this line a parent could wait until a routine call."
+    }
+  ],
+  "notes": [
+    "Meta file description says 'the 5 visitor rules health bodies agree on'. This is the same overclaim as the rules heading. Suggest: 'Cold sores, coughs and kisses: 5 visitor rules based on health body advice, the vaccines that help, and kind words for grandparents. Plus a message to send.' The headline itself ('the 5 rules that matter') is acceptable.",
+    "The Mumsnet thread (107 replies, September 2026) and the European ask-the-doctor forum (about 88 posts since 2023) could not be verified. The Sources list links only to the general Mumsnet Childbirth board and does not list the forum at all. Link the specific thread and forum, or drop the exact numbers.",
+    "All other claims verified against the live pages: WHO 10 in 100,000 births; NHS and HSE cold sore wording including 'even fatal' and covering sores before breastfeeding; AAP HSV dangerous under 6 months and signs 2 to 12 days after exposure; AAP about a third of infants with whooping cough hospitalised; CDC RSV leading cause of infant hospitalisation; NHS RSV from 28 weeks in every pregnancy; AAP cocoon advice (Tdap at least 2 weeks before visiting, return only once well); Australian Handbook 20 to 32 weeks and household contacts of infants under 6 months if last dose over 10 years ago; NHS fever under 3 months 38C call 111; AAP 100.4F call right away; NIJZ guide 'Pri dojenckih temperatura ni nujno povisana, tudi ce so hudo bolni' and 'premalo pije, je pretirano zaspan ... ne odlasajte z obiskom zdravnika'; 'pauses in breathing' and 'turning blue' come from the NIJZ zdaj.net article of 15 October 2026.",
+    "All source links are live and titles and dates match. Minor: AAP flu page title is 'Protecting Babies and Young Children From Flu: What Parents Need to Know' and the HSV page is 'Cold Sores in Children: About the Herpes Simplex Virus'. The shortened link text is acceptable.",
+    "NHS caesarean page says 'you will not be able to drive for a few weeks' and that driving and similar activities 'may not be for 6 weeks or so'. The article wording is fair.",
+    "Balance, optional: the NIJZ zdaj.net article says Slovenia offers the maternal RSV vaccine between weeks 24 and 36, and from October 2026 free long-acting RSV antibodies for babies under 6 months whose mothers were not vaccinated in time. Since Hoppo targets Slovenia, an NIJZ row in the vaccine table would help local readers.",
+    "In the CDC row the infant RSV antibody sits under the 'For close family' column. It is protection for the baby, not for family. Consider moving it or relabelling, editorial choice."
+  ]
+}

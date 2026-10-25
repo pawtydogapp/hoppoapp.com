@@ -1,0 +1,124 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "<h2>WHO says 14 to 17 hours, the NHS says 18: the official ranges side by side</h2>",
+      "new": "<h2>WHO says 14 to 17 hours, the NHS says around 18: the official ranges side by side</h2>",
+      "why": "The NHS page says newborn total sleep 'varies, but can be around 18 hours'. It is not a fixed figure (NHS Helping your baby to sleep, reviewed 28 January 2025)."
+    },
+    {
+      "old": "The NHS figures sit at or above the top of the other 2.",
+      "new": "The NHS figures sit towards the top of the other 2, and above WHO for newborns.",
+      "why": "Not accurate for every row. NHS 6 to 12 months (around 15 hours) and 3 to 5 years (about 12 hours) sit inside the WHO and AASM ranges (12 to 16, 10 to 13), not at or above the top. Only newborns (18 vs 17) and the 1-year figure (up to 15 vs 14) go above."
+    },
+    {
+      "old": "The NHS says some children aged 3 to 5 still need a nap.",
+      "new": "The NHS says some young children still need a nap.",
+      "why": "The NHS page says 'Some young children will still need a nap during the day'. It does not tie this to ages 3 to 5."
+    },
+    {
+      "old": "<h2>The last nap can disappear anywhere from before 3 to after 4</h2>",
+      "new": "<h2>The last nap can disappear anywhere from before 3 to around 4</h2>",
+      "why": "Overclaim. The only source (Mumsnet thread 'Dropping the nap', June 2019) has children dropping it at about 2.5, 3.5 and 4. Nothing supports 'after 4'. The body text already says 'before 3 to age 4'."
+    },
+    {
+      "old": "Oster argues that disruptions can last longer when parents change the whole routine in response.",
+      "new": "Oster argues that disruptions can last longer when parents change how they respond at night, because babies form habits quickly.",
+      "why": "ParentData says that if a perceived regression changes how often or how you respond at night, 'that habit may persist'. It does not talk about changing the whole routine."
+    },
+    {
+      "old": "both groups fell asleep in about 5 to 10 minutes instead of 20, and woke less. Stress hormone levels stayed normal, and attachment at 12 months showed no harm.",
+      "new": "both groups fell asleep in about 5 to 10 minutes instead of 20, and the graduated extinction group also woke less often. Stress hormone levels stayed normal, and attachment checked 12 months later showed no harm.",
+      "why": "The Gradisar 2016 abstract (Pediatrics, doi 10.1542/peds.2015-1486) says both methods cut time to fall asleep, but only graduated extinction reduced night awakenings. 'At 12 months' means 12 months after the intervention. The babies were 6 to 16 months old at the start, so 'at 12 months' read as an age would be wrong."
+    },
+    {
+      "old": "<div class=\"keybox\"><h2>Safe sleep, every sleep, at every age</h2>",
+      "new": "<div class=\"keybox\"><h2>Safe sleep for babies, every sleep</h2>",
+      "why": "This is an article covering birth to 5. Rules such as no pillows or duvets and back to sleep are infant safe sleep (SIDS) advice for the 1st year (NHS SIDS page, Lullaby Trust). 'At every age' tells parents of 3 to 5 year olds that pillows and duvets are unsafe, which is not official advice."
+    },
+    {
+      "old": "No pillows, duvets, bumpers or toys.</li>",
+      "new": "No pillows, duvets, bumpers, loose blankets, soft toys, or pods and nests that hold your baby in place.</li>",
+      "why": "Incomplete against the NHS list: 'do not use pillows, duvets, cot bumpers, loose blankets, soft toys or anything to keep your baby in place' (NHS SIDS page, reviewed 25 November 2025). Leaving out loose blankets matters for safety."
+    },
+    {
+      "old": "<li>No weighted swaddles, sleeping bags or blankets. The AAP says they are not safe.</li>",
+      "new": "<li>No weighted swaddles, sleeping bags or other weighted products. The AAP says weighted products on or near a baby are not safe.</li>",
+      "why": "The AAP wording is 'Weighted swaddles, weighted clothing or weighted objects on or near the baby are not safe and not recommended' (HealthyChildren.org, 21 June 2022). 'Weighted blankets' alone could imply that ordinary loose blankets are fine, which they are not."
+    },
+    {
+      "old": "9 in 10 had co-slept, but only 9% had planned it.",
+      "new": "9 in 10 co-slept with their baby, but only 9% of them had planned to before the birth.",
+      "why": "Lullaby Trust (13 March 2023): 'only 9% of parents who currently co-sleep with their baby had decided to do so before their baby was born'. The 9% is a share of the co-sleepers, and refers to planning before the birth."
+    },
+    {
+      "old": "never co-sleeping if anyone in the bed has been drinking alcohol, smokes or has taken drowsy-making medicine, or if your baby was born before 37 weeks or weighed under 2.5 kg.",
+      "new": "never co-sleeping if anyone in the bed has been drinking alcohol, smokes, or has taken recreational drugs or medicine that makes them drowsy, or if your baby was born before 37 weeks or weighed under 2.5 kg at birth.",
+      "why": "Safety gap: recreational drugs are missing. The NHS SIDS page (reviewed 25 November 2025) says not to share a bed if you or your partner smoke, have had 2 or more units of alcohol, have taken recreational drugs or have taken medicine that makes you drowsy, or if the baby was premature (before 37 weeks) or had a low birthweight (less than 2.5 kg). The Lullaby Trust gives the same list."
+    },
+    {
+      "old": "NHS Healthier Together advises seeing your GP about possible sleep apnoea.</li>",
+      "new": "NHS Healthier Together advises seeing your GP about possible sleep apnoea.</li>\n<li>Your child has difficulty breathing, or has blue, grey, pale or blotchy skin, lips or tongue. The NHS says to call 999 or go to A&E.</li>",
+      "why": "The warning box had no emergency red flag, only routine GP advice. Breathing pauses are the top item, so parents need the NHS emergency signs: 'is breathing very fast or has difficulty breathing' and 'has blue, grey, pale or blotchy (mottled) skin, lips or tongue', call 999 or go to A&E (NHS When to get urgent medical help for babies and children under 5, reviewed 6 August 2026)."
+    },
+    {
+      "old": "The NHS advises speaking to your GP, midwife or health visitor, even with only some of the signs.",
+      "new": "The NHS advises speaking to your GP, midwife or health visitor, even with only some of the signs. If you feel you cannot keep yourself or your baby safe, call 999 or go to A&E now.",
+      "why": "Missing urgent red flag. The NHS postnatal depression page lists thoughts of harming yourself or your baby as a symptom and links to urgent help. NHS Where to get urgent help for mental health: 'Call 999 or go to A&E now if ... you do not feel you can keep yourself or someone else safe'."
+    },
+    {
+      "old": "<li><a href=\"https://www.nhs.uk/mental-health/conditions/post-natal-depression/overview/\">NHS: Postnatal depression</a>, reviewed 18 March 2026</li>",
+      "new": "<li><a href=\"https://www.nhs.uk/mental-health/conditions/post-natal-depression/overview/\">NHS: Postnatal depression</a>, reviewed 18 March 2026</li>\n<li><a href=\"https://www.nhs.uk/baby/health/when-to-get-urgent-medical-help-for-babies-and-children-under-5/\">NHS: When to get urgent medical help for babies and children under 5</a>, reviewed 6 August 2026</li>\n<li><a href=\"https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/\">NHS: Where to get urgent help for mental health</a>, reviewed 26 April 2023</li>",
+      "why": "Sources for the 2 new emergency lines in the warning box. Both links checked and live."
+    },
+    {
+      "old": "Sleep Review: AASM releases first official pediatric sleep duration recommendation (Paruthi et al. 2016)</a>",
+      "new": "Sleep Review: AASM releases its first official pediatric sleep duration recommendation (Paruthi et al. 2016)</a>",
+      "why": "Actual title: 'AASM Releases Its First Official Pediatric Sleep Duration Recommendation', 15 June 2016."
+    },
+    {
+      "old": "Euronews: Infant study finds most babies do not sleep through night (Pennestri et al. 2018, Pediatrics)</a>",
+      "new": "Euronews: Most babies do not sleep through the night, new study finds (Pennestri et al. 2018, Pediatrics)</a>",
+      "why": "Wrong title. Actual: 'Most babies don't sleep through the night, new study finds' (13 November 2018). Contraction expanded for house style."
+    },
+    {
+      "old": "Romper: Are wake windows evidence based?</a>, 10 April 2024",
+      "new": "Romper: New moms live and die by wake windows, but there is no proof they work</a>, 10 April 2024",
+      "why": "Wrong title. Actual: 'New Moms Live & Die By Wake Windows, But There's No Proof They Work', Katie McPherson, 10 April 2024. Contraction expanded for house style."
+    },
+    {
+      "old": "HealthDay: No long-term effects seen for letting infants cry before sleep (Price et al. 2012, Pediatrics)</a></li>",
+      "new": "HealthDay: No long-term effects seen for letting infants cry before sleep (Price et al. 2012, Pediatrics)</a>, 10 September 2012</li>",
+      "why": "Added the date from the page."
+    },
+    {
+      "old": "Nursery World: Controlled crying sleep method is no stress, study finds (Gradisar et al. 2016, Pediatrics)</a>",
+      "new": "Nursery World: Study: Controlled baby crying sleep method is no stress (Gradisar et al. 2016, Pediatrics)</a>, 26 May 2016",
+      "why": "Wrong title. Actual: \"Study: Controlled baby crying sleep method is 'no stress'\", 26 May 2016."
+    },
+    {
+      "old": "Lullaby Trust: 9 in 10 parents co-sleep but less than half know how to reduce the risk of SIDS</a>",
+      "new": "Lullaby Trust: New survey shows 9 in 10 parents co-sleep but less than half know how to reduce the risk of SIDS</a>",
+      "why": "Actual title starts 'New survey shows'. Date 13 March 2023 is correct."
+    },
+    {
+      "old": "AAP HealthyChildren.org: Safe sleep, back is best</a>",
+      "new": "AAP HealthyChildren.org: Safe sleep, back is best, avoid soft bedding, inclined surfaces and bed sharing</a>",
+      "why": "Full title: 'Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing', 21 June 2022."
+    }
+  ],
+  "notes": [
+    "No CHECK comments were in the file.",
+    "Verified and correct: WHO 2019 ranges and the 'may include a nap' quote, AASM 2016 ranges with no range under 4 months and AAP endorsement, all NHS sleep figures, Pennestri 2018 percentages (38/57 at 6 months, 28/43 at 12 months), development and maternal mood findings, breastfeeding finding, 'tense' mothers line (Euronews says 'tense and depressed'), ParentData points and the 'poorly branded term' quote, Sleep Foundation 'Not all babies have a 4-month sleep regression', Exploding Topics +3700%, Romper Canapari quotes, EAT trial 1,303 babies, 16.6 minutes, 2 to 1.74 wakings, peak at 6 months, FSA reaction, NHS readiness signs and night waking, Price 2012 (326 babies, 1 to 3 nurse sessions at 8 to 10 months, no differences on any outcome), Lullaby Trust 3,400+ survey and 'up to 50 times' sofa risk, AAP 'cannot support bed-sharing under any circumstances' and room sharing for at least 6 months, Healthier Together OSA advice, NHS postnatal depression advice.",
+    "Price 2012: children were about 6 at follow-up (5 years after the intervention). 'Age 5 to 6' is acceptable but 'about age 6' would be more precise. Left unchanged.",
+    "Exploding Topics does not state the period for the +3700% figure (the page shows a 10-year view). The figure will change over time. 'In recent years' is fair but the number is not stable.",
+    "The EAT study was an allergy prevention trial and sleep was a secondary outcome. Consider saying so, but this is not wrong as written.",
+    "Headline 'why sleeping through means 6 hours' is slightly strong. Definitions in research vary (5, 6 or 8 hours). The body says 'usually 6, sometimes 8', which is fair. Acceptable.",
+    "kinder-verstehen.de PDF is by Dr Herbert Renz-Polster. Its own title is a commentary on the German AWMF guideline that discusses Price et al. 2012 at length. The list title is a fair description but not the document's real title. It does argue that no evidence of harm is not proof of no harm.",
+    "University of Melbourne link sits behind bot protection and could not be fully loaded, but it shows in search results with the correct title. HealthDay and the Mental Elf confirm the study details.",
+    "Mumsnet thread's real title is 'Dropping the nap!' plus an emoji, started 17 June 2019. Left as is for house style. Using a single forum thread as the basis for a section heading is weak evidence. The article is open about that in the body.",
+    "Cornwall Council page has no date. Its 6 Lullaby Trust points match the article.",
+    "NHS urgent mental health page was last reviewed 26 April 2023 and its next review date has passed. It is still live and the advice is standard.",
+    "The bed-sharing paragraph fairly presents the UK harm-reduction view and the AAP position. Balance is fine."
+  ]
+}

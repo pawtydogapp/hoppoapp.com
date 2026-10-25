@@ -1,0 +1,80 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "<tr><td>Crawling on hands and knees</td><td>5.2 to 13.5 months</td></tr>",
+      "new": "<tr><td>Crawling on hands and knees</td><td>5.2 to 13.5 months</td></tr>\n<tr><td>Walking with help</td><td>5.9 to 13.7 months</td></tr>",
+      "why": "The text says WHO published windows for 6 milestones but the table showed only 5. The missing one is walking with assistance, 5.9 to 13.7 months (WHO Multicentre Growth Reference Study Group, Acta Paediatrica 2006 abstract. The WHO web table rounds the lower bound to 6.0)."
+    },
+    {
+      "old": "Walking alone has the widest WHO window, from 8.2 to 17.6 months.",
+      "new": "Walking alone has the latest WHO window, from 8.2 to 17.6 months.",
+      "why": "Not the widest. Walking alone spans 9.4 months (8.2 to 17.6), standing alone spans 10.0 months (6.9 to 16.9) in the WHO Motor Development Study."
+    },
+    {
+      "old": "<h2>1 to 2 years: first steps can come anywhere from 8 to 18 months</h2>",
+      "new": "<h2>1 to 2 years: most first steps come between 8 and 18 months</h2>",
+      "why": "Overclaim. The WHO window covers 98 in 100 children (1st to 99th percentile), and healthy children in the Zurich study walked as late as 20 months. 'Anywhere from' implies a hard limit."
+    },
+    {
+      "old": "<li>Milestones are windows. Walking alone ranges from 8.2 to 17.6 months in WHO data.</li>",
+      "new": "<li>Milestones are windows. Walking alone ranges from 8.2 to 17.6 months for 98 in 100 children in WHO data.</li>",
+      "why": "The window is the 1st to 99th percentile, not the full range (WHO Motor Development Study 2006). Keeps the summary consistent with the body."
+    },
+    {
+      "old": "Crawling is not on the CDC checklists at any age. There are no age-based norms for it, and 4.3% of babies",
+      "new": "Crawling is not on the CDC checklists at any age. The CDC dropped it largely for lack of data, and 4.3% of babies",
+      "why": "'No age-based norms' contradicts the WHO crawling window (5.2 to 13.5 months) in the table above. Geil (The Conversation, via Healthed, 29 September 2023) says the CDC reasoning centred on data, and that there are no normative charts like those for walking, which is a narrower claim."
+    },
+    {
+      "old": "ask \"what\" and \"where\" questions",
+      "new": "ask questions such as \"what\" or \"where\"",
+      "why": "The CDC 3-year item is 'Asks who, what, where, or why questions'. Any 1 type counts, the original implied both were needed."
+    },
+    {
+      "old": "A few days later, the child joined 2 words out of the blue.",
+      "new": "Later that same day, the child joined 2 words out of the blue.",
+      "why": "In the cited Mumsnet thread the original post was at 14:03 on 9 March 2021 and the update that the child put 2 words together came at 19:16 the same day."
+    },
+    {
+      "old": "walking only on tiptoes, or seeming very stiff or very floppy.",
+      "new": "walking only on tiptoes, walking that is still very unsteady 6 months after it starts, repetitive jerking, twitching or writhing movements, or seeming very stiff or very floppy.",
+      "why": "Red flag list was incomplete. NHS Healthier Together (Hampshire and Isle of Wight) Movement page also lists 'repetitive jerking, twitching or writhing movements' and walking that 'remains very unsteady within 6 months of learning to walk'. Jerking movements are the most safety-relevant omission."
+    },
+    {
+      "old": "Any concern about how your child communicates or connects with people is worth raising.",
+      "new": "The NHS lists signs such as not responding to their name, using eye contact less often and using fewer facial expressions and gestures as possible signs of autism to raise with a GP. Any concern about how your child communicates or connects with people is worth raising.",
+      "why": "The social and communication bullet had no concrete signs, so a parent could be falsely reassured. Signs and the 'speak to a GP' advice are from NHS: Signs of autism in children."
+    },
+    {
+      "old": "<li><a href=\"https://hiow.healthiertogether.nhs.uk/child-under-12-years/movement\">NHS Healthier Together (Hampshire and Isle of Wight): Movement</a></li>",
+      "new": "<li><a href=\"https://hiow.healthiertogether.nhs.uk/child-under-12-years/movement\">NHS Healthier Together (Hampshire and Isle of Wight): Movement</a></li>\n<li><a href=\"https://www.nhs.uk/conditions/autism/signs-in-children/\">NHS: Signs of autism in children</a></li>",
+      "why": "Source for the added communication red flags."
+    },
+    {
+      "old": "<a href=\"https://sciencedaily.com/releases/2013/03/130328075702.htm\">ScienceDaily: Early walkers are neither more intelligent nor better coordinated (Jenni and colleagues, Acta Paediatrica 2013)</a>",
+      "new": "<a href=\"https://www.sciencedaily.com/releases/2013/03/130328075702.htm\">ScienceDaily: Child development, early walker or late walker of little consequence (Jenni and colleagues, Acta Paediatrica 2013)</a>",
+      "why": "Wrong title. The ScienceDaily page title is 'Child development: Early walker or late walker of little consequence' (28 March 2013). URL set to the canonical www host."
+    },
+    {
+      "old": "NIJZ: Pričakujemo dojenčka (Expecting a baby), 3rd reprint",
+      "new": "NIJZ: Pričakujemo dojenčka (Expecting a baby), 3rd revised and expanded edition",
+      "why": "The PDF imprint reads '3. prenovljena in dopolnjena elektronska izdaja' (Ljubljana, 2026, ISBN 978-961-7284-01-0), not a reprint."
+    },
+    {
+      "old": "and to talk to the child's doctor if they are worried.",
+      "new": "and to talk to the child's paediatrician if they are worried.",
+      "why": "NIJZ guide (p. section on infant care): 'Ne primerjate ga z drugimi, naj se razvija v svojem ritmu. Če vas skrbi otrokov razvoj, se posvetujete z njegovim pediatrom.' The 'whole child' principle is also confirmed in the Gibalni razvoj section."
+    }
+  ],
+  "notes": [
+    "Meta file (baby-milestones-month-by-month.json) not in the HTML, so not in fixes: change description to 'Most healthy babies walk alone between 8 and 18 months. Real milestone ranges from birth to 5, the 3-in-4 rule, crawling myths and when to ask.' and card to 'Most healthy babies walk between 8 and 18 months. Real milestone ranges from birth to 5, and when to ask.' Reason: the WHO window covers 98 in 100 children and healthy Zurich children walked as late as 20 months, so 'healthy babies walk anywhere from 8 to 18 months' implies a hard limit. The headline itself is fine.",
+    "Verified with no change: WHO windows, 816 children, 5 countries, 1st to 99th percentile, 4.3% never crawled (WHO MGRS Group, Acta Paediatrica 2006). Mott Poll (released 28 June 2021, fielded January 2021, 779 parents of children 0 to 5): 38% sibling, 34% friend's children, 58% vs 27% worried vs not worried. Zurich: 222 children, 8.5 to 20 months, mean 12 months. CDC 2022 at 75% or more, first revision since 2004, previous lists about the 50th percentile (HealthDay, PolitiFact), 'told to wait' finding (Zubler and colleagues, Pediatrics 2022). All CDC items quoted at 2, 4, 6, 9, 12, 15, 18, 24, 30 months and 3, 4, 5 years. AAP walker claims and 15 August 2022 date. NHS reviews, sentence age, bilingual and self-referral text. Healthier Together bottom shuffling and movement flags. NIJZ whole-child principle.",
+    "Loss of skills is correctly attributed to the CDC ('has lost skills he or she once had ... act early'). The Healthier Together page does not itself list general loss of skills, only walking that suddenly becomes unsteady, and the article attributes it correctly.",
+    "Consider adding a line that any worry about hearing is worth raising with a GP or health visitor. Not added because I did not find a single NHS page wording that fits cleanly.",
+    "The jerking or twitching flag can indicate seizures such as infantile spasms, which need same-day medical review. The Healthier Together page only says to speak to a health visitor or GP. The editor may want a separate, sourced urgent-care line.",
+    "NHS self-referral to speech and language therapy: the NHS page says 'you can refer your child to a speech and language therapist yourself', but availability varies by area and nation. 'In the UK' is slightly broad, 'In many areas' would be safer.",
+    "Mumsnet links return 403 to automated fetches (Cloudflare) but the threads exist and match the article's descriptions.",
+    "No CHECK comments were present in the file."
+  ]
+}

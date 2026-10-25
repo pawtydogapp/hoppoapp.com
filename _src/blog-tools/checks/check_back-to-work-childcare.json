@@ -1,0 +1,84 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "Higher-quality care was linked to somewhat better language, reading and maths, and at age 15 to higher achievement.",
+      "new": "Higher-quality care was linked to somewhat better language, reading and maths, and at age 15 to higher achievement and fewer acting-out behaviours.",
+      "why": "Balance: the UC Irvine report on the age 15 follow-up says teens who had higher-quality care also reported fewer acting-out behaviours. The article only gave the negative behaviour finding at 15."
+    },
+    {
+      "old": "and at 15 slightly more impulsiveness.</td>",
+      "new": "and at 15 more impulsiveness and risk-taking.</td>",
+      "why": "UC Irvine (14 May 2010) reports a greater tendency toward impulsiveness and risk-taking. It does not call this slight, and risk-taking was omitted."
+    },
+    {
+      "old": "Part-time did as well as full-time.</td>",
+      "new": "Part-time did as well as full-time at school entry.</td>",
+      "why": "DfE research brief RB455 (June 2015) reports the part-time versus full-time finding at school entry (age 5), not at 16."
+    },
+    {
+      "old": "Siblings who spent more time in childcare behaved the same as siblings who spent less.",
+      "new": "Siblings who spent more time in childcare showed no more behaviour problems than siblings who spent less.",
+      "why": "Boston College (31 January 2013) says the team found no statistical evidence that more hours led to more behaviour problems among siblings. 'Behaved the same' overstates a null finding."
+    },
+    {
+      "old": "<td>This is the main study that points the other way.</td>",
+      "new": "<td>Little effect on test scores. The rise in crime was mainly in boys. This is the main study that points the other way.</td>",
+      "why": "Baker, Gruber and Milligan (AEJ: Economic Policy 2019, SSRN abstract) report little impact on cognitive test scores and crime effects concentrated in boys. Adds the 'did not find' content the column promises."
+    },
+    {
+      "old": "The review found slight increases in acting-out behaviour when better-off Mums worked full time in the first year.",
+      "new": "The review found that when Mums in better-off, 2-parent families worked full time in the first year, children later showed slightly more acting-out behaviour and slightly lower achievement.",
+      "why": "APA release (14 October 2010): children in middle- and upper-class 2-parent families were slightly more likely to see later decreases in achievement, alongside slight increases in externalising behaviour, with full-time work in the first year. The achievement finding was missing."
+    },
+    {
+      "old": "Try not to sneak out, as it can make children more worried next time.",
+      "new": "Never sneak out without saying goodbye, as it can undermine your child's trust (California Childcare Health Program).",
+      "why": "The AAP drop-off page does not cover sneaking out. The UCSF California Childcare Health Program 'Separation Anxiety' note says never sneak out, as it undermines the child's trust. Source added to the list."
+    },
+    {
+      "old": "Crying at drop-off is common in the first weeks and often stops soon after you leave.",
+      "new": "Crying at drop-off is common in the first weeks.",
+      "why": "No cited source (AAP or CCHP) says crying usually stops soon after the parent leaves. Removed the unsupported reassurance."
+    },
+    {
+      "old": "<td>Up to 8 days at 4°C or lower. Within 3 days if your fridge is warmer.</td>",
+      "new": "<td>Up to 8 days at 4°C or lower (the NHS back to work page says 5 days). Within 3 days if your fridge is warmer.</td>",
+      "why": "NHS 'Expressing and storing breast milk' (reviewed 18 August 2026) says 8 days, but the NHS 'Breastfeeding and going back to work' page, also cited, says up to 5 days at 4°C or lower."
+    },
+    {
+      "old": "<td>Up to 24 hours for chilled milk</td><td>Not given</td>",
+      "new": "<td>Up to 24 hours for chilled milk</td><td>Up to 24 hours</td>",
+      "why": "CDC (updated 14 August 2026): breast milk can be stored in an insulated cooler with frozen ice packs for up to 24 hours. 'Not given' was wrong."
+    },
+    {
+      "old": "<p>The 2 bodies differ on fridge time. The shorter US time suits both.</p>",
+      "new": "<p>The 2 bodies differ on fridge time, and even 2 NHS pages give different limits. As a safe default, use the shortest times: 4 hours at room temperature, 4 days in the fridge (3 days if it is warmer than 4°C), 24 hours in a cool bag and 6 months in the freezer. Once your baby has drunk from a bottle, use it within 1 hour and throw away the rest. Use thawed milk straight away and never refreeze it (NHS, CDC).</p>",
+      "why": "Brief requires the shortest safe time as the default rule. Shortest: room temperature 4 hours (CDC, NHS gives none), fridge 4 days (CDC) or 3 days if warmer than 4°C (NHS), cool bag 24 hours (both), freezer 6 months (NHS, CDC best). Leftovers after a feed: NHS 1 hour versus CDC 2 hours. Thawed: NHS 'use it straight away' versus CDC 24 hours in fridge. Both say do not refreeze. Carers need these rules too."
+    },
+    {
+      "old": "This is urgent (NHS, AAP).",
+      "new": "This is urgent. Call your doctor straight away, or 111 in the UK (NHS, AAP).",
+      "why": "NHS 'High temperature (fever) in children' says to call 111 for a baby under 3 months with 38°C or higher. The article said urgent but not what to do."
+    },
+    {
+      "old": "has blue or grey skin or lips, or is floppy and hard to wake (NHS).",
+      "new": "has blue, grey or blotchy skin, lips or tongue, is floppy and hard to wake, has a fit, or has a rash that does not fade when you press a glass against it (NHS).",
+      "why": "NHS fever page 999 list includes blotchy skin and blue or grey tongue, a fit, and a rash that does not fade under a glass. Added the key missing red flags."
+    },
+    {
+      "old": "<li><a href=\"https://healthychildren.org/English/family-life/work-and-child-care/Pages/making-baby-drop-off-at-child-care-easier.aspx\">AAP, HealthyChildren.org: Making baby drop-off at child care easier</a>, updated 7 March 2022</li>",
+      "new": "<li><a href=\"https://healthychildren.org/English/family-life/work-and-child-care/Pages/making-baby-drop-off-at-child-care-easier.aspx\">AAP, HealthyChildren.org: Making baby drop-off at child care easier</a>, updated 7 March 2022</li>\n<li><a href=\"https://cchp.ucsf.edu/sites/g/files/tkssra18506/files/SeparationEN_new.pdf\">UCSF California Childcare Health Program: Separation anxiety (Health and Safety Notes)</a></li>",
+      "why": "Source for the new 'never sneak out' line."
+    }
+  ],
+  "notes": [
+    "Headline 'over 10,000 children' is true for the studies cited taken together, and conservative: the Norwegian sibling study alone had over 75,000 children, the 7-study analysis had 10,105, NICHD over 1,300, EPPSE about 2,800 to 3,000, plus whole Norwegian and Quebec cohorts. Kept. It should not be read as each study having 10,000 children. Note the 7-study pooled data may overlap with NICHD and Norwegian samples, so do not add the numbers up in copy.",
+    "All 24 source links resolve and support the claims after the fixes. Dates checked: NICHD 3 October 2006, UCI 14 May 2010, RB455 June 2015, BC 31 January 2013, SRCD 17 November 2022, APA 14 October 2010, OECD 28 June 2021, WHO 4 August 2026, ILO 3 August 2012, NHS back to work reviewed 4 June 2024, NHS expressing reviewed 18 August 2026, CDC 14 August 2026, AAP pages 7 March 2022 and 27 January 2025. UCL says 'more than 3,000 children' while RB455 says about 2,800 attended pre-school. 2,800 is fine.",
+    "Mumsnet: the board has 643 pages. 'Feeling guilty about my baby being a childcare kid' (61 replies) and 'Nursery settling not going well' (62 replies) were last updated 11 September and 12 October 2026. The listing shows last updated, not start date, so 'wrote in September' is likely but not certain.",
+    "Safe sleep: 'no blankets' follows AAP and US childcare policy. NHS and Lullaby Trust allow a baby sleeping bag or a firmly tucked blanket no higher than the shoulders, so the advice is stricter than UK guidance but safe. Left as is.",
+    "Live Science defines large-group daycare in the Quebec infections study as centres with at least 100 children. The article's 'large-group' wording is fine.",
+    "Balance is now fair in both directions: positives (EPPSE, Norway, 7 studies, APA for low-income families) and negatives (NICHD hours, APA first-year full-time, Quebec) are both given with their limits.",
+    "No inline CHECK comments were present in the HTML."
+  ]
+}

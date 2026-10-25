@@ -1,0 +1,61 @@
+{
+  "verdict": "publish after fixes",
+  "fixes": [
+    {
+      "old": "Advice on screens differs a little between countries. The American Academy of Pediatrics (AAP) makes an exception for video calls under 18 months, and allows some high-quality programmes watched together from 18 months.",
+      "new": "Advice on screens differs between countries. The American Academy of Pediatrics (AAP) used to make an exception for video calls under 18 months and allow some high-quality programmes watched together from 18 months. In January 2026 it replaced that advice with a policy that moves away from fixed time limits and focuses on the quality of what children watch and on watching together.",
+      "why": "Outdated. The AAP news release of 20 January 2026 says the new policy statement Digital Ecosystems, Children, and Adolescents (Pediatrics, February 2026) and its technical report 'replace prior AAP guidance on communications and media'. The lead author confirmed on the Reach Out and Read podcast that the old age and hour limits are no longer in the guidance. The 2016 Media and Young Minds advice can no longer be described in the present tense."
+    },
+    {
+      "old": "<li><a href=\"https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/Media-and-Young-Minds\">American Academy of Pediatrics: Media and Young Minds (policy statement)</a>, 2016</li>",
+      "new": "<li><a href=\"https://publications.aap.org/pediatrics/article/138/5/e20162591/60503/Media-and-Young-Minds\">American Academy of Pediatrics: Media and Young Minds (policy statement)</a>, 2016, replaced in 2026</li>\n<li><a href=\"https://www.aap.org/en/news-room/news-releases/aap/2026/american-academy-of-pediatrics-calls-for-creating-a-child-friendly-digital-world/\">American Academy of Pediatrics: American Academy of Pediatrics calls for creating a child-friendly digital world</a>, 20 January 2026</li>",
+      "why": "Adds the primary source for the January 2026 AAP policy that replaced the 2016 statement, and marks the 2016 statement as replaced."
+    },
+    {
+      "old": "<tr><td>6.30 to 7.30am</td><td>Wake up, nappy change, cuddle and milk</td></tr>",
+      "new": "<tr><td>6.00 to 7.00am</td><td>Wake up, nappy change, cuddle and milk</td></tr>",
+      "why": "Sample day 1 had the child asleep at 7.00pm and waking up to 7.30am, a night of up to 12.5 hours. Plunket and the Sydney Children's Hospitals Network both describe 10 to 12 hours of night sleep at this age. Waking at 6.00 to 7.00am gives 11 to 12 hours."
+    },
+    {
+      "old": "<tr><td>1.00 to 2.30pm</td><td>Afternoon nap, 1 to 2 hours</td></tr>",
+      "new": "<tr><td>1.00 to 2.30pm</td><td>Afternoon nap, 1 to 1.5 hours</td></tr>",
+      "why": "The 1.00 to 2.30pm slot only fits 1.5 hours. With a 30 to 60 minute morning nap, '1 to 2 hours' gives up to 3 hours of day sleep, above the 1 to 2.5 hours of naps the Sydney Children's Hospitals Network describes at age 1, and pushes the 24-hour total above the WHO range of 11 to 14 hours."
+    },
+    {
+      "old": "Bedtime may need to come a little earlier for a while.</p>",
+      "new": "Bedtime may need to come a little earlier for a while. Over 24 hours, aim for 11 to 14 hours of sleep in total, as the WHO advises. After a long night, naps are often shorter.</p>",
+      "why": "Even after the fixes above, the upper ends of night sleep and both naps add up to about 14.5 hours. A one-line reminder of the WHO 24-hour total (11 to 14 hours including naps, ages 1 to 2) keeps the sample day within official ranges."
+    },
+    {
+      "old": "surveyed 10,085 mothers of children up to about 5 years old, in 13 countries and regions.",
+      "new": "surveyed 10,085 mothers of children aged 0 to 5, in 13 countries and regions.",
+      "why": "Mindell and others, Sleep 2015;38(5):717-722: 'mothers of 10,085 children (ages 0-5 years)'. 'Up to about 5' understates the age range. 13 countries and regions confirmed."
+    },
+    {
+      "old": "<h2>Searches for routine charts are up 575%. Parents want a rhythm, not a timetable</h2>",
+      "new": "<h2>Pinterest searches for routine charts rose 575%. Parents want a rhythm, not a timetable</h2>",
+      "why": "The 575% figure is from the Pinterest Parenting Trend Report 2026 (24 February 2026) for the single term 'daily routine chart for kids', with no stated period, market or method. The heading should name Pinterest and not imply a current, general search trend."
+    },
+    {
+      "old": "Many parents on Mumsnet describe the last nap vanishing, followed by early waking or tearful bedtimes. A common fix parents share is an earlier bedtime for a few weeks.",
+      "new": "Parents in a Mumsnet thread on dropping the nap describe early waking and tearful bedtimes once the last nap goes. A fix they suggest is an earlier bedtime while the child adjusts.",
+      "why": "The cited source is 1 Mumsnet thread (Dropping the nap, June 2019, 9 replies). 'Many parents' and 'a common fix' overclaim, and the thread suggests an earlier bedtime 'while he adjusts', not 'for a few weeks'."
+    },
+    {
+      "old": "Sick children often need extra sleep and cuddles, and a bit more screen time on a sick day is fine.",
+      "new": "Sick children often need extra sleep and cuddles, and a bit more screen time on a sick day is fine. If your child is very drowsy, hard to wake or you are worried, get medical help straight away.",
+      "why": "Safety. Telling parents that sick children need extra sleep without a red flag could delay help. The NHS lists a child who is floppy, unresponsive or difficult to wake as an emergency."
+    }
+  ],
+  "notes": [
+    "No <!-- CHECK --> comments were present in the article.",
+    "Verified correct: WHO 2019 under-5 figures in the table and short version (11 to 14 hours at 1 and 2, 10 to 13 hours at 3 and 4, at least 180 minutes with at least 60 minutes moderate to vigorous at 3 and 4, no more than 1 hour restrained at a time, no sedentary screen time at 1, no more than 1 hour at 2 to 4, reading and storytelling encouraged, regular sleep and wake-up times). WHO 2020 guidance for ages 5 to 17 (average 60 minutes a day of moderate to vigorous activity, published 25 November 2020).",
+    "Verified correct: Pinterest +575% for 'daily routine chart for kids' and the publication date of 24 February 2026, with no method, market or period stated. Mindell 2015 findings, 13 countries and regions, and Johnson and Johnson sponsorship.",
+    "Verified correct: Plunket (2 naps to 1 between 12 and 18 months, 10 to 12 hours at night), Sydney Children's Hospitals Network (1 to 2.5 hours day sleep at 2, nap reducing and stopping by 3, some preschoolers still nap), CDC routines quotes and change advice, Raising Children Network quotes, poster made with your child, and updated date of 1 October 2024.",
+    "Sample day checks after fixes: day 1 night 11 to 12 hours plus 1.5 to 2.5 hours of naps (within WHO 11 to 14 once the added total line is followed). Day 2 night about 11 to 12 hours plus a 2 hour nap, 13 to 14 hours, within WHO and within the 1 to 2.5 hour SCHN nap range. Day 3 night about 11 to 12 hours plus up to 1 hour of nap, 12 to 13 hours, within WHO 10 to 13.",
+    "The intro line 'Many parents on Mumsnet describe the same days: the shoe battle at the door...' is framing not backed by a cited thread. Consider softening to 'Parents often describe' if the editor wants it fully sourced.",
+    "The screens guide link (/guides/screens.html) may also describe the 2016 AAP limits as current. Worth checking it against the January 2026 AAP policy.",
+    "publications.aap.org and mumsnet.com return 403 to automated requests. The Mumsnet thread was confirmed to exist by fetch. The AAP 2016 article is a stable DOI-backed page (10.1542/peds.2016-2591).",
+    "The 'Hoppo suggests keeping 3 anchors' and 'within about 1 hour' weekend tip are house advice, presented as such. No issue."
+  ]
+}

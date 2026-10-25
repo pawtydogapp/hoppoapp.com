@@ -1,0 +1,112 @@
+{
+ "verdict": "publish after fixes",
+ "fixes": [
+  {
+   "old": "<h1>From 1 child to 2: how to prepare your toddler for a new baby, and the 10 minutes a day that help most</h1>",
+   "new": "<h1>From 1 child to 2: how to prepare your toddler for a new baby, and the 10 minutes a day that can help</h1>",
+   "why": "Overclaim. HSE (reviewed 2 December 2025) only says \"Even 10 minutes of time alone with them is good. This may help\". No source ranks it as what helps most. Same change needed in meta JSON (see notes)."
+  },
+  {
+   "old": "<h2>Does it get easier? The question behind dozens of replies</h2>",
+   "new": "<h2>Does it get easier? A question many parents ask</h2>",
+   "why": "The \"gets easier\" Mumsnet thread has 6 replies, not dozens. The 37 and 63 reply threads are about going to 3 children and a surprise 3rd baby."
+  },
+  {
+   "old": "<p>In October 2026, Mumsnet threads about growing a family drew 37 and 63 replies. Another simply asked whether life with a toddler and a baby ever gets easier.",
+   "new": "<p>In April 2026, a Mumsnet parent of a 6-month-old and a nearly 3-year-old simply asked whether life with a toddler and a baby ever gets easier.",
+   "why": "Mumsnet \"Last hour\" listing (read 19 October 2026): the 63 reply thread is \"Surprise 3rd baby but only 2 bed house\" and the 37 reply thread is about going to 3 children, so they do not fit a 1 to 2 article, and the listing shows no dates. The \"Toddler and baby, please tell me it gets easier?\" thread opened 23 April 2026 by a parent of a 6-month-old and nearly 3-year-old."
+  },
+  {
+   "old": "<li><b>Ask visitors to greet your toddler first</b> (AAP).</li>",
+   "new": "<li><b>Ask visitors to greet your toddler first</b> (Pregnancy, Birth and Baby, an Australian Government service). The AAP also suggests visitors spend time with your older child.</li>",
+   "why": "AAP page does not say \"first\". It says \"Ask family and friends to spend time with your older child when they come to see the new baby.\" Pregnancy, Birth and Baby (reviewed May 2025) says \"Ask friends or relatives who visit to first give your toddler attention, and then look at the new baby.\""
+  },
+  {
+   "old": "You can offer a taste, or offer a special drink instead.",
+   "new": "You can offer a breastfeed if you are comfortable, a taste of breastmilk from a cup, or a special drink instead.",
+   "why": "Raising Children Network lists offering a breastfeed if comfortable, a taste of breastmilk from a cup, or a special drink or snack babies cannot have. The original dropped the first option and left \"a taste\" unclear."
+  },
+  {
+   "old": "<h2>Jealousy is expected, and 10 minutes alone helps more than you think</h2>",
+   "new": "<h2>Jealousy is expected, and even 10 minutes alone can help</h2>",
+   "why": "Overclaim. HSE: \"Even 10 minutes of time alone with them is good. This may help to make them feel secure\"."
+  },
+  {
+   "old": "<li>Call it \"our special time\" and use the baby's naps (Nemours KidsHealth).</li>",
+   "new": "<li>Make it special time just for them, while the baby sleeps (Nemours KidsHealth).</li>",
+   "why": "KidsHealth does not use the phrase \"our special time\". It says \"Spend time together while the baby is sleeping\" and \"Knowing that there's special time just for them may help ease any resentment\"."
+  },
+  {
+   "old": "<li>Praise kindness to the baby, including in front of visitors (HSE).</li>",
+   "new": "<li>Praise your toddler in front of visitors (HSE).</li>",
+   "why": "HSE says \"Praise your older child in front of visitors.\" It does not mention kindness to the baby."
+  },
+  {
+   "old": "<li><b>Do not leave them alone together.</b> Raising Children Network suggests",
+   "new": "<li><b>Do not leave them alone together.</b> Pregnancy, Birth and Baby, an Australian Government health service, says never leave a toddler alone with a baby. A toddler may share food that could choke the baby, or rock the pram until it tips over. Raising Children Network suggests",
+   "why": "The headline safety rule had no source saying it. Pregnancy, Birth and Baby (healthdirect, reviewed May 2025): \"Never leave a toddler alone with a baby. They may be tempted to share their food, which could choke the baby, or rock the pram to stop the crying which may overturn it.\" Raising Children Network only says to let the child touch the baby \"when you're there to supervise\"."
+  },
+  {
+   "old": "The AAP says older children must ask first, and you should teach them how. Sit your toddler",
+   "new": "Pregnancy, Birth and Baby suggests your toddler holds the baby only with your help, for example sitting on your lap. The AAP adds that older children should ask first, and you should teach them how. Or sit your toddler",
+   "why": "The AAP holding advice is in its section for school-aged children (5 and over), not toddlers. Pregnancy, Birth and Baby gives the toddler version: \"Allow your toddler to safely hold their new sibling with your help. You can try to sit your toddler on your lap\"."
+  },
+  {
+   "old": "A children's emergency nurse, writing for the Institute of Health Visiting, sees more choking in younger siblings than in first-borns, often from an older child's small toys.",
+   "new": "A children's emergency nurse, writing for the Institute of Health Visiting, says that in her experience younger siblings seem to have more choking incidents than first-borns, often involving an older child's small toys.",
+   "why": "IHV blog (Lizzie Tinsley, 25 April 2022) is a personal observation: \"I have found that younger siblings rather than first-borns seem to have more choking incidents.\" Not data, so framed as experience."
+  },
+  {
+   "old": "<li><b>Keep the baby's sleep space safe.</b> The Lullaby Trust, a UK safer sleep charity, says not to bring other children or pets into bed if you co-sleep with your baby.",
+   "new": "<li><b>Keep the baby's sleep space safe.</b> The Lullaby Trust, a UK safer sleep charity, says babies should sleep on their back in their own cot or Moses basket, free from toys, blankets and pillows, so teach your toddler not to put toys in it. If you co-sleep, do not bring other children or pets into bed.",
+   "why": "The bullet gave only the co-sleeping rule and skipped the main safe sleep message, which matters most with a toddler who may \"share\" toys or blankets. Lullaby Trust co-sleeping page (updated 3 August 2026): \"The safest place for a baby to sleep is in their own separate sleep space such as a cot or Moses basket, free from toys, blankets and pillows\" and \"sleeping baby on their back\"."
+  },
+  {
+   "old": "<p>Many parents think this during a second pregnancy, then feel guilty for thinking it. The research is kind to you.</p>",
+   "new": "<p>Many parents think this during a second pregnancy, then feel guilty for thinking it. The research is mostly reassuring.</p>",
+   "why": "Balance. The study also found a downside (see next fix), so \"kind to you\" overstates it."
+  },
+  {
+   "old": "Worry in pregnancy did not predict how securely the babies were attached to their mothers at 1 year.</p>",
+   "new": "Worry in pregnancy did not predict how securely the babies were attached to their mothers at 1 year, although mothers who worried more showed less warmth towards their babies in the first 8 months.</p>",
+   "why": "Volling and Tan, Infant Mental Health Journal 44(4):541 to 553 (2023), abstract: MFRA \"predicted less maternal warmth toward the baby at 1, 4, and 8 months postpartum, but did not predict security of the infant-mother attachment at 12 months\". The article reported only the reassuring half. Other figures confirmed: N = 241, followed to 12 months, about 70% did not worry at all (University of Michigan, 14 June 2023), linked to depressive symptoms."
+  },
+  {
+   "old": "<p>Bonding does not have to happen in the first minute. If yours grows over weeks of cuddles, it is still love.",
+   "new": "<p>Bonding does not have to happen in the first minute. Tommy's, the UK pregnancy charity, says some parents bond straight away while others find their love grows slowly over the first few weeks, and both are completely normal.",
+   "why": "Unsourced sentence. Tommy's \"Bonding with your baby\" (reviewed 4 July 2023): \"Some parents bond with their baby immediately, while others find it takes more time.\" \"Others find that their love grows slowly over the first few weeks as they get to know them.\" \"Both are completely normal.\""
+  },
+  {
+   "old": "<li>10 minutes of 1-to-1 time a day eases jealousy.</li>",
+   "new": "<li>Even 10 minutes of 1-to-1 time a day can help with jealousy.</li>",
+   "why": "Overclaim. HSE says 10 minutes \"is good\" and \"may help\". KidsHealth says special time \"may help ease any resentment\"."
+  },
+  {
+   "old": "advises talking to a GP or health visitor as soon as possible.</li>",
+   "new": "advises talking to a GP or health visitor as soon as possible.</li>\n<li>You have thoughts of harming yourself or your baby. The NHS lists this as a symptom of postnatal depression. Get help urgently: in the UK, call 111 and choose the mental health option, or call 999 in an emergency.</li>",
+   "why": "Missing official red flag. NHS Postnatal depression overview lists \"thoughts of suicide, harming yourself or your baby\" and links to urgent help. NHS \"Where to get urgent help for mental health\": \"call 111 and select the mental health option\"."
+  },
+  {
+   "old": "<a href=\"https://www.mathematica.org/publications/will-i-love-my-second-baby-as-much-as-my-first-prevalence-and-psychosocial-correlates-of-maternal\">Volling and others,",
+   "new": "<a href=\"https://www.mathematica.org/publications/will-i-love-my-second-baby-as-much-as-my-first-prevalence-and-psychosocial-correlates-of-maternal\">Volling and Tan,",
+   "why": "The paper has 2 authors: Brenda L. Volling and Lin Tan (PMC10524320)."
+  },
+  {
+   "old": "<li><a href=\"https://www.mumsnet.com/talk/last-hour\">Mumsnet: Last hour discussions</a>, read 18 October 2026</li>\n<li><a href=\"https://www.mumsnet.com/talk/_chat/5520948-toddler-and-baby-please-tell-me-it-gets-easier\">Mumsnet: Toddler and baby thread</a>, date not shown</li>",
+   "new": "<li><a href=\"https://www.pregnancybirthbaby.org.au/children/behaviours-and-emotions/toddler-and-the-new-baby\">Pregnancy, Birth and Baby (Australian Government): Toddler and the new baby</a>, reviewed May 2025</li>\n<li><a href=\"https://www.tommys.org/pregnancy-information/after-birth/bonding-your-baby\">Tommy's: Bonding with your baby</a>, reviewed 4 July 2023</li>\n<li><a href=\"https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/\">NHS: Your baby's first solid foods</a>, reviewed 19 February 2026</li>\n<li><a href=\"https://www.nhs.uk/mental-health/conditions/post-natal-depression/overview/\">NHS: Postnatal depression</a></li>\n<li><a href=\"https://www.mumsnet.com/talk/_chat/5520948-toddler-and-baby-please-tell-me-it-gets-easier\">Mumsnet: Toddler and baby, please tell me it gets easier?</a>, 23 April 2026</li>",
+   "why": "Removed the \"Last hour\" listing: it changes hourly and its threads are about 3rd babies. Added sources for new or previously unsourced claims (supervision, toddler holding, visitors, bonding, solids from around 6 months, PND red flag). Added the thread date (opening post 23/04/2026)."
+  }
+ ],
+ "notes": [
+  "Meta JSON /tmp/claude-0/-home-claude/290d1253-7329-5a56-8d12-5c9c97fa9e7f/scratchpad/blog/meta/toddler-and-newborn.json: apply the same overclaim fix. headline: replace 'the 10 minutes a day that help most' with 'the 10 minutes a day that can help'. description: replace 'the 10 minutes a day that ease it' with 'the 10 minutes a day that can help'. card: replace 'the 10 minutes a day that help most' with 'the 10 minutes a day that can help'.",
+  "Verified as written: HSE 10 minutes quote, preference for 1 parent, praise in front of visitors, who looks after them during the birth (reviewed 2 December 2025). Raising Children Network: 3 to 4 months, link to a known event, visit friends' newborns, 14 months sibling relationship, hug first, gift from baby, supervised touch, special feed toy box, special song or bedtime book, bedtime refusal and night waking common in the baby's first year (both pages 5 May 2026). AAP: books, honest explanation, toilet training timing, regression, praise grown-up behaviour (updated 10 February 2026). NHS sleep and tiredness page: all 4 claims and PND signs (reviewed 24 August 2026). NHS 111 Wales, Just One Norfolk, Dartford and Gravesham, HealthLink BC, Mater, NCT, INSPQ toilet roll test citing the Canadian Paediatric Society, Lullaby Trust: all match. NHS solids from around 6 months confirmed. All source links resolve.",
+  "Dummy is not named by any cited source in the regression list (AAP, NHS 111 Wales and Raising Children Network mention bottle, being carried, wetting, accidents, rocking). Harmless, but the editor may drop 'or dummy'.",
+  "AAP page title is now 'Preparing Your Older Child for a New Baby: How to Help Siblings Adjust'. The Sources entry title is a paraphrase, fine to keep or update.",
+  "Tommy's bonding page passed its own next review date (4 July 2026). Content is standard. An NHS alternative is Healthier Together (South Yorkshire and Bassetlaw): 'Many parents find that bonding is a gradual process over the first year or so of baby's life' (https://sybhealthiertogether.nhs.uk/pregnant-women/maternal-mental-health/i-dont-feel-way-i-thought-i-would-about-my-baby).",
+  "Toddler holding on the sofa with cushions is the writer's own suggestion. It is safe only with the parent's hand under the head and the parent right there, which the text says. No official source gives this exact method.",
+  "Feeding basket includes a snack. Pregnancy, Birth and Baby warns toddlers may share food with the baby, so the 'no snacks in the baby's mouth' rule in the safety section matters here too. A magnetic drawing board with loose magnetic stamps is a small parts risk once the baby crawls. Consider choosing one with attached stamps.",
+  "The sleep section says 'even with the baby in a sling'. A sling link to the safe sleep or sling safety guide (TICKS) would help but was not required.",
+  "The article uses 'she' for the baby in the choking rule and the key box. House style choice, not changed.",
+  "Mater and Just One Norfolk show no page date. '2026' in Sources is the copyright year, which is acceptable."
+ ]
+}
