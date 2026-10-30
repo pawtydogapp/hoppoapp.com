@@ -1,0 +1,51 @@
+{
+ "404.html": {
+  "title": "Strani ni mogoče najti | Hoppo",
+  "description": "Strani ni mogoče najti na hoppoapp.com."
+ },
+ "index.html": {
+  "title": "Hoppo: ena majhna veščina na teden, od nosečnosti do 5. leta",
+  "description": "Mirna, prijazna pomoč za starše. 100 kratkih veščin za vadenje od rojstva do 5. leta, 188 mejnikov s spominskimi karticami, vsak teden nosečnosti in {guide_count} vodnikov Je to normalno? Brezplačno.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Brezplačna aplikacija za starše od nosečnosti do 5. leta: tedenske veščine za vadenje, mejniki s spominskimi karticami, nosečnost teden za tednom, vodniki Je to normalno?, koledar, dnevniki spanja, hranjenja in rasti.\",\"url\":\"https://hoppoapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
+ },
+ "guides.html": {
+  "title": "{guide_count} vodnikov Je to normalno? za starše | Hoppo",
+  "description": "Kratki, preverjeni vodniki o joku, spanju dojenčka, vročini, nikanju zob, prvi hrani, izbruhih jeze, odvajanju od plenic, nosečnosti in več. Kaj je pogosto, kaj pomaga in kdaj poiskati pomoč."
+ },
+ "support.html": {
+  "title": "Podpora | Hoppo",
+  "description": "Pomoč za aplikacijo Hoppo: prezgodnje rojstvo, dojenček je tu, več kot 1 otrok, skupni računi, fotografije, opomniki in brisanje računa."
+ },
+ "shop.html": {
+  "title": "Trgovina | Hoppo",
+  "description": "Ponudbe partnerskih trgovin za dojenčke, malčke in starše, filtrirane po državi."
+ },
+ "cart.html": {
+  "title": "Košarica | Hoppo",
+  "description": "Tvoja košarica v trgovini Hoppo."
+ },
+ "product.html": {
+  "title": "Izdelek | Hoppo",
+  "description": "Družinski izdelek Hoppo."
+ },
+ "order-complete.html": {
+  "title": "Hvala | Hoppo",
+  "description": "Tvoje naročilo v trgovini Hoppo je potrjeno."
+ },
+ "privacy.html": {
+  "title": "Politika zasebnosti | Hoppo",
+  "description": "Kako Hoppo ravna s tvojimi podatki: izrecna privolitev za podatke o zdravju, fotografije, ki ostanejo na tvojem telefonu, shranjevanje v EU, izbire glede oglaševanja in tvoje pravice po GDPR."
+ },
+ "terms.html": {
+  "title": "Pogoji uporabe | Hoppo",
+  "description": "Pogoji uporabe za aplikacijo za starše Hoppo, vključno z zdravstveno izjavo o omejitvi odgovornosti in pravilnikom o partnerskih povezavah."
+ },
+ "shop-terms.html": {
+  "title": "Pogoji prodaje | Hoppo",
+  "description": "Pogoji prodaje za izdelke iz družine Hoppo: cene, dostava v EU, 14-dnevna pravica do odstopa od pogodbe, blago z napako in promocijske kode."
+ },
+ "partners.html": {
+  "title": "Postani partner Hoppo | Hoppo",
+  "description": "Doseži starše od nosečnosti do 5. leta starosti prek Trgovine Hoppo. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
+ }
+}

@@ -208,5 +208,35 @@
   "id": "biting",
   "stage": "toddler",
   "date": "2026-10-18"
+ },
+ {
+  "slug": "parent-tired",
+  "id": "parent_tired",
+  "stage": "parent",
+  "date": "2026-10-30"
+ },
+ {
+  "slug": "parent-anxiety",
+  "id": "parent_anxiety",
+  "stage": "parent",
+  "date": "2026-10-30"
+ },
+ {
+  "slug": "parent-body",
+  "id": "parent_body",
+  "stage": "parent",
+  "date": "2026-10-30"
+ },
+ {
+  "slug": "parent-couple",
+  "id": "parent_couple",
+  "stage": "parent",
+  "date": "2026-10-30"
+ },
+ {
+  "slug": "parent-work",
+  "id": "parent_work",
+  "stage": "parent",
+  "date": "2026-10-30"
  }
 ]

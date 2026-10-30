@@ -1,0 +1,51 @@
+{
+ "404.html": {
+  "title": "Página não encontrada | Hoppo",
+  "description": "Página não encontrada em hoppoapp.com."
+ },
+ "index.html": {
+  "title": "Hoppo: uma pequena competência por semana, da gravidez aos 5 anos",
+  "description": "Ajuda calma e amiga para pais. 100 competências curtas para praticar do nascimento aos 5 anos, 188 marcos com cartões de recordação, todas as semanas de gravidez e {guide_count} guias Isto é normal? Gratuito.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita para pais da gravidez aos 5 anos: competências semanais para praticar, marcos com cartões de recordação, gravidez semana a semana, guias Isto é normal?, calendário, registos de sono, refeições e crescimento.\",\"url\":\"https://hoppoapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
+ },
+ "guides.html": {
+  "title": "{guide_count} guias Isto é normal? para pais | Hoppo",
+  "description": "Guias curtos e verificados sobre choro, sono do bebé, febre, dentição, primeiros alimentos, birras, deixar a fralda, gravidez e mais. O que é comum, o que ajuda e quando pedir ajuda."
+ },
+ "support.html": {
+  "title": "Apoio | Hoppo",
+  "description": "Ajuda com a app Hoppo: nascimento prematuro, bebé nasceu, mais de 1 criança, contas partilhadas, fotos, lembretes e eliminar a conta."
+ },
+ "shop.html": {
+  "title": "Loja | Hoppo",
+  "description": "Ofertas de lojas parceiras para bebés, crianças pequenas e pais, filtradas por país."
+ },
+ "cart.html": {
+  "title": "Carrinho | Hoppo",
+  "description": "O teu carrinho da loja Hoppo."
+ },
+ "product.html": {
+  "title": "Produto | Hoppo",
+  "description": "Um produto da família Hoppo."
+ },
+ "order-complete.html": {
+  "title": "Obrigado | Hoppo",
+  "description": "A tua encomenda Hoppo está confirmada."
+ },
+ "privacy.html": {
+  "title": "Política de privacidade | Hoppo",
+  "description": "Como o Hoppo trata os teus dados: consentimento explícito para os dados de saúde, fotos que ficam no teu telemóvel, armazenamento na UE, escolhas de publicidade e os teus direitos ao abrigo do RGPD."
+ },
+ "terms.html": {
+  "title": "Termos e condições | Hoppo",
+  "description": "Termos e condições da app para pais Hoppo, incluindo o aviso médico e a política de links de afiliados."
+ },
+ "shop-terms.html": {
+  "title": "Condições de venda | Hoppo",
+  "description": "Condições de venda dos produtos da família Hoppo: preços, entrega na UE, o direito de livre resolução de 14 dias, bens defeituosos e códigos promocionais."
+ },
+ "partners.html": {
+  "title": "Faz parceria com o Hoppo | Hoppo",
+  "description": "Chega aos pais da gravidez aos 5 anos através da Loja Hoppo. Links de afiliados via Awin ou códigos promocionais, mostrados na app e neste site."
+ }
+}

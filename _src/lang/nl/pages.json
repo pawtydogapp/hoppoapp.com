@@ -1,0 +1,51 @@
+{
+ "404.html": {
+  "title": "Pagina niet gevonden | Hoppo",
+  "description": "Pagina niet gevonden op hoppoapp.com."
+ },
+ "index.html": {
+  "title": "Hoppo: één kleine vaardigheid per week, van zwangerschap tot 5 jaar",
+  "description": "Rustige, vriendelijke hulp voor ouders. 100 korte vaardigheden van geboorte tot 5 jaar, 188 mijlpalen met herinneringskaarten, elke zwangerschapsweek en {guide_count} gidsen \"Is dit normaal?\". Gratis.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Gratis app voor ouders van zwangerschap tot 5 jaar: wekelijkse oefenvaardigheden, mijlpalen met herinneringskaarten, zwangerschap week voor week, gidsen \\\"Is dit normaal?\\\", kalender, slaap-, voedings- en groeilogboeken.\",\"url\":\"https://hoppoapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
+ },
+ "guides.html": {
+  "title": "{guide_count} gidsen \"Is dit normaal?\" voor ouders | Hoppo",
+  "description": "Korte, gecontroleerde gidsen over huilen, babyslaap, koorts, tandjes, eerste hapjes, driftbuien, zindelijkheid, zwangerschap en meer. Wat vaak voorkomt, wat helpt en wanneer je hulp zoekt."
+ },
+ "support.html": {
+  "title": "Hulp | Hoppo",
+  "description": "Hulp bij de Hoppo-app: te vroeg geboren, baby is geboren, meer dan 1 kind, gedeelde accounts, foto's, herinneringen en je account verwijderen."
+ },
+ "shop.html": {
+  "title": "Winkel | Hoppo",
+  "description": "Aanbiedingen van partnerwinkels voor baby's, peuters en ouders, gefilterd op land."
+ },
+ "cart.html": {
+  "title": "Winkelwagen | Hoppo",
+  "description": "Je winkelwagen in de Hoppo-winkel."
+ },
+ "product.html": {
+  "title": "Product | Hoppo",
+  "description": "Een Hoppo-gezinsproduct."
+ },
+ "order-complete.html": {
+  "title": "Dank je wel | Hoppo",
+  "description": "Je Hoppo-bestelling is bevestigd."
+ },
+ "privacy.html": {
+  "title": "Privacybeleid | Hoppo",
+  "description": "Hoe Hoppo met je gegevens omgaat: uitdrukkelijke toestemming voor gezondheidsgegevens, foto's die op je telefoon blijven, opslag in de Europese Unie, keuzes over advertenties en je rechten onder de AVG."
+ },
+ "terms.html": {
+  "title": "Algemene voorwaarden | Hoppo",
+  "description": "Algemene voorwaarden voor de Hoppo-app voor ouders, inclusief de medische disclaimer en het beleid voor affiliatelinks."
+ },
+ "shop-terms.html": {
+  "title": "Verkoopvoorwaarden | Hoppo",
+  "description": "Verkoopvoorwaarden voor Hoppo-gezinsproducten: prijzen, bezorging in de Europese Unie, het herroepingsrecht van 14 dagen, gebrekkige goederen en kortingscodes."
+ },
+ "partners.html": {
+  "title": "Samenwerken met Hoppo | Hoppo",
+  "description": "Bereik ouders van zwangerschap tot 5 jaar via de Hoppo-winkel. Affiliatelinks via Awin of kortingscodes, getoond in de app en op deze website."
+ }
+}

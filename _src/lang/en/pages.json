@@ -5,11 +5,11 @@
  },
  "index.html": {
   "title": "Hoppo: one small skill a week, from pregnancy to age 5",
-  "description": "Calm, friendly help for parents. 100 short skills to practise from birth to age 5, 188 milestones with keepsake cards, every pregnancy week and 35 Is this normal? guides. Free.",
+  "description": "Calm, friendly help for parents. 100 short skills to practise from birth to age 5, 188 milestones with keepsake cards, every pregnancy week and {guide_count} Is this normal? guides. Free.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Free app for parents from pregnancy to age 5: weekly practice skills, milestones with keepsake cards, pregnancy week by week, Is this normal? guides, calendar, sleep, feeding and growth logs.\",\"url\":\"https://hoppoapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
  },
  "guides.html": {
-  "title": "35 Is this normal? guides for parents | Hoppo",
+  "title": "{guide_count} Is this normal? guides for parents | Hoppo",
   "description": "Short, checked guides on crying, baby sleep, fever, teething, first foods, tantrums, potty training, pregnancy and more. What is common, what helps and when to get help."
  },
  "support.html": {
@@ -27,5 +27,29 @@
  "blog.html": {
   "title": "The Hoppo blog: honest answers for parents, pregnancy to age 5",
   "description": "Articles on baby sleep, first-year costs, newborn visitors, formula, sensory play, toddler routines and family life. Sourced, international and free of product links."
+ },
+ "shop.html": {
+  "title": "Shop | Hoppo",
+  "description": "Offers from partner shops for babies, toddlers and parents, filtered by country."
+ },
+ "partners.html": {
+  "title": "Partner with Hoppo | Hoppo",
+  "description": "Reach parents from pregnancy to age 5 through the Hoppo Shop. Affiliate links via Awin or promo codes, shown in the app and on this website."
+ },
+ "cart.html": {
+  "title": "Cart | Hoppo",
+  "description": "Your Hoppo shop cart."
+ },
+ "product.html": {
+  "title": "Product | Hoppo",
+  "description": "A Hoppo family product."
+ },
+ "order-complete.html": {
+  "title": "Thank you | Hoppo",
+  "description": "Your Hoppo order is confirmed."
+ },
+ "shop-terms.html": {
+  "title": "Terms of sale | Hoppo",
+  "description": "Terms of sale for Hoppo family products: prices, delivery in the EU, the 14 day right to withdraw, faulty goods and promo codes."
  }
 }

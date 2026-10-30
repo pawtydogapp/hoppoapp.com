@@ -1,0 +1,51 @@
+{
+ "404.html": {
+  "title": "Pagina nu a fost găsită | Hoppo",
+  "description": "Pagina nu a fost găsită pe hoppoapp.com."
+ },
+ "index.html": {
+  "title": "Hoppo: o abilitate mică pe săptămână, de la sarcină la 5 ani",
+  "description": "Ajutor calm și prietenos pentru părinți. 100 de abilități scurte de exersat de la naștere până la 5 ani, 188 de repere cu carduri-amintire, fiecare săptămână de sarcină și {guide_count} de ghiduri „E normal?”. Gratuit.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplicație gratuită pentru părinți, de la sarcină la 5 ani: abilități de exersat în fiecare săptămână, repere cu carduri-amintire, sarcina săptămână cu săptămână, ghiduri „E normal?”, calendar, jurnale de somn, hrănire și creștere.\",\"url\":\"https://hoppoapp.com/ro/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"ro\"}"
+ },
+ "guides.html": {
+  "title": "{guide_count} de ghiduri „E normal?” pentru părinți | Hoppo",
+  "description": "Ghiduri scurte, verificate, despre plâns, somnul bebelușului, febră, apariția dinților, primele alimente, crize de furie, dezvățul de scutec, sarcină și altele. Ce este frecvent, ce ajută și când să ceri ajutor."
+ },
+ "support.html": {
+  "title": "Asistență | Hoppo",
+  "description": "Ajutor pentru aplicația Hoppo: naștere prematură, bebelușul a sosit, mai mult de 1 copil, conturi comune, fotografii, mementouri și ștergerea contului."
+ },
+ "shop.html": {
+  "title": "Magazin | Hoppo",
+  "description": "Oferte de la magazine partenere pentru bebeluși, copii mici și părinți, filtrate după țară."
+ },
+ "cart.html": {
+  "title": "Coș | Hoppo",
+  "description": "Coșul tău din magazinul Hoppo."
+ },
+ "product.html": {
+  "title": "Produs | Hoppo",
+  "description": "Un produs Hoppo pentru familie."
+ },
+ "order-complete.html": {
+  "title": "Mulțumim | Hoppo",
+  "description": "Comanda ta Hoppo este confirmată."
+ },
+ "privacy.html": {
+  "title": "Politica de confidențialitate | Hoppo",
+  "description": "Cum gestionează Hoppo datele tale: consimțământ explicit pentru datele privind sănătatea, fotografii care rămân pe telefonul tău, stocare în UE, opțiuni privind reclamele și drepturile tale conform GDPR."
+ },
+ "terms.html": {
+  "title": "Termeni și condiții | Hoppo",
+  "description": "Termeni și condiții pentru aplicația de părinți Hoppo, inclusiv declinarea răspunderii medicale și politica privind linkurile afiliate."
+ },
+ "shop-terms.html": {
+  "title": "Condiții de vânzare | Hoppo",
+  "description": "Condiții de vânzare pentru produsele din familia Hoppo: prețuri, livrare în UE, dreptul de retragere de 14 zile, produse defecte și coduri promoționale."
+ },
+ "partners.html": {
+  "title": "Devino partener Hoppo | Hoppo",
+  "description": "Ajungi la părinți, de la sarcină până la vârsta de 5 ani, prin Magazinul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
+ }
+}

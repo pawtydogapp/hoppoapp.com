@@ -766,7 +766,7 @@
         "goal": "Counts to 10.",
         "why": "Counting out loud is the start of maths. Counting real things teaches your child that each number goes with one thing.",
         "steps": [
-          "Count 5 real things together, touching each one: steps, grapes or blocks.",
+          "Count 5 real things together, touching each one: steps, spoons or blocks.",
           "Count slowly and clearly up to 10.",
           "Pause on a number and let your child say the next one.",
           "Let your child lead the counting while you touch the things.",
@@ -4203,6 +4203,801 @@
       },
       "t100": {
         "text": "Be as kind to yourself as you are to your child."
+      },
+      "t101": {
+        "text": "Welcome to Hoppo. There is no homework in pregnancy. Read what helps and skip the rest."
+      },
+      "t102": {
+        "text": "Your first week with Hoppo: pick 1 thing you are curious about and read just that. The rest can wait."
+      },
+      "t103": {
+        "text": "Feeling heavy today? Put your feet up for 10 minutes. Nothing else needs to happen."
+      },
+      "t104": {
+        "text": "Early pregnancy can be very tiring. Going to bed early is a sensible plan."
+      },
+      "t105": {
+        "text": "A slow day is still a good day. Your body is doing a lot of work you cannot see."
+      },
+      "t106": {
+        "text": "Let 1 job wait until tomorrow. The washing will still be there."
+      },
+      "t107": {
+        "text": "Not sleeping well? A short rest in the afternoon can help, even if you do not fall asleep."
+      },
+      "t108": {
+        "text": "Contact a midwife or doctor as soon as you know you are pregnant, so your care can start early."
+      },
+      "t109": {
+        "text": "Ask your midwife which vitamins are recommended for you in pregnancy."
+      },
+      "t110": {
+        "text": "Wash fruit, vegetables and salad well before you eat them."
+      },
+      "t111": {
+        "text": "Feeling sick in the mornings? Eating something plain before you get up may help."
+      },
+      "t112": {
+        "text": "Strong smells can make sickness worse. If you cannot keep food or drink down for 24 hours, contact your midwife or doctor."
+      },
+      "t113": {
+        "text": "You decide when to share your news. There is no right week to tell people."
+      },
+      "t114": {
+        "text": "Take a photo of your first scan picture, so you always have a copy."
+      },
+      "t115": {
+        "text": "Keep a glass of water within reach. Drinking plenty of fluids can help with constipation."
+      },
+      "t116": {
+        "text": "Before you take any medicine, ask a pharmacist, midwife or doctor if it is safe in pregnancy."
+      },
+      "t117": {
+        "text": "Your bump may start to show in the middle months. Every bump grows at its own pace."
+      },
+      "t118": {
+        "text": "Pelvic floor exercises are good to start in pregnancy. Ask your midwife to show you how."
+      },
+      "t119": {
+        "text": "Keep up your normal daily activity if you feel well. Slow down when your body asks you to."
+      },
+      "t120": {
+        "text": "Swimming and walking are gentle ways to stay active in pregnancy."
+      },
+      "t121": {
+        "text": "Heartburn? Smaller meals more often can feel easier than 3 big ones."
+      },
+      "t122": {
+        "text": "Feeling dizzy? Stand up slowly from a chair or bed."
+      },
+      "t123": {
+        "text": "Wear flat, comfortable shoes as your bump grows. Your balance changes."
+      },
+      "t124": {
+        "text": "Put a hand on your bump when your baby moves. Invite your partner or a friend to feel the kicks too."
+      },
+      "t125": {
+        "text": "First movements may feel like flutters or bubbles. Every pregnancy is different."
+      },
+      "t126": {
+        "text": "If your baby's movements slow down, stop or change, contact your midwife or maternity unit straight away. Do not wait until the next day."
+      },
+      "t127": {
+        "text": "Ask about antenatal classes near you. They are a good place to meet other parents-to-be."
+      },
+      "t128": {
+        "text": "From 28 weeks, go to sleep on your side. If you wake up on your back, just turn onto your side."
+      },
+      "t129": {
+        "text": "Mild itching can be common in pregnancy. Tell your midwife about any itching, especially on your hands and feet or worse at night."
+      },
+      "t130": {
+        "text": "Feet up can ease swollen ankles at the end of the day. If your face, hands or feet swell suddenly, call your midwife or maternity unit straight away."
+      },
+      "t131": {
+        "text": "Take a bump photo in the same spot each month. It makes a lovely series later."
+      },
+      "t132": {
+        "text": "Write a short letter to your baby. Keep it in a box to read together one day."
+      },
+      "t133": {
+        "text": "Start a small shelf of children's books before the birth. Ask family for a favourite from their own childhood."
+      },
+      "t134": {
+        "text": "Wash a few first outfits for your baby ahead of time, so they are ready."
+      },
+      "t135": {
+        "text": "Learn the signs that labour is starting. Ask your midwife what to look for and when to call."
+      },
+      "t136": {
+        "text": "Write a simple birth plan with what matters to you. Share it with your midwife and birth partner."
+      },
+      "t137": {
+        "text": "Plans can change on the day. A flexible birth plan leaves room for that."
+      },
+      "t138": {
+        "text": "Try the route to the place of birth before the day. Think of a second way in case of traffic."
+      },
+      "t139": {
+        "text": "Fit the baby car seat before the birth, and practise taking it in and out of the car."
+      },
+      "t140": {
+        "text": "Ask your midwife about skin-to-skin contact after the birth. Think about what you would like."
+      },
+      "t141": {
+        "text": "Ask your midwife about feeding your baby. Learning a little before the birth can help."
+      },
+      "t142": {
+        "text": "Before the birth, set up a cot or Moses basket in your room. Your baby can sleep in the same room as you for the first 6 months."
+      },
+      "t143": {
+        "text": "Buy nappies in 2 sizes, not just the smallest. Babies grow fast."
+      },
+      "t144": {
+        "text": "Make a list of who to tell when your baby arrives. Someone else can send the news for you."
+      },
+      "t145": {
+        "text": "Decide who will look after pets or older children when labour starts. Write their numbers down."
+      },
+      "t146": {
+        "text": "Practise slow breathing for a few minutes a day. It can help you stay calm in labour."
+      },
+      "t147": {
+        "text": "Needing the toilet at night is common late in pregnancy. A dim night light makes the trip safer and easier."
+      },
+      "t148": {
+        "text": "Your due date is a guide. Many babies arrive in the weeks before or after it."
+      },
+      "t149": {
+        "text": "In the last weeks, keep your pregnancy notes and a phone charger by the door."
+      },
+      "t150": {
+        "text": "Read 1 Hoppo guide about labour together with your birth partner, so you both know what to expect."
+      },
+      "t151": {
+        "text": "Agree who does what at home in the first weeks: meals, washing and visitors."
+      },
+      "t152": {
+        "text": "Older children can help get ready. Let them pick a small toy for the new baby."
+      },
+      "t153": {
+        "text": "Read a picture book about a new baby with an older child. It makes it easy to talk about the change."
+      },
+      "t154": {
+        "text": "Grandparents may want to help. Tell them which kind of help you would like most."
+      },
+      "t155": {
+        "text": "Talk with your partner or support person about what kind of parents you want to be. No answers needed yet."
+      },
+      "t156": {
+        "text": "Moods can go up and down in pregnancy. Talk to your midwife if you often feel low or anxious."
+      },
+      "t157": {
+        "text": "Ask for a seat on busy transport. People are often happy to help."
+      },
+      "t158": {
+        "text": "Your birth partner can learn simple ways to help in labour, like a back rub or a cold drink."
+      },
+      "t159": {
+        "text": "Plan a quiet day out with someone you love before your baby arrives."
+      },
+      "t160": {
+        "text": "Hoppo's \"Is this normal?\" guides can help with small questions. For worries, call your midwife."
+      },
+      "t161": {
+        "text": "Think about who you would like with you at the birth. You can change your mind later."
+      },
+      "t162": {
+        "text": "Welcome to Hoppo. Look around at your own pace. There is nothing to catch up on."
+      },
+      "t163": {
+        "text": "Today can be a rest day. Hoppo will still be here tomorrow."
+      },
+      "t164": {
+        "text": "One hard day does not cancel all the good ones."
+      },
+      "t165": {
+        "text": "Drink a glass of water and eat something before you look after everyone else."
+      },
+      "t166": {
+        "text": "Step outside for 5 minutes, even in the rain. Fresh air helps big people and small people."
+      },
+      "t167": {
+        "text": "Tick off a milestone in Hoppo when you notice it. Small moments are easy to forget."
+      },
+      "t168": {
+        "text": "Send a friend a message today, just to say hello. Staying in touch helps on long days."
+      },
+      "t169": {
+        "text": "Put a favourite photo where you see it every day. Small joys help on busy weeks."
+      },
+      "t170": {
+        "text": "Your feelings matter too. Talk to someone you trust when things feel heavy."
+      },
+      "t171": {
+        "text": "Write down 1 good thing about today before you sleep."
+      },
+      "t172": {
+        "text": "Keep a list of 3 easy meals for busy days. On tired evenings, there is nothing to decide."
+      },
+      "t173": {
+        "text": "Look at your logs once a week, not every hour. Patterns show over days."
+      },
+      "t174": {
+        "text": "Share a Hoppo keepsake card with family far away. It helps them feel close."
+      },
+      "t175": {
+        "text": "Put your phone in another room during a meal now and then. Quiet time is good for everyone."
+      },
+      "t176": {
+        "text": "Put on music while you cook. It makes ordinary jobs feel lighter."
+      },
+      "t177": {
+        "text": "If someone offers help, say yes and name 1 thing they can do."
+      },
+      "t178": {
+        "text": "Stretch your back and shoulders for 2 minutes. Carrying and lifting add up."
+      },
+      "t179": {
+        "text": "Notice what went well this week and do a little more of it."
+      },
+      "t180": {
+        "text": "Every family does things its own way. What works for you is enough."
+      },
+      "t181": {
+        "text": "In the first weeks, your baby sees best at about 20 to 30 cm. That is roughly the distance to your face during a feed."
+      },
+      "t182": {
+        "text": "Newborns love the sound of your voice. Hum a slow tune during nappy changes."
+      },
+      "t183": {
+        "text": "Tummy time can start from the first days, while your baby is awake and you are watching. A minute or 2 on your chest counts."
+      },
+      "t184": {
+        "text": "Babies have a strong grip in the first weeks. Let your baby hold your finger and say hello."
+      },
+      "t185": {
+        "text": "For every sleep, put your baby down on their back in their own cot or Moses basket. It is the safest way for babies to sleep."
+      },
+      "t186": {
+        "text": "Use a firm, flat mattress with no pillows, bumpers or soft toys in the cot. A clear cot is a safe cot."
+      },
+      "t187": {
+        "text": "Place your baby with their feet at the foot of the cot. This feet to foot position stops them wriggling down under the covers."
+      },
+      "t188": {
+        "text": "For the first 6 months, keep your baby in the same room as you for every sleep, day and night."
+      },
+      "t189": {
+        "text": "A room of 16 to 20°C is comfortable for baby sleep. Use light bedding and no hat, so your baby does not get too hot."
+      },
+      "t190": {
+        "text": "Skin to skin cuddles are calming for many babies and parents. Try 10 minutes after a bath."
+      },
+      "t191": {
+        "text": "Feed your baby when they show they are hungry, like rooting or sucking on their hands. Crying is often a late sign."
+      },
+      "t192": {
+        "text": "Hello from Hoppo. Try logging a few feeds or naps this week. Patterns are easier to see when they are written down."
+      },
+      "t193": {
+        "text": "Newborn sleep comes in short pieces. Sleep when you can, and let the housework wait."
+      },
+      "t194": {
+        "text": "Soft black and white pictures can catch a young baby's eye. Hold one to the side and watch them look."
+      },
+      "t195": {
+        "text": "Gently move your baby's legs in a cycling motion during a nappy change. Talk about what you are doing."
+      },
+      "t196": {
+        "text": "Babies often have a fussy time in the evening. A walk around the room in your arms can help you both."
+      },
+      "t197": {
+        "text": "A first smile often appears around 6 to 8 weeks. Smile back and give it a moment. Your baby is learning about faces."
+      },
+      "t198": {
+        "text": "Carry your baby to the window and name what you see: tree, bird, car."
+      },
+      "t199": {
+        "text": "Let visitors bring food or fold washing instead of only holding the baby."
+      },
+      "t200": {
+        "text": "Gentle rocking, a low hum or a quiet room can all help a baby settle. Try 1 thing at a time."
+      },
+      "t201": {
+        "text": "Watch for tired signs like yawning, staring away or rubbing eyes. Starting the wind-down early often helps."
+      },
+      "t202": {
+        "text": "Around 3 months, many babies bring their hands together and look at them. Let them explore their fingers."
+      },
+      "t203": {
+        "text": "Hang a toy just within reach while your baby lies on their back. Swiping at it is how reaching starts."
+      },
+      "t204": {
+        "text": "Give your baby a rattle to hold. Shake it gently first and see if they try too."
+      },
+      "t205": {
+        "text": "Babies often love a gentle game of peekaboo with a soft cloth from around 4 to 6 months."
+      },
+      "t206": {
+        "text": "Lay your baby on their side with a toy in front, while you watch. It invites them to roll and reach."
+      },
+      "t207": {
+        "text": "Speak to your baby in a slow, sing-song voice. Babies listen longer to this kind of playful talk."
+      },
+      "t208": {
+        "text": "Place a toy a little in front of your baby during tummy time. It gives them a reason to lift and push."
+      },
+      "t209": {
+        "text": "Let your baby feel different textures: a soft towel, a wooden spoon, a crinkly paper."
+      },
+      "t210": {
+        "text": "Babies laugh at simple surprises. A gentle raspberry on the tummy is a classic."
+      },
+      "t211": {
+        "text": "Sit your baby on your lap facing you and sing a song with actions. Help them clap or bounce along."
+      },
+      "t212": {
+        "text": "Keep lights low and voices soft at night feeds. It helps your baby learn that night time is for sleeping."
+      },
+      "t213": {
+        "text": "A regular bedtime routine like bath, feed, song and cot can help babies settle. Keep it short and the same."
+      },
+      "t214": {
+        "text": "Record your baby's first giggle in Memories. You will want to hear it again."
+      },
+      "t215": {
+        "text": "Around 6 months, many babies sit with a little support. Put cushions around them during floor play and stay close."
+      },
+      "t216": {
+        "text": "Solid food usually starts at around 6 months. Breast milk or formula is still the main drink for the first year."
+      },
+      "t217": {
+        "text": "Your baby may be ready for food when they can sit with a steady head, bring food to their mouth and swallow it."
+      },
+      "t218": {
+        "text": "First foods can be simple. Soft cooked vegetables, mashed or as soft finger foods, are a good start."
+      },
+      "t219": {
+        "text": "Offer the same vegetable a few times on different days. Babies often need many tries to get used to a new taste."
+      },
+      "t220": {
+        "text": "Let your baby feed themselves with their hands at some meals. Picking up small soft pieces is great practice for fingers."
+      },
+      "t221": {
+        "text": "Do not add salt or sugar to your baby's food. Let them taste food as it is."
+      },
+      "t222": {
+        "text": "From around 6 months, offer sips of water from an open or free-flow cup with meals."
+      },
+      "t223": {
+        "text": "Always stay with your baby when they eat. Sit them upright so they can see you and your plate."
+      },
+      "t224": {
+        "text": "Eat together when you can. Babies learn a lot by watching you eat."
+      },
+      "t225": {
+        "text": "Let your baby stop when they turn away or close their mouth. They are telling you they are full."
+      },
+      "t226": {
+        "text": "Say the name of each food as your baby tries it. Mealtimes are word time too."
+      },
+      "t227": {
+        "text": "Put a few toys in a basket and let your baby take them out. Then show how to put them back."
+      },
+      "t228": {
+        "text": "Hide a toy under a cloth while your baby watches. Lifting the cloth is a big discovery."
+      },
+      "t229": {
+        "text": "Babies love to drop things. Make it a game: they drop a ball, you say \"Gone\", and give it back."
+      },
+      "t230": {
+        "text": "Bang 2 blocks together and pass one to your baby. Making noise is a skill too."
+      },
+      "t231": {
+        "text": "Wave bye-bye every time someone leaves. Many babies start to copy it near their first birthday."
+      },
+      "t232": {
+        "text": "Give your baby a plastic cup and spoon. Stirring and tapping like a grown-up is a favourite game near 1 year."
+      },
+      "t233": {
+        "text": "Point at things and name them. Around the end of the first year, many babies start to point too."
+      },
+      "t234": {
+        "text": "Crawling looks different for every baby. Some shuffle, some roll, some go straight to standing."
+      },
+      "t235": {
+        "text": "Get down to crawling height and check the room for small objects and cables. Then let your baby explore."
+      },
+      "t236": {
+        "text": "Sit on the floor with your legs open and roll a ball to your baby. Roll it back together."
+      },
+      "t237": {
+        "text": "Let your baby pull up on a sturdy sofa while you stay near. Cruising along furniture often comes next."
+      },
+      "t238": {
+        "text": "Show your baby a picture book with real photos. Name each thing and let them touch the page."
+      },
+      "t239": {
+        "text": "At the end of each month, look back at your baby's milestones in Hoppo. It is easy to forget how far they have come."
+      },
+      "t240": {
+        "text": "Welcome to Hoppo. The first year is busy, so the missions are short and simple."
+      },
+      "t241": {
+        "text": "Nights are hard right now. Most babies start to sleep for longer stretches as they grow."
+      },
+      "t242": {
+        "text": "Feeling worn out is common with a baby. Ask someone to take a walk with the pram so you can sleep."
+      },
+      "t243": {
+        "text": "Practice did not go well? Your baby may simply be tired or hungry. Try again on a calmer day."
+      },
+      "t244": {
+        "text": "Some days are just about getting through. You are still doing a good job."
+      },
+      "t245": {
+        "text": "Add 1 word to what your child says. If they say \"car\", you say \"blue car\"."
+      },
+      "t246": {
+        "text": "Sing a song and stop before the last word. Let your child fill the gap."
+      },
+      "t247": {
+        "text": "Talk about the pictures in a book, not only the words. Ask \"Where is the cat?\""
+      },
+      "t248": {
+        "text": "When your child says a word wrong, say it back the right way. No need to correct."
+      },
+      "t249": {
+        "text": "Make animal sounds together on a walk. A dog, a bird, a car all count as words."
+      },
+      "t250": {
+        "text": "Put a favourite toy just out of reach. It gives your child a reason to ask."
+      },
+      "t251": {
+        "text": "Talk on a toy phone together. Take turns saying hello and goodbye."
+      },
+      "t252": {
+        "text": "Use real words for real things, like \"spoon\" and \"jumper\". Toddlers love grown-up words."
+      },
+      "t253": {
+        "text": "Turn off background sound for a while. Quiet makes it easier to hear and copy words."
+      },
+      "t254": {
+        "text": "Gestures are talking too. Pointing and waving show your child wants to share."
+      },
+      "t255": {
+        "text": "A cardboard box can be a car, a house or a boat today. Simple toys spark big ideas."
+      },
+      "t256": {
+        "text": "Build a tower and let your child knock it down. Then build it again together."
+      },
+      "t257": {
+        "text": "Fill a bowl with a little water and give your child cups to pour. Stay right beside them and empty the bowl after."
+      },
+      "t258": {
+        "text": "Play \"Ready, steady, go\" with a ball. Waiting for \"go\" is great practice."
+      },
+      "t259": {
+        "text": "Make a simple puppet from a sock. Let it say hello at breakfast."
+      },
+      "t260": {
+        "text": "Sort the washing together. Put all the socks in 1 pile and the shirts in another."
+      },
+      "t261": {
+        "text": "Dance to 1 song together today. Fast, slow, then stop and freeze."
+      },
+      "t262": {
+        "text": "Pretend play counts. Feed a teddy, put it to bed and say goodnight."
+      },
+      "t263": {
+        "text": "Draw big circles and lines with chunky crayons. Scribbles are the first step to writing."
+      },
+      "t264": {
+        "text": "Tantrums are common at this age. Your child is not being naughty. Big feelings are still new."
+      },
+      "t265": {
+        "text": "Stay close and calm during a meltdown. You do not need to fix it, just be there."
+      },
+      "t266": {
+        "text": "Say what you see: \"You wanted the blue cup. You are cross.\" Feeling heard helps."
+      },
+      "t267": {
+        "text": "Hunger and tiredness make feelings bigger. A snack or a rest can prevent a storm."
+      },
+      "t268": {
+        "text": "After a tantrum, move on to something new together. There is no need for a long talk."
+      },
+      "t269": {
+        "text": "Say what to do, not only what not to do: \"Feet on the floor\" instead of \"No climbing\"."
+      },
+      "t270": {
+        "text": "Take 3 slow breaths before you answer a meltdown. Calm is catching."
+      },
+      "t271": {
+        "text": "Read a book about feelings together. Point to the faces and name them."
+      },
+      "t272": {
+        "text": "Make a picture chart of the bedtime steps. Your toddler can point to what comes next."
+      },
+      "t273": {
+        "text": "Make the last hour before bed calm and quiet. Dim lights help the body get ready."
+      },
+      "t274": {
+        "text": "A favourite soft toy can make bedtime feel safer for a toddler."
+      },
+      "t275": {
+        "text": "Note bedtimes in the Hoppo sleep log for a week. You may spot the time your child falls asleep most easily."
+      },
+      "t276": {
+        "text": "Let your toddler say goodnight to a few toys or rooms. A small goodbye ritual helps them let go of the day."
+      },
+      "t277": {
+        "text": "Offer a new food next to a food your child already likes. No pressure to try it."
+      },
+      "t278": {
+        "text": "Let your toddler touch, smell or lick a new food without eating it. Every small step counts as trying."
+      },
+      "t279": {
+        "text": "Put a little of the family meal on your toddler's plate. Eating the same food as you feels grown-up."
+      },
+      "t280": {
+        "text": "Give your toddler a small job at mealtimes, like setting out spoons. Helpers often eat with more interest."
+      },
+      "t281": {
+        "text": "Cut grapes and cherry tomatoes into quarters lengthways for children under 5. Small round foods are a choking risk."
+      },
+      "t282": {
+        "text": "Let your child serve themselves with a small spoon. Some spills are part of learning."
+      },
+      "t283": {
+        "text": "Toddler appetites change from day to day. Trust them to eat what they need."
+      },
+      "t284": {
+        "text": "There is no perfect age for potty learning. Many families start around 2 to 2 and a half, when their child shows signs of being ready."
+      },
+      "t285": {
+        "text": "Let your child sit on the potty with clothes on first. Getting used to it is the first step."
+      },
+      "t286": {
+        "text": "Accidents are part of potty learning. Clean up calmly and say \"Next time\"."
+      },
+      "t287": {
+        "text": "Read a book about the potty together. It makes the idea familiar and fun."
+      },
+      "t288": {
+        "text": "Say a short, warm goodbye at daycare. Then go. A long goodbye can make it harder."
+      },
+      "t289": {
+        "text": "Tell your child who will pick them up today. Knowing the plan helps them feel safe."
+      },
+      "t290": {
+        "text": "Ask the daycare team what made your child laugh today. It gives you something to talk about."
+      },
+      "t291": {
+        "text": "A small thing from home, like a photo, can help your child settle at daycare."
+      },
+      "t292": {
+        "text": "Tears at drop-off often stop soon after you leave. Ask the team how the day went."
+      },
+      "t293": {
+        "text": "Give each child a little time alone with you this week, even 10 minutes."
+      },
+      "t294": {
+        "text": "Let your toddler help with a baby sibling: fetch a nappy or sing a song."
+      },
+      "t295": {
+        "text": "Notice when siblings play nicely and say it out loud."
+      },
+      "t296": {
+        "text": "Use a timer for taking turns with a favourite toy. The timer decides, not you."
+      },
+      "t297": {
+        "text": "Jump in puddles with good boots on. Wet weather is play weather too."
+      },
+      "t298": {
+        "text": "Collect leaves, stones or sticks on a walk. Sort them by size at home."
+      },
+      "t299": {
+        "text": "Let your child walk part of the way instead of riding. Slow walks are full of things to see."
+      },
+      "t300": {
+        "text": "Blow bubbles outside and let your child chase them. Running, reaching and laughing all at once."
+      },
+      "t301": {
+        "text": "Add your child's new words to a log this month. You will be surprised how fast the list grows."
+      },
+      "t302": {
+        "text": "Hard day of tantrums? You stayed. That is what your child will remember."
+      },
+      "t303": {
+        "text": "Mission did not work yesterday? Toddlers have off days too. Try again another time."
+      },
+      "t304": {
+        "text": "Short on sleep? Pick 1 quiet game today, like reading on the sofa."
+      },
+      "t305": {
+        "text": "Not every mission ends well. A laugh together still counts as a good session."
+      },
+      "t306": {
+        "text": "Feeling worn out? A walk to the window to wave at cars is enough for today."
+      },
+      "t307": {
+        "text": "Welcome. Toddlers learn best in short bursts. 5 minutes a day is plenty."
+      },
+      "t308": {
+        "text": "Welcome. Check the milestones in Hoppo to see what your child may enjoy next."
+      },
+      "t309": {
+        "text": "Ask open questions like \"What happened next?\" They invite longer answers than yes or no."
+      },
+      "t310": {
+        "text": "When your child tells a long story, listen to the end. Then ask 1 question about it."
+      },
+      "t311": {
+        "text": "Use new words in everyday talk, like \"enormous\" or \"curious\". Children pick them up fast."
+      },
+      "t312": {
+        "text": "Wonder out loud together: \"Why do you think the leaves fall?\" No right answer needed."
+      },
+      "t313": {
+        "text": "Talk in the car or on the bus. Side by side, children often share more."
+      },
+      "t314": {
+        "text": "Play \"Tell me how\": ask your child to explain how to brush teeth, step by step."
+      },
+      "t315": {
+        "text": "Ask your child to retell a favourite story in their own words. Then swap roles."
+      },
+      "t316": {
+        "text": "Stop before the last page and ask how the story might end."
+      },
+      "t317": {
+        "text": "Let your child \"read\" a familiar book to you from memory. It is real reading practice."
+      },
+      "t318": {
+        "text": "Run your finger under the words as you read. Your child sees that print has meaning."
+      },
+      "t319": {
+        "text": "Write your child's name on their drawings together. Their own letters come first."
+      },
+      "t320": {
+        "text": "Play \"I spy\" with first sounds: \"I spy something that starts with mmm.\""
+      },
+      "t321": {
+        "text": "Keep books in a low basket where your child can reach them any time."
+      },
+      "t322": {
+        "text": "Set the table together and count: 1 plate, 2 plates, 3 plates for 3 people."
+      },
+      "t323": {
+        "text": "Line up toys from smallest to biggest. Putting things in order is early maths."
+      },
+      "t324": {
+        "text": "Ask \"Who has more?\" when you share out a snack. Comparing is a number game."
+      },
+      "t325": {
+        "text": "Cut a sandwich into halves and quarters. Fractions can be tasty."
+      },
+      "t326": {
+        "text": "Look for shapes on a walk: round wheels, square windows, triangle roofs."
+      },
+      "t327": {
+        "text": "Bake together and let your child pour and measure. Cups and spoons are maths tools."
+      },
+      "t328": {
+        "text": "Numbers and letters are for play at this age. If interest fades, try again another day."
+      },
+      "t329": {
+        "text": "Invite 1 friend over for an hour. Small playdates are easier than big groups."
+      },
+      "t330": {
+        "text": "Play shop or kitchen with a friend. Pretend play builds social skills."
+      },
+      "t331": {
+        "text": "If your child grabs a toy, say what the other child feels: \"Sam looks sad.\""
+      },
+      "t332": {
+        "text": "Practise asking to join in: \"Can I play too?\" Act it out with toys first."
+      },
+      "t333": {
+        "text": "Friendships come and go at this age. Changing best friends every week is normal."
+      },
+      "t334": {
+        "text": "Help your child find words for a problem: \"Can I have a turn when you finish?\""
+      },
+      "t335": {
+        "text": "Make a feelings face game. Take turns showing happy, worried or surprised."
+      },
+      "t336": {
+        "text": "After a big feeling passes, talk about it calmly. \"You were very cross. What helped?\""
+      },
+      "t337": {
+        "text": "All feelings are allowed. Hitting is not. Say both, calmly."
+      },
+      "t338": {
+        "text": "Breathe together like blowing out birthday candles. It helps a body calm down."
+      },
+      "t339": {
+        "text": "Read a story and ask how a character feels. Stories make feelings easier to talk about."
+      },
+      "t340": {
+        "text": "Let your child dress themselves, even if the jumper is back to front."
+      },
+      "t341": {
+        "text": "Put a small step by the sink so your child can wash their hands alone."
+      },
+      "t342": {
+        "text": "Give your child a small bag to carry their own things on outings."
+      },
+      "t343": {
+        "text": "Let your child make their own simple snack, like spreading butter on bread."
+      },
+      "t344": {
+        "text": "Practise shoes, coat and zip on calm mornings, not when you are in a hurry."
+      },
+      "t345": {
+        "text": "Practise short times apart before kindergarten starts, like an hour with a grandparent or friend."
+      },
+      "t346": {
+        "text": "Ask about kindergarten with a game: \"Tell me 1 thing you ate and 1 thing you played.\""
+      },
+      "t347": {
+        "text": "Read a picture book about starting kindergarten in the weeks before the first day."
+      },
+      "t348": {
+        "text": "Visit the kindergarten together before the first day if you can. Familiar feels safer."
+      },
+      "t349": {
+        "text": "WHO advises at least 3 hours of active play a day for children aged 3 to 4, spread across the day. Any movement counts."
+      },
+      "t350": {
+        "text": "Build a den from sticks in the park or blankets at home. Big ideas need big spaces."
+      },
+      "t351": {
+        "text": "Take the same walk in each season. Ask your child what has changed since last time."
+      },
+      "t352": {
+        "text": "Draw a chalk path on the ground: hop, jump, then walk like a crab."
+      },
+      "t353": {
+        "text": "Watch a bug together and describe it. Small things outside spark big questions."
+      },
+      "t354": {
+        "text": "WHO advises no more than 1 hour of screen time a day for children aged 2 to 4. Less is better."
+      },
+      "t355": {
+        "text": "Watch together when you can and talk about what you see. Screens can be shared too."
+      },
+      "t356": {
+        "text": "Keep screens out of the hour before bed. A story or a cuddle helps sleep come."
+      },
+      "t357": {
+        "text": "Practise sitting for a short story or game. Listening for 5 minutes is a school skill."
+      },
+      "t358": {
+        "text": "Let your child practise opening their lunch box and bottle on their own."
+      },
+      "t359": {
+        "text": "Play \"Simon says\". Following simple instructions is great school practice."
+      },
+      "t360": {
+        "text": "Welcome. Small games each week help your child grow in talking, play and confidence."
+      },
+      "t361": {
+        "text": "Pick 1 skill in Learn this week that your child already enjoys. An easy start."
+      },
+      "t362": {
+        "text": "A grumpy day is not a step back. Big feelings use a lot of energy."
+      },
+      "t363": {
+        "text": "Did practice not work today? Read a book together instead. That counts too."
+      },
+      "t364": {
+        "text": "Rushed morning? Tomorrow can be calmer. Today is already enough."
+      },
+      "t365": {
+        "text": "Tired after kindergarten? Skip the mission and play what your child wants."
       }
     },
     "shopCats": {
@@ -5162,6 +5957,147 @@
           "Daycare staff are worried about it."
         ],
         "urgent": []
+      },
+      "parent_tired": {
+        "title": "I am exhausted all the time",
+        "intro": "Feeling tired almost all the time is very common when you look after a baby or young child. Broken sleep adds up, and it is not a sign that you are doing anything wrong.",
+        "common": [
+          "Babies wake at night to feed for many months. Many toddlers still wake some nights too.",
+          "Lack of sleep can make you forgetful, irritable, tearful and slow to react.",
+          "If you gave birth, your body also needs time to recover. Feeding a baby uses a lot of energy too.",
+          "Tiredness usually gets easier as your child starts to sleep for longer stretches."
+        ],
+        "helps": [
+          "Sleep or rest when your baby sleeps, even for 20 minutes. Let some chores wait.",
+          "Share night wakings if you can. Take turns, or let someone do an early morning so you can sleep on.",
+          "Accept offers of help with meals, shopping, washing or a short walk with the baby.",
+          "Eat regular meals and snacks, drink water and get outside in daylight for a short time each day.",
+          "Go to bed early on some nights. Keep caffeine for the morning and put your phone away an hour before bed.",
+          "If you feel you might fall asleep while feeding, put your baby down in their own cot first. Never fall asleep with a baby on a sofa or armchair."
+        ],
+        "help": [
+          "You have felt tired for a few weeks and rest does not help.",
+          "Tiredness makes daily life hard, or you also feel low or anxious most of the time. See the guide on low mood.",
+          "You also feel breathless, dizzy, notice a racing heartbeat, look pale, or have lost or gained weight without trying. Your doctor can check your blood for anaemia and thyroid problems, which can happen after birth.",
+          "You cannot sleep even when you have the chance."
+        ],
+        "urgent": [
+          "You are so tired that you feel unable to care for your baby safely. Put your baby down safely in their cot and call someone to come and help now.",
+          "You have thoughts of harming yourself or your baby. Get help now: call your emergency number or a crisis line, or go to the nearest emergency department."
+        ]
+      },
+      "parent_anxiety": {
+        "title": "I worry all the time",
+        "intro": "Some worry is normal when you are expecting or caring for a baby. But if worry fills most of your day or stops you resting, it may be anxiety, which is common and treatable.",
+        "common": [
+          "About 1 in 8 women have anxiety during pregnancy. It is also common in the first year after birth, and partners can be affected too.",
+          "Anxiety can feel like racing thoughts, always expecting the worst, feeling on edge, a tight chest, a churning stomach or poor sleep.",
+          "A panic attack is a sudden rush of fear with a racing heart, shaking, sweating or breathlessness. Most last between 5 and 20 minutes. They feel frightening but are not dangerous.",
+          "Many new parents have sudden, unwanted thoughts or images of their baby being hurt. Sometimes the thought is of hurting the baby themselves. These thoughts are very common. Having a thought does not mean you will act on it."
+        ],
+        "helps": [
+          "Tell someone you trust how you feel. Saying it out loud often makes the worry smaller.",
+          "During a panic attack, stay where you are and breathe slowly in and out. Remind yourself that it will pass.",
+          "Try not to fight or push away unwanted thoughts. Notice them, let them pass and turn back to what you were doing.",
+          "Limit time spent searching online for worries. Write down your questions and ask your doctor, midwife or health visitor.",
+          "Move your body each day, even a 10 minute walk, and rest when you can.",
+          "Cut down on caffeine and avoid using alcohol to cope."
+        ],
+        "help": [
+          "Worry is strong, lasts more than 2 weeks, or makes daily life hard.",
+          "You have panic attacks, or you avoid things because you fear one.",
+          "Unwanted thoughts come many times a day, upset you a lot, or make you avoid caring for your baby. Talking therapy works well for this.",
+          "You also feel low most of the time. See the guide on low mood."
+        ],
+        "urgent": [
+          "You have thoughts of harming yourself, or you feel you might act on thoughts of harming your baby. Get help now: call your emergency number or a crisis line, or go to the nearest emergency department.",
+          "You or someone close to you notices sudden changes after birth: confusion, seeing or hearing things that are not there, very strange beliefs, or a very high or fast-changing mood. This most often starts in the first 2 weeks. It is a medical emergency. Get help now: call your emergency number or go to the nearest emergency department.",
+          "You have chest pain or sudden breathlessness that is new to you, especially in pregnancy or after birth. Do not assume it is panic. Call your emergency number."
+        ]
+      },
+      "parent_body": {
+        "title": "My body feels different after birth",
+        "intro": "Your body has done a huge job, and it takes time to recover. Many changes in the first weeks are normal, and most get better with time and gentle care.",
+        "common": [
+          "Bleeding from the vagina (lochia) is heavy at first, then turns brown and lighter. It usually stops by 6 to 8 weeks, but can last longer.",
+          "Period-like cramps are common in the first days, especially during breastfeeding.",
+          "Leaking a little urine when you cough, laugh or move suddenly is common after birth.",
+          "After a caesarean, pain can last several weeks. Avoid lifting anything heavier than your baby at first. Do not drive until you can wear a seatbelt and brake hard without pain. This often takes about 6 weeks.",
+          "Many health services offer a postnatal check around 6 to 8 weeks after birth. It is a time to talk about your recovery, your mood, contraception and anything that worries you."
+        ],
+        "helps": [
+          "Use pads, not tampons, while you are bleeding. Wash stitches or your wound gently each day with plain warm water and pat dry.",
+          "Start pelvic floor exercises when you feel ready. Squeeze and lift the muscles you use to stop a wee, hold for a few seconds, then relax. Repeat a few times each day.",
+          "Walk a little every day. Wait until after your postnatal check before high-impact exercise such as running.",
+          "Have sex only when you feel ready. There is no set time. If it hurts, stop and tell your doctor.",
+          "You can get pregnant from 3 weeks after birth, even if you are breastfeeding and your periods have not come back. Use contraception if you do not want another pregnancy.",
+          "Rest, eat well and drink plenty of water, especially if you are breastfeeding."
+        ],
+        "help": [
+          "Bleeding gets heavier, smells unusual, or has not eased after 6 to 8 weeks.",
+          "Your stitches or caesarean wound become more red, swollen or painful, or leak pus.",
+          "You still leak urine or wind, or have pain during sex, after your postnatal check.",
+          "You feel pain or burning when you pass urine, or you are worried about any part of your recovery."
+        ],
+        "urgent": [
+          "Very heavy bleeding, large clots, or bleeding with feeling faint, dizzy or a pounding heart. Call your emergency number.",
+          "A high temperature with tummy pain, foul-smelling discharge or feeling very unwell. These can be signs of a serious infection. Get help now: call your emergency number.",
+          "Chest pain, sudden breathlessness, pain or swelling in the calf of 1 leg, or a severe headache with changes in your vision or vomiting. Get help now: call your emergency number or go to the nearest emergency department."
+        ]
+      },
+      "parent_couple": {
+        "title": "Our relationship has changed since the baby",
+        "intro": "Having a baby puts a strain on most relationships, however strong they were before. Less sleep and less time together are hard for everyone, and the most demanding stage does not last forever.",
+        "common": [
+          "Many couples argue more in the first year, often about sleep, chores and money.",
+          "1 partner may feel left out, or feel that they do more than their share.",
+          "Interest in sex often drops for a while because of tiredness, healing and hormones.",
+          "Single parents and parents who share care from 2 homes feel this pressure too, often with less time to rest."
+        ],
+        "helps": [
+          "Agree together who does which night wakings and which chores. Write it down and check it again after a few weeks.",
+          "Say clearly what you need. Your partner cannot guess. Try \"I need 1 hour to sleep\" instead of \"You never help\".",
+          "Find 10 minutes a day to talk about something other than the baby.",
+          "Stay close in small ways, such as a hug, holding hands or a short walk together. Closeness does not have to mean sex.",
+          "If you parent apart, keep messages about your child short, calm and practical.",
+          "Ask family and friends for the help you actually need, and keep in touch with people who support you."
+        ],
+        "help": [
+          "You argue most days, or arguments do not get resolved.",
+          "You feel afraid of your partner, or conflict starts to feel unsafe.",
+          "You or your partner feel low or anxious most of the time. See the guide on low mood.",
+          "Your doctor, midwife or health visitor can listen and tell you about counselling and other support near you."
+        ],
+        "urgent": [
+          "You or your children are in danger right now. Call your emergency number.",
+          "Someone hurts you, threatens you, controls your money or who you see, or forces you into sex. This is domestic abuse. It often starts or gets worse in pregnancy or after birth. You do not have to wait for an emergency to get help. Tell your doctor, midwife or health visitor."
+        ]
+      },
+      "parent_work": {
+        "title": "I am going back to work",
+        "intro": "Going back to work after time with your child brings many feelings at once. Guilt, worry, relief and excitement are all normal, often on the same day.",
+        "common": [
+          "Many children take a few weeks to settle in a new childcare setting. Tears at drop-off are common and often stop soon after you leave.",
+          "Children in childcare often catch many colds and stomach bugs in the first year.",
+          "The first weeks back can feel very tiring as everyone gets used to new routines.",
+          "You can keep breastfeeding when you go back to work if you wish. Many parents feed before and after work and express milk during the day."
+        ],
+        "helps": [
+          "Ask your childcare how they settle new children. Most start with short visits that get longer over time. Try to begin this before your first day back.",
+          "Say a short, warm goodbye and leave. Ask the carer to send you a message once your child has settled.",
+          "If you want to keep breastfeeding, tell your employer before you return and ask for a private place and time to express. Practise expressing a few weeks before.",
+          "Store expressed milk at the back of the fridge. Use it within 3 days, or freeze it if you will not use it by then. Label each portion with the date.",
+          "Make a plan for days when your child is sick and cannot go to childcare. Think about who could help, such as a partner, family or friends.",
+          "Keep some time for yourself each week, even 30 minutes, and keep your evenings simple at first."
+        ],
+        "help": [
+          "You feel low, anxious or unable to cope for more than 2 weeks. See the guide on low mood.",
+          "Worry about your child or your work stops you sleeping or enjoying anything.",
+          "You are worried about how your child is settling after several weeks."
+        ],
+        "urgent": [
+          "You have thoughts of harming yourself or your baby. Get help now: call your emergency number or a crisis line, or go to the nearest emergency department."
+        ]
       }
     },
     "guideStages": {
@@ -5172,10 +6108,139 @@
         "name": "Baby"
       },
       "toddler": {
-        "name": "Toddler and preschool"
+        "name": "Toddler / preschool"
       },
       "parent": {
         "name": "For you"
+      }
+    },
+    "bag": {
+      "notes": {
+        "group": "you",
+        "name": "Pregnancy notes and birth plan"
+      },
+      "number": {
+        "group": "you",
+        "name": "Maternity unit number and hospital reference, in your phone and on paper"
+      },
+      "pads": {
+        "group": "you",
+        "name": "2 packs of maternity pads"
+      },
+      "underwear": {
+        "group": "you",
+        "name": "Comfortable underwear"
+      },
+      "clothes": {
+        "group": "you",
+        "name": "Loose, comfortable clothes"
+      },
+      "washbag": {
+        "group": "you",
+        "name": "Wash bag"
+      },
+      "medicines": {
+        "group": "you",
+        "name": "Your regular medicines"
+      },
+      "charger": {
+        "group": "you",
+        "name": "Phone charger with a long cable"
+      },
+      "nightwear": {
+        "group": "you",
+        "name": "Nightwear that opens at the front, if you plan to breastfeed"
+      },
+      "gown": {
+        "group": "you",
+        "name": "Dressing gown and slippers"
+      },
+      "bras": {
+        "group": "you",
+        "name": "2 or 3 comfortable bras and breast pads"
+      },
+      "lipbalm": {
+        "group": "you",
+        "name": "Lip balm"
+      },
+      "snacks": {
+        "group": "you",
+        "name": "Snacks and drinks"
+      },
+      "bottle": {
+        "group": "you",
+        "name": "Water bottle"
+      },
+      "pastime": {
+        "group": "you",
+        "name": "Something to pass the time"
+      },
+      "carseat": {
+        "group": "baby",
+        "name": "Car seat, fitted in the car before the birth"
+      },
+      "vests": {
+        "group": "baby",
+        "name": "Vests"
+      },
+      "sleepsuits": {
+        "group": "baby",
+        "name": "Sleepsuits"
+      },
+      "hat": {
+        "group": "baby",
+        "name": "A hat"
+      },
+      "homeoutfit": {
+        "group": "baby",
+        "name": "An outfit for going home"
+      },
+      "nappies": {
+        "group": "baby",
+        "name": "Nappies"
+      },
+      "wipes": {
+        "group": "baby",
+        "name": "Wipes or cotton wool"
+      },
+      "blanket": {
+        "group": "baby",
+        "name": "A blanket"
+      },
+      "socks": {
+        "group": "baby",
+        "name": "Socks"
+      },
+      "muslins": {
+        "group": "baby",
+        "name": "Muslins"
+      },
+      "p_snacks": {
+        "group": "partner",
+        "name": "Snacks and drinks"
+      },
+      "p_clothes": {
+        "group": "partner",
+        "name": "A change of clothes"
+      },
+      "p_charger": {
+        "group": "partner",
+        "name": "Phone charger"
+      },
+      "p_pastime": {
+        "group": "partner",
+        "name": "Something to pass the time"
+      }
+    },
+    "bagGroups": {
+      "you": {
+        "name": "For you"
+      },
+      "baby": {
+        "name": "For your baby"
+      },
+      "partner": {
+        "name": "For your birth partner"
       }
     }
   }

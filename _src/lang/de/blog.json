@@ -1,0 +1,62 @@
+{
+ "baby-cost-first-year": {
+  "headline": "Was ein Baby im ersten Jahr wirklich kostet und was du zurückbekommen kannst",
+  "description": "Vergiss die beängstigenden Durchschnittswerte. Echte, datierte Kosten im ersten Babyjahr für Europa und Großbritannien, die 2 Kosten, die Eltern überraschen, und das Geld, das du zurückfordern kannst.",
+  "card": "Echte Kosten im ersten Jahr nach Kategorie, was Eltern bereuen gekauft zu haben, und die Zuschüsse, die du beantragen kannst."
+ },
+ "baby-milestones-month-by-month": {
+  "headline": "Meilensteine des Babys Monat für Monat: die echten Spannen vom ersten Lächeln bis zum ersten Hüpfen und wann du nachfragen solltest",
+  "description": "Die meisten Babys laufen zwischen 8 und 18 Monaten allein. Echte Meilenstein-Spannen von der Geburt bis 5, die 3-von-4-Regel, Krabbel-Mythen und wann du nachfragen solltest.",
+  "card": "Die meisten Babys laufen zwischen 8 und 18 Monaten. Echte Meilenstein-Spannen von der Geburt bis 5 und wann du nachfragen solltest."
+ },
+ "baby-sleep-by-age": {
+  "headline": "Babyschlaf nach Alter, von der Geburt bis 5: was normal ist und warum „Durchschlafen“ 6 Stunden bedeutet",
+  "description": "38 % der Babys im Alter von 6 Monaten schlafen nicht 6 Stunden am Stück. Offizielle Schlafspannen von der Geburt bis 5, die 4-Monats-Regression, Wachfenster und die Studienlage zum Schlaftraining.",
+  "card": "Mit 6 Monaten schlafen 38 % der Babys nicht 6 Stunden am Stück. Echte Schlafspannen von der Geburt bis 5."
+ },
+ "back-to-work-childcare": {
+  "headline": "Zurück zur Arbeit nach dem Baby: was Studien mit über 10.000 Kindern zur Kinderbetreuung sagen und wie du ohne Schuldgefühle wählst",
+  "description": "Schuldgefühle wegen der Kinderbetreuung? Was große Studien wirklich fanden, Krippe, Tagespflegeperson oder Nanny im Vergleich, eine Checkliste für den Besuch, kurze Abschiede, Abpumpen und Erkältungen.",
+  "card": "Was Studien mit über 10.000 Kindern zur Kinderbetreuung fanden, dazu eine Checkliste für den Besuch und sanftere Abschiede."
+ },
+ "formula-and-toddler-milk": {
+  "headline": "Säuglingsnahrung wählen: was ein höherer Preis nicht kauft und ob Kindermilch nötig ist",
+  "description": "Die teuerste Anfangsnahrung kostet doppelt so viel wie die günstigste, und beide erfüllen denselben gesetzlichen Standard. Was die Extras auf dem Etikett bedeuten und warum Kindermilch nicht nötig ist.",
+  "card": "Eine Dose für 6,99 £ und eine für 14,00 £ erfüllen denselben gesetzlichen Standard. Das kauft teurere Säuglingsnahrung nicht."
+ },
+ "newborn-shopping-list": {
+  "headline": "Einkaufsliste fürs Neugeborene: die 8 Dinge, die du vor der Geburt brauchst, und was Eltern gern übersprungen hätten",
+  "description": "Die bekanntesten Listen haben 48 Punkte. Eltern sagen, zuerst brauchst du 8. Was du wann kaufen solltest, welche Käufe Eltern bereuen, was nie zum Schlafen gedacht ist und was gebraucht in Ordnung ist.",
+  "card": "Die 8 Dinge, die du vor der Geburt kaufen solltest, was warten kann und was Eltern gern übersprungen hätten."
+ },
+ "newborn-visitors-grandparents": {
+  "headline": "Besuch beim Neugeborenen und Großeltern: die 5 Regeln, auf die es ankommt, und freundliche Worte, die den Frieden bewahren",
+  "description": "Lippenherpes, Husten und Küsse: 5 Besuchsregeln nach den Empfehlungen von Gesundheitsorganisationen, die Impfungen, die helfen, und freundliche Worte für Großeltern. Dazu eine Nachricht zum Verschicken.",
+  "card": "Die 5 Besuchsregeln, die ein Neugeborenes schützen, und freundliche Worte, um sie ohne Familienstreit weiterzugeben."
+ },
+ "partner-support-mental-load": {
+  "headline": "Wer denkt an die Impfungen? Ein fairer Weg, die unsichtbare Arbeit nach dem Baby zu teilen, in 15 Minuten pro Woche",
+  "description": "In 1 US-Studie stieg die Arbeitsbelastung neuer Mütter um 2 Stunden pro Tag und die der Väter um 40 Minuten. Wie ihr nicht nur die Aufgaben teilt, sondern auch das Bemerken und Planen, bevor es zum Streit wird.",
+  "card": "Die unsichtbare Arbeit nach dem Baby, was die Forschung zur Aufteilung sagt, und eine wöchentliche Lösung in 15 Minuten."
+ },
+ "sensory-play-by-age": {
+  "headline": "Sinnesspiele nach Alter, von der Geburt bis 5: einfache Ideen mit Dingen, die du schon hast, mit einer kostenlosen Druckvorlage",
+  "description": "Keine Kurse und keine teuren Sets nötig. Einfache Ideen für Sinnesspiele nach Alter von der Geburt bis 5, die Bewegungsziele der WHO, 6 Sicherheitsregeln und eine kostenlose Druckvorlage auf 1 Seite.",
+  "card": "Kein teures Set nötig. Ideen für jedes Alter bis 5, die Sicherheitsregeln und eine Tabelle für den Kühlschrank."
+ },
+ "toddler-and-newborn": {
+  "headline": "Von 1 Kind zu 2: wie du dein Kleinkind auf ein neues Baby vorbereitest und die 10 Minuten am Tag, die helfen können",
+  "description": "Wieder Fläschchen, Eifersucht, Stillen mit einem Kleinkind, das auf dir herumklettert: was von 1 Kind zu 2 normal ist, wie du dich vorbereitest und die 10 Minuten am Tag, die es leichter machen.",
+  "card": "Ein Kleinkind auf ein neues Baby vorbereiten, die Rückschritte, die normal sind, und die 10 Minuten am Tag, die helfen können."
+ },
+ "toddler-behaviour-gentle-or-firm": {
+  "headline": "Sanft oder konsequent? 60 Jahre Forschung sprechen für Eltern, die beides sind",
+  "description": "Sanft oder streng? 60 Jahre Forschung sagen, du musst dich nicht entscheiden. Was bei Kleinkindern von 1 bis 5 wirkt, warum Schlagen scheitert und 7 ruhige Werkzeuge zum Ausprobieren.",
+  "card": "Warum die Forschung für warme Erziehung mit klaren Grenzen spricht, dazu 7 ruhige Werkzeuge für das Alter von 1 bis 5."
+ },
+ "toddler-daily-routine-chart": {
+  "headline": "Der Kleinkind-Tagesablauf, der sich biegt, ohne zu brechen: 3 Beispieltage für das Alter von 1 bis 5 und eine kostenlose Druckvorlage",
+  "description": "Struktur ohne starren Zeitplan: 3 flexible Beispieltage für das Alter von 1 bis 5, basierend auf den WHO-Empfehlungen zu Schlaf und Bewegung, Tricks für Übergänge und eine kostenlose Druckvorlage.",
+  "card": "3 flexible Beispieltage für das Alter von 1 bis 5, Tricks für Wutanfall-Momente und eine kostenlose Tabelle zum Drucken."
+ }
+}

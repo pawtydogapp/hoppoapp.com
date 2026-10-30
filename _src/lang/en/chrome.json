@@ -27,5 +27,18 @@
  "stage_baby": "Baby, 0 to 12 months",
  "stage_any": "Babies and young children",
  "stage_toddler": "Toddler and preschool",
- "stage_parent": "For you"
+ "stage_parent": "For you",
+ "nav_blog": "Blog",
+ "nav_shop": "Shop",
+ "nav_cart": "Cart",
+ "footer_shop_terms": "Terms of sale",
+ "store_get_ios": "Download on the",
+ "store_get_play": "Get it on",
+ "blog_group_1": "Pregnancy and newborn",
+ "blog_group_2": "Baby",
+ "blog_group_3": "Toddler and preschool",
+ "blog_group_4": "Family life",
+ "home_blog_title": "From the blog",
+ "home_blog_all": "All articles",
+ "home_blog_all_text": "Sleep, costs, milestones, play and family life."
 }

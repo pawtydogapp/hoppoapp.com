@@ -1,12 +1,141 @@
 {
  "domain": "https://hoppoapp.com",
- "languages": [["en", "English", "en_GB"]],
+ "languages": [
+  [
+   "en",
+   "English",
+   "en_GB"
+  ],
+  [
+   "de",
+   "Deutsch",
+   "de_DE"
+  ],
+  [
+   "es",
+   "Español",
+   "es_ES"
+  ],
+  [
+   "fr",
+   "Français",
+   "fr_FR"
+  ],
+  [
+   "hr",
+   "Hrvatski",
+   "hr_HR"
+  ],
+  [
+   "it",
+   "Italiano",
+   "it_IT"
+  ],
+  [
+   "nl",
+   "Nederlands",
+   "nl_NL"
+  ],
+  [
+   "pl",
+   "Polski",
+   "pl_PL"
+  ],
+  [
+   "pt",
+   "Português",
+   "pt_PT"
+  ],
+  [
+   "ro",
+   "Română",
+   "ro_RO"
+  ],
+  [
+   "sl",
+   "Slovenščina",
+   "sl_SI"
+  ]
+ ],
  "pages": [
-  {"path": "index.html", "kind": "page", "lastmod": "2026-10-18", "priority": "1.0", "ld": "raw"},
-  {"path": "guides.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.9"},
-  {"path": "support.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.6"},
-  {"path": "privacy.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.4"},
-  {"path": "terms.html", "kind": "page", "lastmod": "2026-10-18", "priority": "0.4"},
-  {"path": "404.html", "kind": "page", "noindex": true}
- ]
+  {
+   "path": "index.html",
+   "kind": "page",
+   "lastmod": "2026-10-18",
+   "priority": "1.0",
+   "ld": "raw"
+  },
+  {
+   "path": "guides.html",
+   "kind": "page",
+   "lastmod": "2026-10-18",
+   "priority": "0.9"
+  },
+  {
+   "path": "support.html",
+   "kind": "page",
+   "lastmod": "2026-10-18",
+   "priority": "0.6"
+  },
+  {
+   "path": "privacy.html",
+   "kind": "page",
+   "lastmod": "2026-10-18",
+   "priority": "0.4"
+  },
+  {
+   "path": "terms.html",
+   "kind": "page",
+   "lastmod": "2026-10-18",
+   "priority": "0.4"
+  },
+  {
+   "path": "404.html",
+   "kind": "page",
+   "noindex": true
+  },
+  {
+   "path": "shop.html",
+   "kind": "page",
+   "lastmod": "2026-10-30",
+   "priority": "0.8"
+  },
+  {
+   "path": "partners.html",
+   "kind": "page",
+   "lastmod": "2026-10-30",
+   "priority": "0.5"
+  },
+  {
+   "path": "cart.html",
+   "kind": "page",
+   "noindex": true
+  },
+  {
+   "path": "product.html",
+   "kind": "page",
+   "noindex": true
+  },
+  {
+   "path": "order-complete.html",
+   "kind": "page",
+   "noindex": true
+  },
+  {
+   "path": "shop-terms.html",
+   "kind": "page",
+   "lastmod": "2026-10-30",
+   "priority": "0.4",
+   "when": "seller"
+  }
+ ],
+ "supabase_url": "https://gffvfjworknrcgrlycok.supabase.co",
+ "supabase_anon_key": "sb_publishable_yktFt9ycP7sD08Xdeou7Mw_LE_rSg6E",
+ "seller": {
+  "name": "",
+  "address": "",
+  "country": "",
+  "vat_id": "",
+  "email": "info@hoppoapp.com"
+ }
 }

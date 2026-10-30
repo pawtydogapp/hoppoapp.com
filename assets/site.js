@@ -61,3 +61,32 @@
     });
   });
 })();
+
+(function(){
+  /* Store badges and the cart link are driven by the Hoppo database (app_config), so a badge
+     goes live and the shop opens by changing a row, with no website release. */
+  var H = window.HOPPO; if(!H || !H.sb || !window.fetch) return;
+  var KEY='hoppo_cfg_v1';
+  function read(){ try{ var c=JSON.parse(sessionStorage.getItem(KEY)||'null'); if(c && Date.now()-c.t<300000) return c.v; }catch(e){} return null; }
+  function write(v){ try{ sessionStorage.setItem(KEY, JSON.stringify({t:Date.now(),v:v})); }catch(e){} }
+  function cartCount(){ try{ var c=JSON.parse(localStorage.getItem('hoppo_cart_v1')||'[]'); return c.reduce(function(a,x){return a+(x&&x.q>0?x.q:0);},0); }catch(e){ return 0; } }
+  function apply(cfg){
+    var ok=/^https:\/\/(apps\.apple\.com|play\.google\.com)\//;
+    document.querySelectorAll('.stores .soon[data-store]').forEach(function(el){
+      var ios = el.getAttribute('data-store')==='ios', url = ios ? cfg.appstore_url : cfg.play_url;
+      if(!url || !ok.test(url)) return;
+      var a=document.createElement('a'); a.href=url; a.rel='noopener'; if(el.id) a.id=el.id;
+      var svg=el.querySelector('svg'); if(svg) a.appendChild(svg.cloneNode(true));
+      var w=document.createElement('span'), s=document.createElement('span'), b=document.createElement('span'), big=el.querySelector('.b');
+      s.className='s'; s.textContent = ios ? H.get_ios : H.get_play; b.className='b'; b.textContent = big ? big.textContent : '';
+      w.appendChild(s); w.appendChild(b); a.appendChild(w); el.replaceWith(a);
+    });
+    var link=document.getElementById('cartlink'), n=cartCount();
+    if(link && cfg.shop_enabled==='1' && n){ document.getElementById('cartcount').textContent=String(n); link.hidden=false; }
+  }
+  var cached=read(); if(cached){ apply(cached); return; }
+  fetch(H.sb+'/rest/v1/app_config?select=key,value',{headers:{apikey:H.key,Authorization:'Bearer '+H.key}})
+    .then(function(r){ return r.ok ? r.json() : []; })
+    .then(function(rows){ var m={}; rows.forEach(function(r){ if(r.value) m[r.key]=r.value; }); write(m); apply(m); })
+    .catch(function(){});
+})();

@@ -20,6 +20,15 @@ Source layout
   app/                   the app's own text (en.json, copied by tools/sync_app.mjs)
                          guide text comes from here, word for word, so app and site never drift
 
+  lang/<xx>/shop_ui.json strings for the shop scripts that the app does not already translate
+  lang/<xx>/blog.json    headline, description and card per translated post
+  app/<xx>.json          the app's own translations (ui, content), copied by tools/sync_app.mjs
+
+One source for every string
+  chrome.json and shop_ui.json hold English. For every other language a string is taken from the
+  app's translation of the same English text when the app has one. Only strings the app does not
+  have are translated in lang/<xx>/chrome.json and lang/<xx>/shop_ui.json. Edit once, in the app.
+
 Rules
   English lives at the root. Every other language lives in /<xx>/ with identical file names.
   A missing {{placeholder}} stops the build. Nothing is ever silently left blank.
@@ -46,19 +55,56 @@ def render(tpl, v, where):
 
 cfg = js('config.json')
 DOMAIN = cfg['domain']
-LANGS = [l[0] for l in cfg['languages']]
+LANGS = [l[0] for l in cfg['languages'] if not os.environ.get('HOPPO_LANGS') or l[0] in os.environ['HOPPO_LANGS'].split(',')]
 NATIVE = {l[0]: l[1] for l in cfg['languages']}
 LOCALE = {l[0]: l[2] for l in cfg['languages']}
 BLOG = json.load(open(os.path.join(SRC, 'lang', 'en', 'blog.json'), encoding='utf-8')) if os.path.exists(os.path.join(SRC, 'lang', 'en', 'blog.json')) else []
 BLOG_LIVE = [b for b in BLOG if os.path.exists(os.path.join(SRC, 'lang', 'en', 'pages', 'blog', b['slug'] + '.html'))]
-PAGES = cfg['pages'] + ([{'path': 'blog.html', 'kind': 'page', 'lastmod': max(b['date'] for b in BLOG_LIVE), 'priority': '0.8'}] if BLOG_LIVE else []) + [
+GROUPS = [('Pregnancy and newborn', 'blog_group_1'), ('Baby', 'blog_group_2'), ('Toddler and preschool', 'blog_group_3'), ('Family life', 'blog_group_4')]
+SELLER = cfg.get('seller', {})
+SELLER_READY = all(SELLER.get(k) for k in ('name', 'address', 'country'))
+PAGES = [p for p in cfg['pages'] if p.get('when') != 'seller' or SELLER_READY] + ([{'path': 'blog.html', 'kind': 'page', 'lastmod': max(b['date'] for b in BLOG_LIVE), 'priority': '0.8'}] if BLOG_LIVE else []) + [
     {'path': f"blog/{b['slug']}.html", 'kind': 'post', 'lastmod': b['date'], 'date': b['date'], 'priority': '0.8'} for b in BLOG_LIVE] + [
     {'path': f"guides/{g['slug']}.html", 'kind': 'guide', 'lastmod': g['date'], 'priority': '0.8'}
     for g in json.load(open(os.path.join(SRC, 'guides.json'), encoding='utf-8'))]
 PAGE_PATHS = {p['path'] for p in PAGES}
 T = {n: rd(f'templates/{n}.html') for n in ['base', 'stores', 'guide', 'guide-card', 'posthog', 'lang-switch']}
 CSS = rd('assets/site.css'); JS = rd('assets/site.js')
+SHOPJS = rd('assets/shop.js')
 def h8(s): return hashlib.md5(s.encode()).hexdigest()[:8]
+
+EN_CHROME = js('lang/en/chrome.json')
+EN_SHOP_UI = js('lang/en/shop_ui.json')
+_APP = {}
+def app_json(lang):
+    if lang not in _APP: _APP[lang] = js('app/en.json' if lang == 'en' else f'app/{lang}.json')
+    return _APP[lang]
+def opt(p, default):
+    return js(p) if os.path.exists(os.path.join(SRC, p)) else default
+
+def resolve(lang, en, own, where):
+    """English strings for English. Otherwise the app's translation of the same English text,
+    then the website's own translation. A string with neither stops the build."""
+    if lang == 'en': return dict(en)
+    ui = app_json(lang).get('ui', {}); out = {}; missing = []
+    for k, v in en.items():
+        if k in own: out[k] = own[k]
+        elif not v: out[k] = v
+        elif ui.get(v): out[k] = ui[v]
+        else: missing.append(k)
+    if missing: raise SystemExit(f'{where} ({lang}) has no translation for {len(missing)} strings, for example {missing[:6]}')
+    return out
+
+def blog_posts(lang):
+    """Posts that exist in this language, with the language's own headline, description and card."""
+    own = opt(f'lang/{lang}/blog.json', {}) if lang != 'en' else {}
+    out = []
+    for b in BLOG_LIVE:
+        if not os.path.exists(os.path.join(SRC, 'lang', lang, 'pages', 'blog', b['slug'] + '.html')): continue
+        t = b if lang == 'en' else own.get(b['slug'])
+        if not t: raise SystemExit(f'lang/{lang}/blog.json has no entry for {b["slug"]}')
+        out.append(dict(b, headline=t['headline'], description=t['description'], card=t['card']))
+    return out
 
 import datetime
 TODAY = os.environ.get('HOPPO_DATE', datetime.date.today().isoformat())
@@ -132,8 +178,10 @@ def article_ld(headline, desc, u, date):
 
 def build_lang(lang):
     L = f'lang/{lang}/'
-    chrome = js(L + 'chrome.json'); meta = js(L + 'pages.json')
+    chrome = resolve(lang, EN_CHROME, opt(L + 'chrome.json', {}), L + 'chrome.json'); meta = js(L + 'pages.json')
+    shop_ui = resolve(lang, EN_SHOP_UI, opt(L + 'shop_ui.json', {}), L + 'shop_ui.json')
     gtext = js(L + 'guides.json') if os.path.exists(os.path.join(SRC, L + 'guides.json')) else {}
+    posts = blog_posts(lang)
     gapp, stages = load_app(lang); gshared = js('guides.json')
     stores_v = dict(chrome, ios_id='', play_id='')
     stores = render(T['stores'], stores_v, 'stores')
@@ -146,20 +194,33 @@ def build_lang(lang):
         return render(T['guide-card'], {'slug': g['slug'], 'n': esc(gapp[g['id']]['title']),
             'card': esc(t.get('card') or first_sentence(gapp[g['id']]['intro']))}, 'card')
     groups = {st: ''.join(card_of(g) for g in gshared if g['stage'] == st) for st in ['pregnancy', 'baby', 'any', 'toddler', 'parent']}
-    bmeta = {b['slug']: b for b in BLOG_LIVE}
-    groups_order = ['Pregnancy and newborn', 'Baby', 'Toddler and preschool', 'Family life']
+    bmeta = {b['slug']: b for b in posts}
     def post_card(b):
         return f'<div class="postcard"><a href="/blog/{b["slug"]}.html"><h3>{esc(b["headline"])}</h3></a><p>{esc(b["card"])}</p></div>\n'
-    blog_cards = ''.join(f'<h2 class="blogcat">{g}</h2>\n' + ''.join(post_card(b) for b in BLOG_LIVE if b['group'] == g)
-                         for g in groups_order if any(b['group'] == g for b in BLOG_LIVE))
-    latest = sorted(BLOG_LIVE, key=lambda b: (b['date'], b.get('order', 0)), reverse=True)[:3]
+    blog_cards = ''.join(f'<h2 class="blogcat">{esc(chrome[key])}</h2>\n' + ''.join(post_card(b) for b in posts if b['group'] == g)
+                         for g, key in GROUPS if any(b['group'] == g for b in posts))
+    latest = sorted(posts, key=lambda b: (b['date'], b.get('order', 0)), reverse=True)[:3]
     home_blog = ''
     if latest:
-        home_blog = ('<h2 class="sec">From the blog</h2>\n<div class="reveal" style="padding:18px 0 8px">\n' + ''.join(post_card(b) for b in latest)
-                     + '<div class="postcard"><a href="/blog.html"><h3>All articles</h3></a><p>Sleep, costs, milestones, play and family life.</p></div>\n</div>\n')
-    chrome = dict(chrome, nav_blog_link=('<a href="/blog.html">Blog</a>' if BLOG_LIVE else ''))
+        home_blog = (f'<h2 class="sec">{esc(chrome["home_blog_title"])}</h2>\n<div class="reveal" style="padding:18px 0 8px">\n' + ''.join(post_card(b) for b in latest)
+                     + f'<div class="postcard"><a href="/blog.html"><h3>{esc(chrome["home_blog_all"])}</h3></a><p>{esc(chrome["home_blog_all_text"])}</p></div>\n</div>\n')
+    chrome = dict(chrome, nav_blog_link=f'<a href="/blog.html">{esc(chrome["nav_blog"])}</a>' if BLOG_LIVE else '',
+                  footer_shop_terms_link=(f'·<a href="/shop-terms.html">{esc(chrome["footer_shop_terms"])}</a>' if SELLER_READY else ''))
+    cats = {k: v['name'] for k, v in app_json(lang)['content']['shopCats'].items()} if lang != 'en' else {k: v['name'] for k, v in app_json('en')['content']['shopCats'].items()}
+    base = '' if lang == 'en' else '/' + lang
+    hoppo = dict(lang=lang, base=base, locale=LOCALE[lang].replace('_', '-'), sb=cfg['supabase_url'], key=cfg['supabase_anon_key'],
+                 get_ios=chrome['store_get_ios'], get_play=chrome['store_get_play'], cart=chrome['nav_cart'])
+    boot = '<script>window.HOPPO=' + json.dumps(hoppo, ensure_ascii=False) + '</script>'
+    shop_boot = ('<script>Object.assign(window.HOPPO,' + json.dumps(dict(ui=shop_ui, cats=cats, terms=('/shop-terms.html' if SELLER_READY else ''), email='info@hoppoapp.com'), ensure_ascii=False)
+                 + ')</script>' + (f'<script src="/assets/shop.js?v={h8(SHOPJS)}"></script>' if CSS_MODE != 'inline' else f'<script>{SHOPJS}</script>'))
+    seller_vars = {'seller_' + k: esc(SELLER.get(k, '')) for k in ('name', 'address', 'country', 'vat_id', 'email')}
+    LS = dict({'vat_line': 'VAT number: {vat}. ', 'shop_terms_sentence': '<p>Products from the Hoppo family are bought on hoppoapp.com, never inside the app. They are sold under our <a href="/shop-terms.html">terms of sale</a>.</p>'},
+              **(opt(f'lang/{lang}/legal_strings.json', {}) if lang != 'en' else {}))      # per language, written by tools/import_legal.py
+    seller_vars['seller_vat_line'] = LS['vat_line'].replace('{vat}', esc(SELLER['vat_id'])) if SELLER.get('vat_id') else ''
+    seller_vars['shop_terms_sentence'] = LS['shop_terms_sentence'] if SELLER_READY else ''
+    seller_vars.update({k: esc(v) for k, v in chrome.items() if k.startswith('stage_')})
     page_vars = dict(stores=stores, stores_hero=stores_hero, guide_count=str(len(gshared)), blog_cards=blog_cards, home_blog=home_blog,
-                     **{'guide_cards_' + k: v for k, v in groups.items()})
+                     shop_boot=shop_boot, **seller_vars, **{'guide_cards_' + k: v for k, v in groups.items()})
     gby = {'guides/' + g['slug'] + '.html': g for g in gshared}
     for pg in PAGES:
         path = pg['path']; u = url(lang, path)
@@ -188,7 +249,7 @@ def build_lang(lang):
             m = meta[path]
             body = rd(L + 'pages/' + path)
             main = render(body, page_vars, path)
-            title = m['title']; desc = m['description']
+            title = m['title'].replace('{guide_count}', str(len(gshared))); desc = m['description'].replace('{guide_count}', str(len(gshared)))
             ld = article_ld(m['headline'], desc, u, pg['date']) if pg.get('ld') == 'article' else m.get('ld')
         touch(lang, pg, u, title + '\n' + desc + '\n' + main)
         canonical = '<meta name="robots" content="noindex">' if pg.get('noindex') else f'<link rel="canonical" href="{u}">'
@@ -198,7 +259,7 @@ def build_lang(lang):
             alts += f'\n<link rel="alternate" hreflang="x-default" href="{url("en", path)}">'
         v = dict(chrome, lang=lang, title=title, description=desc, url=u, canonical=canonical + alts, og_locale=(f'\n<meta property="og:locale" content="{LOCALE[lang]}">' if len(LANGS) > 1 else ''),
                  css=css, posthog=T['posthog'], ld=(f'<script type="application/ld+json">{ld}</script>\n' if ld else ''),
-                 main=main, js=jsx)
+                 main=main, js=jsx, boot=boot)
         out = localize_links(render(T['base'], v, path), lang)
         out = out.replace('@@LANGSWITCH@@', lang_switch(lang, path, chrome)).replace('@@LANGFOOT@@', lang_footer(lang, path))
         wr(prefix(lang) + path, out); written.append(prefix(lang) + path)
@@ -232,5 +293,5 @@ if __name__ == '__main__':
     wr('sitemap.xml', sitemap())
     json.dump(dict(sorted(LM.items())), open(LM_PATH, 'w', encoding='utf-8'), indent=0)
     if CSS_MODE != 'inline':
-        wr('assets/site.css', CSS); wr('assets/site.js', JS)
+        wr('assets/site.css', CSS); wr('assets/site.js', JS); wr('assets/shop.js', SHOPJS)
     print(f'Built {len(allw)} pages in {len(LANGS)} language(s), css mode {CSS_MODE}')

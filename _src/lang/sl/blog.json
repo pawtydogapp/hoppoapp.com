@@ -1,0 +1,62 @@
+{
+ "baby-cost-first-year": {
+  "headline": "Koliko dojenček res stane v prvem letu in kaj lahko dobiš nazaj",
+  "description": "Pozabi na strašljiva povprečja. Resnični stroški prvega leta dojenčka z navedenimi datumi za Evropo in Združeno kraljestvo, 2 stroška, ki starše najbolj presenetita, in denar, ki ga lahko dobiš nazaj.",
+  "card": "Resnični stroški prvega leta po kategorijah, kaj starši obžalujejo, da so kupili, in nadomestila, ki jih lahko uveljavljaš."
+ },
+ "baby-milestones-month-by-month": {
+  "headline": "Dojenčkovi mejniki mesec za mesecem: resnični razponi od prvega nasmeha do prvega poskoka in kdaj vprašati",
+  "description": "Večina dojenčkov shodi samostojno med 8 in 18 meseci starosti. Resnični razponi mejnikov od rojstva do 5 let, pravilo 3 od 4, miti o plazenju in kdaj vprašati.",
+  "card": "Večina dojenčkov shodi med 8 in 18 meseci starosti. Resnični razponi mejnikov od rojstva do 5 let in kdaj vprašati."
+ },
+ "baby-sleep-by-age": {
+  "headline": "Spanje dojenčka po starosti, od rojstva do 5 let: kaj je normalno in zakaj »prespati noč« pomeni 6 ur",
+  "description": "38 % 6 mesecev starih dojenčkov ne spi 6 ur skupaj. Uradni razponi spanja od rojstva do 5 let, regresija pri 4 mesecih, okna budnosti in dokazi o učenju spanja.",
+  "card": "Pri 6 mesecih 38 % dojenčkov ne spi 6 ur skupaj. Resnični razponi spanja od rojstva do 5 let."
+ },
+ "back-to-work-childcare": {
+  "headline": "Vrnitev na delo po rojstvu otroka: kaj o varstvu pravijo raziskave z več kot 10.000 otroki in kako izbrati brez slabe vesti",
+  "description": "Te muči slaba vest zaradi varstva? Kaj so res ugotovile velike raziskave, jasli, varuh na domu ali varuška, seznam za ogled, kratka slovesa, črpanje mleka in prehladi.",
+  "card": "Kaj so ugotovile raziskave z več kot 10.000 otroki, seznam za ogled in nežnejša slovesa."
+ },
+ "formula-and-toddler-milk": {
+  "headline": "Izbira mlečne formule za dojenčke: česa višja cena ne kupi in ali je mleko za malčke potrebno",
+  "description": "Najdražja začetna formula stane dvakrat toliko kot najcenejša, a obe izpolnjujeta isti zakonski standard. Kaj pomenijo dodatne oznake na embalaži in zakaj mleko za malčke ni potrebno.",
+  "card": "Škatla za 6,99 £ in škatla za 14,00 £ izpolnjujeta isti zakonski standard. Tukaj je, česa dražja formula ne kupi."
+ },
+ "newborn-shopping-list": {
+  "headline": "Nakupovalni seznam za novorojenčka: 8 stvari, ki jih potrebuješ pred rojstvom, in česa bi se starši raje izognili",
+  "description": "Najbolj znani seznami imajo 48 stvari. Starši pravijo, da jih najprej potrebuješ 8. Kaj kupiti kdaj, nakupi, ki jih starši obžalujejo, kaj nikoli ni za spanje in kaj je v redu kupiti rabljeno.",
+  "card": "8 stvari, ki jih kupiš pred rojstvom, kaj lahko počaka in česa bi se starši raje izognili."
+ },
+ "newborn-visitors-grandparents": {
+  "headline": "Obiski pri novorojenčku in stari starši: 5 pravil, ki štejejo, in prijazne besede, ki ohranijo mir",
+  "description": "Herpes na ustnicah, kašelj in poljubi: 5 pravil za obiskovalce po nasvetih zdravstvenih organizacij, cepljenja, ki pomagajo, in prijazne besede za stare starše. Poleg tega še sporočilo, ki ga lahko pošlješ.",
+  "card": "5 pravil za obiskovalce, ki ščitijo novorojenčka, in prijazne besede, s katerimi jih deliš brez družinskega spora."
+ },
+ "partner-support-mental-load": {
+  "headline": "Kdo se spomni na cepljenja? Pravičen način delitve nevidnega dela po rojstvu otroka, v 15 minutah na teden",
+  "description": "V 1 ameriški raziskavi se je delovna obremenitev novih mam povečala za 2 uri na dan, očetov za 40 minut. Kako deliti opažanje in načrtovanje, ne samo opravil, preden pride do prepira.",
+  "card": "Nevidno delo po rojstvu otroka, kaj o delitvi pravijo raziskave in 15-minutna tedenska rešitev."
+ },
+ "sensory-play-by-age": {
+  "headline": "Senzorična igra po starosti, od rojstva do 5 let: preproste ideje iz stvari, ki jih že imaš, z brezplačnim izpisom",
+  "description": "Ne potrebuješ tečajev ali dragih kompletov. Preproste ideje za senzorično igro po starosti od rojstva do 5 let, cilji SZO za gibanje, 6 varnostnih pravil in brezplačen izpis na 1 strani.",
+  "card": "Dragega kompleta ne potrebuješ. Ideje za vsako starost do 5 let, varnostna pravila in tabela za hladilnik."
+ },
+ "toddler-and-newborn": {
+  "headline": "Od 1 otroka do 2: kako pripraviti malčka na novega dojenčka in 10 minut na dan, ki lahko pomagajo",
+  "description": "Stekleničke spet, ljubosumje, hranjenje z malčkom, ki pleza po tebi: kaj je normalno pri prehodu od 1 otroka do 2, kako se pripraviti in 10 minut na dan, ki vse olajšajo.",
+  "card": "Priprava malčka na novega dojenčka, nazadovanja, ki so normalna, in 10 minut na dan, ki lahko pomagajo."
+ },
+ "toddler-behaviour-gentle-or-firm": {
+  "headline": "Nežno ali odločno? 60 let raziskav daje prednost staršem, ki so oboje",
+  "description": "Nežno ali strogo? 60 let raziskav pravi, da ti ni treba izbirati. Kaj deluje pri malčkih, starih od 1 do 5 let, zakaj udarjanje ne deluje in 7 mirnih orodij za poskus.",
+  "card": "Zakaj raziskave dajejo prednost toplemu starševstvu z jasnimi mejami, plus 7 mirnih orodij za starost od 1 do 5 let."
+ },
+ "toddler-daily-routine-chart": {
+  "headline": "Malčkova rutina, ki se upogne, ne da bi se zlomila: 3 vzorčni dnevi za starost od 1 do 5 let in brezplačna tabela za tisk",
+  "description": "Struktura brez toge ure za uro: 3 prilagodljivi vzorčni dnevi za starost od 1 do 5 let na podlagi smernic SZO o spanju in igri, triki za prehode in brezplačna tabela za tisk.",
+  "card": "3 prilagodljivi vzorčni dnevi za starost od 1 do 5 let, triki za trenutke izbruhov in brezplačna tabela za tisk."
+ }
+}

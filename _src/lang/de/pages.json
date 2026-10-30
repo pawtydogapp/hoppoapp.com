@@ -1,0 +1,51 @@
+{
+ "404.html": {
+  "title": "Seite nicht gefunden | Hoppo",
+  "description": "Seite auf hoppoapp.com nicht gefunden."
+ },
+ "index.html": {
+  "title": "Hoppo: eine kleine Fähigkeit pro Woche, bis 5 Jahre",
+  "description": "Ruhige, freundliche Hilfe für Eltern. 100 kurze Fähigkeiten zum Üben von der Geburt bis 5 Jahre, 188 Meilensteine mit Erinnerungskarten, jede Schwangerschaftswoche und {guide_count} „Ist das normal?“-Ratgeber. Kostenlos.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose App für Eltern von der Schwangerschaft bis 5 Jahre: wöchentliche Fähigkeiten zum Üben, Meilensteine mit Erinnerungskarten, Schwangerschaft Woche für Woche, „Ist das normal?“-Ratgeber, Kalender, Protokolle für Schlaf, Mahlzeiten und Wachstum.\",\"url\":\"https://hoppoapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
+ },
+ "guides.html": {
+  "title": "{guide_count} „Ist das normal?“-Ratgeber für Eltern | Hoppo",
+  "description": "Kurze, geprüfte Ratgeber zu Weinen, Babyschlaf, Fieber, Zahnen, Beikost, Trotz, Töpfchentraining, Schwangerschaft und mehr. Was häufig ist, was hilft und wann du Hilfe holst."
+ },
+ "support.html": {
+  "title": "Support | Hoppo",
+  "description": "Hilfe zur Hoppo App: zu früh geboren, Baby ist da, mehr als 1 Kind, gemeinsame Konten, Fotos, Erinnerungen und Konto löschen."
+ },
+ "shop.html": {
+  "title": "Shop | Hoppo",
+  "description": "Angebote von Partnershops für Babys, Kleinkinder und Eltern, nach Land gefiltert."
+ },
+ "cart.html": {
+  "title": "Warenkorb | Hoppo",
+  "description": "Dein Warenkorb im Hoppo Shop."
+ },
+ "product.html": {
+  "title": "Produkt | Hoppo",
+  "description": "Ein Hoppo Familienprodukt."
+ },
+ "order-complete.html": {
+  "title": "Danke | Hoppo",
+  "description": "Deine Hoppo Bestellung ist bestätigt."
+ },
+ "privacy.html": {
+  "title": "Datenschutzerklärung | Hoppo",
+  "description": "So geht Hoppo mit deinen Daten um: ausdrückliche Einwilligung für Gesundheitsdaten, Fotos, die auf deinem Handy bleiben, Speicherung in der EU, Werbeoptionen und deine Rechte nach der DSGVO."
+ },
+ "terms.html": {
+  "title": "Nutzungsbedingungen | Hoppo",
+  "description": "Nutzungsbedingungen für die Hoppo Eltern-App, einschließlich des medizinischen Haftungsausschlusses und der Regeln zu Affiliate-Links."
+ },
+ "shop-terms.html": {
+  "title": "Verkaufsbedingungen | Hoppo",
+  "description": "Verkaufsbedingungen für Produkte der Hoppo-Familie: Preise, Lieferung in der EU, das Widerrufsrecht von 14 Tagen, mangelhafte Ware und Gutscheincodes."
+ },
+ "partners.html": {
+  "title": "Partner von Hoppo werden | Hoppo",
+  "description": "Erreiche Eltern von der Schwangerschaft bis 5 Jahre über den Hoppo Shop. Affiliate-Links über Awin oder Gutscheincodes, angezeigt in der App und auf dieser Website."
+ }
+}
