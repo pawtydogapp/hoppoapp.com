@@ -12,7 +12,7 @@
   "guide_back": "Wszystkie poradniki",
   "guide_disclaimer": "Ten poradnik zawiera ogólne informacje i nie jest poradą medyczną. Zaufaj swojej intuicji. Jeśli się martwisz, skontaktuj się z lekarzem, położną lub pediatrą. Poradnik jest sprawdzony na podstawie źródeł NHS, Światowej Organizacji Zdrowia (WHO), Amerykańskiej Akademii Pediatrii (AAP) i innych publicznych źródeł zdrowotnych.",
   "guide_cta_title": "Ten poradnik jest też w aplikacji Hoppo",
-  "guide_cta_text": "Hoppo ma 100 krótkich umiejętności do ćwiczenia od narodzin do 5 lat, pamiątkowe karty z 188 kamieniami milowymi, każdy tydzień ciąży od 4 do 40 oraz kalendarz z dziennikami snu, karmienia i wzrastania. Za darmo, bez subskrypcji.",
+  "guide_cta_text": "Hoppo ma 200 krótkich umiejętności do ćwiczenia od narodzin do 10 lat, pamiątkowe karty z 214 kamieniami milowymi, każdy tydzień ciąży od 4 do 40 oraz kalendarz z dziennikami snu, karmienia i wzrastania. Za darmo, bez subskrypcji.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Niemowlę, 0 do 12 miesięcy",
   "stage_any": "Niemowlęta i małe dzieci",
@@ -82,8 +82,8 @@
    "description": "Nie znaleziono strony w hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: mała umiejętność co tydzień, od ciąży do 5 lat",
-   "description": "Spokojna, życzliwa pomoc dla rodziców. 100 krótkich umiejętności od narodzin do 5 lat, 188 kamieni milowych z kartami pamiątkowymi, każdy tydzień ciąży i {guide_count} poradników „Czy to normalne?” Za darmo."
+   "title": "Hoppo: mała umiejętność co tydzień, od ciąży do 10 lat",
+   "description": "Spokojna, życzliwa pomoc dla rodziców. 200 krótkich umiejętności od narodzin do 10 lat, 214 kamieni milowych z kartami pamiątkowymi, każdy tydzień ciąży i {guide_count} poradników „Czy to normalne?” Za darmo."
   },
   "guides.html": {
    "title": "{guide_count} poradników „Czy to normalne?” dla rodziców | Hoppo",
@@ -108,14 +108,18 @@
   "order-complete.html": {
    "title": "Dziękujemy | Hoppo",
    "description": "Twoje zamówienie w Hoppo zostało potwierdzone."
+  },
+  "blog.html": {
+   "title": "Blog Hoppo: szczere odpowiedzi dla rodziców, od ciąży do 10 lat",
+   "description": "Artykuły o śnie, kosztach pierwszego roku, gościach u noworodka, mleku modyfikowanym, zabawach sensorycznych, rytmie dnia, szkole i rodzinie. Ze źródłami, bez produktów."
   }
  },
- "ld": "Darmowa aplikacja dla rodziców od ciąży do 5 lat: cotygodniowe umiejętności do ćwiczenia, kamienie milowe z kartami pamiątkowymi, ciąża tydzień po tygodniu, poradniki „Czy to normalne?”, kalendarz oraz dzienniki snu, karmienia i wzrastania.",
+ "ld": "Darmowa aplikacja dla rodziców od ciąży do 10 lat: cotygodniowe umiejętności do ćwiczenia, kamienie milowe z kartami pamiątkowymi, ciąża tydzień po tygodniu, poradniki „Czy to normalne?”, kalendarz oraz dzienniki snu, karmienia i wzrastania.",
  "units": {
   "index.html": {
    "0": "Hoppo, przyjazny fioletowy hipopotam",
-   "2": "<strong>Spokojna, życzliwa pomoc od ciąży do 5 lat.</strong> 5 minut zabawy w tygodniu, która buduje prawdziwą umiejętność, i karta pamiątkowa dla każdego kamienia milowego.",
-   "3": "Ekran startowy Hoppo z misją tygodnia, Podciąganie do stania, dla 9-miesięcznego dziecka",
+   "2": "<strong>Spokojna, życzliwa pomoc od ciąży do 10 lat.</strong> 5 minut zabawy w tygodniu, która buduje prawdziwą umiejętność, i karta pamiątkowa dla każdego kamienia milowego.",
+   "3": "Ekran startowy Hoppo z misją tygodnia, Rzut zza głowy do celu, dla 7-letniego dziecka",
    "5": "Za darmo na iPhone i Androida. Bez subskrypcji.",
    "6": "umiejętności do ćwiczenia",
    "7": "kamieni milowych",
@@ -123,7 +127,7 @@
    "9": "poradników „Czy to normalne?”",
    "10": "Jak to wygląda",
    "11": "Przesuń, aby zobaczyć więcej",
-   "12": "Misja tygodnia dla 9-miesięcznego dziecka, z pomysłem na 5 minut ćwiczeń",
+   "12": "Misja tygodnia dla 7-letniego dziecka, z pomysłem na 5 minut ćwiczeń",
    "13": "1 misja w tygodniu",
    "14": "Zakładka Wspomnienia z odhaczonymi i datowanymi kamieniami milowymi",
    "15": "Kamienie milowe i wspomnienia",
@@ -131,11 +135,11 @@
    "17": "Ciąża tydzień po tygodniu",
    "18": "Lista tygodni ciąży z obrazkiem rozmiaru dziecka w każdym tygodniu",
    "19": "Każdy tydzień od 4 do 40",
-   "20": "Biblioteka umiejętności posortowana według wieku, z oznaczeniami rozpoczęte i opanowane",
-   "21": "100 umiejętności według wieku",
-   "22": "Poradniki „Czy to normalne?” z wyszukiwarką i filtrami dla ciąży, niemowlęcia i malucha",
+   "20": "Biblioteka umiejętności posortowana według roku życia, z oznaczeniem w trakcie",
+   "21": "200 umiejętności według wieku",
+   "22": "Poradniki „Czy to normalne?” z wyszukiwarką i filtrami od ciąży do wieku szkolnego",
    "23": "Poradniki „Czy to normalne?”",
-   "24": "Poradnik o wysokiej temperaturze, z tym, co jest typowe i co może pomóc",
+   "24": "Poradnik o odrabianiu lekcji, z tym, co jest typowe i co może pomóc",
    "25": "Jasne kolejne kroki",
    "26": "Wykres wagi z zakresem referencyjnym Światowej Organizacji Zdrowia",
    "27": "Wzrastanie z siatkami WHO",
@@ -149,9 +153,9 @@
    "35": "Twoje zdjęcia zostają w telefonie",
    "36": "Zdjęcia kamieni milowych nigdy nie są przesyłane. Dane twojego konta są przechowywane w Unii Europejskiej i w każdej chwili możesz je wszystkie usunąć z aplikacji.",
    "37": "Co jest w środku",
-   "38": "100 umiejętności, od narodzin do 5 lat",
+   "38": "200 umiejętności, od narodzin do 10 lat",
    "39": "Leżenie na brzuszku, pierwsze słowa, nalewanie, guziki, czekanie na swoją kolej. Każda umiejętność ma proste kroki, błędy, których warto unikać, i inne sposoby ćwiczenia.",
-   "40": "188 kamieni milowych",
+   "40": "214 kamieni milowych",
    "41": "Odhacz pierwszy uśmiech, pierwsze kroki i pierwszy ząbek. Dodaj zdjęcie i udostępnij bliskim kartę pamiątkową.",
    "42": "Ciąża tydzień po tygodniu",
    "43": "Każdy tydzień od 4 do 40 prostymi słowami, z rozmiarem dziecka porównanym do owocu lub warzywa, pytaniami do położnej i listą rzeczy do torby do szpitala.",
@@ -223,6 +227,11 @@
   "product.html": {
    "1": "Sklep wymaga JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Blog Hoppo",
+   "1": "Szczere odpowiedzi na pytania, które rodzice zadają najczęściej, od pierwszych tygodni do 10 lat. Prawdziwe przedziały, prawdziwe liczby i żadnych produktów do sprzedania.",
+   "2": "Każdy artykuł podaje źródła i jest sprawdzony na podstawie wytycznych zdrowia publicznego, takich jak brytyjska służba zdrowia (NHS), Światowa Organizacja Zdrowia (WHO) i Amerykańska Akademia Pediatrii (AAP). To ogólne informacje, a nie porada medyczna."
+  }
  }
 }

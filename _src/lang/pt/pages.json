@@ -4,9 +4,9 @@
   "description": "Página não encontrada em hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: uma pequena competência por semana, da gravidez aos 5 anos",
-  "description": "Ajuda calma e amiga para pais. 100 competências curtas para praticar do nascimento aos 5 anos, 188 marcos com cartões de recordação, todas as semanas de gravidez e {guide_count} guias Isto é normal? Gratuito.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita para pais da gravidez aos 5 anos: competências semanais para praticar, marcos com cartões de recordação, gravidez semana a semana, guias Isto é normal?, calendário, registos de sono, refeições e crescimento.\",\"url\":\"https://hoppoapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
+  "title": "Hoppo: uma pequena competência por semana, da gravidez aos 10 anos",
+  "description": "Ajuda calma e amiga para pais. 200 competências curtas para praticar do nascimento aos 10 anos, 214 marcos com cartões de recordação, todas as semanas de gravidez e {guide_count} guias Isto é normal? Gratuito.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita para pais da gravidez aos 10 anos: competências semanais para praticar, marcos com cartões de recordação, gravidez semana a semana, guias Isto é normal?, calendário, registos de sono, refeições e crescimento.\",\"url\":\"https://hoppoapp.com/pt/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pt\"}"
  },
  "guides.html": {
   "title": "{guide_count} guias Isto é normal? para pais | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Faz parceria com o Hoppo | Hoppo",
-  "description": "Chega aos pais da gravidez aos 5 anos através da Loja Hoppo. Links de afiliados via Awin ou códigos promocionais, mostrados na app e neste site."
+  "description": "Chega aos pais da gravidez aos 10 anos através da Loja Hoppo. Links de afiliados via Awin ou códigos promocionais, mostrados na app e neste site."
+ },
+ "blog.html": {
+  "title": "O blogue Hoppo: respostas honestas para pais, da gravidez aos 10 anos",
+  "description": "Artigos sobre sono do bebé, custos do primeiro ano, visitas ao recém-nascido, leite adaptado, brincadeira sensorial e anos escolares. Com fontes e sem links de produtos."
  }
 }

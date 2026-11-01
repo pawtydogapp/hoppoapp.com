@@ -58,5 +58,45 @@
   "headline": "La routine del bambino che si piega senza spezzarsi: 3 giornate di esempio da 1 a 5 anni, e una tabella da stampare gratis",
   "description": "Struttura senza orari rigidi: 3 giornate di esempio flessibili da 1 a 5 anni basate sulle indicazioni dell'OMS su sonno e gioco, trucchi per i passaggi difficili e una tabella da stampare gratis.",
   "card": "3 giornate di esempio flessibili da 1 a 5 anni, trucchi per i momenti di crisi e una tabella gratis da stampare."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "Da 9 a 12 ore di sonno, e 1 su 20 fa ancora la pipì a letto a 10 anni: cosa aiuta i bambini da 5 a 10 anni di notte",
+  "description": "I bambini da 6 a 12 anni hanno bisogno di 9-12 ore di sonno. Circa 1 su 5 fa la pipì a letto a 5 anni e 1 su 20 a 10. Cosa aiuta secondo NICE, NHS ed ERIC, e quando rivolgersi al medico di famiglia (GP).",
+  "card": "Quante ore di sonno servono ai bambini, schermi e paure notturne, e perché la pipì a letto tra 5 e 10 anni è comune e curabile"
+ },
+ "starting-school-homework": {
+  "headline": "Iniziare la scuola senza battaglie: la regola dei 10 minuti per i compiti e cosa è normale nel primo trimestre",
+  "description": "Le crisi dopo la scuola sono normali, la preparazione riguarda l'autonomia in bagno e non la lettura, e le prove a favore dei compiti alla primaria sono deboli: circa 10 minuti a sera per ogni classe USA è una guida comune.",
+  "card": "Crisi, falsi miti sulla preparazione e regola dei 10 minuti per i compiti, verificati su AAP, NHS ed EEF."
+ },
+ "screen-time-first-phone": {
+  "headline": "A 11 anni il 91% dei bambini britannici ha un telefono: cosa dicono OMS, AAP e nuove ricerche sugli schermi da 5 a 10 anni",
+  "description": "OMS, AAP e RCPCH non fissano un limite giornaliero al tempo davanti agli schermi dopo i 5 anni, i dispositivi a letto sono legati a probabilità circa doppie di dormire troppo poco, e il 91% dei bambini britannici ha un telefono a 11 anni.",
+  "card": "Limiti al tempo davanti agli schermi, classificazioni PEGI, divieti di telefono a scuola e primo telefono, verificati su OMS, AAP e Ofcom."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 bambini su 4 hanno paure. Come distinguere la preoccupazione di ogni giorno dall'ansia che ha bisogno di aiuto",
+  "description": "3 bambini su 4 da 4 a 12 anni riferiscono paure, e il 15,7% dei bambini da 8 a 10 anni in Inghilterra ha un probabile disturbo mentale. Segnali, rifiuto della scuola e cosa aiuta.",
+  "card": "Preoccupazione normale o ansia? Segnali, mal di pancia da scuola, 8 strumenti che aiutano e quando chiedere al medico di famiglia."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "La pubertà può iniziare a 8 anni: come parlare di corpo, mestruazioni e privacy prima che inizi",
+  "description": "La pubertà può iniziare a 8 anni nelle femmine e a 9 nei maschi. Intervalli normali, quando andare dal medico di famiglia (GP), le 5 regole PANTS per la sicurezza, le basi sulle mestruazioni e risposte calme alle domande imbarazzanti.",
+  "card": "Età normali della pubertà, segnali per il medico di famiglia, regole PANTS per la sicurezza del corpo e risposte calme per bambini da 7 a 10 anni."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Litigio o bullismo? Al 4° anno di scuola il 15% dei bambini riferisce di subire bullismo circa ogni settimana. 3 criteri per distinguerli",
+  "description": "Litigio o bullismo? 3 criteri: ripetuto, intenzionale, squilibrio di potere. Al 4° anno di scuola il 15% subisce bullismo circa ogni settimana. Frasi da usare, passi con la scuola, aiuto.",
+  "card": "3 criteri per distinguere un normale litigio dal bullismo, più le parole da usare e i passi con la scuola."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Bambini schizzinosi a tavola da 5 a 10 anni: la schizzinosità si dimezza a 6 anni, e 15 assaggi calmi valgono più di 1 battaglia a tavola",
+  "description": "La schizzinosità scende dal 27,6% a 3 anni al 13,2% a 6. Perché 15 assaggi calmi valgono più delle pressioni, idee per il pranzo al sacco, limiti di zucchero e le nuove regole 2027 sul cibo scolastico.",
+  "card": "Perché la schizzinosità si dimezza a 6 anni, perché 15 assaggi calmi valgono più delle pressioni, e pranzi al sacco con meno zucchero."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Fino a 8 litigi tra fratelli all'ora: come fare da arbitro con equità, fissare regole di casa e gestire paghetta e bugie",
+  "description": "Fino a 8 litigi all'ora tra i 4 e gli 8 anni, e il 32% dei bambini subisce aggressioni da un fratello o una sorella in un anno. Come fare da arbitro, riconoscere il bullismo, restare equi e gestire le bugie.",
+  "card": "Litigi tra fratelli, equità, faccende, paghetta e bugie: cosa dice la ricerca e cosa dire."
  }
 }

@@ -12,7 +12,7 @@
   "guide_back": "Alle Ratgeber",
   "guide_disclaimer": "Dieser Ratgeber enthält allgemeine Informationen und ist kein medizinischer Rat. Vertrau deinem Gefühl. Wenn du dir Sorgen machst, wende dich an deine Ärztin, deinen Arzt oder deine Hebamme. Dieser Ratgeber wurde mit dem NHS, der Weltgesundheitsorganisation (WHO), der American Academy of Pediatrics (AAP) und weiteren öffentlichen Gesundheitsquellen abgeglichen.",
   "guide_cta_title": "Dieser Ratgeber ist auch in der Hoppo App",
-  "guide_cta_text": "Hoppo bietet 100 kurze Fähigkeiten zum Üben von der Geburt bis 5 Jahre, Erinnerungskarten für 188 Meilensteine, jede Schwangerschaftswoche von 4 bis 40 und einen Kalender mit Protokollen für Schlaf, Mahlzeiten und Wachstum. Kostenlos und ohne Abo.",
+  "guide_cta_text": "Hoppo bietet 200 kurze Fähigkeiten zum Üben von der Geburt bis zum Alter von 10 Jahren, Erinnerungskarten für 214 Meilensteine, jede Schwangerschaftswoche von 4 bis 40 und einen Kalender mit Protokollen für Schlaf, Mahlzeiten und Wachstum. Kostenlos und ohne Abo.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Baby, 0 bis 12 Monate",
   "stage_any": "Babys und Kleinkinder",
@@ -84,8 +84,8 @@
    "description": "Seite auf hoppoapp.com nicht gefunden."
   },
   "index.html": {
-   "title": "Hoppo: eine kleine Fähigkeit pro Woche, bis 5 Jahre",
-   "description": "Ruhige, freundliche Hilfe für Eltern. 100 kurze Fähigkeiten zum Üben von der Geburt bis 5 Jahre, 188 Meilensteine mit Erinnerungskarten, jede Schwangerschaftswoche und {guide_count} „Ist das normal?“-Ratgeber. Kostenlos."
+   "title": "Hoppo: eine kleine Fähigkeit pro Woche, von der Schwangerschaft bis zum Alter von 10 Jahren",
+   "description": "Ruhige, freundliche Hilfe für Eltern. 200 kurze Fähigkeiten zum Üben von der Geburt bis zum Alter von 10 Jahren, 214 Meilensteine mit Erinnerungskarten, jede Schwangerschaftswoche und {guide_count} „Ist das normal?“-Ratgeber. Kostenlos."
   },
   "guides.html": {
    "title": "{guide_count} „Ist das normal?“-Ratgeber für Eltern | Hoppo",
@@ -110,14 +110,18 @@
   "order-complete.html": {
    "title": "Danke | Hoppo",
    "description": "Deine Hoppo Bestellung ist bestätigt."
+  },
+  "blog.html": {
+   "title": "Hoppo-Blog: ehrliche Antworten, von der Schwangerschaft bis 10 Jahre",
+   "description": "Artikel zu Babyschlaf, Kosten im ersten Jahr, Besuch bei Neugeborenen, Pre-Nahrung, Spielen, Routinen und Schulzeit. Mit Quellen und ohne Produktlinks."
   }
  },
- "ld": "Kostenlose App für Eltern von der Schwangerschaft bis 5 Jahre: wöchentliche Fähigkeiten zum Üben, Meilensteine mit Erinnerungskarten, Schwangerschaft Woche für Woche, „Ist das normal?“-Ratgeber, Kalender, Protokolle für Schlaf, Mahlzeiten und Wachstum.",
+ "ld": "Kostenlose App für Eltern von der Schwangerschaft bis zum Alter von 10 Jahren: wöchentliche Fähigkeiten zum Üben, Meilensteine mit Erinnerungskarten, Schwangerschaft Woche für Woche, „Ist das normal?“-Ratgeber, Kalender, Protokolle für Schlaf, Mahlzeiten und Wachstum.",
  "units": {
   "index.html": {
    "0": "Hoppo, ein freundliches lila Nilpferd",
-   "2": "<strong>Ruhige, freundliche Hilfe von der Schwangerschaft bis 5 Jahre.</strong> 5 Minuten Spiel pro Woche, die eine echte Fähigkeit aufbauen, und eine Erinnerungskarte für jeden Meilenstein.",
-   "3": "Der Hoppo Startbildschirm mit der Mission dieser Woche, Sich hochziehen und stehen, für ein 9 Monate altes Kind",
+   "2": "<strong>Ruhige, freundliche Hilfe von der Schwangerschaft bis zum Alter von 10 Jahren.</strong> 5 Minuten Spiel pro Woche, die eine echte Fähigkeit aufbauen, und eine Erinnerungskarte für jeden Meilenstein.",
+   "3": "Der Hoppo Startbildschirm mit der Mission dieser Woche, Über die Schulter aufs Ziel werfen, für ein 7 Jahre altes Kind",
    "5": "Kostenlos für iPhone und Android. Ohne Abo.",
    "6": "Fähigkeiten zum Üben",
    "7": "Meilensteine",
@@ -125,7 +129,7 @@
    "9": "„Ist das normal?“-Ratgeber",
    "10": "So sieht es aus",
    "11": "Wische für mehr",
-   "12": "Die Mission dieser Woche für ein 9 Monate altes Kind, mit einer Übungsidee für 5 Minuten",
+   "12": "Die Mission dieser Woche für ein 7 Jahre altes Kind, mit einer Übungsidee für 5 Minuten",
    "13": "1 Mission pro Woche",
    "14": "Der Reiter Momente mit abgehakten und datierten Meilensteinen",
    "15": "Meilensteine und Momente",
@@ -133,11 +137,11 @@
    "17": "Schwangerschaft Woche für Woche",
    "18": "Die Liste der Schwangerschaftswochen mit einem Bild der Babygröße für jede Woche",
    "19": "Jede Woche von 4 bis 40",
-   "20": "Die Fähigkeitenbibliothek nach Alter sortiert, mit den Markierungen begonnen und gemeistert",
-   "21": "100 Fähigkeiten nach Alter",
-   "22": "Die Ratgeber „Ist das normal?“ mit Suche und Filtern für Schwangerschaft, Baby und Kleinkind",
+   "20": "Die Fähigkeitenbibliothek nach Lebensjahr sortiert, mit der Markierung begonnen",
+   "21": "200 Fähigkeiten nach Alter",
+   "22": "Die Ratgeber „Ist das normal?“ mit Suche und Filtern von der Schwangerschaft bis zum Schulalter",
    "23": "„Ist das normal?“-Ratgeber",
-   "24": "Der Ratgeber zu erhöhter Temperatur, mit dem, was häufig ist, und dem, was helfen kann",
+   "24": "Der Ratgeber zu Hausaufgaben, mit dem, was häufig ist, und dem, was helfen kann",
    "25": "Klare nächste Schritte",
    "26": "Eine Gewichtskurve mit dem Referenzbereich der Weltgesundheitsorganisation",
    "27": "Wachstum mit WHO Kurven",
@@ -151,9 +155,9 @@
    "35": "Deine Fotos bleiben auf deinem Handy",
    "36": "Meilensteinfotos werden nie hochgeladen. Deine Kontodaten werden in der Europäischen Union gespeichert, und du kannst sie jederzeit in der App komplett löschen.",
    "37": "Das steckt drin",
-   "38": "100 Fähigkeiten, von der Geburt bis 5",
+   "38": "200 Fähigkeiten, von der Geburt bis zum Alter von 10 Jahren",
    "39": "Bauchlage, erste Wörter, Eingießen, Knöpfe, abwechselnd dran sein. Jede Fähigkeit hat einfache Schritte, typische Fehler und andere Wege zum Üben.",
-   "40": "188 Meilensteine",
+   "40": "214 Meilensteine",
    "41": "Hak das erste Lächeln, die ersten Schritte und den ersten Zahn ab. Füge ein Foto hinzu und teile eine Erinnerungskarte mit der Familie.",
    "42": "Schwangerschaft Woche für Woche",
    "43": "Jede Woche von 4 bis 40 in einfachen Worten, mit der Größe deines Babys als Obst oder Gemüse aus dem Alltag, Fragen an deine Hebamme und einer Checkliste für die Kliniktasche.",
@@ -226,6 +230,11 @@
   "product.html": {
    "1": "Der Shop braucht JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Der Hoppo-Blog",
+   "1": "Ehrliche Antworten auf die Fragen, die Eltern am häufigsten stellen, von den ersten Wochen bis 10. Echte Spannen, echte Zahlen und keine Produkte zu verkaufen.",
+   "2": "Jeder Artikel nennt seine Quellen und wird mit öffentlichen Gesundheitsempfehlungen abgeglichen, zum Beispiel vom NHS, der Weltgesundheitsorganisation (WHO) und der American Academy of Pediatrics (AAP). Das sind allgemeine Informationen, keine medizinische Beratung."
+  }
  }
 }

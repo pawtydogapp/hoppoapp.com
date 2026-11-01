@@ -43,7 +43,6 @@
   "Average length": "Durată medie",
   "Average per day": "Media pe zi",
   "Baby": "Bebeluș",
-  "Baby arrived": "Bebelușul a sosit",
   "Baby's name or nickname (optional)": "Numele sau porecla bebelușului (opțional)",
   "Back": "Înapoi",
   "Bag": "Bagaj",
@@ -96,6 +95,7 @@
   "Demo mode": "Mod demo",
   "Demo mode: password reset emails work in the full app.": "Mod demo: e-mailurile de resetare a parolei funcționează în aplicația completă.",
   "Dirty": "Murdar",
+  "Dirty per day": "Murdare pe zi",
   "Does not repeat": "Nu se repetă",
   "Done for this week.": "Gata pentru săptămâna aceasta.",
   "Done, rate it": "Gata, evaluează",
@@ -163,8 +163,9 @@
   "Hoppo says": "Hoppo spune",
   "Hoppo tips": "Sfaturi Hoppo",
   "Hospital bag": "Bagajul pentru maternitate",
+  "Hour": "Ora",
   "How did it go?": "Cum a mers?",
-  "I agree to the terms and conditions. I explicitly consent to Hoppo storing pregnancy and child health details I add, such as due dates, growth, sleep and feeding, so the app can work.": "Sunt de acord cu termenii și condițiile. Îmi dau consimțământul explicit ca Hoppo să stocheze datele despre sarcină și sănătatea copilului pe care le adaug, cum ar fi data probabilă a nașterii, creșterea, somnul și hrănirea, pentru ca aplicația să funcționeze.",
+  "I agree to the {terms} and the {privacy}.": "Accept {terms} și {privacy}.",
   "I already have an account. Log in": "Am deja un cont. Conectează-te",
   "I felt a movement": "Am simțit o mișcare",
   "I have a family code": "Am un cod de familie",
@@ -176,6 +177,7 @@
   "Join": "Alătură-te",
   "Join a family": "Alătură-te unei familii",
   "Join our family in Hoppo: open More, Family, and type the code {code}. It works for 48 hours.": "Alătură-te familiei noastre în Hoppo: deschide Mai mult, Familie și introdu codul {code}. Funcționează 48 de ore.",
+  "Keep screen on": "Ecranul rămâne aprins",
   "Keepsake card": "Card-amintire",
   "Kicks": "Mișcări",
   "Labour": "Travaliu",
@@ -195,6 +197,7 @@
   "Log in": "Conectează-te",
   "Log out": "Deconectează-te",
   "Main menu": "Meniu principal",
+  "Marks a must-have item.": "Marchează un lucru esențial.",
   "Mastered": "Stăpânită",
   "Maybe later": "Poate mai târziu",
   "Meals": "Mese",
@@ -219,6 +222,7 @@
   "Name": "Nume",
   "Nap": "Somn de zi",
   "Nappies": "Scutece",
+  "Nappies this week: {n}.": "Scutece săptămâna aceasta: {n}.",
   "Naps": "Somnuri de zi",
   "New appointment": "Programare nouă",
   "New password": "Parola nouă",
@@ -236,6 +240,7 @@
   "No consent form is available right now.": "Momentan nu este disponibil niciun formular de consimțământ.",
   "No consent form is required for your region right now.": "Momentan nu este necesar niciun formular de consimțământ pentru regiunea ta.",
   "No guide found. Try another word.": "Niciun ghid găsit. Încearcă alt cuvânt.",
+  "No nappies logged this week.": "Nu ai notat niciun scutec săptămâna aceasta.",
   "Non-personalised": "Nepersonalizate",
   "Not now": "Nu acum",
   "Not today": "Nu azi",
@@ -260,6 +265,7 @@
   "Password changed. Log in with the new one.": "Parola a fost schimbată. Conectează-te cu cea nouă.",
   "Password needs at least 6 characters.": "Parola trebuie să aibă cel puțin 6 caractere.",
   "Pause": "Pauză",
+  "Per day": "Pe zi",
   "Permanently deletes your account, your children's profiles, logs and calendar. Photos on this phone are removed when you uninstall the app.": "Șterge definitiv contul, profilurile copiilor, jurnalele și calendarul. Fotografiile de pe acest telefon sunt eliminate când dezinstalezi aplicația.",
   "Phone notifications are off.": "Notificările pe telefon sunt oprite.",
   "Phone notifications are on.": "Notificările pe telefon sunt pornite.",
@@ -366,12 +372,13 @@
   "The current time is filled in for you. Leave the end empty if your child is still asleep.": "Ora actuală este completată deja. Lasă sfârșitul gol dacă copilul încă doarme.",
   "The date of birth cannot be in the future.": "Data nașterii nu poate fi în viitor.",
   "The due date is in the past. If your baby has arrived, choose \"Child\".": "Data probabilă a trecut. Dacă bebelușul a sosit, alege „Copil”.",
-  "The due date is in the past. If your baby has arrived, tap \"Baby arrived\" on Home.": "Data probabilă a trecut. Dacă bebelușul a sosit, atinge „Bebelușul a sosit” pe Acasă.",
+  "The due date is in the past. If your baby has arrived, tap \"Has your baby arrived?\" below.": "Data estimată a nașterii a trecut. Dacă bebelușul a sosit, atinge mai jos „A sosit bebelușul?”.",
   "The end must be after the start.": "Sfârșitul trebuie să fie după început.",
   "The guide for this week is being written. The size picture is already here.": "Ghidul pentru această săptămână este în lucru. Imaginea cu dimensiunea este deja aici.",
   "The new password must be different from the current one.": "Parola nouă trebuie să fie diferită de cea actuală.",
   "The passwords do not match.": "Parolele nu se potrivesc.",
   "The reference band is slightly different for girls and boys. To set your child's sex, open their profile in More. Until then, the girls' band is shown.": "Banda de referință diferă puțin pentru fete și băieți. Pentru a seta sexul copilului, deschide profilul său în Mai mult. Până atunci este afișată banda pentru fete.",
+  "The screen stays on while Hoppo is open. During a timer it stays on anyway.": "Ecranul rămâne aprins cât timp Hoppo este deschis. Când rulează un cronometru, rămâne aprins oricum.",
   "The start cannot be in the future.": "Începutul nu poate fi în viitor.",
   "There is no set number of kicks. What matters is your own baby's usual pattern. Use this to get to know it.": "Nu există un număr fix de lovituri. Contează tiparul obișnuit al bebelușului tău. Folosește acest instrument ca să-l cunoști.",
   "This cannot be undone.": "Această acțiune nu poate fi anulată.",
@@ -416,6 +423,7 @@
   "Welcome to the world, {name}. Take your time and rest when you can. Hoppo now follows {name}'s first year.": "Bine ai venit pe lume, {name}. Ia-o încet și odihnește-te când poți. Hoppo urmărește acum primul an al lui {name}.",
   "Wet": "Ud",
   "Wet and dirty": "Ud și murdar",
+  "Wet per day": "Ude pe zi",
   "What can help": "Ce poate ajuta",
   "What is common": "Ce este frecvent",
   "Where your data is stored": "Unde sunt stocate datele tale",
@@ -451,7 +459,6 @@
   "to": "până la",
   "today": "azi",
   "tomorrow": "mâine",
-  "{a} of {b} must-haves": "Esențiale: {a} din {b}",
   "{a} wet · {b} dirty": "Ude: {a} · Murdare: {b}",
   "{name} has mastered \"{skill}\". Well done, both of you. It is now ticked in Memories.": "{name} stăpânește acum „{skill}”. Bravo amândurora. Am bifat-o în Amintiri.",
   "{n} min after the one before": "la {n} min după cea anterioară",
@@ -459,7 +466,12 @@
   "{n} ml from bottles": "Biberon: {n} ml",
   "{n} ml pumped": "Muls: {n} ml",
   "{n} weeks in a row. Well done.": "Săptămâni la rând: {n}. Bravo.",
-  "{what} chart with the reference range": "Grafic: {what}, cu intervalul de referință"
+  "{what} chart with the reference range": "Grafic: {what}, cu intervalul de referință",
+  "Earlier: {list}": "Anterior: {list}",
+  "Hoppo covers children up to age 10.": "Hoppo este pentru copiii de până la 10 ani.",
+  "Last time: {date}": "Ultima dată: {date}",
+  "Made with {paw} in Slovenia": "Făcut cu {paw} în Slovenia",
+  "Reference: World Health Organization (WHO) Child Growth Standards, and the WHO Growth Reference from 5 years.": "Referință: Standardele de creștere a copilului ale Organizației Mondiale a Sănătății (OMS) și Referința de creștere OMS de la 5 ani."
  },
  "plural": {
   "Averages use the {n} day with entries.|Averages use the {n} days with entries.": {
@@ -521,6 +533,11 @@
    "one": "{n} mișcare",
    "few": "{n} mișcări",
    "other": "{n} de mișcări"
+  },
+  "{n} session in total|{n} sessions in total": {
+   "one": "{n} sesiune în total",
+   "few": "{n} sesiuni în total",
+   "other": "{n} de sesiuni în total"
   }
  },
  "content": {
@@ -691,7 +708,11 @@
     }
    },
    "bike": {
-    "title": "A mers pe bicicletă fără roți ajutătoare"
+    "title": "A mers pe bicicletă fără roți ajutătoare",
+    "card": {
+     "h": "Și a pornit",
+     "m": "{name} a mers pe bicicletă fără roți ajutătoare. Echilibru, pedale și la drum."
+    }
    },
    "rollerblades": {
     "title": "A mers cu rolele"
@@ -703,7 +724,11 @@
     "title": "A schiat"
    },
    "swims_alone": {
-    "title": "A înotat fără aripioare"
+    "title": "A înotat fără aripioare",
+    "card": {
+     "h": "Mișcare cu mișcare",
+     "m": "{name} a înotat câteva mișcări fără aripioare. Curaj și bucurie."
+    }
    },
    "balance_line": {
     "title": "A mers pe o linie",
@@ -970,7 +995,11 @@
     }
    },
    "joke": {
-    "title": "A spus prima glumă"
+    "title": "A spus prima glumă",
+    "card": {
+     "h": "Ora de comedie",
+     "m": "{name} a spus prima glumă. Încă râdem."
+    }
    },
    "follows_toy": {
     "title": "A urmărit o jucărie cu privirea",
@@ -1211,7 +1240,11 @@
     }
    },
    "knife": {
-    "title": "A folosit cuțitul"
+    "title": "A folosit cuțitul",
+    "card": {
+     "h": "Mâini de bucătar",
+     "m": "{name} și-a uns pâinea prăjită cu cuțitul. Micul dejun, făcut de mine."
+    }
    },
    "cutlery": {
     "title": "A mâncat o masă întreagă cu cuțitul și furculița"
@@ -1488,6 +1521,188 @@
    },
    "kindergarten": {
     "title": "Prima zi la grădiniță"
+   },
+   "writes_name": {
+    "title": "Și-a scris numele întreg",
+    "card": {
+     "h": "Semnat de mine",
+     "m": "{name} și-a scris azi numele întreg. Fiecare literă la locul ei."
+    }
+   },
+   "packs_bag": {
+    "title": "Și-a făcut ghiozdanul",
+    "card": {
+     "h": "Totul e gata",
+     "m": "{name} și-a făcut ghiozdanul fără ajutor. Gata pentru ziua care urmează."
+    }
+   },
+   "jump_rope": {
+    "title": "A sărit coarda fără ajutor",
+    "card": {
+     "h": "Iar și iar",
+     "m": "{name} a sărit coarda fără ajutor. Învârte, sari, învârte, sari."
+    }
+   },
+   "reads_book": {
+    "title": "Mi-a citit o carte scurtă",
+    "card": {
+     "h": "Poveste citită de mine",
+     "m": "{name} mi-a citit o carte întreagă. Mi-a plăcut fiecare pagină."
+    }
+   },
+   "ties_laces": {
+    "title": "Și-a legat șireturile",
+    "card": {
+     "h": "Fă bucla și trage",
+     "m": "{name} și-a legat șireturile fără ajutor. 2 funde frumoase și pornim."
+    }
+   },
+   "makes_snack": {
+    "title": "Și-a pregătit gustarea",
+    "card": {
+     "h": "Făcut de mine",
+     "m": "{name} și-a pregătit gustarea fără ajutor. A fost și mai bună."
+    }
+   },
+   "swims_10m": {
+    "title": "A înotat 10 metri",
+    "card": {
+     "h": "10 metri",
+     "m": "{name} a înotat 10 metri. Mișcări sigure până la capăt."
+    }
+   },
+   "writes_card": {
+    "title": "A scris o felicitare fără ajutor",
+    "card": {
+     "h": "Cu drag",
+     "m": "{name} a scris o felicitare fără ajutor. Vorbe frumoase, scrise cu mâna sa."
+    }
+   },
+   "pays_shop": {
+    "title": "A plătit la magazin",
+    "card": {
+     "h": "Poftiți",
+     "m": "{name} a plătit la casa magazinului. A numărat monedele și a spus mulțumesc."
+    }
+   },
+   "road_ride": {
+    "title": "A mers cu bicicleta pe o stradă liniștită, cu un adult",
+    "card": {
+     "h": "Pe stradă",
+     "m": "{name} a mers cu bicicleta cu mine pe o stradă liniștită. Casca pe cap, ochii înainte."
+    }
+   },
+   "chapter_book": {
+    "title": "A citit o carte cu capitole",
+    "card": {
+     "h": "Sfârșit",
+     "m": "{name} a citit o carte întreagă cu capitole. Câte un capitol pe rând."
+    }
+   },
+   "phone_call": {
+    "title": "A dat un telefon",
+    "card": {
+     "h": "Alo, eu sunt",
+     "m": "{name} a dat un telefon fără ajutor. Cuvinte clare și o voce prietenoasă."
+    }
+   },
+   "saves_up": {
+    "title": "A strâns bani pentru ceva",
+    "card": {
+     "h": "A meritat așteptarea",
+     "m": "{name} a strâns bani și și-a cumpărat ceva special. Răbdarea s-a răsplătit."
+    }
+   },
+   "swims_25m": {
+    "title": "A înotat 25 de metri",
+    "card": {
+     "h": "O lungime întreagă",
+     "m": "{name} a înotat 25 de metri. Mișcare după mișcare, până la capăt."
+    }
+   },
+   "walks_alone": {
+    "title": "A mers fără însoțitor până la un prieten",
+    "card": {
+     "h": "Pe cont propriu",
+     "m": "{name} a mers fără însoțitor până acasă la un prieten. Am exersat împreună, iar copilul era pregătit."
+    }
+   },
+   "cooks_meal": {
+    "title": "A gătit o masă pentru familie",
+    "card": {
+     "h": "Masa e servită",
+     "m": "{name} a gătit o masă pentru familie. Mulțumim pentru masă."
+    }
+   },
+   "school": {
+    "title": "Prima zi de școală",
+    "card": {
+     "h": "Zile de școală",
+     "m": "{name} a început azi școala. Un pas mare și o inimă curajoasă."
+    }
+   },
+   "school_trip": {
+    "title": "Prima excursie cu școala",
+    "card": {
+     "h": "Pornim",
+     "m": "{name} a fost în excursie cu școala. Atâtea de povestit acasă."
+    }
+   },
+   "sleepover": {
+    "title": "Prima noapte dormită la un prieten",
+    "card": {
+     "h": "Noapte la un prieten",
+     "m": "{name} a dormit peste noapte la un prieten. Curaj, bucurie și apoi din nou acasă."
+    }
+   },
+   "sports_club": {
+    "title": "A intrat într-un club sportiv",
+    "card": {
+     "h": "Spirit de echipă",
+     "m": "{name} a intrat într-un club sportiv. Prieteni noi și mișcări noi."
+    }
+   },
+   "first_match": {
+    "title": "Primul meci",
+    "card": {
+     "h": "Să înceapă jocul",
+     "m": "{name} a jucat într-un meci adevărat. Am încurajat tot timpul."
+    }
+   },
+   "music_lesson": {
+    "title": "Prima lecție de muzică",
+    "card": {
+     "h": "Primele note",
+     "m": "{name} a avut prima lecție de muzică. Începutul a ceva minunat."
+    }
+   },
+   "on_stage": {
+    "title": "A cântat sau a jucat pe scenă",
+    "card": {
+     "h": "O plecăciune",
+     "m": "{name} a urcat pe scenă cu un spectacol. Noi am aplaudat cel mai tare."
+    }
+   },
+   "library_card": {
+    "title": "Primul permis de bibliotecă",
+    "card": {
+     "h": "Permisul meu de bibliotecă",
+     "m": "{name} și-a primit propriul permis de bibliotecă. Atâtea cărți din care să aleagă."
+    }
+   },
+   "pocket_money": {
+    "title": "Primii bani de buzunar",
+    "card": {
+     "h": "Banii mei",
+     "m": "{name} a primit primii bani de buzunar. Puțin de cheltuit, puțin de pus deoparte."
+    }
+   },
+   "summer_camp": {
+    "title": "Prima tabără de vară",
+    "card": {
+     "h": "Zile de tabără",
+     "m": "{name} a fost în tabăra de vară. Prieteni noi și povești de împărtășit."
+    }
    }
   },
   "tips": {
@@ -2585,6 +2800,231 @@
    },
    "t365": {
     "text": "Oboseală după grădiniță? Sari peste misiune și jucați-vă ce vrea copilul."
+   },
+   "s01": {
+    "text": "Bine ai venit în anii de școală. Abilitățile noi din Învață acoperă cititul, banii, gătitul și multe altele."
+   },
+   "s02": {
+    "text": "Roagă copilul să aleagă abilitatea săptămânii din Învață. Copiii se străduiesc mai mult la ce au ales ei."
+   },
+   "s03": {
+    "text": "Începe cu o abilitate pe care copilul aproape o stăpânește. O reușită rapidă dă încredere pentru cele mai grele."
+   },
+   "s04": {
+    "text": "Găsește un moment fix pentru misiuni, de exemplu sâmbătă dimineața sau după cină. O rutină te ajută să nu uiți."
+   },
+   "s05": {
+    "text": "Etapă nouă, aceeași idee. Scurt, distractiv și te oprești înainte să se plictisească cineva."
+   },
+   "s06": {
+    "text": "Oboseală după școală? Mai întâi o gustare și puțină liniște. Misiunea poate aștepta până la weekend."
+   },
+   "s07": {
+    "text": "Unele săptămâni sunt pline de școală, cluburi și vizite. Poți sări peste o misiune, nu e nicio problemă."
+   },
+   "s08": {
+    "text": "Toanele de după școală sunt foarte obișnuite. Mulți copii se țin tare toată ziua și se descarcă acasă."
+   },
+   "s09": {
+    "text": "Puțină energie în seara asta? Jucați 1 joc scurt de cărți. Tot e timp bine petrecut."
+   },
+   "s10": {
+    "text": "Seară grea? O îmbrățișare și o culcare devreme pot face mai mult decât orice lecție."
+   },
+   "s11": {
+    "text": "Te-ai săturat să spui același lucru în fiecare dimineață? Fă o listă cu imagini lângă ușă și las-o pe ea să amintească."
+   },
+   "s12": {
+    "text": "Zilele de boală și vacanțele strică rutina. Reia când viața e mai liniștită."
+   },
+   "s13": {
+    "text": "Nu trebuie să umpli fiecare după-amiază. Zilele de odihnă îi ajută pe copii și pe părinți."
+   },
+   "s14": {
+    "text": "Exersează o abilitate nouă câte puțin în fiecare zi. Exercițiul scurt merge mai bine decât o sesiune lungă."
+   },
+   "s15": {
+    "text": "Când ceva e greu, împarte-l în pași mici. Exersați câte 1 pas pe rând."
+   },
+   "s16": {
+    "text": "Adaugă cuvântul „încă”: „Încă nu pot.” Acest cuvânt mic ține vie dorința de a încerca."
+   },
+   "s17": {
+    "text": "Lasă copilul să își verifice mai întâi lucrul fără ajutor. Și găsirea greșelilor e o abilitate."
+   },
+   "s18": {
+    "text": "Ține o listă cu lucrurile pe care copilul le-a învățat anul acesta. Citiți-o împreună când ceva pare greu."
+   },
+   "s19": {
+    "text": "Repetă o misiune care i-a plăcut copilului. Să o facă din nou, cu mai multă încredere, e un progres adevărat."
+   },
+   "s20": {
+    "text": "Pregătiți ghiozdanul cu o seară înainte. Diminețile liniștite încep din seara dinainte."
+   },
+   "s21": {
+    "text": "Pune un ceas acolo unde copilul îl vede dimineața. Așa învață să urmărească ora."
+   },
+   "s22": {
+    "text": "Pune o întrebare concretă după școală, de exemplu „Cu cine ai stat la masa de prânz?”. Primești mai mult decât „Bine”."
+   },
+   "s23": {
+    "text": "Unii copii vorbesc despre școală la culcare, nu la poartă. Lasă loc pentru amândouă."
+   },
+   "s24": {
+    "text": "Amenajează un colț liniștit pentru teme, cu creion, hârtie și lumină bună. Ține ecranele departe cât lucrează."
+   },
+   "s25": {
+    "text": "Ajută la teme punând întrebări, nu dând răspunsuri. Apoi lasă copilul să încerce."
+   },
+   "s26": {
+    "text": "Păstrează legătura cu învățătoarea sau învățătorul. O discuție scurtă și prietenoasă poate rezolva din timp grijile mici."
+   },
+   "s27": {
+    "text": "Uitați-vă împreună la lucrările de la școală și găsiți 1 lucru de care copilul e mândru."
+   },
+   "s28": {
+    "text": "Citește în continuare cu voce tare, chiar și când copilul poate citi fără ajutor. Poveștile mai grele aduc cuvinte noi."
+   },
+   "s29": {
+    "text": "Citiți pe rând câte o pagină. Copilul citește 1, tu o citești pe următoarea."
+   },
+   "s30": {
+    "text": "Benzile desenate, cărțile cu glume și cele cu curiozități despre animale contează toate ca lectură."
+   },
+   "s31": {
+    "text": "Fă-i copilului propriul permis de bibliotecă. Când alege cărți fără ajutor, se simte mare."
+   },
+   "s32": {
+    "text": "Întreabă despre poveste, nu ca la test: „Ce personaj ți-ar plăcea să îți fie prieten?”"
+   },
+   "s33": {
+    "text": "Lasă copilul să te vadă citind. Copiii imită ce văd acasă."
+   },
+   "s34": {
+    "text": "Dacă un cuvânt e greu, așteaptă câteva secunde înainte să ajuți. Dă-i copilului timp să îl silabisească."
+   },
+   "s35": {
+    "text": "Jucați jocuri de cărți împreună. Numărat, planificat și ținut minte, toate sunt exersare ascunsă."
+   },
+   "s36": {
+    "text": "Lasă cel puțin 1 după-amiază pe săptămână fără cluburi și planuri. Copiii au nevoie de timp să se odihnească și să se joace în felul lor."
+   },
+   "s37": {
+    "text": "Construiți ceva mare din cutii, cuburi sau pături. Lasă copilul să fie șeful planului."
+   },
+   "s38": {
+    "text": "Jucați un joc de cuvinte la cină, de exemplu animale de la A la Z."
+   },
+   "s39": {
+    "text": "Când copilul e supărat, ascultă mai întâi și rezolvă mai târziu. Ascultarea îi ajută emoțiile să se liniștească."
+   },
+   "s40": {
+    "text": "Numește-ți uneori propriile emoții: „Am emoții pentru mâine.” Copilul învață că e normal."
+   },
+   "s41": {
+    "text": "Unele griji ies la iveală doar la culcare. Păstrează câteva minute liniștite pentru o discuție înainte de stingerea luminii."
+   },
+   "s42": {
+    "text": "Povestește-i copilului despre greșelile pe care le-ai făcut în copilărie. Îi arată că toată lumea greșește."
+   },
+   "s43": {
+    "text": "După un moment greu, întreabă „Ce am putea încerca data viitoare?”. Căutați idei împreună."
+   },
+   "s44": {
+    "text": "Dacă o grijă durează săptămâni sau încurcă viața de zi cu zi, vorbește cu școala sau cu medicul copilului."
+   },
+   "s45": {
+    "text": "Întreabă despre prieteni cu curiozitate, nu cu îngrijorare: „Ce v-ați jucat azi tu și prietenii tăi?”"
+   },
+   "s46": {
+    "text": "Micile certuri cu prietenii fac parte din creștere. Ascultă mai întâi, apoi ajută copilul să se gândească la un pas următor."
+   },
+   "s47": {
+    "text": "Invită un coleg de clasă la joacă. Timpul petrecut în afara școlii ajută prieteniile să crească."
+   },
+   "s48": {
+    "text": "Exersați cuvinte pentru momente dificile, cum ar fi „Pot să mă joc și eu?” sau „Te rog, oprește-te, nu îmi place.”"
+   },
+   "s49": {
+    "text": "Observă când copilul e un prieten bun. Spune-i ce ai văzut."
+   },
+   "s50": {
+    "text": "Copiii de 6 până la 12 ani au nevoie de 9 până la 12 ore de somn pe noapte. O oră fixă de culcare ajută."
+   },
+   "s51": {
+    "text": "Păstrează aceeași oră de culcare în serile dinaintea zilelor de școală. O rutină liniștită, baie, carte și pat, ajută somnul să vină."
+   },
+   "s52": {
+    "text": "Ține telefoanele, tabletele și televizorul în afara dormitorului noaptea. Somnul vine mai ușor fără ele."
+   },
+   "s53": {
+    "text": "Stabiliți reguli pentru ecrane în familie și scrieți-le. Reguli clare înseamnă mai puține certuri."
+   },
+   "s54": {
+    "text": "Păstrați unele momente fără ecrane pentru toată lumea, cum ar fi mesele și drumul spre școală."
+   },
+   "s55": {
+    "text": "Roagă copilul să îți arate jocul sau videoclipul preferat. Privitul împreună deschide discuții bune."
+   },
+   "s56": {
+    "text": "Spune-i copilului că poate veni oricând la tine dacă ceva online i se pare în neregulă. Nu va avea probleme pentru că ți-a spus."
+   },
+   "s57": {
+    "text": "Folosește un cronometru pentru timpul petrecut la ecrane. Când sună, cronometrul spune stop, nu tu."
+   },
+   "s58": {
+    "text": "OMS recomandă în medie cel puțin 60 de minute pe zi de activitate care îi face pe copiii de 5 până la 17 ani să respire mai repede. Alergatul, mersul pe bicicletă și dansul contează toate."
+   },
+   "s59": {
+    "text": "Mergeți împreună pe jos o parte din drumul spre școală, dacă se poate. Drumurile active se adună."
+   },
+   "s60": {
+    "text": "Cățăratul, săriturile și țopăitul întăresc mușchii și oasele. OMS recomandă acest tip de joacă în cel puțin 3 zile pe săptămână."
+   },
+   "s61": {
+    "text": "Ieșiți afară pe orice vreme, cu hainele potrivite. Bălțile și vântul fac plimbarea mai distractivă."
+   },
+   "s62": {
+    "text": "Încercați un sport sau o activitate nouă doar de distracție. E suficient să încerce, nu contează dacă îi iese bine."
+   },
+   "s63": {
+    "text": "Întrerupe perioadele lungi de stat jos. Un dans scurt în bucătărie pune corpul în mișcare."
+   },
+   "s64": {
+    "text": "Dă-i copilului 1 treabă fixă acasă, cum ar fi să hrănească un animal de companie sau să ude plantele."
+   },
+   "s65": {
+    "text": "Lasă copilul să își aleagă hainele pentru școală cu o seară înainte."
+   },
+   "s66": {
+    "text": "Acceptă că treburile nu ies perfect. Un pat puțin strâmb e tot un pat făcut."
+   },
+   "s67": {
+    "text": "Lasă copilul să își toarne băutura și să își strângă farfuria fără ajutor. Treburile mici construiesc independența."
+   },
+   "s68": {
+    "text": "Înainte să intervii, întreabă „Ce ai putea încerca?”. Lasă copilul să rezolve mai întâi problemele mici."
+   },
+   "s69": {
+    "text": "Lasă copilul să plătească la casa magazinului, cu tine alături. Monedele adevărate fac matematica reală."
+   },
+   "s70": {
+    "text": "Lasă copilul să aibă un cuvânt de spus în micile planuri ale familiei, cum ar fi cina de vineri sau plimbarea de weekend."
+   },
+   "s71": {
+    "text": "Laudă ce a făcut copilul: „Ai continuat chiar dacă a fost greu.” Așa știe ce să facă din nou."
+   },
+   "s72": {
+    "text": "Progresul e adesea lent, apoi brusc. Continuă și ai răbdare."
+   },
+   "s73": {
+    "text": "Mulțumește-i copilului când ajută fără să i se ceară. Contează să vadă că observi."
+   },
+   "s74": {
+    "text": "Păstrează o lucrare de la începutul anului școlar. Uitați-vă la ea împreună vara."
+   },
+   "s75": {
+    "text": "Lasă copilul să te audă când îl lauzi în fața altcuiva."
    }
   },
   "focusAreas": {
@@ -2596,6 +3036,9 @@
    },
    "hands": {
     "name": "Mâini și gândire"
+   },
+   "life": {
+    "name": "Viața de zi cu zi"
    }
   },
   "years": {
@@ -2613,35 +3056,41 @@
    },
    "5": {
     "name": "Anul 5"
+   },
+   "6": {
+    "name": "Anul 6"
+   },
+   "7": {
+    "name": "Anul 7"
+   },
+   "8": {
+    "name": "Anul 8"
+   },
+   "9": {
+    "name": "Anul 9"
+   },
+   "10": {
+    "name": "Anul 10"
    }
   },
   "families": {
-   "move": {
-    "name": "Mișcare"
-   },
-   "talk": {
-    "name": "Vorbire și cuvinte"
-   },
-   "creative": {
-    "name": "Mâini și creativitate"
+   "family": {
+    "name": "Familie și prieteni"
    },
    "food": {
     "name": "Mâncare"
    },
-   "teeth": {
-    "name": "Dinți"
+   "move": {
+    "name": "Mișcare"
    },
-   "care": {
-    "name": "Autonomie"
+   "talk": {
+    "name": "Vorbire"
    },
-   "family": {
-    "name": "Familie și prieteni"
+   "creative": {
+    "name": "Creativitate"
    },
    "travel": {
-    "name": "Locuri și călătorii"
-   },
-   "firsts": {
-    "name": "Prima dată"
+    "name": "Călătorii"
    }
   },
   "genericCard": {
@@ -2719,6 +3168,27 @@
    },
    {
     "name": "NHS, Sănătatea bebelușului și a copilului: febra, răcelile, iritația de scutec, constipația"
+   },
+   {
+    "name": "American Academy of Pediatrics (AAP) HealthyChildren.org, Școlarul (5 până la 12 ani)"
+   },
+   {
+    "name": "AAP HealthyChildren.org, Obiceiuri sănătoase de somn: de câte ore de somn are nevoie copilul tău?"
+   },
+   {
+    "name": "Centers for Disease Control and Prevention (CDC), Informații despre copiii mici (4 până la 11 ani)"
+   },
+   {
+    "name": "Ghidurile OMS privind activitatea fizică și comportamentul sedentar (copii și adolescenți de 5 până la 17 ani)"
+   },
+   {
+    "name": "NHS, Recomandări de activitate fizică pentru copii și tineri"
+   },
+   {
+    "name": "Raising Children Network: vârsta școlară (5 până la 8 ani)"
+   },
+   {
+    "name": "Organizația Mondială a Sănătății (OMS), Date de referință pentru creștere, 5 până la 19 ani"
    }
   ],
   "bag": {
@@ -5151,6 +5621,2328 @@
      "Un cântec de periaj de 2 minute.",
      "Un abțibild pentru fiecare periaj de seară."
     ]
+   },
+   "skip": {
+    "name": "Țopăit vesel",
+    "goal": "Țopăie înainte, cu un pas și un mic salt pe fiecare picior.",
+    "why": "Țopăitul dezvoltă ritmul, echilibrul și coordonarea dintre cele două părți ale corpului.",
+    "steps": [
+     "Găsește un spațiu liber și plan, cum ar fi o alee sau un hol.",
+     "Arată mișcarea încet: pas, salt, apoi pas, salt pe celălalt picior.",
+     "Spuneți ritmul cu voce tare, împreună: „Pas, salt, pas, salt.”",
+     "Țineți-vă de mână și țopăiți unul lângă altul câțiva pași.",
+     "Lasă copilul să încerce fără ajutor, în timp ce tu bați ritmul din palme.",
+     "Laudă încercarea, chiar dacă se transformă într-un galop."
+    ],
+    "avoid": [
+     "Podelele ude sau alunecoase.",
+     "Graba de a merge repede înainte ca ritmul să devină ușor.",
+     "Să compari copilul cu alți copii."
+    ],
+    "success": "Copilul face 4 pași de țopăit la rând.",
+    "ways": [
+     "Țopăit până la mașină sau până la magazin.",
+     "Țopăit pe cântecul preferat.",
+     "Un joc de „urmează liderul”, țopăind."
+    ]
+   },
+   "catch_small": {
+    "name": "Aruncă și prinde o minge mică",
+    "goal": "Aruncă și prinde o minge mică cu mâinile, nu cu pieptul.",
+    "why": "Prinsul unei mingi mici ascute coordonarea mână-ochi, folosită în joacă și în sport.",
+    "steps": [
+     "Folosește o minge moale, cam cât o portocală.",
+     "Stați la 2 metri unul de altul.",
+     "Arată cum se țin ambele mâini pregătite, cu degetele deschise.",
+     "Aruncă ușor, de jos, spre mâinile copilului.",
+     "Spune „Privește mingea” înainte de fiecare aruncare.",
+     "Fă un pas înapoi după 3 prinderi reușite."
+    ],
+    "avoid": [
+     "Mingile tari, care lovesc dureros dacă nu sunt prinse.",
+     "Aruncările rapide sau înalte.",
+     "Joaca lângă ferestre sau lângă drumuri."
+    ],
+    "success": "Copilul prinde mingea de 3 ori cu mâinile.",
+    "ways": [
+     "Aruncarea mingii în perete și prinderea ei.",
+     "O pereche de șosete făcute ghem, în casă.",
+     "Numărați împreună prinderile reușite la rând."
+    ]
+   },
+   "bike_no_stab": {
+    "name": "Bicicleta fără roți ajutătoare",
+    "goal": "Își ține echilibrul și pedalează pe o bicicletă fără roți ajutătoare.",
+    "why": "Mersul pe bicicletă dezvoltă echilibrul, forța și încrederea. Copiii învață asta la vârste foarte diferite.",
+    "steps": [
+     "Pune-i casca de fiecare dată și verifică dacă se potrivește bine.",
+     "Alege un loc plan și deschis, departe de drumuri, cum ar fi o alee în parc.",
+     "Coboară șaua astfel încât ambele picioare să atingă solul.",
+     "Lasă copilul să se împingă întâi cu picioarele și să alunece.",
+     "Când alunecarea devine ușoară, adaugă pedalele, în timp ce tu mergi foarte aproape.",
+     "Opriți-vă cât încă e distractiv."
+    ],
+    "avoid": [
+     "Mersul pe bicicletă fără cască.",
+     "Drumurile, pantele și aleile aglomerate.",
+     "Să dai drumul bicicletei fără să-i spui întâi copilului."
+    ],
+    "success": "Copilul pedalează 5 metri fără ajutor, fără roți ajutătoare.",
+    "ways": [
+     "Alunecare cu pedalele scoase.",
+     "Mers cu bicicleta între 2 copaci din parc.",
+     "Exersarea pornirii și a opririi."
+    ]
+   },
+   "swim_strokes": {
+    "name": "Câteva mișcări de înot",
+    "goal": "Face câteva mișcări de înot fără aripioare, cu un adult chiar alături.",
+    "why": "Primele abilități de înot dau încredere în apă. Lecțiile și supravegherea atentă îi țin pe copii în siguranță.",
+    "steps": [
+     "Mergeți la o piscină supravegheată, iar tu rămâi în apă cu copilul.",
+     "Stai tot timpul la o distanță la care îl poți atinge cu mâna.",
+     "Exersați bătăile din picioare în timp ce copilul se ține de margine.",
+     "Ține copilul ușor de sub burtică și lasă-l să dea din mâini și din picioare.",
+     "Dă-i drumul pentru 2 sau 3 mișcări, apoi prinde copilul.",
+     "Laudă încercarea și opriți-vă înainte să-i fie frig copilului sau să obosească."
+    ],
+    "avoid": [
+     "Să lași copilul în apă sau lângă apă, chiar și pentru o clipă.",
+     "Apele deschise, cum ar fi lacurile, râurile sau marea.",
+     "Să împingi un copil speriat să meargă mai departe."
+    ],
+    "success": "Copilul face 3 mișcări de înot până la tine, fără aripioare.",
+    "ways": [
+     "Lecții de înot cu un instructor calificat.",
+     "Înot de la perete până la tine.",
+     "Jocuri cu bătăi din picioare, ținându-se de o placă de înot."
+    ]
+   },
+   "rope_jump_low": {
+    "name": "Sari peste o sfoară joasă",
+    "goal": "Sare peste o sfoară joasă cu picioarele lipite.",
+    "why": "Săriturile întăresc picioarele, echilibrul și simțul ritmului, necesare mai târziu pentru jocurile cu coarda.",
+    "steps": [
+     "Întinde o sfoară sau o eșarfă pe jos, pe iarbă sau pe covor.",
+     "Arată o săritură cu picioarele lipite.",
+     "Lasă copilul să sară peste ea înainte.",
+     "Ridică sfoara câțiva centimetri, ținută lejer, ca să cadă dacă e atinsă.",
+     "Încercați și săritura laterală peste ea."
+    ],
+    "avoid": [
+     "Să legi sfoara de ceva.",
+     "Podelele tari sau alunecoase.",
+     "Să ridici sfoara prea sus prea repede."
+    ],
+    "success": "Copilul sare de 3 ori peste o sfoară joasă, cu picioarele lipite.",
+    "ways": [
+     "Sărituri peste un „râu” făcut din 2 sfori.",
+     "Sărituri peste crăpăturile din trotuar.",
+     "Sărituri în și din cercuri."
+    ]
+   },
+   "name_feeling": {
+    "name": "Numește emoția",
+    "goal": "Folosește cuvinte pentru emoții, cum ar fi bucurie, tristețe, furie sau îngrijorare.",
+    "why": "Numirea unei emoții îi ajută pe copii să se liniștească și să ceară ajutor. Este un prim pas în gestionarea emoțiilor.",
+    "steps": [
+     "Alege un moment liniștit, nu unul de criză.",
+     "Faceți împreună fețe în oglindă: veselă, tristă, furioasă, speriată.",
+     "Roagă copilul să ghicească fiecare emoție.",
+     "Povestește una dintre emoțiile tale de azi.",
+     "Întreabă: „Cum te-ai simțit azi?”",
+     "Acceptă orice răspuns, fără să-l corectezi."
+    ],
+    "avoid": [
+     "Să spui că o emoție e greșită sau prostească.",
+     "Să întrebi în timpul unei crize de furie.",
+     "Prea multe cuvinte pentru emoții deodată."
+    ],
+    "success": "Copilul numește 1 emoție proprie.",
+    "ways": [
+     "Discuții despre ce simte un personaj dintr-o carte.",
+     "O verificare a emoțiilor la culcare.",
+     "Desenarea unei fețe pentru ziua de azi."
+    ]
+   },
+   "wait_turn_talk": {
+    "name": "Așteaptă-ți rândul la vorbă",
+    "goal": "Așteaptă o pauză înainte să vorbească, de cele mai multe ori.",
+    "why": "Așteptarea rândului la vorbă ajută conversațiile, prieteniile și învățatul în grup.",
+    "steps": [
+     "Alege un obiect mic, cum ar fi o lingură, ca „lingura vorbitoare”.",
+     "Explică: vorbește doar cine o ține în mână.",
+     "Spuneți pe rând câte un lucru despre ziua voastră.",
+     "Dă-o mai departe când termini.",
+     "Laudă copilul pentru că a așteptat, chiar dacă a fost puțin."
+    ],
+    "avoid": [
+     "Rândurile lungi, care pun răbdarea la încercare.",
+     "Să cerți copilul pentru că întrerupe.",
+     "Să întrerupi tu copilul."
+    ],
+    "success": "Copilul își așteaptă rândul de 2 ori.",
+    "ways": [
+     "Lingura vorbitoare la cină.",
+     "O discuție în familie, în mașină.",
+     "Vorbitul pe rând la un telefon de jucărie."
+    ]
+   },
+   "say_sorry": {
+    "name": "Cere iertare și împacă-te",
+    "goal": "Își cere iertare și face ceva frumos ca să se împace după o problemă.",
+    "why": "Împăcarea îi învață pe copii să repare prieteniile și să le pese de ce simt ceilalți.",
+    "steps": [
+     "Așteaptă până se liniștește toată lumea.",
+     "Vorbiți despre ce s-a întâmplat și despre ce a simțit celălalt.",
+     "Întreabă: „Ce ai putea spune sau face ca să ajuți?”",
+     "Lasă copilul să aleagă cuvintele, de exemplu „Îmi pare rău că te-am împins.”",
+     "Adăugați un gest frumos, cum ar fi împărțirea unei jucării.",
+     "Arată-i copilului cum îți ceri și tu iertare."
+    ],
+    "avoid": [
+     "Să forțezi un „îmi pare rău” în toiul momentului.",
+     "Să faci copilul de rușine.",
+     "Predicile lungi."
+    ],
+    "success": "Copilul își cere iertare și face 1 gest frumos.",
+    "ways": [
+     "Împăcarea după o ceartă între frați.",
+     "Exersarea cu jucării sau marionete.",
+     "Un desen de „îmi pare rău”."
+    ]
+   },
+   "tell_joke": {
+    "name": "Spune o glumă",
+    "goal": "Spune o glumă simplă și face o pauză înainte de poantă.",
+    "why": "Glumele dezvoltă limbajul, simțul momentului și bucuria de a râde împreună.",
+    "steps": [
+     "Spune-i copilului o glumă simplă și scurtă.",
+     "Explică de ce e amuzantă, dacă e nevoie.",
+     "Exersați-o împreună, încet.",
+     "Lasă copilul să ți-o spună ție.",
+     "Râzi și spune mulțumesc."
+    ],
+    "avoid": [
+     "Glumele care râd de alți oameni.",
+     "Să corectezi gluma în timp ce o spune.",
+     "Glumele lungi, greu de ținut minte."
+    ],
+    "success": "Copilul spune o glumă de la început până la sfârșit.",
+    "ways": [
+     "O glumă la cină.",
+     "O ghicitoare în mașină.",
+     "Inventați împreună o glumă trăsnită."
+    ]
+   },
+   "retell_trip": {
+    "name": "Povestește o ieșire în ordine",
+    "goal": "Povestește în ordinea corectă ce s-a întâmplat la o ieșire.",
+    "why": "Ordonarea întâmplărilor dezvoltă memoria, limbajul și primele abilități de povestire.",
+    "steps": [
+     "După o ieșire, stați împreună pentru o scurtă discuție.",
+     "Întreabă: „Ce am făcut mai întâi?”",
+     "Apoi întreabă: „Ce s-a întâmplat după aceea?”",
+     "Încheie cu: „Ce am făcut la sfârșit?”",
+     "Folosește cuvintele întâi, apoi și la sfârșit.",
+     "Ajută cu un mic indiciu dacă copilul se blochează."
+    ],
+    "avoid": [
+     "Prea multe întrebări la rând.",
+     "Să corectezi detaliile mărunte.",
+     "Să întrebi când copilul e obosit."
+    ],
+    "success": "Copilul povestește 3 părți ale ieșirii, în ordine.",
+    "ways": [
+     "Răsfoirea fotografiilor din ziua respectivă.",
+     "Povestirea ieșirii unei alte rude.",
+     "Desenarea a 3 imagini, în ordine."
+    ]
+   },
+   "write_name": {
+    "name": "Scrie-ți numele",
+    "goal": "Își scrie prenumele cu litere care se pot citi.",
+    "why": "Scrierea propriului nume este un prim pas în scris, un motiv de mândrie, și ajută la școală.",
+    "steps": [
+     "Scrie numele copilului cu litere mari.",
+     "Arată fiecare literă și spune-o.",
+     "Lasă copilul să treacă peste ea cu degetul, apoi cu creionul.",
+     "Roagă copilul să o copieze dedesubt.",
+     "Începeți cu o literă mare, apoi continuați cu litere mici."
+    ],
+    "avoid": [
+     "Să scrii toate literele de tipar mari.",
+     "Sesiunile lungi de exersare.",
+     "Să atragi atenția asupra fiecărei litere strâmbe."
+    ],
+    "success": "Copilul își scrie prenumele fără să copieze.",
+    "ways": [
+     "Scrierea numelui pe un desen.",
+     "Scris în nisip sau cu degetul pe un geam aburit.",
+     "Etichetarea cutiei de prânz."
+    ]
+   },
+   "count_20": {
+    "name": "Numără până la 20",
+    "goal": "Numără cu voce tare de la 1 la 20, în ordine.",
+    "why": "Numărarea până la 20 pune bazele adunării, scăderii și înțelegerii numerelor mai mari.",
+    "steps": [
+     "Numărați mai întâi împreună până la 10.",
+     "Apoi numărați încet de la 10 la 20.",
+     "Bateți din palme sau săriți la fiecare număr.",
+     "Lasă copilul să conducă numărătoarea.",
+     "Ajută la numerele mai dificile, cum ar fi 13 și 15."
+    ],
+    "avoid": [
+     "Testele sau întrebările de verificare.",
+     "Să continui când copilul își pierde interesul.",
+     "Corectarea aspră."
+    ],
+    "success": "Copilul numără până la 20 fără ajutor.",
+    "ways": [
+     "Numărarea treptelor.",
+     "Numărat în timpul spălatului pe mâini.",
+     "Numărarea săriturilor sau a pașilor la plimbare."
+    ]
+   },
+   "add_objects": {
+    "name": "Adunare cu obiecte",
+    "goal": "Adună 2 grupuri mici de obiecte și spune câte sunt în total.",
+    "why": "Adunarea cu obiecte reale dă sens numerelor înainte de lucrul pe hârtie.",
+    "steps": [
+     "Pune 2 grupuri mici de obiecte, de exemplu 3 nasturi și 2 nasturi.",
+     "Numărați împreună fiecare grup.",
+     "Împingeți grupurile laolaltă.",
+     "Întreabă: „Câți sunt acum?”",
+     "Lasă copilul să-i numere pe toți.",
+     "Încercați o nouă pereche de grupuri."
+    ],
+    "avoid": [
+     "Obiectele mici, când frații mai mici sunt prin preajmă.",
+     "Scrierea calculelor prea devreme.",
+     "Numerele mari înainte ca cele mici să devină ușoare."
+    ],
+    "success": "Copilul adună corect 2 grupuri, până la 10.",
+    "ways": [
+     "Adunarea merelor din sacoșa de cumpărături.",
+     "Adunarea mașinuțelor de jucărie.",
+     "Adunarea degetelor de la 2 mâini."
+    ]
+   },
+   "cut_line": {
+    "name": "Taie pe linie",
+    "goal": "Taie de-a lungul unei linii drepte cu o foarfecă pentru copii.",
+    "why": "Tăiatul întărește mâna și controlul mișcărilor, ceea ce ajută și la scris.",
+    "steps": [
+     "Dă-i o foarfecă pentru copii și o fâșie de hârtie.",
+     "Desenează pe ea o linie dreaptă, groasă.",
+     "Arată cum se ține foarfeca: degetul mare deasupra.",
+     "Lasă copilul să taie încet de-a lungul liniei.",
+     "Dacă e nevoie, se rotește hârtia, nu foarfeca."
+    ],
+    "avoid": [
+     "Foarfecele ascuțite pentru adulți.",
+     "Mersul cu foarfeca în mână.",
+     "Hârtia subțire sau tare."
+    ],
+    "success": "Copilul taie de-a lungul unei linii de 10 centimetri.",
+    "ways": [
+     "Decuparea imaginilor din pliante vechi.",
+     "Tăierea unei fâșii de hârtie în bucăți.",
+     "Tăierea plastilinei cu foarfeca."
+    ]
+   },
+   "draw_shapes": {
+    "name": "Desenează un pătrat și un triunghi",
+    "goal": "Copiază un pătrat și un triunghi, cu colțuri clare.",
+    "why": "Desenarea formelor dezvoltă controlul creionului și ajută la formarea literelor.",
+    "steps": [
+     "Desenează încet un pătrat, în timp ce copilul se uită.",
+     "Numărați laturile împreună: 1, 2, 3, 4.",
+     "Lasă copilul să-l copieze.",
+     "Faceți la fel cu un triunghi și cele 3 laturi ale sale.",
+     "Laudă colțurile, chiar dacă sunt strâmbe."
+    ],
+    "avoid": [
+     "Doar trasul pe contur, fără desen liber.",
+     "Prea multe forme deodată.",
+     "Notarea desenelor."
+    ],
+    "success": "Copilul desenează un pătrat și un triunghi cu colțuri.",
+    "ways": [
+     "Desenarea unei case dintr-un pătrat și un acoperiș.",
+     "Căutarea pătratelor și triunghiurilor prin casă.",
+     "Desenarea formelor cu creta, afară."
+    ]
+   },
+   "left_right": {
+    "name": "Stânga și dreapta",
+    "goal": "Își cunoaște mâna stângă și mâna dreaptă.",
+    "why": "Cunoașterea stângii și dreptei ajută la orientare, la scris și la jocuri. De multe ori durează până se fixează.",
+    "steps": [
+     "Ridicați amândoi ambele mâini.",
+     "Spune: „Asta e mâna ta dreaptă.” Scuturați-o.",
+     "Arată mâna cu care copilul face cu mâna sau desenează.",
+     "Jucați un joc: „Atinge-ți urechea stângă.”",
+     "Alternați încet între stânga și dreapta."
+    ],
+    "avoid": [
+     "Întrebările rapide de verificare.",
+     "Să te aștepți ca copilul să știe care e stânga și dreapta ta.",
+     "Să faci caz de încurcături."
+    ],
+    "success": "Copilul arată mâna stângă și mâna dreaptă când îl întrebi.",
+    "ways": [
+     "Virat la stânga sau la dreapta la plimbare.",
+     "Încălțarea pantofului stâng sau drept.",
+     "Un joc de dans cu stânga și dreapta."
+    ]
+   },
+   "days_week": {
+    "name": "Zilele săptămânii",
+    "goal": "Spune zilele săptămânii în ordine.",
+    "why": "Cunoașterea zilelor îi ajută pe copii să înțeleagă timpul, planurile și rutina.",
+    "steps": [
+     "Spuneți încet cele 7 zile, împreună.",
+     "Cântați-le pe o melodie simplă.",
+     "Vorbiți despre ziua de azi: „Azi e luni.”",
+     "Legați fiecare zi de un lucru pe care îl faceți, cum ar fi înotul sau vizita la bunica.",
+     "Lasă copilul să le spună fără ajutor."
+    ],
+    "avoid": [
+     "Testarea fără ajutor la început.",
+     "Amestecarea cu lunile anului în același timp.",
+     "Sesiunile lungi."
+    ],
+    "success": "Copilul spune cele 7 zile în ordine.",
+    "ways": [
+     "Un cântec despre zilele săptămânii, dimineața.",
+     "Bifarea zilelor în calendar.",
+     "Întrebarea „Ce zi e mâine?” la micul dejun."
+    ]
+   },
+   "phone_address": {
+    "name": "Numărul de telefon și adresa",
+    "goal": "Spune numărul de telefon al unui părinte și adresa de acasă.",
+    "why": "Dacă se pierde vreodată, aceste date îl ajută pe un adult de încredere să te contacteze.",
+    "steps": [
+     "Spuneți împreună, încet, strada și orașul.",
+     "Apoi spuneți numărul de telefon în grupuri mici de cifre.",
+     "Transformați numărul într-un mic cântec sau ritm.",
+     "Exersați o dată pe zi.",
+     "Explică cui să spună: unui polițist, unui profesor sau unui vânzător de la casă."
+    ],
+    "avoid": [
+     "Să împărtășiți aceste date cu străini, online.",
+     "Să exersați o singură dată și apoi să vă opriți.",
+     "Poveștile înfricoșătoare despre rătăcire."
+    ],
+    "success": "Copilul spune numărul tău de telefon și strada.",
+    "ways": [
+     "Cântatul numărului în drum spre casă.",
+     "Scrieți împreună adresa pe un cartonaș.",
+     "Joc de rol: rătăcirea într-un magazin."
+    ]
+   },
+   "spread_knife": {
+    "name": "Unge cu cuțitul",
+    "goal": "Unge pâinea cu un aliment moale, folosind un cuțit bont.",
+    "why": "Ungerea dezvoltă controlul mâinii și este un prim pas spre pregătirea mâncării fără ajutor.",
+    "steps": [
+     "Dă-i un cuțit bont de unt sau un cuțit pentru copii.",
+     "Folosește ceva moale, cum ar fi brânza cremoasă sau untul la temperatura camerei.",
+     "Arată cum se ia puțin cu vârful cuțitului.",
+     "Arată cum se întinde de la mijloc spre margini.",
+     "Lasă copilul să încerce pe 1 felie de pâine."
+    ],
+    "avoid": [
+     "Cuțitele ascuțite.",
+     "Untul tare, scos direct din frigider.",
+     "Grija pentru firimituri și mizerie."
+    ],
+    "success": "Copilul unge 1 felie de pâine fără ajutor.",
+    "ways": [
+     "Uns pe biscuiți sărați la gustare.",
+     "Uns cu gem la micul dejun.",
+     "Pregătirea unei felii de pâine prăjite pentru cineva din familie, după ce o prăjești tu."
+    ]
+   },
+   "pack_bag": {
+    "name": "Pregătește-ți ghiozdanul",
+    "goal": "Își pregătește ghiozdanul de școală sau de grădiniță, cu ajutorul unei liste cu imagini.",
+    "why": "Pregătirea ghiozdanului dezvoltă memoria, planificarea și responsabilitatea.",
+    "steps": [
+     "Fă o listă simplă cu imagini cu ce intră în ghiozdan.",
+     "Pune ghiozdanul și lucrurile într-un singur loc, cu o seară înainte.",
+     "Lasă copilul să-l pregătească uitându-se pe listă.",
+     "Verificați lista împreună, la final.",
+     "Mulțumește-i copilului pentru că și-a pregătit ghiozdanul."
+    ],
+    "avoid": [
+     "Pregătirea ghiozdanului într-o dimineață grăbită.",
+     "Să refaci ghiozdanul după copil.",
+     "O listă lungă de lucruri."
+    ],
+    "success": "Copilul își pregătește ghiozdanul după listă, fără ajutor.",
+    "ways": [
+     "Pregătirea unei genți pentru parc.",
+     "Pregătirea unei genți cu jucării pentru o vizită.",
+     "Pregătirea genții pentru înot."
+    ]
+   },
+   "jump_rope": {
+    "name": "Sărit coarda fără ajutor",
+    "goal": "Învârte coarda și sare peste ea fără ajutor.",
+    "why": "Săritul corzii dezvoltă simțul ritmului, condiția fizică și coordonarea.",
+    "steps": [
+     "Verifică lungimea corzii: mânerele ajung la subraț când copilul stă cu picioarele pe mijlocul ei.",
+     "Găsește un loc plan, fără nimeni în apropiere.",
+     "Exersați săriturile pe loc, fără coardă.",
+     "Lasă copilul să treacă coarda pe deasupra capului și să pășească peste ea.",
+     "Apoi încercați o învârtire și o săritură.",
+     "Numărați împreună fiecare săritură."
+    ],
+    "avoid": [
+     "Corzile lungi, de care se poate împiedica.",
+     "Joaca lângă mobilă sau lângă alți copii.",
+     "Să te aștepți la multe sărituri de la început."
+    ],
+    "success": "Copilul sare coarda de 3 ori la rând.",
+    "ways": [
+     "O numărătoare cântată, cu coarda, în grădină.",
+     "Numărarea săriturilor în fiecare săptămână.",
+     "Sărit coarda cu un prieten."
+    ]
+   },
+   "dribble_pass": {
+    "name": "Condu mingea și pasează",
+    "goal": "Conduce mingea cu picioarele și o pasează cuiva.",
+    "why": "Conducerea mingii și pasele dezvoltă jocul de picioare, echilibrul și spiritul de echipă.",
+    "steps": [
+     "Găsește un loc plan și deschis, departe de drumuri.",
+     "Arată cum se atinge ușor mingea cu interiorul piciorului.",
+     "Lasă copilul să meargă împingând mingea cu atingeri mici.",
+     "Stai la 3 metri distanță și cere o pasă.",
+     "Pasează mingea înapoi și repetați."
+    ],
+    "avoid": [
+     "Șuturile puternice lângă ferestre.",
+     "Joaca lângă drumuri sau mașini.",
+     "Să transformi joaca în competiție prea devreme."
+    ],
+    "success": "Copilul conduce mingea 5 metri și ți-o pasează.",
+    "ways": [
+     "Condusul mingii printre 2 conuri sau 2 pantofi.",
+     "Pase dus-întors de 10 ori.",
+     "Un mic meci în parc."
+    ]
+   },
+   "hopscotch": {
+    "name": "Șotron",
+    "goal": "Joacă șotron, sărind într-un picior și aterizând pe 2.",
+    "why": "Șotronul dezvoltă echilibrul, forța, numărarea și așteptarea rândului.",
+    "steps": [
+     "Desenează un șotron cu creta, sau fă-l din bandă adezivă, în casă.",
+     "Arată cum se sare într-un picior în pătratele simple.",
+     "Se aterizează pe 2 picioare în pătratele duble.",
+     "La capăt, întoarce-te și sari înapoi.",
+     "Adăugați o pietricică de aruncat când copilul e pregătit."
+    ],
+    "avoid": [
+     "Desenarea șotronului lângă un drum.",
+     "Terenul alunecos sau ud.",
+     "Săriturile mari între pătrate."
+    ],
+    "success": "Copilul sare șotronul dus și întors.",
+    "ways": [
+     "Șotron pe trotuar, în fața casei.",
+     "Un șotron din bandă adezivă, pe hol.",
+     "Spunerea numerelor în timp ce sari."
+    ]
+   },
+   "float_back": {
+    "name": "Plutește pe spate",
+    "goal": "Plutește pe spate, cu sprijin în apropiere.",
+    "why": "Plutirea pe spate este o abilitate esențială pentru siguranța în apă. Îi permite copilului să se odihnească și să respire în apă.",
+    "steps": [
+     "Mergeți la o piscină supravegheată, iar tu rămâi în apă cu copilul.",
+     "Stai tot timpul la o distanță la care îl poți atinge cu mâna.",
+     "Sprijină cu mâinile ceafa și partea de jos a spatelui.",
+     "Roagă copilul să se uite în sus, cu burtica în sus, cu brațele și picioarele desfăcute ca o stea.",
+     "Slăbește încet sprijinul pentru câteva secunde.",
+     "Ajută copilul să se ridice din nou în picioare."
+    ],
+    "avoid": [
+     "Să lași copilul nesupravegheat în apă, chiar și pentru o clipă.",
+     "Apele deschise, cum ar fi lacurile, râurile sau marea.",
+     "Să grăbești un copil emoționat."
+    ],
+    "success": "Copilul plutește 5 secunde, cu mâinile tale chiar dedesubt.",
+    "ways": [
+     "Lecții de înot cu un instructor calificat.",
+     "Plutiți împreună ca niște stele de mare.",
+     "Exersarea cu o placă de înot sub cap."
+    ]
+   },
+   "read_book": {
+    "name": "Citește-mi o carte scurtă",
+    "goal": "Citește cu voce tare unui adult o carte scurtă și simplă.",
+    "why": "Cititul cu voce tare dezvoltă fluența și încrederea. Când îl împarte cu tine, cititul devine o plăcere.",
+    "steps": [
+     "Alege o carte scurtă, potrivită nivelului, de exemplu una de la școală.",
+     "Stați aproape unul de altul, într-un loc liniștit.",
+     "Lasă copilul să țină cartea și să întoarcă paginile.",
+     "Ajută la un cuvânt dificil doar după o scurtă pauză.",
+     "La final, vorbiți despre imagini și despre poveste."
+    ],
+    "avoid": [
+     "Cărțile prea grele.",
+     "Să corectezi fiecare greșeală mică.",
+     "Cititul când copilul e foarte obosit."
+    ],
+    "success": "Copilul citește o carte scurtă de la început până la sfârșit.",
+    "ways": [
+     "Cititul pentru un frate sau o soră mai mică.",
+     "Cititul pentru jucăria preferată.",
+     "Citiți pe rând câte o pagină."
+    ]
+   },
+   "sound_out": {
+    "name": "Citește cuvinte noi pe litere",
+    "goal": "Spune sunetele dintr-un cuvânt scurt și le leagă ca să-l citească.",
+    "why": "Despărțirea în sunete îi ajută pe copii să citească și cuvinte pe care nu le-au mai văzut.",
+    "steps": [
+     "Scrie un cuvânt scurt, cum ar fi „cal”.",
+     "Arată fiecare literă și spune-i sunetul: c, a, l.",
+     "Spune sunetele tot mai repede, ca să le legi: „cal”.",
+     "Lasă copilul să citească următorul cuvânt.",
+     "Începeți cu cuvinte de 3 litere."
+    ],
+    "avoid": [
+     "Numele literelor în loc de sunete.",
+     "Listele lungi de cuvinte.",
+     "Ghicitul doar după imagini."
+    ],
+    "success": "Copilul desparte în sunete și citește 3 cuvinte noi.",
+    "ways": [
+     "Cititul indicatoarelor la plimbare.",
+     "Litere magnetice pe frigider.",
+     "Cititul numelor de pe ambalajele alimentelor."
+    ]
+   },
+   "ask_play": {
+    "name": "Invită un prieten la joacă",
+    "goal": "Îl întreabă pe alt copil dacă vrea să se joace și face față unui da sau unui nu.",
+    "why": "Invitația la joacă dezvoltă prieteniile, încrederea și abilitățile sociale.",
+    "steps": [
+     "Exersați acasă, cu o jucărie sau cu tine.",
+     "Dă-i cuvinte simple: „Vrei să te joci cu mine?”",
+     "Exersați ce poate spune dacă răspunsul e nu: „Bine, poate mai târziu.”",
+     "În parc, stai în apropiere în timp ce copilul încearcă.",
+     "Laudă curajul, oricare ar fi răspunsul."
+    ],
+    "avoid": [
+     "Să împingi un copil timid să meargă imediat.",
+     "Să vorbești în locul copilului.",
+     "Să faci ca un nu să pară un eșec."
+    ],
+    "success": "Copilul îl invită pe alt copil la joacă.",
+    "ways": [
+     "Invitarea unui văr sau a unei verișoare, la o vizită în familie.",
+     "Invitarea cuiva la locul de joacă.",
+     "Exersarea cu marionete."
+    ]
+   },
+   "lose_calmly": {
+    "name": "Pierde calm un joc",
+    "goal": "Pierde un joc și își păstrează, în mare parte, calmul.",
+    "why": "Când fac față pierderii, copiii se bucură de jocuri și își păstrează prietenii.",
+    "steps": [
+     "Jucați un joc scurt, de noroc, cum ar fi un joc cu zaruri.",
+     "Înainte să începeți, stabiliți ce spuneți la final: „A fost un joc frumos.”",
+     "Când pierzi tu, arată-i cum se reacționează calm: „Of, am pierdut. A fost distractiv.”",
+     "Dacă pierde copilul, numește emoția: „Te-a supărat asta.”",
+     "Propune încă o rundă."
+    ],
+    "avoid": [
+     "Să lași copilul să câștige de fiecare dată.",
+     "Să cerți copilul pentru că e supărat.",
+     "Jocurile lungi când sunteți obosiți."
+    ],
+    "success": "Copilul spune „A fost un joc frumos” după ce pierde.",
+    "ways": [
+     "Jocuri de cărți după cină.",
+     "O întrecere în parc.",
+     "Seara jocurilor în familie."
+    ]
+   },
+   "calm_breathing": {
+    "name": "Respirația care liniștește",
+    "goal": "Folosește respirații lente ca să se liniștească în momentele de supărare.",
+    "why": "Respirația lentă ajută corpul să se relaxeze. Le oferă copiilor un instrument pe care îl pot folosi oriunde.",
+    "steps": [
+     "Exersați când copilul e liniștit, nu supărat.",
+     "Ridică o mână, ca pe un „tort aniversar”.",
+     "Miroase florile: inspiră încet pe nas.",
+     "Stinge lumânările: expiră încet pe gură.",
+     "Faceți asta de 3 ori împreună.",
+     "Amintește-i copilului de ea data viitoare când simte supărare."
+    ],
+    "avoid": [
+     "Să o înveți în timpul unei crize.",
+     "Respirațiile rapide și adânci.",
+     "Folosirea ei ca pedeapsă."
+    ],
+    "success": "Copilul face 3 respirații lente cu tine.",
+    "ways": [
+     "Respirație la culcare.",
+     "Baloane de săpun suflate încet.",
+     "Respirație ca un cățel somnoros."
+    ]
+   },
+   "three_step": {
+    "name": "Urmează 3 instrucțiuni",
+    "goal": "Urmează în ordine 3 instrucțiuni simple.",
+    "why": "Urmarea pașilor dezvoltă memoria și ascultarea, ceea ce ajută la școală și acasă.",
+    "steps": [
+     "Atrage mai întâi atenția copilului.",
+     "Dă 3 pași simpli: „Ia-ți pantofii, pune-i lângă ușă, apoi spală-te pe mâini.”",
+     "Roagă copilul să-i repete.",
+     "Lasă copilul să-i facă în ordine.",
+     "Laudă fiecare pas făcut."
+    ],
+    "avoid": [
+     "Să dai instrucțiuni când copilul e ocupat cu altceva.",
+     "Prea multe cuvinte.",
+     "Repetarea pașilor iar și iar."
+    ],
+    "success": "Copilul face 3 pași în ordine.",
+    "ways": [
+     "Un joc de strâns jucăriile.",
+     "„Simon spune”, cu 3 mișcări.",
+     "O vânătoare de comori cu 3 indicii."
+    ]
+   },
+   "school_day": {
+    "name": "Povestește-mi ziua de la școală",
+    "goal": "Îți povestește ceva ce s-a întâmplat la școală.",
+    "why": "Discuțiile despre zi dezvoltă limbajul și te ajută să știi cum se simte copilul.",
+    "steps": [
+     "Așteaptă până când copilul a mâncat o gustare și s-a odihnit.",
+     "Pune o întrebare concretă: „Cu cine te-ai jucat azi?”",
+     "Povestește și tu ceva din ziua ta.",
+     "Ascultă fără să rezolvi sau să judeci.",
+     "Mai pune o întrebare despre ce îți spune."
+    ],
+    "avoid": [
+     "Să întrebi doar „Cum a fost la școală?”",
+     "Prea multe întrebări deodată.",
+     "Să întrebi imediat ce l-ai luat de la școală."
+    ],
+    "success": "Copilul îți spune 1 lucru despre ziua sa.",
+    "ways": [
+     "Povești pe drumul spre casă.",
+     "Un moment fericit și unul trist, povestite la cină.",
+     "Discuții la ora băii."
+    ]
+   },
+   "tie_laces": {
+    "name": "Leagă-ți șireturile",
+    "goal": "Leagă o fundă la șiret, încet, fără ajutor.",
+    "why": "Legatul șireturilor dezvoltă îndemânarea degetelor și autonomia. Mulți copii învață asta între 6 și 8 ani.",
+    "steps": [
+     "Exersați cu pantoful pe masă, nu în picior.",
+     "Dacă poți, folosește 2 șireturi de culori diferite.",
+     "Arată încet prima încrucișare și trecerea pe dedesubt.",
+     "Faceți 2 bucle, ca niște urechi de iepuraș.",
+     "Încrucișați buclele, treceți una pe dedesubt și trageți.",
+     "Lasă copilul să încerce fiecare pas după tine."
+    ],
+    "avoid": [
+     "Exersarea într-o dimineață aglomerată.",
+     "Șireturile scurte sau alunecoase.",
+     "Să preiei tu sarcina când merge încet."
+    ],
+    "success": "Copilul leagă o fundă fără ajutor.",
+    "ways": [
+     "Legarea unei funde la un cadou.",
+     "Un cartonaș sau o cutie de pantofi cu găuri, pentru șnuruit.",
+     "Legarea șnurului unui șorț."
+    ]
+   },
+   "time_hour": {
+    "name": "Citește ora fixă",
+    "goal": "Citește orele fixe pe un ceas cu limbi.",
+    "why": "Citirea ceasului îi ajută pe copii să înțeleagă rutina și planurile.",
+    "steps": [
+     "Folosește un ceas cu limbi sau desenează unul pe hârtie.",
+     "Arată limba mică pentru ore și limba mare pentru minute.",
+     "Pune limba mare la 12.",
+     "Mută limba mică și spune: „Este ora 3 fix.”",
+     "Lasă copilul să potrivească și să citească o oră."
+    ],
+    "avoid": [
+     "Să începi cu minutele.",
+     "Doar ceasurile digitale.",
+     "Exersarea îndelungată."
+    ],
+    "success": "Copilul citește corect 3 ore fixe.",
+    "ways": [
+     "Citirea ceasului la prânz.",
+     "Un ceas făcut dintr-o farfurie de carton.",
+     "Ora de culcare, ora 7 fix, pe ceas."
+    ]
+   },
+   "add_take_10": {
+    "name": "Adunări și scăderi până la 10",
+    "goal": "Adună și scade numere mici, până la 10.",
+    "why": "Adunarea și scăderea dezvoltă simțul numerelor, folosit în fiecare zi.",
+    "steps": [
+     "Pune pe masă 10 obiecte mici, cum ar fi bucăți de paste.",
+     "Faceți un grup de 6 și luați 2.",
+     "Întreabă: „Câte au rămas?”",
+     "Apoi adaugă 3 și întreabă: „Câte sunt acum?”",
+     "Lasă copilul să-ți propună un calcul."
+    ],
+    "avoid": [
+     "Calculele pe hârtie, fără obiecte.",
+     "Să cronometrezi copilul.",
+     "Numerele mai mari de 10 prea devreme."
+    ],
+    "success": "Copilul rezolvă 3 calcule până la 10.",
+    "ways": [
+     "Adunat și mâncat struguri la gustare.",
+     "Calcule pe degete la plimbare.",
+     "Scos jucării dintr-o cutie."
+    ]
+   },
+   "write_sentence": {
+    "name": "Scrie o propoziție scurtă",
+    "goal": "Scrie o propoziție scurtă, cu literă mare la început și punct la sfârșit.",
+    "why": "Scrierea unei propoziții transformă ideile în cuvinte. Dezvoltă ortografia și încrederea.",
+    "steps": [
+     "Roagă copilul să spună întâi propoziția cu voce tare, de exemplu „Îmi plac pisicile.”",
+     "Numărați cuvintele pe degete.",
+     "Lasă copilul să o scrie, despărțind fiecare cuvânt în sunete.",
+     "Amintește-i: literă mare la început, punct la sfârșit.",
+     "Citiți-o apoi împreună."
+    ],
+    "avoid": [
+     "Să corectezi fiecare greșeală de ortografie.",
+     "Propozițiile lungi, la început.",
+     "Doar copiatul, fără idei proprii."
+    ],
+    "success": "Copilul scrie o propoziție de 3 cuvinte.",
+    "ways": [
+     "Un bilețel pentru bunici.",
+     "Un produs pe lista de cumpărături.",
+     "O descriere pentru un desen."
+    ]
+   },
+   "grow_plant": {
+    "name": "Crește o plantă",
+    "goal": "Plantează o sămânță și are grijă de ea.",
+    "why": "Creșterea unei plante îi învață pe copii grija, răbdarea și felul în care cresc ființele vii.",
+    "steps": [
+     "Alege o sămânță care crește repede, cum ar fi creson sau fasole.",
+     "Umple un ghiveci sau un pahar cu pământ, sau folosește vată umedă.",
+     "Lasă copilul să împingă sămânța în pământ și să o acopere.",
+     "Așază-l lângă o fereastră.",
+     "Verificați-l împreună în fiecare zi și udați puțin când pământul e uscat."
+    ],
+    "avoid": [
+     "Prea multă apă.",
+     "Semințele care cresc încet și pun răbdarea la încercare.",
+     "Plantele care nu sunt sigure la atingere sau la mâncat."
+    ],
+    "success": "Copilul plantează o sămânță și o udă timp de o săptămână.",
+    "ways": [
+     "Creson crescut pentru un sandviș.",
+     "O boabă de fasole într-un borcan, ca să vedeți rădăcinile.",
+     "Desenarea plantei în fiecare săptămână."
+    ]
+   },
+   "build_instructions": {
+    "name": "Construiește după instrucțiuni",
+    "goal": "Construiește un model simplu urmând pașii din imagini.",
+    "why": "Urmarea pașilor din imagini dezvoltă concentrarea, planificarea și rezolvarea problemelor.",
+    "steps": [
+     "Alege un model simplu, cu puțini pași.",
+     "Sortați piesele înainte să începeți.",
+     "Uitați-vă împreună la pasul 1.",
+     "Lasă copilul să găsească piesele și să construiască.",
+     "Ajută doar când ți se cere."
+    ],
+    "avoid": [
+     "Piesele foarte mici lângă bebeluși sau copii mici.",
+     "Modelele cu prea mulți pași.",
+     "Să repari tu greșelile în locul copilului."
+    ],
+    "success": "Copilul construiește 3 pași fără ajutor.",
+    "ways": [
+     "Cuburi de construcție după un cartonaș cu imagini.",
+     "O bărcuță de hârtie împăturită după pași desenați.",
+     "Copierea unui turn de cuburi construit de tine."
+    ]
+   },
+   "know_coins": {
+    "name": "Cunoaște monedele",
+    "goal": "Numește monedele și știe care valorează mai mult.",
+    "why": "Cunoașterea monedelor este un prim pas spre folosirea banilor și economisire.",
+    "steps": [
+     "Pune pe masă câteva monede diferite.",
+     "Uitați-vă la fiecare și spuneți-i valoarea.",
+     "Sortați-le împreună după culoare sau mărime.",
+     "Așezați-le în ordine, de la cea mai mică valoare la cea mai mare.",
+     "Roagă copilul să găsească o monedă pe care o numești."
+    ],
+    "avoid": [
+     "Monedele lângă bebeluși sau copii mici, care le-ar putea înghiți.",
+     "Prea multe monede deodată.",
+     "Ideea că monedele mai mari valorează întotdeauna mai mult."
+    ],
+    "success": "Copilul numește 3 monede și valoarea lor.",
+    "ways": [
+     "De-a magazinul, acasă.",
+     "Sortarea monedelor din pușculiță.",
+     "Găsirea monedelor din portofel."
+    ]
+   },
+   "make_sandwich": {
+    "name": "Pregătește un sandviș",
+    "goal": "Pregătește un sandviș simplu, cu puțin ajutor.",
+    "why": "Pregătirea mâncării dezvoltă autonomia și mândria și este un prim pas spre gătit.",
+    "steps": [
+     "Spălați-vă mai întâi pe mâini, împreună.",
+     "Pune pe masă pâine, ceva moale de uns și o umplutură simplă.",
+     "Lasă copilul să ungă pâinea cu un cuțit bont.",
+     "Adăugați umplutura și felia de deasupra.",
+     "Taie-l tu sau lasă copilul să-l taie cu un cuțit pentru copii.",
+     "Mâncați-l împreună, cu poftă."
+    ],
+    "avoid": [
+     "Cuțitele ascuțite.",
+     "Umpluturile care trebuie încălzite.",
+     "Grija pentru mizerie."
+    ],
+    "success": "Copilul pregătește un sandviș cu puțin ajutor.",
+    "ways": [
+     "Un sandviș pentru cutia de prânz.",
+     "Un picnic în grădină.",
+     "Un sandviș pentru cineva din familie."
+    ]
+   },
+   "set_table": {
+    "name": "Pune masa",
+    "goal": "Așază farfuriile, paharele și tacâmurile pentru o masă.",
+    "why": "Pusul mesei dezvoltă numărarea, ordinea și dorința de a ajuta.",
+    "steps": [
+     "Numărați câte persoane mănâncă.",
+     "Dă-i copilului farfurii și pahare care nu se sparg.",
+     "Arată unde se pun furculița și cuțitul.",
+     "Lasă copilul să aranjeze un loc, apoi pe celelalte.",
+     "Mulțumește-i copilului la masă."
+    ],
+    "avoid": [
+     "Farfuriile de sticlă sau cele grele.",
+     "Cuțitele ascuțite.",
+     "Să refaci fiecare loc după aceea."
+    ],
+    "success": "Copilul pune masa pentru familie.",
+    "ways": [
+     "Întinderea unei pături de picnic.",
+     "Masa pusă pentru jucării.",
+     "Șervețele puse pentru musafiri."
+    ]
+   },
+   "swim_10m": {
+    "name": "Înoată 10 metri",
+    "goal": "Înoată 10 metri fără oprire, într-o piscină supravegheată.",
+    "why": "Înotul pe o distanță scurtă dă încredere în apă. Este un pas important spre mai multă siguranță în apă și lângă apă.",
+    "steps": [
+     "Alege o piscină supravegheată, cu salvamar, sau o lecție de înot.",
+     "Intră în apă și stai la o distanță la care poți atinge copilul cu mâna.",
+     "Începeți cu 3 metri, de la tine până la perete.",
+     "Fă câte un pas înapoi de fiecare dată când copilul ajunge la tine.",
+     "Numărați mișcările împreună și laudă fiecare încercare."
+    ],
+    "avoid": [
+     "Exersarea în lacuri, râuri sau mare.",
+     "Să te uiți în telefon cât timp copilul e în apă.",
+     "Să continuați când copilului îi e frig sau e obosit."
+    ],
+    "success": "Copilul înoată 10 metri fără să se oprească sau să pună piciorul jos.",
+    "ways": [
+     "Înot pe lățimea bazinului, la o lecție.",
+     "Înot spre tine, în timp ce mergi încet cu spatele.",
+     "Numărarea mișcărilor de la un capăt la celălalt."
+    ]
+   },
+   "throw_target": {
+    "name": "Aruncare de deasupra umărului la țintă",
+    "goal": "Aruncă o minge de deasupra umărului și nimerește o țintă aflată la câțiva metri.",
+    "why": "Aruncarea de deasupra umărului folosește tot corpul. Dezvoltă coordonarea, ochiul și abilitățile necesare în multe sporturi.",
+    "steps": [
+     "Pregătește o țintă, cum ar fi o găleată sau un cerc desenat cu creta pe un perete.",
+     "Așază copilul lateral, la aproximativ 3 metri distanță.",
+     "Arată aruncarea o dată: arăți spre țintă, faci un pas cu piciorul opus, arunci.",
+     "Lasă copilul să arunce de 10 ori cu o minge moale.",
+     "Apropie ținta dacă e prea greu.",
+     "Laudă tehnica bună, nu doar loviturile reușite."
+    ],
+    "avoid": [
+     "Mingile tari în casă sau lângă ferestre.",
+     "Țintele prea îndepărtate, la început.",
+     "Să corectezi fiecare aruncare în parte."
+    ],
+    "success": "Copilul nimerește ținta de 3 ori din 10, cu o aruncare de deasupra umărului.",
+    "ways": [
+     "Aruncarea șosetelor făcute ghem în coșul de rufe.",
+     "Dărâmarea unui turn de pahare de plastic.",
+     "Aruncarea mingii printr-un cerc, în parc."
+    ]
+   },
+   "bike_brake_signal": {
+    "name": "Frânează și semnalizează pe bicicletă",
+    "goal": "Se oprește într-un loc ales și întinde brațul ca să semnalizeze, departe de drumuri.",
+    "why": "Frânatul corect și mersul cu o singură mână sunt abilitățile de care un copil are nevoie înainte să meargă cu bicicleta în preajma traficului.",
+    "steps": [
+     "Înainte de fiecare tură, verifică dacă se potrivește casca și dacă merg frânele.",
+     "Găsește un loc plan și deschis, departe de drumuri, cum ar fi o alee în parc sau un teren de joacă gol.",
+     "Marchează o linie și roagă copilul să oprească la linie folosind ambele frâne.",
+     "Exersați privitul peste umăr în timpul mersului în linie dreaptă.",
+     "Exersați luarea unei mâini de pe ghidon, pentru o clipă, ca să arate la stânga sau la dreapta.",
+     "Stai aproape și fă fiecare încercare scurtă."
+    ],
+    "avoid": [
+     "Exersarea pe drumuri sau pe alei aglomerate.",
+     "Mersul pe bicicletă fără cască.",
+     "Porțiunile lungi de mers cu o singură mână, înainte ca mersul copilului să fie sigur."
+    ],
+    "success": "Copilul oprește la linie și semnalizează cu un braț, fără să se clatine.",
+    "ways": [
+     "Un joc de „stop și pornește”, la semnalul tău.",
+     "Un tur în buclă, cu semnalizare la fiecare colț.",
+     "Oprire pe o linie de cretă, întâi de la viteză mică, apoi de la una mai mare."
+    ]
+   },
+   "animal_yoga": {
+    "name": "Yoga animalelor",
+    "goal": "Menține 4 poziții de yoga cu animale și trece calm de la una la alta.",
+    "why": "Pozițiile de yoga dezvoltă echilibrul, forța și conștiința corpului. Respirația lentă în fiecare poziție îl poate ajuta pe copil să se liniștească.",
+    "steps": [
+     "Eliberează un spațiu pe podea sau folosește o saltea moale.",
+     "Arată câte o poziție: câinele, pisica, cobra și flamingo într-un picior.",
+     "Mențineți fiecare poziție timp de 3 respirații lente, împreună.",
+     "Lasă copilul să aleagă următorul animal.",
+     "Încheiați cu o scurtă odihnă, întinși nemișcați."
+    ],
+    "avoid": [
+     "Să împingi copilul mai adânc într-o întindere.",
+     "Exersarea imediat după o masă copioasă.",
+     "Să transformi totul într-o întrecere."
+    ],
+    "success": "Copilul menține 4 poziții, câte 3 respirații fiecare.",
+    "ways": [
+     "Inventați o poveste cu fiecare animal.",
+     "Imitați sunetul fiecărui animal înainte de poziție.",
+     "O scurtă sesiune liniștită înainte de culcare."
+    ]
+   },
+   "read_expression": {
+    "name": "Citește cu voce tare, cu expresivitate",
+    "goal": "Citește cu voce tare un scurt fragment și își schimbă vocea potrivit poveștii.",
+    "why": "Cititul expresiv arată că copilul înțelege cuvintele. Îi dă și încredere când vorbește în fața altora.",
+    "steps": [
+     "Alege o pagină scurtă pe care copilul o citește deja bine.",
+     "Citește tu un rând cu o voce veselă, speriată sau supărată.",
+     "Roagă copilul să citească următorul rând cu o voce potrivită.",
+     "Arată semnele întrebării și liniile de dialog ca indicii.",
+     "Schimbați rolurile și citiți pe rând până la sfârșitul paginii."
+    ],
+    "avoid": [
+     "Cărțile prea grele pentru a fi citite fluent.",
+     "Să corectezi fiecare greșeală mică.",
+     "Să râzi de o voce pe care o încearcă copilul."
+    ],
+    "success": "Copilul își schimbă vocea pentru cel puțin 2 personaje sau emoții.",
+    "ways": [
+     "Citirea unei povești de culcare pentru un copil mai mic sau pentru o jucărie.",
+     "Jucați împreună o bandă desenată.",
+     "Înregistrați o pagină și ascultați-o apoi."
+    ]
+   },
+   "thank_you_card": {
+    "name": "Scrie un card de mulțumire",
+    "goal": "Scrie un scurt card de mulțumire, cu propriile cuvinte.",
+    "why": "Mulțumirea în scris dezvoltă în același timp bunătatea și scrisul.",
+    "steps": [
+     "Împăturiți împreună o foaie de hârtie, ca un card.",
+     "Vorbiți despre cui îi este adresat cardul și ce a făcut acea persoană.",
+     "Ajută copilul să plănuiască 2 propoziții: mulțumesc pentru ce a primit și de ce i-a plăcut.",
+     "Lasă copilul să scrie, iar tu spune cu voce tare literele cuvintelor dificile.",
+     "La final, adăugați un desen și numele copilului."
+    ],
+    "avoid": [
+     "Să scrii tu cardul în locul copilului.",
+     "Să ceri o ortografie perfectă.",
+     "Cardurile lungi, care devin o corvoadă."
+    ],
+    "success": "Copilul scrie 2 propoziții și se semnează.",
+    "ways": [
+     "Un card pentru învățătoare sau învățător la sfârșitul semestrului.",
+     "Un bilețel pentru bunici după o vizită.",
+     "O mulțumire după un cadou de ziua de naștere."
+    ]
+   },
+   "talk_worries": {
+    "name": "Vorbim despre griji",
+    "goal": "Numește o grijă și vorbește despre ea cu tine.",
+    "why": "Mulți copii au griji la această vârstă. Spusă cu voce tare, o grijă pare adesea mai mică, iar copilul învață că poate veni la tine.",
+    "steps": [
+     "Alege un moment liniștit, cum ar fi o plimbare sau ora de culcare.",
+     "Povestește întâi o grijă mică de-a ta.",
+     "Întreabă: te frământă ceva azi?",
+     "Ascultă fără să încerci să rezolvi imediat.",
+     "Întreabă ce ar putea ajuta și faceți împreună un mic plan."
+    ],
+    "avoid": [
+     "Să spui că nu e nimic de care să-și facă griji.",
+     "Prea multe întrebări deodată.",
+     "Să vorbiți despre griji doar la culcare."
+    ],
+    "success": "Copilul numește o grijă și se gândește la 1 lucru care ar putea ajuta.",
+    "ways": [
+     "O cutie a grijilor, cu bilețele pe care copilul le pune înăuntru și pe care le citiți împreună.",
+     "Desenați grija și vorbiți despre desen.",
+     "Dați grijii o notă de la 1 la 5, înainte și după discuție."
+    ]
+   },
+   "friend_problem": {
+    "name": "Rezolvă o problemă cu un prieten",
+    "goal": "Se gândește la idei ca să rezolve o mică problemă cu un prieten.",
+    "why": "Prieteniile contează tot mai mult la această vârstă. Rezolvarea problemelor mici îl ajută pe copil să-și păstreze prietenii și să se simtă în stare.",
+    "steps": [
+     "Roagă copilul să-ți povestească o mică problemă recentă cu un prieten.",
+     "Ajută-l să spună ce s-a întâmplat și ce a simțit fiecare.",
+     "Găsiți împreună 3 idei pentru a îndrepta lucrurile.",
+     "Lasă copilul să aleagă ideea care îi place cel mai mult.",
+     "Exersați ce ar putea spune, tu jucând rolul prietenului."
+    ],
+    "avoid": [
+     "Să rezolvi problema în locul copilului.",
+     "Să dai vina pe prieten.",
+     "Alegerea unei probleme mari sau foarte supărătoare pentru exersare."
+    ],
+    "success": "Copilul găsește 1 idee și exersează ce să spună.",
+    "ways": [
+     "Folosiți 2 jucării ca să jucați o problemă.",
+     "Vorbiți despre o problemă dintr-o carte cu povești.",
+     "După școală, întreabă cum a funcționat ideea."
+    ]
+   },
+   "explain_rules": {
+    "name": "Explică regulile unui joc",
+    "goal": "Explică un joc simplu suficient de clar încât altcineva să-l poată juca.",
+    "why": "Explicarea regulilor dezvoltă vorbirea clară, ordonarea pașilor și gândul la ce trebuie să știe altcineva.",
+    "steps": [
+     "Alege un joc pe care copilul îl știe bine.",
+     "Roagă copilul să ți-l predea ca și cum nu l-ai fi jucat niciodată.",
+     "Întreabă: cum începi, ce faci când e rândul tău, cum câștigi?",
+     "Urmează regulile exact cum le spune.",
+     "Jucați o rundă scurtă ca să testați regulile."
+    ],
+    "avoid": [
+     "Să ajuți înainte ca copilul să fi încercat.",
+     "Jocurile cu multe reguli complicate.",
+     "Să corectezi detalii mărunte care nu contează."
+    ],
+    "success": "Copilul explică cum se începe, cum se joacă o tură și cum se câștigă.",
+    "ways": [
+     "Predarea unui joc bunicilor sau unui prieten.",
+     "Inventați un joc nou și explicați-l.",
+     "Explicarea unui joc din curtea școlii, la cină."
+    ]
+   },
+   "say_why": {
+    "name": "Spune ce crezi și de ce",
+    "goal": "Își spune părerea și adaugă un motiv, folosind cuvintele „pentru că”.",
+    "why": "Argumentarea dezvoltă gândirea și vorbirea. Îl ajută pe copil să-și împărtășească părerile cu încredere.",
+    "steps": [
+     "Pune o întrebare amuzantă, cum ar fi care e cel mai frumos anotimp.",
+     "Dă-ți răspunsul cu un motiv: îmi place iarna pentru că.",
+     "Cere-i copilului răspunsul și un motiv.",
+     "Întreabă: te mai gândești la un motiv?",
+     "Mulțumește-i că ți-a spus, chiar dacă tu crezi altceva."
+    ],
+    "avoid": [
+     "Să spui că o părere e greșită.",
+     "Întrebările cu răspuns corect sau greșit.",
+     "Să grăbești copilul să răspundă."
+    ],
+    "success": "Copilul își spune părerea cu 1 motiv clar.",
+    "ways": [
+     "Vorbiți despre cea mai bună și cea mai slabă parte a unui film.",
+     "Alegerea unei mâncări pentru cină și explicarea motivului.",
+     "Votați un plan de weekend, cu argumente."
+    ]
+   },
+   "times_2_5_10": {
+    "name": "Înmulțirea cu 2, 5 și 10",
+    "goal": "Numără din 2 în 2, din 5 în 5 și din 10 în 10 și știe câteva rezultate din aceste table.",
+    "why": "Aceste 3 table sunt baza pentru restul tablei înmulțirii. Ajută și la bani și la citirea ceasului.",
+    "steps": [
+     "Începeți prin a număra împreună din 10 în 10, bătând din palme.",
+     "Numărați la fel din 5 în 5 și din 2 în 2.",
+     "Folosiți lucruri reale, cum ar fi perechile de șosete pentru 2 sau degetele pentru 5.",
+     "Pune câteva întrebări rapide, cum ar fi cât fac de 3 ori 5.",
+     "Laudă fiecare răspuns și spune blând răspunsul corect, dacă e nevoie."
+    ],
+    "avoid": [
+     "Exercițiile lungi, care par un test.",
+     "Să treci mai departe înainte ca numărarea din pas în pas să fie ușoară.",
+     "Comparația cu alți copii."
+    ],
+    "success": "Copilul numără din 2 în 2, din 5 în 5 și din 10 în 10 și răspunde la 3 întrebări.",
+    "ways": [
+     "Numărat din 2 în 2 pe fiecare treaptă.",
+     "Numărarea monedelor din 5 în 5 și din 10 în 10.",
+     "Cântați tabla înmulțirii pe o melodie pe care o știți amândoi."
+    ]
+   },
+   "half_quarter": {
+    "name": "Orele „și jumătate” și „și un sfert”",
+    "goal": "Citește pe un ceas cu limbi orele „și jumătate” și „și un sfert”.",
+    "why": "Citirea ceasului îl ajută pe copil să înțeleagă ziua și dezvoltă abilitățile cu numere.",
+    "steps": [
+     "Folosește un ceas cu limbi sau desenează unul pe hârtie.",
+     "Verifică întâi dacă copilul citește orele fixe.",
+     "Arată că limba mare pe 6 înseamnă „și jumătate”.",
+     "Arată că limba mare pe 3 înseamnă „și un sfert”.",
+     "Potrivește câteva ore și lasă copilul să le citească."
+    ],
+    "avoid": [
+     "Doar ceasurile digitale.",
+     "Să adaugi „fără un sfert” înainte ca „și jumătate” să fie ușor.",
+     "Sesiunile lungi, care obosesc copilul."
+    ],
+    "success": "Copilul citește corect 3 ore, folosind „și jumătate” și „și un sfert”.",
+    "ways": [
+     "Uitați-vă la ceas în momente reale, cum ar fi ora băii.",
+     "Faceți împreună un ceas dintr-o farfurie de carton.",
+     "Potriviți pe rând o oră, pe care celălalt o citește."
+    ]
+   },
+   "read_calendar": {
+    "name": "Citește calendarul",
+    "goal": "Găsește data de azi și numără zilele până la un eveniment, în calendar.",
+    "why": "Calendarul îl ajută pe copil să înțeleagă săptămânile și lunile. Face și așteptarea evenimentelor mai ușoară.",
+    "steps": [
+     "Folosește un calendar de hârtie sau desenează o lună pe o foaie.",
+     "Găsiți împreună ziua de azi și spuneți ziua, data și luna.",
+     "Marcați un eveniment pe care copilul îl așteaptă cu nerăbdare.",
+     "Numărați împreună zilele până la eveniment.",
+     "Tăiați fiecare zi care trece."
+    ],
+    "avoid": [
+     "Prea multe evenimente marcate deodată.",
+     "Calendarele cu scris foarte mic.",
+     "Să verifici copilul la toate lunile deodată."
+    ],
+    "success": "Copilul găsește ziua de azi și numără zilele până la un eveniment.",
+    "ways": [
+     "Marcarea zilelor de naștere din familie.",
+     "Numărarea săptămânilor până la vacanță.",
+     "Notarea vremii în fiecare zi."
+    ]
+   },
+   "measure_ruler": {
+    "name": "Măsoară cu rigla",
+    "goal": "Măsoară un obiect scurt cu rigla, la centimetru.",
+    "why": "Măsuratul dezvoltă simțul numerelor și controlul atent al mâinii. E util și la lucru manual și la gătit.",
+    "steps": [
+     "Arată unde e 0 pe riglă, pentru că nu e întotdeauna chiar la capăt.",
+     "Aliniați 0 cu un capăt al unui obiect, cum ar fi un creion.",
+     "Citiți împreună numărul de la celălalt capăt.",
+     "Lasă copilul să măsoare încă 3 obiecte fără ajutor.",
+     "Notați lungimile și găsiți-l pe cel mai lung."
+    ],
+    "avoid": [
+     "Să se măsoare de la marginea riglei în loc de 0.",
+     "Obiectele mai lungi decât rigla, la început.",
+     "Să corectezi înainte ca copilul să verifice din nou."
+    ],
+    "success": "Copilul măsoară 3 obiecte, la centimetru.",
+    "ways": [
+     "Măsurarea degetelor și a picioarelor celor din familie.",
+     "Măsurarea frunzelor găsite la plimbare.",
+     "Trasarea unei linii de o anumită lungime."
+    ]
+   },
+   "spot_pattern": {
+    "name": "Găsește regula șirului",
+    "goal": "Găsește ce urmează într-un șir de forme sau de numere.",
+    "why": "Recunoașterea regulilor dezvoltă gândirea din spatele matematicii, cititului și rezolvării problemelor.",
+    "steps": [
+     "Fă un șir simplu din obiecte, cum ar fi lingură, furculiță, lingură, furculiță.",
+     "Întreabă ce urmează.",
+     "Încercați un șir mai greu, cum ar fi roșu, roșu, albastru, roșu, roșu.",
+     "Încercați un șir de numere, cum ar fi 2, 4, 6.",
+     "Lasă copilul să facă un șir pe care să-l rezolvi tu."
+    ],
+    "avoid": [
+     "Șirurile prea lungi, la început.",
+     "Să dai răspunsul prea repede.",
+     "Să faci să pară un test."
+    ],
+    "success": "Copilul continuă 2 șiruri și creează 1 șir propriu.",
+    "ways": [
+     "Înșirarea mărgelelor după o regulă.",
+     "Căutarea modelelor pe faianță și garduri.",
+     "Bateți un ritm din palme și imitați-l."
+    ]
+   },
+   "pay_shop": {
+    "name": "Plătește la magazin",
+    "goal": "Plătește un produs mic la casa unui magazin, cu tine alături.",
+    "why": "Plata dezvoltă încrederea, simțul banilor și obiceiul de a vorbi politicos cu adulții.",
+    "steps": [
+     "Alege un produs mic și un magazin liniștit.",
+     "Dă-i copilului suma exactă sau puțin mai mult.",
+     "Exersați ce va spune înainte să intrați.",
+     "Stai lângă copil în timp ce plătește.",
+     "Amintește-i să aștepte restul și să spună mulțumesc."
+    ],
+    "avoid": [
+     "Orele aglomerate, cu cozi lungi.",
+     "Să vorbești în locul copilului la casă.",
+     "Sumele mari de bani."
+    ],
+    "success": "Copilul dă banii, așteaptă restul și spune mulțumesc.",
+    "ways": [
+     "Cumpărarea pâinii de la magazinul din cartier.",
+     "Plata unei mici bunătăți la o tarabă din piață.",
+     "Exersarea întâi de-a magazinul, acasă."
+    ]
+   },
+   "count_change": {
+    "name": "Numără restul",
+    "goal": "Calculează restul simplu la sume mici, folosind monede.",
+    "why": "Numărarea restului dezvoltă abilitățile cu numere și îl ajută pe copil să înțeleagă că banii se cheltuie și o parte se întoarce.",
+    "steps": [
+     "Amenajați un magazin de joacă, cu câteva produse și etichete de preț.",
+     "Folosiți monede reale și prețuri mici.",
+     "Lasă copilul să cumpere un produs și să plătească cu o monedă mai mare.",
+     "Numărați împreună, în sus, de la preț până la moneda dată.",
+     "Schimbați rolurile, ca să-ți dea copilul restul."
+    ],
+    "avoid": [
+     "Prețurile care cer multe monede, la început.",
+     "Exersarea de la început într-un magazin real aglomerat.",
+     "Să faci tu calculele în locul copilului."
+    ],
+    "success": "Copilul calculează corect restul la 2 cumpărături mici.",
+    "ways": [
+     "Verificați restul împreună după cumpărături reale.",
+     "Un joc de-a cafeneaua, cu meniu și prețuri.",
+     "Sortarea monedelor și numărarea până la o sumă stabilită."
+    ]
+   },
+   "follow_recipe": {
+    "name": "Urmează o rețetă simplă",
+    "goal": "Urmează pas cu pas o rețetă scurtă, fără gătit.",
+    "why": "Urmarea unei rețete dezvoltă cititul, măsuratul și planificarea. Copiii gustă mai ușor mâncarea pe care au pregătit-o ei.",
+    "steps": [
+     "Alege o rețetă fără gătit, cum ar fi salata de fructe sau iaurtul cu fructe în pahare.",
+     "Spălați-vă mai întâi pe mâini, împreună.",
+     "Citiți cu voce tare fiecare pas înainte să-l faceți.",
+     "Lasă copilul să adune, să măsoare și să amestece ingredientele.",
+     "Pentru fructele moi se folosește un cuțit pentru copii, cu tine alături.",
+     "La final, faceți ordine împreună."
+    ],
+    "avoid": [
+     "Cuțitele ascuțite sau părțile fierbinți lăsate în seama copilului.",
+     "Rețetele lungi, cu mulți pași.",
+     "Să corectezi greșeli mărunte care nu contează."
+    ],
+    "success": "Copilul urmează fiecare pas al rețetei, în ordine.",
+    "ways": [
+     "Un smoothie, iar blenderul îl folosești tu.",
+     "Un platou cu fructe și brânză, după o imagine.",
+     "Ovăz înmuiat peste noapte, pentru micul dejun."
+    ]
+   },
+   "sew_button": {
+    "name": "Coase un nasture",
+    "goal": "Coase un nasture mare pe o bucată de material, cu ajutorul tău.",
+    "why": "Cusutul dezvoltă controlul fin al degetelor, răbdarea și o abilitate utilă în viață.",
+    "steps": [
+     "Folosește un nasture mare, fetru și un ac mare, cu vârf bont.",
+     "Bagă ața în ac și fă un nod la capăt, pentru copil.",
+     "Arată cum se împinge acul în sus printr-o gaură și în jos prin cealaltă.",
+     "Lasă copilul să repete asta de 4 sau 5 ori.",
+     "Ajută la legarea aței pe spate.",
+     "Pune imediat acul într-o pernuță pentru ace sau într-o cutie."
+    ],
+    "avoid": [
+     "Acele ascuțite și subțiri.",
+     "Să lași ace pe masă sau pe jos.",
+     "Materialul subțire, care se încrețește și enervează."
+    ],
+    "success": "Copilul coase un nasture cu cel puțin 4 împunsături.",
+    "ways": [
+     "Un ochi din nasture cusut pe o marionetă din fetru.",
+     "Exersare pe o cămașă veche.",
+     "2 nasturi cusuți ca să faceți o față."
+    ]
+   },
+   "fold_laundry": {
+    "name": "Împăturește și pune la loc rufele",
+    "goal": "Împăturește haine simple și le pune în sertarul potrivit.",
+    "why": "Ajutorul la rufe dezvoltă responsabilitatea și îi dă copilului un rol real în viața familiei.",
+    "steps": [
+     "Începeți cu lucruri ușoare, cum ar fi prosoapele și tricourile.",
+     "Arată încet o împăturire, pas cu pas.",
+     "Lasă copilul să o împăturească pe următoarea fără ajutor.",
+     "Potriviți împreună șosetele în perechi.",
+     "Roagă copilul să-și pună propriile haine în sertarele potrivite."
+    ],
+    "avoid": [
+     "Să reîmpăturești hainele sub ochii copilului.",
+     "Grămezile mari, care par fără sfârșit.",
+     "Să te aștepți la împăturiri perfecte, ca în magazin."
+    ],
+    "success": "Copilul împăturește 5 lucruri și le pune la loc.",
+    "ways": [
+     "Împăturirea prosoapelor de bucătărie.",
+     "O întrecere cu cântecul preferat.",
+     "Sortarea rufelor curate pentru fiecare membru al familiei."
+    ]
+   },
+   "tread_water": {
+    "name": "Plutește, menține-te la suprafață și ieși din apă",
+    "goal": "Plutește pe spate, se menține puțin timp la suprafață și iese pe margine, într-o piscină supravegheată.",
+    "why": "Plutirea și menținerea la suprafață îl ajută pe copil să-și păstreze calmul și să țină capul deasupra apei. Sunt abilități esențiale pentru siguranța în apă.",
+    "steps": [
+     "Exersați doar într-o piscină supravegheată sau la o lecție, cu tine în apă.",
+     "Ajută copilul să se lase pe spate în formă de stea, cu urechile în apă, respirând încet.",
+     "Apoi, ținându-se de margine, copilul mișcă mâinile în cercuri mici și picioarele în bătăi ușoare.",
+     "Copilul dă drumul marginii cât numărați până la 10, cu tine la distanță de un braț, apoi se ține din nou de margine.",
+     "Arată cum se iese: mâinile pe margine, împingere în sus, cotul, apoi genunchiul pe margine."
+    ],
+    "avoid": [
+     "Exersarea în lacuri, râuri sau mare.",
+     "Jocurile în care cineva e împins sau ținut sub apă.",
+     "Să continuați când copilului îi e frig, e obosit sau speriat."
+    ],
+    "success": "Copilul plutește 10 secunde, se menține la suprafață 10 secunde și iese pe margine.",
+    "ways": [
+     "O întrecere de plutit ca steaua, să vedeți cine își păstrează calmul cel mai mult.",
+     "Menținerea la suprafață numărând cu voce tare până la 10.",
+     "Exersarea la lecție, apoi copilul îți arată ce a învățat."
+    ]
+   },
+   "sport_move": {
+    "name": "Învață o mișcare dintr-un sport",
+    "goal": "Exersează o mișcare dintr-un sport până când iese lin.",
+    "why": "Învățarea unei mișcări sportive dezvoltă coordonarea și încrederea. Joaca activă îi ajută pe copii să ajungă la cel puțin 60 de minute de mișcare pe zi.",
+    "steps": [
+     "Lasă copilul să aleagă un sport care îi place.",
+     "Alege o mișcare, cum ar fi o pasă cu interiorul piciorului.",
+     "Împarte-o în 2 sau 3 părți mici și arată-le pe fiecare.",
+     "Exersați încet de 10 ori, apoi puțin mai repede.",
+     "Laudă un lucru care s-a îmbunătățit."
+    ],
+    "avoid": [
+     "Să corectezi totul deodată.",
+     "Mingile tari lângă ferestre sau drumuri.",
+     "Comparația cu copii mai mari sau cu colegii de echipă."
+    ],
+    "success": "Copilul face mișcarea de 5 ori la rând, cu o tehnică bună.",
+    "ways": [
+     "Pase între voi, în parc.",
+     "Pase cu pământul, la perete.",
+     "Lovirea unei mingi moi cu racheta, peste o linie."
+    ]
+   },
+   "road_ride": {
+    "name": "Pe bicicletă pe o stradă liniștită, cu un adult",
+    "goal": "Merge cu bicicleta o porțiune scurtă pe o stradă liniștită, cu un adult pe bicicletă chiar în spate.",
+    "why": "Mersul cu un adult pe o stradă liniștită dezvoltă pas cu pas atenția la trafic. Copiii învață să aprecieze traficul încet, de-a lungul mai multor ani.",
+    "steps": [
+     "Începe doar după ce copilul poate să frâneze, să semnalizeze și să se uite în spate cu încredere, într-un loc departe de drumuri.",
+     "Verifică casca, frânele și cauciucurile înainte să porniți.",
+     "Alege o stradă foarte liniștită, pe lumină, și respectă regulile locale.",
+     "Mergi chiar în spatele copilului și dă instrucțiuni scurte și clare.",
+     "Exersați pornirea, mersul într-o linie constantă și oprirea când spui tu.",
+     "Fă prima tură scurtă și încheiați într-un moment bun."
+    ],
+    "avoid": [
+     "Străzile aglomerate și intersecțiile.",
+     "Mersul pe bicicletă fără cască.",
+     "Mersul pe întuneric, pe ploaie sau pe ceață."
+    ],
+    "success": "Copilul merge o porțiune scurtă pe o stradă liniștită, într-o linie constantă, și oprește când i se cere.",
+    "ways": [
+     "Un tur scurt în buclă lângă casă, într-o dimineață liniștită.",
+     "Exersarea opririi lângă o mașină parcată și a privitului în spate.",
+     "Un curs local de educație rutieră pe bicicletă, pentru copii."
+    ]
+   },
+   "skip_20": {
+    "name": "Sari coarda de 20 de ori la rând",
+    "goal": "Învârte coarda și sare de 20 de ori fără oprire.",
+    "why": "Săritul corzii dezvoltă simțul ritmului, rezistența și coordonarea. E o metodă rapidă de mișcare, oriunde.",
+    "steps": [
+     "Verifică lungimea corzii: mânerele ajung la subraț când copilul stă cu picioarele pe mijlocul ei.",
+     "Găsește un loc plan, afară sau într-o cameră cu tavanul înalt.",
+     "Exersați sărituri mici, pe vârfuri.",
+     "Numărați împreună, cu voce tare, fiecare săritură.",
+     "Pauză după fiecare încercare, apoi copilul încearcă să-și bată propriul record."
+    ],
+    "avoid": [
+     "Podelele tari sau alunecoase.",
+     "Corzile prea lungi sau prea scurte.",
+     "Să insiști când copilul e obosit."
+    ],
+    "success": "Copilul sare coarda de 20 de ori la rând.",
+    "ways": [
+     "Sărit coarda pe o numărătoare.",
+     "Sărit coarda în timp ce numărați din 2 în 2.",
+     "Săriți pe rând și încurajați-vă unul pe altul."
+    ]
+   },
+   "chapter_book": {
+    "name": "Citește o carte cu capitole",
+    "goal": "Citește fără ajutor o carte scurtă cu capitole, câte un capitol pe rând.",
+    "why": "Cărțile mai lungi dezvoltă concentrarea, imaginația și dragostea pentru povești. Îmbogățesc repede și vocabularul.",
+    "steps": [
+     "Lasă copilul să aleagă o carte scurtă cu capitole care îl entuziasmează.",
+     "Citiți împreună primul capitol, ca să începeți.",
+     "Lasă copilul să citească următorul capitol fără ajutor.",
+     "Întreabă ce s-a întâmplat și ce s-ar putea întâmpla mai departe.",
+     "Folosiți un semn de carte, ca să se vadă cât a citit deja."
+    ],
+    "avoid": [
+     "Cărțile mult prea grele.",
+     "Să transformi cititul într-un test.",
+     "Să renunți complet să-i citești copilului cu voce tare."
+    ],
+    "success": "Copilul citește 1 capitol fără ajutor și îți povestește ce s-a întâmplat.",
+    "ways": [
+     "Citiți pe rând câte o pagină, la culcare.",
+     "O vizită la bibliotecă pentru a alege următoarea carte.",
+     "Ascultarea cărții audio, urmărind textul."
+    ]
+   },
+   "write_story": {
+    "name": "Scrie o poveste scurtă",
+    "goal": "Scrie o poveste scurtă, cu început, cuprins și încheiere.",
+    "why": "Scrierea poveștilor dezvoltă imaginația, ortografia și ordonarea ideilor.",
+    "steps": [
+     "Alegeți împreună un personaj și un loc.",
+     "Întreabă: ce problemă apare și cum se rezolvă?",
+     "Ajută copilul să plănuiască 3 părți: început, cuprins și încheiere.",
+     "Lasă copilul să scrie 1 sau 2 propoziții pentru fiecare parte.",
+     "Roagă copilul să ți-o citească și laudă o idee."
+    ],
+    "avoid": [
+     "Să corectezi ortografia în timp ce scrie.",
+     "Să ceri o poveste lungă.",
+     "Să-i înlocuiești ideile cu ale tale."
+    ],
+    "success": "Copilul scrie o poveste cu un început, un cuprins și o încheiere clare.",
+    "ways": [
+     "O poveste despre animalul de companie al familiei sau despre o jucărie.",
+     "O bandă desenată cu 3 casete.",
+     "Terminarea unei povești pe care o începi tu."
+    ]
+   },
+   "share_online": {
+    "name": "Ce împărtășim online",
+    "goal": "Știe ce date să păstreze private online și îi spune unui adult dacă ceva i se pare în neregulă.",
+    "why": "Mulți copii încep să intre online la această vârstă. Să știe ce rămâne privat și cui să spună îi ajută să fie în siguranță.",
+    "steps": [
+     "Stați împreună la dispozitivul pe care îl folosește copilul.",
+     "Explică faptul că numele complet, adresa, școala, numărul de telefon și fotografiile rămân private.",
+     "Jucați un joc rapid cu câteva exemple: împărtășim sau păstrăm privat?",
+     "Stabiliți ca copilul să-ți spună dacă ceva online i se pare în neregulă sau ciudat.",
+     "Promite că vei asculta calm și că nu te vei supăra."
+    ],
+    "avoid": [
+     "Poveștile înfricoșătoare, care sperie copilul.",
+     "Să te enervezi când copilul îți spune despre o problemă.",
+     "Să lași copilul să folosească aplicații noi înainte să le configurați împreună."
+    ],
+    "success": "Copilul numește 3 lucruri care rămân private și cui să spună.",
+    "ways": [
+     "Faceți împreună o listă cu regulile online ale familiei.",
+     "Verificați împreună setările de confidențialitate ale unui joc.",
+     "Vorbiți din nou despre asta ori de câte ori copilul începe să folosească o aplicație nouă."
+    ]
+   },
+   "disagree_politely": {
+    "name": "Exprimă-ți politicos dezacordul",
+    "goal": "Spune că vede lucrurile altfel, calm și cu un motiv.",
+    "why": "Dezacordul politicos îl ajută pe copil să-și susțină părerile și totuși să-și păstreze prieteniile.",
+    "steps": [
+     "Alege un subiect ușor, cum ar fi cel mai bun topping pentru pizza.",
+     "Arată o formulare politicoasă: eu văd altfel, pentru că.",
+     "Spuneți pe rând păreri opuse.",
+     "Exersați ascultarea până la capăt înainte de a răspunde.",
+     "Laudă cuvintele calme și motivul clar."
+    ],
+    "avoid": [
+     "Exersarea în timpul unei certe adevărate.",
+     "Să lași copilul să câștige întotdeauna.",
+     "Să râzi de părerea copilului."
+    ],
+    "success": "Copilul își exprimă o dată dezacordul, cu voce calmă și cu un motiv.",
+    "ways": [
+     "Vorbiți despre un film care v-a plăcut diferit.",
+     "Exersați cu o dezbatere în familie, la cină.",
+     "Jucați scena cu jucării."
+    ]
+   },
+   "phone_call": {
+    "name": "Dă un telefon",
+    "goal": "Sună pe cineva din familie, spune cine sună și transmite un mesaj scurt.",
+    "why": "Convorbirile la telefon dezvoltă încrederea și vorbirea clară. Să știi să suni pe cineva este și o abilitate importantă de siguranță.",
+    "steps": [
+     "Alege o rudă prietenoasă și spune-i că urmează un telefon.",
+     "Plănuiți ce va spune: alo, cine sună, mesajul, la revedere.",
+     "Ajută copilul să găsească numărul și să sune.",
+     "Stai în apropiere și lasă copilul să vorbească.",
+     "După aceea, vorbiți despre cum a fost."
+    ],
+    "avoid": [
+     "Telefoanele către oameni pe care copilul nu îi cunoaște.",
+     "Să preiei tu convorbirea.",
+     "Să suni la 112 ca să exersați."
+    ],
+    "success": "Copilul dă un telefon, spune cine sună și transmite un mesaj.",
+    "ways": [
+     "Un telefon la bunici ca să le spună noapte bună.",
+     "Exersarea întâi cu un telefon de jucărie.",
+     "Discutați ce trebuie spus la 112, fără să formați numărul."
+    ]
+   },
+   "keep_promise": {
+    "name": "Ține-ți promisiunea",
+    "goal": "Face o promisiune mică și o respectă.",
+    "why": "Respectarea promisiunilor construiește încrederea și responsabilitatea. Îl ajută pe copil să simtă mândrie și să devină o persoană de încredere.",
+    "steps": [
+     "Vorbiți despre ce e o promisiune și de ce contează.",
+     "Ajută copilul să aleagă o promisiune mică, cum ar fi să hrănească animalul de companie diseară.",
+     "Scrieți-o sau desenați-o.",
+     "Întreabă mai târziu în aceeași zi cum a mers.",
+     "Laudă copilul când o respectă."
+    ],
+    "avoid": [
+     "Promisiunile mari, pe care copilul nu le poate respecta.",
+     "Să faci copilul de rușine dacă uită.",
+     "Să-ți încalci propriile promisiuni față de copil."
+    ],
+    "success": "Copilul respectă 1 promisiune mică.",
+    "ways": [
+     "Promisiunea de a ajuta un frate sau o soră la o treabă.",
+     "Promisiunea de a returna o jucărie împrumutată.",
+     "Povestește despre o promisiune pe care ai respectat-o."
+    ]
+   },
+   "help_younger": {
+    "name": "Ajută un copil mai mic",
+    "goal": "Ajută un copil mai mic la o activitate simplă, cu blândețe și răbdare.",
+    "why": "Ajutorul dat altora dezvoltă bunătatea și încrederea. Îi arată copilului și cât de multe a învățat.",
+    "steps": [
+     "Alege o activitate simplă, cum ar fi construirea unui turn sau citirea unei cărți cu imagini.",
+     "Vorbiți despre cum poate ajuta: arată, așteaptă și laudă.",
+     "Lasă copilul să-l ajute pe cel mic.",
+     "Stai aproape, în caz că vreunul dintre copii are nevoie de tine.",
+     "Mulțumește-i copilului pentru bunătate."
+    ],
+    "avoid": [
+     "Să lași copiii nesupravegheați.",
+     "Să-i ceri copilului să fie responsabil mult timp.",
+     "Activitățile prea grele pentru copilul mai mic."
+    ],
+    "success": "Copilul ajută un copil mai mic să termine o activitate.",
+    "ways": [
+     "Ajutor dat unui văr sau unei verișoare la un puzzle.",
+     "Citirea unei povești pentru un frate sau o soră mai mică.",
+     "Explicarea unui joc pentru un copil mic."
+    ]
+   },
+   "times_tables": {
+    "name": "Tabla înmulțirii până la 10",
+    "goal": "Știe majoritatea rezultatelor din tabla înmulțirii, până la 10 ori 10.",
+    "why": "Tabla înmulțirii știută bine face multe exerciții de matematică mai ușoare. Aduce viteză și încredere în lucrul cu numerele.",
+    "steps": [
+     "Alege o singură tablă de exersat săptămâna aceasta, de exemplu înmulțirea cu 3.",
+     "Numărați întâi împreună din pas în pas.",
+     "Pune 5 întrebări rapide, amestecate.",
+     "Folosiți rezultatele cunoscute ca ajutor, de exemplu dublul înmulțirii cu 2 pentru înmulțirea cu 4.",
+     "Laudă efortul și notează rezultatele care se îmbunătățesc."
+    ],
+    "avoid": [
+     "Exercițiile lungi, contra cronometru.",
+     "Exersarea mai multor table deodată.",
+     "Comparația cu alți copii."
+    ],
+    "success": "Copilul răspunde corect la 5 întrebări amestecate dintr-o tablă.",
+    "ways": [
+     "O întrebare la fiecare semafor roșu sau oprire.",
+     "Faceți împreună cartonașe.",
+     "Un joc cu zaruri în care înmulțiți numerele."
+    ]
+   },
+   "clock_minute": {
+    "name": "Citește ceasul la minut",
+    "goal": "Citește ora exactă, la minut, pe un ceas cu limbi.",
+    "why": "Citirea ceasului îl ajută pe copil să-și plănuiască ziua și îi dă mai multă autonomie.",
+    "steps": [
+     "Folosește un ceas cu limbi sau desenează unul.",
+     "Verifică dacă copilul știe „și jumătate”, „și un sfert” și „fără un sfert”.",
+     "Numărați împreună minutele din 5 în 5, de jur împrejur.",
+     "Arată cum se numără mai departe minut cu minut după multiplul lui 5.",
+     "Potrivește 3 ore pe care să le citească copilul."
+    ],
+    "avoid": [
+     "Doar ceasurile digitale.",
+     "Graba spre minute înainte ca pașii de 5 minute să fie ușori.",
+     "Sesiunile lungi."
+    ],
+    "success": "Copilul citește 3 ore la minut.",
+    "ways": [
+     "Întreabă cât e ceasul în momente reale ale zilei.",
+     "Potrivirea unui ceas cu limbi cu unul digital.",
+     "Plănuiți o activitate scurtă care să înceapă la o oră exactă."
+    ]
+   },
+   "halves_quarters": {
+    "name": "Jumătăți și sferturi",
+    "goal": "Găsește jumătatea și sfertul unor forme și al unor cantități mici.",
+    "why": "Fracțiile fac parte din viața de zi cu zi, de la împărțitul mâncării până la citirea ceasului.",
+    "steps": [
+     "Îndoiți o foaie de hârtie în jumătate, apoi în sferturi.",
+     "Arată că jumătățile și sferturile sunt părți egale.",
+     "Împărțiți 8 obiecte mici în 2 grupuri egale, apoi în 4.",
+     "Întreabă: cât e jumătate din 8 și cât e un sfert din 8?",
+     "Lasă copilul să încerce cu 12 obiecte."
+    ],
+    "avoid": [
+     "Părțile inegale numite jumătăți.",
+     "Numerele care nu se împart în mod egal.",
+     "Să treci mai departe înainte ca jumătățile să fie clare."
+    ],
+    "success": "Copilul găsește jumătatea și sfertul a 2 cantități.",
+    "ways": [
+     "Tăierea unui sandviș sau a unei pizza în sferturi, iar orice tăiere cu cuțit ascuțit o faci tu.",
+     "Împărțirea corectă a dulciurilor între mai multe persoane.",
+     "Îndoirea și colorarea formelor din hârtie."
+    ]
+   },
+   "use_map": {
+    "name": "Folosește o hartă",
+    "goal": "Urmează o hartă simplă ca să găsească un loc sau un obiect.",
+    "why": "Hărțile dezvoltă gândirea spațială și îl ajută pe copil să înțeleagă unde se află.",
+    "steps": [
+     "Desenați împreună o hartă simplă a unei camere.",
+     "Ascunde un obiect mic și marchează-l cu un X.",
+     "Lasă copilul să folosească harta ca să-l găsească.",
+     "Uitați-vă împreună pe o hartă a zonei în care locuiți.",
+     "Găsiți-vă casa și un loc cunoscut."
+    ],
+    "avoid": [
+     "Hărțile detaliate, la început.",
+     "Să citești tu harta în locul copilului.",
+     "Să lași copilul să urmeze o hartă afară, nesupravegheat."
+    ],
+    "success": "Copilul găsește un obiect ascuns cu ajutorul unei hărți.",
+    "ways": [
+     "Urmăriți împreună harta unui parc, la plimbare.",
+     "O hartă a comorii pentru un prieten.",
+     "Trasarea unui traseu pe hartă înainte de o excursie."
+    ]
+   },
+   "pocket_money": {
+    "name": "Economisește și cheltuie banii de buzunar",
+    "goal": "Împarte banii în bani de economisit și bani de cheltuit și economisește pentru ceva ce își dorește.",
+    "why": "Gestionarea unei sume mici de bani învață răbdarea, alegerile și valoarea economisirii.",
+    "steps": [
+     "Pregătiți 2 borcane: unul pentru economii, unul pentru cheltuieli.",
+     "Stabiliți împreună cum se împart banii.",
+     "Ajută copilul să aleagă un obiectiv de economisire și să-i noteze prețul.",
+     "Numărați economiile împreună în fiecare săptămână.",
+     "Lasă copilul să ia propriile decizii de cheltuire, chiar și cu mici greșeli."
+    ],
+    "avoid": [
+     "Să completezi suma când se termină banii.",
+     "Să alegi tu obiectivul în locul copilului.",
+     "Obiectivele atât de îndepărtate încât copilul își pierde interesul."
+    ],
+    "success": "Copilul pune deoparte o parte din bani 3 săptămâni la rând.",
+    "ways": [
+     "Un grafic desenat care se umple pe măsură ce cresc economiile.",
+     "Un al treilea borcan, pentru dăruit.",
+     "Compararea prețurilor înainte de cumpărare."
+    ]
+   },
+   "cook_simple": {
+    "name": "Gătește o masă simplă cu un adult",
+    "goal": "Ajută la gătitul unei mâncări calde simple, iar părțile fierbinți și tăioase le faci tu.",
+    "why": "Gătitul împreună dezvoltă încrederea, matematica și obiceiurile sănătoase. Este o abilitate pe care copilul o va folosi toată viața.",
+    "steps": [
+     "Alege o mâncare simplă, cum ar fi ouă jumări pe pâine prăjită.",
+     "Spălați-vă pe mâini și citiți pașii împreună.",
+     "Lasă copilul să spargă ouăle, să bată și să măsoare, apoi spălați-vă din nou pe mâini după ce ați atins ou crud.",
+     "Tu te ocupi de plită, de tigăile fierbinți și de cuțitele ascuțite.",
+     "Lasă copilul să amestece cu o lingură lungă doar când simți că a venit momentul, cu tine alături.",
+     "Serviți și mâncați împreună."
+    ],
+    "avoid": [
+     "Să lași copilul nesupravegheat lângă plită.",
+     "Cozile tigăilor care ies peste marginea plitei.",
+     "Graba, când toată lumea e flămândă."
+    ],
+    "success": "Copilul face cel puțin 3 pași dintr-o mâncare caldă simplă.",
+    "ways": [
+     "Paste cu un sos simplu, făcute împreună.",
+     "O omletă cu legume.",
+     "Supă încălzită și pâine prăjită alături."
+    ]
+   },
+   "pack_trip": {
+    "name": "Fă-ți bagajul pentru o excursie",
+    "goal": "Își face bagajul pentru o excursie scurtă, după o listă.",
+    "why": "Făcutul bagajului dezvoltă planificarea, autonomia și responsabilitatea pentru propriile lucruri.",
+    "steps": [
+     "Scrieți sau desenați împreună o listă de bagaj.",
+     "Lasă copilul să adune lucrurile de pe listă.",
+     "Arată cum se rulează hainele ca să ocupe mai puțin loc.",
+     "Roagă copilul să bifeze fiecare lucru.",
+     "La final, verificați bagajul împreună."
+    ],
+    "avoid": [
+     "Să faci tu bagajul în locul copilului.",
+     "Listele lungi, cu prea multe lucruri.",
+     "Să lăsați totul pe ultimul moment."
+    ],
+    "success": "Copilul pune în bagaj fiecare lucru de pe listă.",
+    "ways": [
+     "Bagajul pentru o noapte la bunici.",
+     "O geantă pentru o zi la plajă.",
+     "O geantă de sport pentru un club."
+    ]
+   },
+   "homework_plan": {
+    "name": "Plănuiește timpul pentru teme",
+    "goal": "Alege o oră și un loc pentru teme și începe fără să i se spună.",
+    "why": "O rutină simplă pentru teme dezvoltă concentrarea și autonomia. Înseamnă și mai puține conflicte acasă.",
+    "steps": [
+     "Vorbiți despre cel mai bun moment pentru teme, de exemplu după o gustare.",
+     "Alegeți un loc liniștit, cu lucrurile de care are nevoie.",
+     "Ajută copilul să facă lista sarcinilor de azi.",
+     "Împărțiți sarcinile mari în părți mici.",
+     "Folosiți un cronometru pentru concentrare și o pauză scurtă."
+    ],
+    "avoid": [
+     "Să faci tu temele în locul copilului.",
+     "Ecranele și zgomotul din apropiere.",
+     "Începutul când copilul e foarte obosit."
+    ],
+    "success": "Copilul începe temele la ora plănuită, fără să i se amintească.",
+    "ways": [
+     "Un tabel săptămânal pentru teme.",
+     "Bifarea sarcinilor de pe o listă.",
+     "Timp de citit plănuit în fiecare seară."
+    ]
+   },
+   "tidy_room": {
+    "name": "Rutina de ordine în cameră",
+    "goal": "Își face ordine în cameră, printr-o scurtă rutină zilnică.",
+    "why": "O rutină de ordine dezvoltă responsabilitatea și face mai ușor de găsit lucrurile.",
+    "steps": [
+     "Dați fiecărui lucru un loc clar, cum ar fi cutii sau sertare etichetate.",
+     "Alegeți 3 treburi mici, cum ar fi hainele puse la loc, jucăriile în cutii, patul făcut.",
+     "Setează un cronometru pentru 5 minute.",
+     "Ajută la început, apoi retrage-te.",
+     "Laudă efortul și bucurați-vă împreună de camera aranjată."
+    ],
+    "avoid": [
+     "Să faci tu ordine în cameră în locul copilului.",
+     "Să te aștepți la perfecțiune.",
+     "Folosirea ordinii ca pedeapsă."
+    ],
+    "success": "Copilul face cele 3 treburi în 5 minute.",
+    "ways": [
+     "Ordine pe cântecul preferat.",
+     "O listă de verificare cu imagini, pe ușă.",
+     "Ordine împreună, într-o dimineață de weekend."
+    ]
+   },
+   "swim_25m": {
+    "name": "Înoată 25 de metri",
+    "goal": "Înoată 25 de metri fără oprire, într-o piscină supravegheată.",
+    "why": "Înotul pe o distanță mai lungă dezvoltă rezistența, încrederea în apă și o abilitate importantă de siguranță.",
+    "steps": [
+     "Mergeți la o piscină supravegheată sau la o lecție de înot.",
+     "Stai în apă cu copilul sau chiar la marginea bazinului dacă înoată cu încredere, și supraveghează copilul tot timpul.",
+     "Începeți cu 1 lățime de bazin, apoi pauză la margine.",
+     "Adăugați puțină distanță la fiecare vizită.",
+     "Numărați lungimile împreună și laudă respirația constantă."
+    ],
+    "avoid": [
+     "Lacurile, râurile sau marea pentru exersare.",
+     "Să lași copilul să înoate fără un adult care să-l urmărească.",
+     "Să insiști când copilului îi e frig sau e obosit."
+    ],
+    "success": "Copilul înoată 1 lungime completă de bazin de 25 de metri.",
+    "ways": [
+     "O lecție de înot cu un instructor.",
+     "Înot alături de un părinte, pe lungimea bazinului.",
+     "Jumătate de lungime, o pauză, apoi cealaltă jumătate."
+    ]
+   },
+   "team_game": {
+    "name": "Pasează și mișcă-te într-un joc de echipă",
+    "goal": "Pasează mingea și se mută într-un spațiu liber, într-un joc simplu de echipă.",
+    "why": "Jocurile de echipă dezvoltă condiția fizică, lucrul în echipă și obiceiul de a te gândi la ceilalți.",
+    "steps": [
+     "Găsește un parc sau o grădină și o minge moale.",
+     "Jucați 2 contra 1 cu cineva din familie sau cu un prieten.",
+     "Arată cum se pasează, apoi cum se mută într-un spațiu liber.",
+     "Strigă „pasează și mișcă-te” ca reamintire.",
+     "Laudă fiecare pasă bună, nu doar golurile."
+    ],
+    "avoid": [
+     "Mingile tari lângă ferestre sau drumuri.",
+     "Ținerea scorului într-un fel care supără pe cineva.",
+     "Jocurile lungi, care se termină cu certuri din oboseală."
+    ],
+    "success": "Copilul pasează și apoi se mută într-un spațiu nou, de 3 ori.",
+    "ways": [
+     "Fotbal în parc.",
+     "Pase cu mâna, ca la handbal.",
+     "Un joc de „mingea la mijloc”."
+    ]
+   },
+   "warm_up": {
+    "name": "Încălzire și întinderi",
+    "goal": "Face o scurtă încălzire înainte de activitate și întinderi ușoare după.",
+    "why": "Încălzirea pregătește corpul de mișcare. E un obicei bun pentru sport și joacă.",
+    "steps": [
+     "Începeți cu 1 minut de mers sau alergare pe loc.",
+     "Adăugați rotiri de brațe, înainte și înapoi.",
+     "Faceți 5 ridicări ușoare de genunchi pe fiecare picior.",
+     "După joacă, mențineți 3 întinderi ușoare cât numărați încet până la 10.",
+     "Data viitoare, lasă copilul să conducă rutina."
+    ],
+    "avoid": [
+     "Arcuirea sau forțarea unei întinderi.",
+     "Întinderile care dor.",
+     "Să săriți peste încălzire când vă grăbiți."
+    ],
+    "success": "Copilul conduce fără ajutor o încălzire cu 3 mișcări.",
+    "ways": [
+     "O încălzire înainte de o plimbare în familie.",
+     "Un cântec de încălzire, cu mișcări.",
+     "Întinderi împreună după o tură cu bicicleta."
+    ]
+   },
+   "short_route": {
+    "name": "Un traseu scurt pe bicicletă, cu un adult",
+    "goal": "Merge cu bicicleta pe un traseu scurt și cunoscut, cu un adult, respectând regulile locale.",
+    "why": "Mersul împreună pe un traseu cunoscut dezvoltă pas cu pas simțul traficului, planificarea și încrederea.",
+    "steps": [
+     "Verifică dacă se potrivește casca și închide-o de fiecare dată.",
+     "Alegeți un traseu scurt și liniștit, pe care îl știți amândoi.",
+     "Parcurgeți-l întâi împreună, pe jos sau pe bicicletă, și arată intersecțiile.",
+     "Mergi în spatele sau alături de copil, respectând regulile locale.",
+     "Opriți-vă la capăt și vorbiți despre ce a mers bine.",
+     "Tu decizi când copilul e pregătit pentru mai mult."
+    ],
+    "avoid": [
+     "Drumurile aglomerate sau mersul pe întuneric.",
+     "Mersul pe bicicletă fără cască.",
+     "Să lași copilul să meargă pe traseu fără însoțitor înainte să consideri tu că e pregătit."
+    ],
+    "success": "Copilul parcurge traseul scurt cu tine și oprește la fiecare intersecție.",
+    "ways": [
+     "O tură până în parc.",
+     "O tură până la casa unui prieten, pe străzi liniștite.",
+     "Un tur în jurul blocului sau al cvartalului."
+    ]
+   },
+   "mend_friendship": {
+    "name": "Repară o prietenie",
+    "goal": "Găsește o cale de a se împăca cu un prieten după o ceartă.",
+    "why": "Prieteniile contează mai mult la această vârstă. Când învață să le repare, copilul își dezvoltă bunătatea și încrederea.",
+    "steps": [
+     "Ascultă în timp ce copilul îți povestește ce s-a întâmplat.",
+     "Întreabă-l ce simte și ce ar putea simți prietenul.",
+     "Găsiți împreună 2 moduri de împăcare.",
+     "Exersați cuvintele, de exemplu „Îmi pare rău. Putem fi din nou prieteni?”",
+     "Lasă copilul să aleagă un moment liniștit pentru a încerca."
+    ],
+    "avoid": [
+     "Să iei partea cuiva imediat.",
+     "Să contactezi tu prietenul sau părintele lui în locul copilului.",
+     "Să forțezi o scuză rapidă."
+    ],
+    "success": "Copilul plănuiește ce să spună ca să se împace.",
+    "ways": [
+     "Joc de rol cu o jucărie sau cu un părinte.",
+     "Un bilețel scurt.",
+     "Invitarea prietenului la joacă."
+    ]
+   },
+   "say_no_pressure": {
+    "name": "Spune nu presiunii",
+    "goal": "Spune calm nu atunci când prietenii insistă să facă ceva ce i se pare greșit.",
+    "why": "Pe măsură ce cresc, copiii simt mai multă presiune din partea celorlalți. Un răspuns exersat face refuzul mai ușor.",
+    "steps": [
+     "Vorbiți despre o situație în care cineva a vrut ca copilul să facă ceva ce nu voia.",
+     "Exersați un răspuns scurt și ferm: „Nu, mersi, nu vreau.”",
+     "Arată cum să stea drept și să se uite la persoana respectivă.",
+     "Exersați plecatul sau schimbarea subiectului.",
+     "Amintește-i copilului că îți poate spune întotdeauna."
+    ],
+    "avoid": [
+     "Să faci exersarea înfricoșătoare.",
+     "Să te superi dacă copilul îți spune despre o greșeală.",
+     "Predicile lungi."
+    ],
+    "success": "Copilul spune nu și pleacă, într-un joc de rol.",
+    "ways": [
+     "O provocare de joacă, lansată de un părinte.",
+     "Alegerea unui cuvânt-cod pentru a cere să fie luat acasă.",
+     "Discuții despre un personaj dintr-o carte sau dintr-un film."
+    ]
+   },
+   "present_topic": {
+    "name": "Prezintă un subiect familiei",
+    "goal": "Vorbește în fața familiei 2 minute despre un subiect care îi place.",
+    "why": "Vorbitul în fața unui grup dezvoltă încrederea și ajută la prezentările de la școală.",
+    "steps": [
+     "Lasă copilul să aleagă un subiect care îi place mult.",
+     "Ajută copilul să scrie 3 idei principale pe un cartonaș.",
+     "Exersați o dată împreună, cu voce tare.",
+     "Adunați familia și ascultați fără să întrerupeți.",
+     "La final, pune 1 întrebare prietenoasă și aplaudați."
+    ],
+    "avoid": [
+     "Să corectezi greșelile în timpul prezentării.",
+     "Să alegi tu subiectul în locul copilului.",
+     "O prezentare prea lungă."
+    ],
+    "success": "Copilul vorbește 2 minute despre subiectul ales.",
+    "ways": [
+     "O prezentare despre animalul preferat.",
+     "Un desen sau un obiect de arătat.",
+     "O prezentare pentru bunici, într-un apel video."
+    ]
+   },
+   "kind_online": {
+    "name": "Mesaje frumoase online",
+    "goal": "Scrie online mesaje frumoase și clare și știe ce să facă dacă un mesaj îl supără.",
+    "why": "Cuvintele online pot răni la fel de mult ca cele spuse față în față. Obiceiurile frumoase de acum îl protejează pe copil și pe ceilalți.",
+    "steps": [
+     "Stați împreună și uitați-vă la un mesaj de familie sau la chatul unui joc pe care îl supraveghezi.",
+     "Întreabă: „I-aș spune asta în față?”",
+     "Scrieți împreună un mesaj frumos.",
+     "Vorbiți despre ce trebuie făcut dacă un mesaj pare răutăcios: te oprești, nu răspunzi, spui unui adult.",
+     "Stabiliți că datele personale nu apar în mesaje."
+    ],
+    "avoid": [
+     "Aplicațiile de chat sau jocurile fără ca un părinte să verifice din când în când.",
+     "Împărtășirea numelui, a școlii sau a adresei.",
+     "Răspunsul la mesajele răutăcioase."
+    ],
+    "success": "Copilul scrie un mesaj frumos și spune ce să facă dacă un mesaj îl supără.",
+    "ways": [
+     "Un mesaj pentru bunici.",
+     "Citirea unor exemple de mesaje și găsirea celor frumoase.",
+     "Un cartonaș cu regulile familiei, lângă calculator."
+    ]
+   },
+   "ask_help": {
+    "name": "Cere ajutorul unui adult",
+    "goal": "Știe căror adulți să le ceară ajutorul și cum să ceară clar.",
+    "why": "Să știe pe cine să roage și ce să spună îl ajută pe copil să se simtă în siguranță când ceva nu merge bine.",
+    "steps": [
+     "Vorbiți despre adulții de încredere, cum ar fi profesorii și familia.",
+     "Vorbiți despre persoanele sigure cărora le poate cere ajutorul în oraș, cum ar fi un vânzător sau un părinte cu copii.",
+     "Exersați o cerere clară: „M-am rătăcit. Mă ajutați să o sun pe mama?”",
+     "Faceți o dată un joc de rol, acasă.",
+     "Verifică dacă copilul știe numărul tău de telefon."
+    ],
+    "avoid": [
+     "Să meargă undeva cu cineva pe care nu îl cunoaște.",
+     "Să faci exersarea înfricoșătoare.",
+     "Să sari peste verificarea numărului de telefon."
+    ],
+    "success": "Copilul numește 3 adulți de încredere și cere clar ajutorul, într-un joc de rol.",
+    "ways": [
+     "Cererea unei cărți la bibliotecă.",
+     "Întrebarea unui vânzător unde se află ceva.",
+     "Stabilirea unui punct de întâlnire în locurile aglomerate."
+    ]
+   },
+   "mental_maths": {
+    "name": "Calcul mintal",
+    "goal": "Adună, scade și înmulțește numere simple, în minte.",
+    "why": "Calculul mintal rapid ajută în fiecare zi, la cumpărături, la citirea ceasului și la teme.",
+    "steps": [
+     "Alege un moment liniștit, cum ar fi o plimbare sau un drum cu mașina.",
+     "Începe cu o întrebare ușoară, cum ar fi 20 plus 30.",
+     "Lasă timp de gândire înainte să ajuți.",
+     "Întreabă cum a ajuns la rezultat.",
+     "Fă următoarea întrebare puțin mai grea."
+    ],
+    "avoid": [
+     "Să cronometrezi copilul.",
+     "Comparația cu frații sau colegii de clasă.",
+     "Prea multe întrebări la rând."
+    ],
+    "success": "Copilul răspunde la 5 întrebări, calculând în minte.",
+    "ways": [
+     "Adunarea prețurilor în magazin.",
+     "Socotitul minutelor rămase până la cină.",
+     "Un joc cu numere în mașină."
+    ]
+   },
+   "write_email": {
+    "name": "Scrie un e-mail",
+    "goal": "Scrie un e-mail scurt, cu salut, mesaj și formulă de încheiere.",
+    "why": "Scrierea unui e-mail este o abilitate din viața reală, care dezvoltă scrisul clar și tastatul.",
+    "steps": [
+     "Stați împreună la un calculator sau o tabletă, cu e-mailul tău deschis.",
+     "Alegeți pe cineva pe care copilul îl cunoaște, cum ar fi un bunic sau o bunică.",
+     "Arată părțile: subiect, salut, mesaj, încheiere.",
+     "Lasă copilul să tasteze 3 propoziții scurte.",
+     "Citiți-l împreună, apoi lasă copilul să apese pe trimite."
+    ],
+    "avoid": [
+     "E-mailurile către oameni pe care copilul nu îi cunoaște.",
+     "Adăugarea datelor personale, cum ar fi adresa.",
+     "Să corectezi tu fiecare greșeală de ortografie."
+    ],
+    "success": "Copilul scrie și trimite un e-mail cu toate cele 4 părți.",
+    "ways": [
+     "Un e-mail de mulțumire pentru o rudă.",
+     "Un e-mail pentru un părinte aflat la serviciu.",
+     "Un scurt e-mail cu noutăți din weekend."
+    ]
+   },
+   "look_up_safely": {
+    "name": "Caută în siguranță răspunsul la o întrebare",
+    "goal": "Caută online un răspuns împreună cu un adult și verifică dacă site-ul e de încredere.",
+    "why": "Găsirea unor răspunsuri bune online este o abilitate esențială pentru școală. Făcută împreună, căutarea rămâne sigură.",
+    "steps": [
+     "Alegeți împreună o întrebare, cum ar fi cât de înaltă e o girafă.",
+     "Folosiți o setare de căutare potrivită pentru copii, cu tine alături.",
+     "Ajută copilul să aleagă cuvinte de căutare simple.",
+     "Uitați-vă la 2 rezultate și întreabă care pare de încredere.",
+     "Stabiliți că închide orice i se pare în neregulă și îți spune."
+    ],
+    "avoid": [
+     "Căutatul fără un părinte în apropiere.",
+     "Clicurile pe reclame sau ferestre pop-up.",
+     "Introducerea datelor personale."
+    ],
+    "success": "Copilul găsește cu tine un răspuns pe un site de încredere.",
+    "ways": [
+     "Verificarea unei informații pentru teme.",
+     "Aflarea unor lucruri despre un animal.",
+     "Verificarea vremii de mâine."
+    ]
+   },
+   "cross_road": {
+    "name": "Traversarea străzii fără însoțitor",
+    "goal": "Traversează în siguranță o stradă liniștită, după multă exersare împreună.",
+    "why": "Simțul traficului se formează în ani. Exersarea împreună te ajută să decizi când copilul e pregătit.",
+    "steps": [
+     "Traversați mai întâi împreună de multe ori, într-un loc sigur de traversare.",
+     "Lasă copilul să conducă: se oprește la bordură, se uită și ascultă în ambele părți.",
+     "Copilul așteaptă până când strada e liberă, apoi traversează drept, privind și ascultând pe tot parcursul.",
+     "Urmărește de aproape în timp ce copilul traversează fără tine.",
+     "Vorbiți despre ce a observat.",
+     "Tu decizi când copilul e pregătit, respectând regulile locale."
+    ],
+    "avoid": [
+     "Traversarea printre mașini parcate sau lângă curbe.",
+     "Folosirea telefonului sau a căștilor în timpul traversării.",
+     "Străzile aglomerate sau traversarea pe întuneric, la început."
+    ],
+    "success": "Copilul traversează în siguranță o stradă liniștită, în timp ce tu îl urmărești.",
+    "ways": [
+     "Folosirea împreună a unei treceri de pietoni.",
+     "Găsirea locurilor sigure de traversare, la plimbare.",
+     "Copilul îți spune când e sigur să treceți."
+    ]
+   },
+   "walk_friend": {
+    "name": "Pe jos până la un prieten, fără însoțitor",
+    "goal": "Merge pe jos pe un traseu scurt și cunoscut până la casa unui prieten, după ce decizi tu că e pregătit.",
+    "why": "Un prim drum scurt fără însoțitor dezvoltă autonomia și încrederea. Întâi vine exersarea împreună.",
+    "steps": [
+     "Parcurgeți mai întâi traseul împreună, de multe ori.",
+     "Lasă copilul să conducă și să găsească locurile sigure de traversare.",
+     "Stabiliți traseul exact și ora de sosire.",
+     "Roagă părintele prietenului să te sune sau să-ți scrie când ajunge copilul.",
+     "La început, dacă vrei, poți merge la mică distanță în urmă.",
+     "Tu decizi când copilul e pregătit, respectând regulile locale."
+    ],
+    "avoid": [
+     "Traseele noi sau lungi.",
+     "Mersul pe jos fără însoțitor pe întuneric.",
+     "Schimbarea planului fără să-ți spună."
+    ],
+    "success": "Copilul conduce pe tot traseul, în timp ce tu mergi în urmă.",
+    "ways": [
+     "Un drum până la casa unui vecin.",
+     "Un drum până la colț, unde vă întâlniți.",
+     "Un drum scurt până la magazin, cu un prieten."
+    ]
+   },
+   "shop_budget": {
+    "name": "Cumpărături cu buget",
+    "goal": "Cumpără câteva produse încadrându-se într-o sumă stabilită.",
+    "why": "Cumpărăturile cu buget învață planificarea, alegerile și valoarea banilor.",
+    "steps": [
+     "Scrieți împreună o listă scurtă cu 3 produse.",
+     "Dă-i o sumă stabilită de bani.",
+     "În magazin, lasă copilul să verifice prețurile.",
+     "Ajută copilul să adune totalul înainte de plată.",
+     "Lasă copilul să plătească și să verifice restul."
+    ],
+    "avoid": [
+     "Graba, într-un moment aglomerat.",
+     "Să plătești tu diferența dacă depășește suma.",
+     "Să alegi tu produsele în locul copilului."
+    ],
+    "success": "Copilul cumpără 3 produse și se încadrează în buget.",
+    "ways": [
+     "Cumpărarea gustărilor pentru un picnic.",
+     "Alegerea fructelor pentru o săptămână.",
+     "Plănuirea unui mic cadou de ziua de naștere."
+    ]
+   },
+   "cook_family": {
+    "name": "Gătește pentru familie",
+    "goal": "Pregătește o masă simplă pentru familie, cu un adult în apropiere.",
+    "why": "Gătitul pentru alții aduce mândrie, abilități în bucătărie și obiceiuri sănătoase.",
+    "steps": [
+     "Alegeți împreună o mâncare ușoară, cum ar fi paste cu sos.",
+     "Spălați-vă pe mâini și citiți rețeta de la cap la coadă.",
+     "Lasă copilul să măsoare, să amestece și să servească.",
+     "Părțile fierbinți și tăioase le faci tu, până când copilul e clar pregătit.",
+     "Așezați-vă împreună la masă și mulțumiți bucătarului."
+    ],
+    "avoid": [
+     "Să lași copilul nesupravegheat lângă plită sau cuptor.",
+     "Cuțitele ascuțite fără ajutor de aproape.",
+     "Mâncărurile cu mulți pași, la început."
+    ],
+    "success": "Copilul pregătește o masă cu tine în apropiere și o servește.",
+    "ways": [
+     "O masă rece, cum ar fi o salată.",
+     "Micul dejun pentru familie, în weekend.",
+     "O pizza cu ingrediente gata pregătite."
+    ]
+   },
+   "timetable": {
+    "name": "Citește mersul autobuzelor sau al trenurilor",
+    "goal": "Găsește o oră în orarul autobuzului sau în mersul trenurilor.",
+    "why": "Citirea orarului folosește cunoștințele despre timp și îl ajută pe copil să plănuiască drumuri.",
+    "steps": [
+     "Uitați-vă împreună la un orar tipărit sau online.",
+     "Găsiți stația voastră și locul unde vreți să ajungeți.",
+     "Roagă copilul să găsească următorul autobuz sau tren.",
+     "Calculați cât durează drumul.",
+     "Verificați răspunsul împreună, într-un drum real."
+    ],
+    "avoid": [
+     "Orarele cu prea multe linii, la început.",
+     "Graba pe drum ca să prindeți autobuzul.",
+     "Să citești tu orarul în locul copilului."
+    ],
+    "success": "Copilul găsește ora următorului autobuz sau tren.",
+    "ways": [
+     "Plănuirea unui drum până la bibliotecă.",
+     "Verificarea orarului în stație.",
+     "Plănuirea unei călătorii imaginare."
+    ]
+   },
+   "plan_day_out": {
+    "name": "Plănuiește o ieșire",
+    "goal": "Ajută la plănuirea unei ieșiri în familie, inclusiv unde, când și ce luați cu voi.",
+    "why": "Planificarea dezvoltă gândirea, alegerile și sentimentul că ideile copilului contează.",
+    "steps": [
+     "Oferă 2 sau 3 locuri dintre care să aleagă.",
+     "Roagă copilul să verifice cu tine programul de funcționare.",
+     "Ajută copilul să plănuiască drumul dus și întors.",
+     "Faceți o listă scurtă cu ce luați în bagaj.",
+     "În ziua ieșirii, lasă copilul să conducă planul."
+    ],
+    "avoid": [
+     "Prea multe variante.",
+     "Planurile care costă mai mult decât vrei să cheltui.",
+     "Schimbarea întregului plan fără să-l întrebi pe copil."
+    ],
+    "success": "Copilul face un plan simplu, cu un loc, o oră și o listă de bagaj.",
+    "ways": [
+     "Un picnic în parc.",
+     "O vizită la un muzeu.",
+     "O plimbare prin pădure."
+    ]
+   },
+   "first_aid": {
+    "name": "Primul ajutor de bază",
+    "goal": "Știe cum să curețe o tăietură mică și când să cheme un adult sau să ceară ajutor.",
+    "why": "Primul ajutor de bază îi ajută pe copii să-și păstreze calmul și să știe ce să facă într-o urgență.",
+    "steps": [
+     "Arată unde se ține trusa de prim ajutor.",
+     "Exersați curățarea unei tăieturi imaginare și punerea unui plasture.",
+     "Vorbiți despre situațiile în care trebuie chemat imediat un adult.",
+     "Exersați spunerea numărului 112 și a adresei voastre.",
+     "Jucați un scurt apel, fără să formați numărul."
+    ],
+    "avoid": [
+     "Să sune la 112 ca să exerseze.",
+     "Medicamentele fără un adult.",
+     "Poveștile înfricoșătoare."
+    ],
+    "success": "Copilul pune un plasture și spune numărul 112 și adresa voastră.",
+    "ways": [
+     "Un joc de prim ajutor cu un ursuleț.",
+     "Verificarea împreună a trusei de prim ajutor.",
+     "Vizionarea împreună a unui video de prim ajutor pentru copii."
+    ]
+   },
+   "washing_machine": {
+    "name": "Mașina de spălat, cu ajutor",
+    "goal": "Sortează rufele și pornește mașina de spălat împreună cu un adult.",
+    "why": "Ajutorul la rufe dezvoltă autonomia și arată cum funcționează o casă.",
+    "steps": [
+     "Sortați împreună hainele în deschise și închise la culoare.",
+     "Verificați dacă au rămas în buzunare șervețele sau monede.",
+     "Puneți rufele în mașină și închideți ușa.",
+     "Adaugă tu detergentul, apoi arată ce program trebuie ales.",
+     "Lasă copilul să apese pe pornire."
+    ],
+    "avoid": [
+     "Să lași copilul să umble cu detergentul fără tine.",
+     "Deschiderea ușii în timpul spălării.",
+     "Cățăratul pe mașină."
+    ],
+    "success": "Copilul sortează rufele, încarcă mașina și pornește o spălare cu tine.",
+    "ways": [
+     "Întinderea rufelor la uscat.",
+     "Potrivirea șosetelor de la spălat.",
+     "Împăturirea prosoapelor."
+    ]
    }
   },
   "guides": {
@@ -6178,6 +8970,381 @@
     "urgent": [
      "Ai gânduri să îți faci rău ție sau bebelușului. Cere ajutor acum: sună la 112 sau la o linie de sprijin pentru criză ori mergi la cea mai apropiată unitate de primiri urgențe."
     ]
+   },
+   "starting_school": {
+    "title": "Copilul meu începe școala",
+    "intro": "Începutul școlii este o schimbare mare pentru toată familia. Majoritatea copiilor se acomodează în câteva săptămâni, mai ales cu un început liniștit și multă odihnă.",
+    "common": [
+     "Mulți copii sunt în același timp entuziasmați și emoționați.",
+     "Copiii sunt adesea foarte obosiți în primele săptămâni. Unii sunt morocănoși, plângăcioși sau foarte lipiți de părinți acasă, după ce s-au ținut tare toată ziua.",
+     "Unii copii povestesc puțin despre ziua lor. E normal și nu înseamnă că ceva nu e în regulă.",
+     "Răcelile și virozele digestive sunt mai dese în primul an de școală."
+    ],
+    "helps": [
+     "Vorbește despre școală într-un mod pozitiv. Citiți cărți despre începutul școlii și vizitați școala împreună, dacă se poate.",
+     "Exersați abilitățile de zi cu zi: îmbrăcatul, mersul la toaletă fără ajutor, spălatul pe mâini, deschisul cutiei de mâncare și încălțatul.",
+     "Etichetează hainele și gențile și păstrează rutina de dimineață simplă și la fel în fiecare zi.",
+     "Spune un la revedere scurt și vesel și spune-i copilului cine vine să îl ia.",
+     "Oferă o gustare și timp liniștit după școală și păstrează ora de culcare devreme.",
+     "Pune întrebări mici, de exemplu „Cu cine ai stat la masa de prânz?”, în loc de „Cum a fost ziua ta?”"
+    ],
+    "help": [
+     "Copilul este încă foarte supărat din cauza școlii după primele 6 săptămâni.",
+     "Copilul refuză des să meargă sau se plânge de dureri de burtă ori de cap în zilele de școală.",
+     "Copilul nu mai mănâncă sau nu mai doarme bine ori pare nefericit aproape tot timpul. Vorbește mai întâi cu învățătoarea sau învățătorul."
+    ],
+    "urgent": []
+   },
+   "homework": {
+    "title": "Teme fără conflicte",
+    "intro": "În primii ani de școală, temele sunt de obicei scurte. O rutină liniștită contează mai mult decât ca fiecare răspuns să fie corect.",
+    "common": [
+     "Copiii mici primesc adesea puțin de exersat acasă la citit, scris corect sau matematică.",
+     "Oboseala, foamea și ecranele sunt motive frecvente pentru care temele devin o luptă.",
+     "Mulți copii au nevoie de ajutor ca să înceapă, dar apoi pot lucra fără ajutor o perioadă scurtă."
+    ],
+    "helps": [
+     "Alege o oră fixă, după o gustare și o pauză scurtă, și păstreaz-o la fel în fiecare zi.",
+     "Găsește un loc liniștit, cu lumină bună și cu lucrurile de care copilul are nevoie. Ține ecranele și jucăriile departe.",
+     "Ajută copilul să înțeleagă sarcina, apoi fă un pas înapoi. Nu o face tu în locul lui.",
+     "Împarte sarcinile mai mari în părți mici, cu o pauză scurtă de mișcare între ele.",
+     "Laudă efortul și obiceiurile bune, nu doar răspunsurile corecte.",
+     "Dacă copilul e obosit și supărat, oprește-te și încercați mai târziu. O sesiune scurtă și liniștită e mai bună decât una lungă și cu lacrimi."
+    ],
+    "help": [
+     "Temele durează mult mai mult decât se așteaptă învățătoarea sau se termină des cu lacrimi.",
+     "Copilului pare să îi fie mult mai greu la citit, scris sau matematică decât la alte activități. Vorbește cu învățătoarea.",
+     "Nu știi sigur cât ajutor să dai. Întreabă la școală ce se așteaptă."
+    ],
+    "urgent": []
+   },
+   "reading": {
+    "title": "Cum îmi pot ajuta copilul să citească?",
+    "intro": "Copiii învață să citească în ritmuri diferite. Să citiți împreună în fiecare zi, chiar și 10 minute, este unul dintre cele mai bune lucruri pe care le poți face.",
+    "common": [
+     "Mulți copii învață să citească rostind sunetele literelor și unindu-le în cuvinte. Întreabă la școală ce metodă folosesc.",
+     "Confuzia între litere precum b și d este obișnuită în primii ani de școală.",
+     "Progresul vine adesea în salturi, cu săptămâni mai lente între ele.",
+     "Copiii care ascultă povești acasă învață cuvinte noi, chiar dacă încă nu le pot citi."
+    ],
+    "helps": [
+     "Citește-i în continuare copilului cu voce tare, chiar și după ce poate citi fără ajutor.",
+     "Lasă copilul să aleagă ce citește: benzi desenate, glume, curiozități despre animale sau rețete, toate contează.",
+     "Când copilul se blochează, așteaptă câteva secunde. Apoi ajută-l să pronunțe cuvântul pe sunete.",
+     "Vorbiți despre poveste: „Ce crezi că se va întâmpla mai departe?”",
+     "Mergeți împreună la bibliotecă și lasă copilul să aleagă cărți.",
+     "Păstrează lectura distractivă și scurtă. Oprește-te înainte să obosească copilul.",
+     "Lasă copilul să te vadă și pe tine citind."
+    ],
+    "help": [
+     "Copilului îi este încă foarte greu să citească după ajutor suplimentar la școală. Unii copii au dislexie, iar sprijinul timpuriu ajută.",
+     "Copilul își freacă ochii, ține cărțile foarte aproape sau are dureri de cap când citește. Programează un control oftalmologic.",
+     "Te îngrijorează auzul sau vorbirea copilului."
+    ],
+    "urgent": []
+   },
+   "bedwetting": {
+    "title": "Copilul meu încă face pipi în pat",
+    "intro": "Udatul patului este obișnuit la copiii de vârstă școlară și apare adesea la mai mulți membri ai aceleiași familii. Nu este vina copilului, iar majoritatea copiilor trec peste asta cu timpul.",
+    "common": [
+     "Mulți copii încă udă patul la 5 ani, iar unii la 7 ani sau mai târziu.",
+     "Motive frecvente sunt somnul foarte adânc, producerea unei cantități mari de urină noaptea și o vezică încă în creștere.",
+     "Constipația poate agrava udatul patului.",
+     "Stresul, de exemplu începutul școlii sau venirea unui bebeluș nou, îl poate readuce pentru o vreme."
+    ],
+    "helps": [
+     "Păstrează-ți calmul și blândețea. Nu pedepsi și nu tachina niciodată copilul pentru că a udat patul.",
+     "Oferă băuturi regulat în timpul zilei, cam 6 până la 8, și mai puține în ora dinainte de culcare.",
+     "Evită băuturile carbogazoase, cola, ceaiul și cafeaua, mai ales seara.",
+     "Încurajează copilul să meargă regulat la toaletă în timpul zilei și chiar înainte de culcare.",
+     "Asigură-te că toaleta e ușor accesibilă noaptea, cu o lumină de veghe.",
+     "Folosește o husă impermeabilă pentru saltea și ține la îndemână cearșafuri de schimb.",
+     "Laudă pașii stabiliți împreună, cum ar fi mersul la toaletă înainte de culcare, nu nopțile uscate."
+    ],
+    "help": [
+     "Copilul are peste 5 ani, iar udatul patului supără copilul sau familia.",
+     "Copilul a început din nou să ude patul după 6 luni sau mai mult fără scăpări.",
+     "Copilul are scăpări de urină și ziua, are dureri când face pipi sau este constipat.",
+     "Sfaturile de acasă nu au ajutat. Medicul sau asistenta medicală a școlii poate discuta despre o alarmă sau un medicament."
+    ],
+    "urgent": [
+     "Copilul udă brusc din nou patul și, în plus, îi este foarte sete, face pipi mult mai des, este foarte obosit sau slăbește. Cere sfatul medicului în aceeași zi."
+    ]
+   },
+   "head_lice": {
+    "title": "Copilul meu are păduchi",
+    "intro": "Păduchii sunt foarte frecvenți la copiii de vârstă școlară. Nu sunt un semn de păr murdar și nu transmit boli.",
+    "common": [
+     "Păduchii se transmit prin contact direct cap la cap. Nu pot sări și nu pot zbura.",
+     "Mâncărimea capului este frecventă, dar unii copii nu simt nimic.",
+     "Lindinele sunt ouăle goale. Sunt albe sau maronii și stau lipite de firul de păr.",
+     "Doar un păduche viu găsit în păr confirmă sigur infestarea."
+    ],
+    "helps": [
+     "Verifică cu un pieptene des special pentru păduchi, pe părul ud cu mult balsam. Pieptănă de la rădăcină până la vârfuri, șuviță cu șuviță.",
+     "Pieptănă părul ud în zilele 1, 5, 9 și 13, ca să prinzi păduchii abia ieșiți din ouă. Verifică din nou în ziua 17.",
+     "Dacă preferi, folosește o loțiune sau un spray contra păduchilor de la farmacie. Urmează exact instrucțiunile de pe ambalaj. Unele au nevoie de un al doilea tratament după o săptămână.",
+     "Verifică pe toată lumea din casă și tratează doar persoanele cu păduchi vii, toate în aceeași zi.",
+     "Copilul nu trebuie să lipsească de la școală.",
+     "Nu e nevoie de spălări la temperatură mare sau de curățenie specială în casă.",
+     "Nu folosi tratamente contra păduchilor pentru prevenție. Nu funcționează așa și pot irita scalpul."
+    ],
+    "help": [
+     "Încă găsești păduchi vii după 2 runde complete de tratament. Întreabă farmacistul despre alte variante.",
+     "Scalpul copilului arată roșu, dureros sau infectat.",
+     "Copilul are sub 2 ani, are astm sau alergii ori o afecțiune a pielii. Întreabă farmacistul înainte să folosești o loțiune."
+    ],
+    "urgent": []
+   },
+   "sleep_school": {
+    "title": "De cât somn are nevoie copilul meu de vârstă școlară?",
+    "intro": "Copiii de 6 până la 12 ani au nevoie de aproximativ 9 până la 12 ore de somn pe noapte. Un somn bun ajută la învățare, la starea de spirit și la creștere.",
+    "common": [
+     "Copiii de 3 până la 5 ani au nevoie de aproximativ 10 până la 13 ore pe zi.",
+     "Unii copii au nevoie de mai mult somn decât alții. Un copil care se trezește ușor și nu e obosit în timpul zilei doarme, de obicei, suficient.",
+     "Fricile de la culcare, grijile legate de școală și ecranele sunt motive frecvente pentru un somn prost.",
+     "Oboseala poate arăta ca o stare morocănoasă, ca dificultăți de concentrare sau ca agitație excesivă."
+    ],
+    "helps": [
+     "Păstrează aceeași oră de culcare și de trezire în fiecare zi, inclusiv în weekend, pe cât posibil.",
+     "Ai o rutină liniștită înainte de culcare: baie sau spălat, dinți, o poveste sau o discuție liniștită.",
+     "Închide ecranele cu cel puțin 1 oră înainte de culcare și ține-le în afara dormitorului noaptea.",
+     "Păstrează dormitorul liniștit, întunecat și răcoros.",
+     "Fă loc în timpul zilei pentru joacă activă afară.",
+     "Evită cofeina, de exemplu din cola și băuturile energizante.",
+     "Dacă copilul are griji la culcare, păstrează câteva minute mai devreme seara pentru a vorbi despre ele."
+    ],
+    "help": [
+     "Copilul sforăie tare în majoritatea nopților sau pare să nu mai respire pentru scurte momente în somn.",
+     "Copilul este des foarte obosit în timpul zilei, chiar și după o noapte întreagă de somn.",
+     "Trezirile nocturne, coșmarurile sau somnambulismul sunt frecvente și afectează familia."
+    ],
+    "urgent": []
+   },
+   "screens_school": {
+    "title": "Ecrane, jocuri și primul telefon",
+    "intro": "Nu există o singură durată corectă de timp la ecrane pentru copiii de vârstă școlară. Cel mai mult contează ca ecranele să nu ia locul somnului, mișcării, temelor și timpului petrecut împreună.",
+    "common": [
+     "Specialiștii recomandă limite clare stabilite în familie, nu un număr de ore valabil pentru orice copil.",
+     "Jocurile, videoclipurile și aplicațiile sunt făcute să îi țină pe copii în fața ecranului. E greu să se oprească, și asta e normal.",
+     "Nu există o vârstă potrivită pentru primul telefon. Depinde de copil, de familie și de motivul pentru care e nevoie de telefon."
+    ],
+    "helps": [
+     "Faceți împreună un plan media al familiei: când, unde și cât timp se folosesc ecranele.",
+     "Fără ecrane la masă și în ora dinainte de culcare. Încărcați dispozitivele în afara dormitorului noaptea.",
+     "Verifică vârsta recomandată pentru jocuri și aplicații înainte ca copilul să le folosească.",
+     "Jucați sau priviți împreună din când în când și roagă copilul să îți arate jocul preferat.",
+     "Anunță cu 5 minute înainte de sfârșitul timpului la ecran.",
+     "Dacă alegi un prim telefon, începe cu un telefon simplu sau cu funcții limitate, folosește controlul parental și stabiliți regulile înainte să i-l dai.",
+     "Arată tu obiceiurile pe care vrei să le vezi. Pune-ți telefonul deoparte la masă și în timpul petrecut cu familia."
+    ],
+    "help": [
+     "Ecranele provoacă multe conflicte acasă.",
+     "Copilul pare să nu se poată opri, se supără foarte tare fără ecrane sau renunță pentru ele la prieteni, somn ori activități.",
+     "Te îngrijorează starea de spirit, somnul sau rezultatele școlare ale copilului."
+    ],
+    "urgent": []
+   },
+   "online_safety": {
+    "title": "Cum îmi protejez copilul online?",
+    "intro": "Internetul poate fi un loc minunat pentru învățat și joacă. Copiii au nevoie de un adult aproape și de reguli simple cât timp învață să îl folosească în siguranță.",
+    "common": [
+     "Copiii pot da din greșeală peste conținut tulburător, chiar și pe site-uri făcute pentru ei.",
+     "Majoritatea aplicațiilor de social media nu sunt pentru copiii sub 13 ani, iar în unele locuri limita de vârstă este mai mare.",
+     "Copiii adesea nu le spun adulților despre o problemă online pentru că se tem că vor pierde dispozitivul."
+    ],
+    "helps": [
+     "Ține dispozitivele în spațiile comune ale familiei, nu în dormitor.",
+     "Setați împreună controlul parental, căutarea sigură pentru copii și setările de confidențialitate.",
+     "Stabiliți reguli simple: nu împărtăși niciodată numele complet, adresa, școala, numărul de telefon sau fotografii cu oameni pe care nu îi cunoști.",
+     "Explică-i că oamenii online nu sunt întotdeauna cine spun că sunt.",
+     "Spune-i copilului că poate veni oricând la tine dacă ceva i se pare în neregulă și că nu va avea probleme.",
+     "Păstrează-ți calmul dacă îți spune ceva. Mulțumește-i că ți-a spus.",
+     "Vorbiți despre purtarea frumoasă online și întreabă des ce face."
+    ],
+    "help": [
+     "Copilul a văzut ceva care l-a supărat și nu încetează să îl frământe.",
+     "Copilul primește mesaje răutăcioase online sau este supărat după ce folosește un dispozitiv. Vezi ghidul despre problemele cu prietenii și bullying.",
+     "Copilul devine secretos în privința unui dispozitiv sau a unor prieteni online."
+    ],
+    "urgent": [
+     "Cineva pe care copilul l-a cunoscut online cere să se întâlnească față în față cu copilul, cere fotografii sau îi cere copilului să păstreze un secret. Păstrează mesajele, nu răspunde și contactează poliția."
+    ]
+   },
+   "friends_bullying": {
+    "title": "Probleme cu prietenii și bullying",
+    "intro": "Certurile cu prietenii fac parte din creștere. Bullyingul este altceva: un comportament răutăcios care se repetă iar și iar și are scopul de a răni.",
+    "common": [
+     "Prieteniile se schimbă des în anii de școală. Copiii pot fi cei mai buni prieteni o săptămână și certați săptămâna următoare.",
+     "Bullyingul poate însemna lovituri sau îmbrânceli, porecle jignitoare, excluderea cuiva, răspândirea de povești sau mesaje răutăcioase online.",
+     "Copiii care sunt victime ale bullyingului s-ar putea să nu spună. Semnele includ refuzul de a merge la școală, dureri de burtă, somn prost, lucruri pierdute sau stricate ori retragere."
+    ],
+    "helps": [
+     "Ascultă calm și lasă copilul să spună toată povestea. Mulțumește-i că ți-a spus.",
+     "Spune-i copilului că nu este vina lui.",
+     "Ajută-l să exerseze ce să spună și ce să facă: să spună „Stop” cu voce clară, să plece și să spună unui adult.",
+     "Nu îi spune copilului să lovească înapoi.",
+     "Notează ce s-a întâmplat, când și cine a fost implicat. Păstrează capturi de ecran ale mesajelor online.",
+     "Vorbește cu învățătoarea și întreabă ce va face școala. Stabiliți când reveniți asupra situației.",
+     "Ajută copilul să își facă prieteni în afara școlii, prin cluburi, sport sau întâlniri de joacă."
+    ],
+    "help": [
+     "Bullyingul continuă după ce ai vorbit cu școala.",
+     "Copilul pare trist, anxios sau retras mai mult de câteva săptămâni ori nu vrea să meargă la școală.",
+     "Afli că propriul copil îi hărțuiește pe alții. Vorbește calm cu copilul și cu școala."
+    ],
+    "urgent": [
+     "Copilul a fost rănit sau amenințat. Asigură-te că este în siguranță și cere ajutor acum.",
+     "Copilul vorbește despre a-și face rău sau spune că nu vrea să mai trăiască. Cere ajutor acum: sună la 112 sau la o linie de asistență pentru copii, cum ar fi 116 111, ori mergi la cea mai apropiată unitate de primiri urgențe."
+    ]
+   },
+   "worries": {
+    "title": "Copilul meu își face multe griji",
+    "intro": "Toți copiii își fac griji uneori. Îngrijorarea este o reacție normală care crește și apoi se liniștește, iar copiii pot învăța cum să o gestioneze.",
+    "common": [
+     "Copiii de vârstă școlară își fac des griji legate de teste, prieteni, începutul a ceva nou sau ca nu cumva să se întâmple ceva rău în familie.",
+     "Îngrijorarea se poate arăta prin dureri de burtă, dureri de cap, somn prost, vise urâte, nevoia de a sta mereu lângă părinte sau izbucniri de furie.",
+     "Unii copii evită lucrurile care îi îngrijorează, cum ar fi școala, petrecerile sau dormitul la prieteni."
+    ],
+    "helps": [
+     "Ascultă cu atenție și întreabă care este grija. Nu o minimaliza și nu ghici.",
+     "Explică-i că îngrijorarea e ca un val. Pare mare, apoi se micșorează.",
+     "Exersați împreună respirația lentă: inspiră numărând până la 3, expiră numărând până la 3 și repetă de 3 ori.",
+     "Faceți împreună un plan pentru situația care îngrijorează și apropiați-vă de ea cu pași mici.",
+     "Încercați o cutie a grijilor: copilul scrie sau desenează o grijă și o pune în cutie, ca să vorbiți despre ea mai târziu.",
+     "Păstrează rutina zilnică stabilă și pregătește copilul din timp pentru schimbări.",
+     "Încearcă să nu îl protejezi prea mult. Evitarea a tot ce îl îngrijorează pe copil poate face grijile să crească."
+    ],
+    "help": [
+     "Îngrijorarea este puternică, durează săptămâni sau îl împiedică pe copil să facă lucruri de zi cu zi, cum ar fi să meargă la școală sau să se vadă cu prietenii.",
+     "Copilul are des dureri de burtă sau de cap fără altă cauză.",
+     "Simți că ai nevoie de sprijin. Vorbește cu medicul, cu școala sau cu asistenta medicală a școlii."
+    ],
+    "urgent": [
+     "Copilul vorbește despre a-și face rău sau spune că nu vrea să mai trăiască. Cere ajutor acum: sună la 112 sau la o linie de asistență pentru copii, cum ar fi 116 111, ori mergi la cea mai apropiată unitate de primiri urgențe."
+    ]
+   },
+   "lying": {
+    "title": "Copilul meu spune minciuni",
+    "intro": "Aproape toți copiii mint uneori. Face parte din creștere, iar copiii învață cel mai bine sinceritatea de la adulți calmi și răbdători.",
+    "common": [
+     "Copiii mint des ca să evite să aibă probleme, ca să obțină ceva ce vor sau ca să protejeze sentimentele cuiva.",
+     "Unele minciuni sunt de fapt dorințe sau povești, mai ales la copiii mai mici.",
+     "De obicei, minciunile se răresc pe măsură ce copiii înțeleg cum afectează încrederea."
+    ],
+    "helps": [
+     "Păstrează-ți calmul. Vorbește despre minciună și despre comportament, nu despre copil ca fiind rău.",
+     "Fă-i ușor să spună adevărul. Dacă știi deja ce s-a întâmplat, spune asta în loc să întrebi „Tu ai făcut asta?”",
+     "Laudă sinceritatea, mai ales când adevărul e greu de spus.",
+     "Dă o consecință mai mică atunci când copilul recunoaște.",
+     "Vorbiți despre de ce contează sinceritatea: „Când îmi spui adevărul, pot avea încredere în tine.”",
+     "Dă tu exemplu de sinceritate, inclusiv în lucruri mici, de exemplu nu îi cere copilului să spună că nu ești acasă."
+    ],
+    "help": [
+     "Copilul minte foarte des, chiar și despre lucruri mărunte.",
+     "Minciunile vin împreună cu alte griji, cum ar fi luatul lucrurilor altora, rănirea altora sau probleme la școală.",
+     "Crezi că este posibil ca copilul să mintă ca să ascundă ceva care îl supără."
+    ],
+    "urgent": []
+   },
+   "pocket_money_guide": {
+    "title": "Ar trebui copilul meu să primească bani de buzunar?",
+    "intro": "Banii de buzunar sunt un mod simplu prin care copiii învață despre bani. Multe familii încep când copilul are cam 5 sau 6 ani și înțelege că pe bani se cumpără lucruri.",
+    "common": [
+     "Nu există o sumă corectă. Depinde de bugetul tău, de vârsta copilului și de ce sunt banii.",
+     "Unele familii leagă banii de buzunar de treburile casei, altele nu. Ambele variante pot funcționa.",
+     "La început, copiii își cheltuie des toți banii. Greșelile mici fac parte din învățare."
+    ],
+    "helps": [
+     "Stabiliți suma și ziua în care se dau banii și respectați-le.",
+     "Stabiliți pentru ce sunt banii, de exemplu mici răsfățuri sau economii pentru o jucărie.",
+     "Folosește un borcan transparent pentru economii, ca copilul să vadă cum cresc banii.",
+     "Ajută copilul să își stabilească un obiectiv mic de economisire și numărați banii împreună în fiecare săptămână.",
+     "Lasă copilul să facă propriile alegeri și vorbiți după aceea despre cum a mers.",
+     "Evită să dai bani în plus când se termină. Așteptarea face parte din lecție."
+    ],
+    "help": [
+     "Banii provoacă des certuri acasă.",
+     "Copilul ia bani sau lucruri care nu sunt ale lui. Vorbește mai întâi calm cu copilul."
+    ],
+    "urgent": []
+   },
+   "lunchbox": {
+    "title": "Pachetul pentru școală și gustările",
+    "intro": "Un pachet bun nu trebuie să fie sofisticat. Un amestec de câteva alimente simple îi dă copilului energie pentru după-amiază.",
+    "common": [
+     "Un prânz echilibrat are un aliment cu amidon, un aliment cu proteine, fructe sau legume și un produs lactat sau o alternativă.",
+     "Mulți copii mănâncă puțin la școală pentru că sunt ocupați, entuziasmați sau nu au timp.",
+     "Multe școli au reguli privind mâncarea, de exemplu fără nuci, din cauza copiilor cu alergii."
+    ],
+    "helps": [
+     "Începe cu un aliment cu amidon, de exemplu un sandviș cu pâine integrală, o lipie, paste sau orez.",
+     "Adaugă un aliment cu proteine, de exemplu ou, fasole, pește, pui sau brânză.",
+     "Adaugă un fruct și câteva legume, de exemplu castravete, bețe de morcov sau roșii cherry. Pentru copiii mai mici, taie în sferturi alimentele mici și rotunde.",
+     "Dă apă sau lapte de băut. Evită băuturile carbogazoase și cele îndulcite.",
+     "Păstrează dulciurile, chipsurile și prăjiturile pentru din când în când, nu pentru fiecare zi.",
+     "Folosește o geantă frigorifică sau un acumulator de răcire ca mâncarea să rămână proaspătă.",
+     "Lasă copilul să ajute la alegerea și pregătirea pachetului. Așa e mai probabil să îl mănânce.",
+     "Verifică regulile școlii privind mâncarea înainte să pregătești pachetul."
+    ],
+    "help": [
+     "Copilul vine des acasă foarte flămând sau cu pachetul neatins.",
+     "Copilul mănâncă doar un număr foarte mic de alimente.",
+     "Te îngrijorează greutatea, creșterea copilului sau o alergie alimentară."
+    ],
+    "urgent": [
+     "Umflarea buzelor sau a feței ori dificultăți de respirație după masă. Sună la 112."
+    ]
+   },
+   "active": {
+    "title": "Cât de activ ar trebui să fie copilul meu?",
+    "intro": "Organizația Mondială a Sănătății (OMS) recomandă ca copiii de 5 până la 17 ani să fie activi cel puțin 60 de minute pe zi, în medie, la un nivel care îi face să respire mai repede.",
+    "common": [
+     "Cele 60 de minute pot fi împărțite pe parcursul zilei. Fiecare bucățică de mișcare contează.",
+     "În cel puțin 3 zile pe săptămână, copiii ar trebui să facă activități care îi fac să respire greu și care întăresc mușchii și oasele, cum ar fi alergatul, săritul sau cățăratul.",
+     "Mulți copii fac mai puțin de atât, mai ales pe măsură ce cresc.",
+     "Perioadele lungi de stat jos, mai ales în fața ecranelor, e bine să fie scurte."
+    ],
+    "helps": [
+     "Mergeți împreună pe jos, cu trotineta sau cu bicicleta la școală ori la magazin, când puteți. Pentru bicicletă și trotinetă, casca se pune de fiecare dată.",
+     "Jucați-vă afară împreună: de-a prinselea, jocuri cu mingea, șotron sau sărit coarda.",
+     "Lasă copilul să încerce diferite sporturi și cluburi ca să găsească ceva ce îi place.",
+     "Întrerupe timpul la ecrane cu pauze de mișcare.",
+     "Fiți activi în familie în weekend: o plimbare, o tură cu bicicleta sau o ieșire în parc.",
+     "Fă mișcarea distractivă, nu o corvoadă. Laudă efortul, nu victoria."
+    ],
+    "help": [
+     "Copilul rămâne fără suflu, obosește sau are dureri mult mai repede decât alți copii de aceeași vârstă.",
+     "Copilul evită orice activitate fizică sau pare neîndemânatic în comparație cu alții de aceeași vârstă.",
+     "Te îngrijorează greutatea sau creșterea copilului."
+    ],
+    "urgent": [
+     "Copilul leșină, are dureri în piept sau dificultăți de respirație în timpul efortului. Oprește activitatea și cere ajutor medical acum."
+    ]
+   },
+   "puberty": {
+    "title": "Începe copilul meu pubertatea?",
+    "intro": "Pubertatea este perioada în care corpul copilului începe treptat să se schimbe, pe măsură ce crește spre vârsta adultă. De obicei începe cam între 8 și 13 ani la fete și cam între 9 și 14 ani la băieți.",
+    "common": [
+     "Fiecare copil începe în ritmul său. Momentul este adesea asemănător în aceeași familie.",
+     "Primele semne pot include o creștere bruscă în înălțime, un miros mai puternic al corpului, piele și păr mai grase și schimbări ale formei corpului.",
+     "Schimbările de dispoziție și nevoia de mai multă intimitate sunt și ele obișnuite.",
+     "Pubertatea durează de obicei câțiva ani de la primele semne până la final."
+    ],
+    "helps": [
+     "Vorbește din timp și deschis, calm și simplu, potrivit vârstei copilului. Discuțiile scurte și regulate merg mai bine decât o singură discuție mare.",
+     "Răspunde sincer la întrebări. Dacă nu știi răspunsul, spune asta și aflați împreună.",
+     "Caută la bibliotecă cărți pentru copii despre creștere.",
+     "Ajută copilul cu rutine noi, cum ar fi spălatul zilnic și hainele curate.",
+     "Respectă-i intimitatea. Bate la ușă înainte să intri și lasă-l să aleagă ce împărtășește.",
+     "Spune-i copilului că schimbările sunt normale și că fiecare corp crește în ritmul său."
+    ],
+    "help": [
+     "Semnele pubertății apar înainte de 8 ani la o fată sau înainte de 9 ani la un băiat.",
+     "Nu există semne de pubertate până pe la 13 ani la o fată sau pe la 14 ani la un băiat.",
+     "Copilul este foarte îngrijorat sau supărat din cauza schimbărilor corpului său."
+    ],
+    "urgent": []
    }
   },
   "guideStages": {
@@ -6192,6 +9359,9 @@
    },
    "parent": {
     "name": "Pentru tine"
+   },
+   "school": {
+    "name": "Vârsta școlară"
    }
   },
   "weeks": {

@@ -13,7 +13,7 @@
   "guide_back": "Alle gidsen",
   "guide_disclaimer": "Deze gids is algemene informatie, geen medisch advies. Vertrouw op je gevoel. Maak je je zorgen, neem dan contact op met je arts, verloskundige of het consultatiebureau. Deze gids is getoetst aan de NHS, de Wereldgezondheidsorganisatie (WHO), de American Academy of Pediatrics (AAP) en andere openbare gezondheidsbronnen.",
   "guide_cta_title": "Deze gids staat ook in de Hoppo-app",
-  "guide_cta_text": "Hoppo heeft 100 korte vaardigheden om te oefenen van geboorte tot 5 jaar, herinneringskaarten voor 188 mijlpalen, elke zwangerschapsweek van 4 tot 40 en een kalender met slaap-, voedings- en groeilogboeken. Gratis, zonder abonnement.",
+  "guide_cta_text": "Hoppo heeft 200 korte vaardigheden om te oefenen van geboorte tot 10 jaar, herinneringskaarten voor 214 mijlpalen, elke zwangerschapsweek van 4 tot 40 en een kalender met slaap-, voedings- en groeilogboeken. Gratis, zonder abonnement.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Baby, 0 tot 12 maanden",
   "stage_any": "Baby's en jonge kinderen",
@@ -84,8 +84,8 @@
    "description": "Pagina niet gevonden op hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: één kleine vaardigheid per week, van zwangerschap tot 5 jaar",
-   "description": "Rustige, vriendelijke hulp voor ouders. 100 korte vaardigheden van geboorte tot 5 jaar, 188 mijlpalen met herinneringskaarten, elke zwangerschapsweek en {guide_count} gidsen \"Is dit normaal?\". Gratis."
+   "title": "Hoppo: één kleine vaardigheid per week, van zwangerschap tot 10 jaar",
+   "description": "Rustige, vriendelijke hulp voor ouders. 200 korte vaardigheden van geboorte tot 10 jaar, 214 mijlpalen met herinneringskaarten, elke zwangerschapsweek en {guide_count} gidsen \"Is dit normaal?\". Gratis."
   },
   "guides.html": {
    "title": "{guide_count} gidsen \"Is dit normaal?\" voor ouders | Hoppo",
@@ -110,14 +110,18 @@
   "order-complete.html": {
    "title": "Dank je wel | Hoppo",
    "description": "Je Hoppo-bestelling is bevestigd."
+  },
+  "blog.html": {
+   "title": "Hoppo-blog: eerlijke antwoorden, van zwangerschap tot 10 jaar",
+   "description": "Artikelen over babyslaap, kosten van het eerste jaar, kraambezoek, flesvoeding, spel, peuterroutines en schooljaren. Met bronnen en zonder productlinks."
   }
  },
- "ld": "Gratis app voor ouders van zwangerschap tot 5 jaar: wekelijkse oefenvaardigheden, mijlpalen met herinneringskaarten, zwangerschap week voor week, gidsen \"Is dit normaal?\", kalender, slaap-, voedings- en groeilogboeken.",
+ "ld": "Gratis app voor ouders van zwangerschap tot 10 jaar: wekelijkse oefenvaardigheden, mijlpalen met herinneringskaarten, zwangerschap week voor week, gidsen \"Is dit normaal?\", kalender, slaap-, voedings- en groeilogboeken.",
  "units": {
   "index.html": {
    "0": "Hoppo, een vriendelijk paars nijlpaard",
-   "2": "<strong>Rustige, vriendelijke hulp van zwangerschap tot 5 jaar.</strong> 5 minuten spelen per week die een echte vaardigheid opbouwt, en een herinneringskaart voor elke mijlpaal.",
-   "3": "Het Hoppo-startscherm met de missie van deze week, Optrekken tot staan, voor een baby van 9 maanden",
+   "2": "<strong>Rustige, vriendelijke hulp van zwangerschap tot 10 jaar.</strong> 5 minuten spelen per week die een echte vaardigheid opbouwt, en een herinneringskaart voor elke mijlpaal.",
+   "3": "Het Hoppo-startscherm met de missie van deze week, Bovenhands naar een doel gooien, voor een kind van 7 jaar",
    "5": "Gratis op iPhone en Android. Zonder abonnement.",
    "6": "vaardigheden om te oefenen",
    "7": "mijlpalen",
@@ -125,7 +129,7 @@
    "9": "gidsen \"Is dit normaal?\"",
    "10": "Zo ziet het eruit",
    "11": "Veeg om meer te zien",
-   "12": "De missie van deze week voor een baby van 9 maanden, met een oefenidee van 5 minuten",
+   "12": "De missie van deze week voor een kind van 7 jaar, met een oefenidee van 5 minuten",
    "13": "1 missie per week",
    "14": "Het tabblad Album met afgevinkte en gedateerde mijlpalen",
    "15": "Mijlpalen en herinneringen",
@@ -133,11 +137,11 @@
    "17": "Zwangerschap week voor week",
    "18": "De lijst met zwangerschapsweken met bij elke week een afbeelding van de grootte van de baby",
    "19": "Elke week van 4 tot 40",
-   "20": "De vaardighedenbibliotheek gesorteerd op leeftijd, met labels voor gestart en onder de knie",
-   "21": "100 vaardigheden per leeftijd",
-   "22": "De gidsen \"Is dit normaal?\" met zoeken en filters voor zwangerschap, baby en peuter",
+   "20": "De vaardighedenbibliotheek gesorteerd op leeftijdsjaar, met een label voor bezig",
+   "21": "200 vaardigheden per leeftijd",
+   "22": "De gidsen \"Is dit normaal?\" met zoeken en filters van zwangerschap tot schoolkind",
    "23": "Gidsen \"Is dit normaal?\"",
-   "24": "De gids over hoge temperatuur, met wat vaak voorkomt en wat kan helpen",
+   "24": "De gids over huiswerk, met wat vaak voorkomt en wat kan helpen",
    "25": "Duidelijke vervolgstappen",
    "26": "Een gewichtsgrafiek met het referentiegebied van de Wereldgezondheidsorganisatie",
    "27": "Groei met WHO-grafieken",
@@ -151,9 +155,9 @@
    "35": "Je foto's blijven op je telefoon",
    "36": "Foto's van mijlpalen worden nooit geüpload. Je accountgegevens worden opgeslagen in de Europese Unie en je kunt ze op elk moment in de app helemaal verwijderen.",
    "37": "Wat er in zit",
-   "38": "100 vaardigheden, van geboorte tot 5 jaar",
+   "38": "200 vaardigheden, van geboorte tot 10 jaar",
    "39": "Buikligging, eerste woordjes, schenken, knopen, om de beurt. Elke vaardigheid heeft eenvoudige stappen, fouten om te vermijden en andere manieren om te oefenen.",
-   "40": "188 mijlpalen",
+   "40": "214 mijlpalen",
    "41": "Vink de eerste lach, de eerste stapjes en het eerste tandje af. Voeg een foto toe en deel een herinneringskaart met familie.",
    "42": "Zwangerschap week voor week",
    "43": "Elke week van 4 tot 40 in gewone woorden, met de grootte van je baby als een alledaagse vrucht of groente, vragen voor je verloskundige en een checklist voor de ziekenhuistas.",
@@ -225,6 +229,11 @@
   "product.html": {
    "1": "De winkel heeft JavaScript nodig."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "De Hoppo-blog",
+   "1": "Eerlijke antwoorden op de vragen die ouders het vaakst stellen, van de eerste weken tot 10 jaar. Echte richtwaarden, echte cijfers en geen producten om te verkopen.",
+   "2": "Elk artikel noemt zijn bronnen en is getoetst aan richtlijnen van gezondheidsorganisaties, zoals de NHS, de Wereldgezondheidsorganisatie (WHO) en de American Academy of Pediatrics (AAP). Het is algemene informatie, geen medisch advies."
+  }
  }
 }

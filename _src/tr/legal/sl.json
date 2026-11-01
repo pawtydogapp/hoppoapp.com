@@ -79,7 +79,7 @@
     "3": "1. Kdo smo",
     "4": "Hoppo upravlja Matej Mesko, Slovenija. Kontakt: <a href=\"mailto:info@hoppoapp.com\">info@hoppoapp.com</a>.",
     "5": "2. Kaj je Hoppo",
-    "6": "Hoppo je aplikacija za starše in skrbnike, od nosečnosti do 5. leta starosti. Ponuja tedenske veščine za vadenje, mejnike in spominske kartice, informacije o nosečnosti teden za tednom, vodnike »Je to normalno?«, koledar ter dnevnike spanja, hranjenja in rasti. Je brezplačen in se financira z oglaševanjem in partnerskimi provizijami.",
+    "6": "Hoppo je aplikacija za starše in skrbnike, od nosečnosti do 10 let starosti. Ponuja tedenske veščine za vadenje, mejnike in spominske kartice, informacije o nosečnosti teden za tednom, vodnike »Je to normalno?«, koledar ter dnevnike spanja, hranjenja in rasti. Je brezplačen in se financira z oglaševanjem in partnerskimi provizijami.",
     "7": "3. Starost",
     "8": "Za ustvarjanje računa moraš imeti 18 let ali več.",
     "9": "4. Tvoj račun",
@@ -145,10 +145,10 @@
   },
   "partners.html": {
    "title": "Postani partner Hoppo | Hoppo",
-   "description": "Doseži starše od nosečnosti do 5. leta starosti prek Trgovine Hoppo. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani.",
+   "description": "Doseži starše od nosečnosti do 10 let starosti prek Trgovine Hoppo. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani.",
    "units": {
     "0": "Postani partner Hoppo",
-    "1": "Hoppo doseže starše, medtem ko načrtujejo, se pripravljajo in privajajo: od nosečnosti do 5. leta starosti. Naša Trgovina postavi tvojo ponudbo pred njih, v aplikaciji in na tej spletni strani.",
+    "1": "Hoppo doseže starše, medtem ko načrtujejo, se pripravljajo in privajajo: od nosečnosti do 10 let starosti. Naša Trgovina postavi tvojo ponudbo pred njih, v aplikaciji in na tej spletni strani.",
     "2": "Občinstvo",
     "3": "Starši, ki pričakujejo otroka, ter starši dojenčkov in malčkov v Evropski uniji, ki aplikacijo uporabljajo v 11 jezikih. Odprejo jo vsak teden zaradi veščine, vodnika ali mejnika.",
     "4": "Umestitev",

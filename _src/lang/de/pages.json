@@ -4,9 +4,9 @@
   "description": "Seite auf hoppoapp.com nicht gefunden."
  },
  "index.html": {
-  "title": "Hoppo: eine kleine Fähigkeit pro Woche, bis 5 Jahre",
-  "description": "Ruhige, freundliche Hilfe für Eltern. 100 kurze Fähigkeiten zum Üben von der Geburt bis 5 Jahre, 188 Meilensteine mit Erinnerungskarten, jede Schwangerschaftswoche und {guide_count} „Ist das normal?“-Ratgeber. Kostenlos.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose App für Eltern von der Schwangerschaft bis 5 Jahre: wöchentliche Fähigkeiten zum Üben, Meilensteine mit Erinnerungskarten, Schwangerschaft Woche für Woche, „Ist das normal?“-Ratgeber, Kalender, Protokolle für Schlaf, Mahlzeiten und Wachstum.\",\"url\":\"https://hoppoapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
+  "title": "Hoppo: eine kleine Fähigkeit pro Woche, von der Schwangerschaft bis zum Alter von 10 Jahren",
+  "description": "Ruhige, freundliche Hilfe für Eltern. 200 kurze Fähigkeiten zum Üben von der Geburt bis zum Alter von 10 Jahren, 214 Meilensteine mit Erinnerungskarten, jede Schwangerschaftswoche und {guide_count} „Ist das normal?“-Ratgeber. Kostenlos.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose App für Eltern von der Schwangerschaft bis zum Alter von 10 Jahren: wöchentliche Fähigkeiten zum Üben, Meilensteine mit Erinnerungskarten, Schwangerschaft Woche für Woche, „Ist das normal?“-Ratgeber, Kalender, Protokolle für Schlaf, Mahlzeiten und Wachstum.\",\"url\":\"https://hoppoapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
  },
  "guides.html": {
   "title": "{guide_count} „Ist das normal?“-Ratgeber für Eltern | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Partner von Hoppo werden | Hoppo",
-  "description": "Erreiche Eltern von der Schwangerschaft bis 5 Jahre über den Hoppo Shop. Affiliate-Links über Awin oder Gutscheincodes, angezeigt in der App und auf dieser Website."
+  "description": "Erreiche Eltern von der Schwangerschaft bis zum Alter von 10 Jahren über den Hoppo Shop. Affiliate-Links über Awin oder Gutscheincodes, angezeigt in der App und auf dieser Website."
+ },
+ "blog.html": {
+  "title": "Hoppo-Blog: ehrliche Antworten, von der Schwangerschaft bis 10 Jahre",
+  "description": "Artikel zu Babyschlaf, Kosten im ersten Jahr, Besuch bei Neugeborenen, Pre-Nahrung, Spielen, Routinen und Schulzeit. Mit Quellen und ohne Produktlinks."
  }
 }

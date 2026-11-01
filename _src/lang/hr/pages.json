@@ -4,9 +4,9 @@
   "description": "Stranica nije pronađena na hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: jedna mala vještina tjedno, od trudnoće do 5. godine",
-  "description": "Mirna i prijateljska pomoć za roditelje. 100 kratkih vještina za vježbanje od rođenja do 5. godine, 188 miljokaza s karticama za uspomenu, svaki tjedan trudnoće i {guide_count} vodiča „Je li ovo normalno?”. Besplatno.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Besplatna aplikacija za roditelje od trudnoće do 5. godine: tjedne vještine za vježbanje, miljokazi s karticama za uspomenu, trudnoća tjedan po tjedan, vodiči „Je li ovo normalno?”, kalendar te dnevnici spavanja, hranjenja i rasta.\",\"url\":\"https://hoppoapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
+  "title": "Hoppo: jedna mala vještina tjedno, od trudnoće do 10 godina",
+  "description": "Mirna i prijateljska pomoć za roditelje. 200 kratkih vještina za vježbanje od rođenja do 10 godina, 214 miljokaza s karticama za uspomenu, svaki tjedan trudnoće i {guide_count} vodiča „Je li ovo normalno?”. Besplatno.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Besplatna aplikacija za roditelje od trudnoće do 10 godina: tjedne vještine za vježbanje, miljokazi s karticama za uspomenu, trudnoća tjedan po tjedan, vodiči „Je li ovo normalno?”, kalendar te dnevnici spavanja, hranjenja i rasta.\",\"url\":\"https://hoppoapp.com/hr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"hr\"}"
  },
  "guides.html": {
   "title": "{guide_count} vodiča „Je li ovo normalno?” za roditelje | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Partnerstvo s Hoppom | Hoppo",
-  "description": "Dopri do roditelja od trudnoće do 5. godine preko Hoppo Trgovine. Partnerske poveznice putem Awina ili promo kodovi, prikazani u aplikaciji i na ovoj web stranici."
+  "description": "Dopri do roditelja od trudnoće do 10 godina preko Hoppo Trgovine. Partnerske poveznice putem Awina ili promo kodovi, prikazani u aplikaciji i na ovoj web stranici."
+ },
+ "blog.html": {
+  "title": "Hoppo blog: iskreni odgovori za roditelje, od trudnoće do 10 godina",
+  "description": "Članci o spavanju bebe, troškovima prve godine, posjetima, adaptiranom mlijeku, igri, rutinama i školskim godinama. S izvorima i bez linkova na proizvode."
  }
 }

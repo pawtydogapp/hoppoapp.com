@@ -4,9 +4,9 @@
   "description": "Pagina niet gevonden op hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: één kleine vaardigheid per week, van zwangerschap tot 5 jaar",
-  "description": "Rustige, vriendelijke hulp voor ouders. 100 korte vaardigheden van geboorte tot 5 jaar, 188 mijlpalen met herinneringskaarten, elke zwangerschapsweek en {guide_count} gidsen \"Is dit normaal?\". Gratis.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Gratis app voor ouders van zwangerschap tot 5 jaar: wekelijkse oefenvaardigheden, mijlpalen met herinneringskaarten, zwangerschap week voor week, gidsen \\\"Is dit normaal?\\\", kalender, slaap-, voedings- en groeilogboeken.\",\"url\":\"https://hoppoapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
+  "title": "Hoppo: één kleine vaardigheid per week, van zwangerschap tot 10 jaar",
+  "description": "Rustige, vriendelijke hulp voor ouders. 200 korte vaardigheden van geboorte tot 10 jaar, 214 mijlpalen met herinneringskaarten, elke zwangerschapsweek en {guide_count} gidsen \"Is dit normaal?\". Gratis.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Gratis app voor ouders van zwangerschap tot 10 jaar: wekelijkse oefenvaardigheden, mijlpalen met herinneringskaarten, zwangerschap week voor week, gidsen \\\"Is dit normaal?\\\", kalender, slaap-, voedings- en groeilogboeken.\",\"url\":\"https://hoppoapp.com/nl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"nl\"}"
  },
  "guides.html": {
   "title": "{guide_count} gidsen \"Is dit normaal?\" voor ouders | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Samenwerken met Hoppo | Hoppo",
-  "description": "Bereik ouders van zwangerschap tot 5 jaar via de Hoppo-winkel. Affiliatelinks via Awin of kortingscodes, getoond in de app en op deze website."
+  "description": "Bereik ouders van zwangerschap tot 10 jaar via de Hoppo-winkel. Affiliatelinks via Awin of kortingscodes, getoond in de app en op deze website."
+ },
+ "blog.html": {
+  "title": "Hoppo-blog: eerlijke antwoorden, van zwangerschap tot 10 jaar",
+  "description": "Artikelen over babyslaap, kosten van het eerste jaar, kraambezoek, flesvoeding, spel, peuterroutines en schooljaren. Met bronnen en zonder productlinks."
  }
 }

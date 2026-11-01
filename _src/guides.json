@@ -238,5 +238,95 @@
   "id": "parent_work",
   "stage": "parent",
   "date": "2026-10-30"
+ },
+ {
+  "slug": "starting-school",
+  "id": "starting_school",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "homework",
+  "id": "homework",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "reading",
+  "id": "reading",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "bedwetting",
+  "id": "bedwetting",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "head-lice",
+  "id": "head_lice",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "sleep-school",
+  "id": "sleep_school",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "screens-school",
+  "id": "screens_school",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "online-safety",
+  "id": "online_safety",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "friends-bullying",
+  "id": "friends_bullying",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "worries",
+  "id": "worries",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "lying",
+  "id": "lying",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "pocket-money-guide",
+  "id": "pocket_money_guide",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "lunchbox",
+  "id": "lunchbox",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "active",
+  "id": "active",
+  "stage": "school",
+  "date": "2026-11-01"
+ },
+ {
+  "slug": "puberty",
+  "id": "puberty",
+  "stage": "school",
+  "date": "2026-11-01"
  }
 ]

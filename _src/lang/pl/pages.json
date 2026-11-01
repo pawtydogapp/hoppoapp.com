@@ -4,9 +4,9 @@
   "description": "Nie znaleziono strony w hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: mała umiejętność co tydzień, od ciąży do 5 lat",
-  "description": "Spokojna, życzliwa pomoc dla rodziców. 100 krótkich umiejętności od narodzin do 5 lat, 188 kamieni milowych z kartami pamiątkowymi, każdy tydzień ciąży i {guide_count} poradników „Czy to normalne?” Za darmo.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Darmowa aplikacja dla rodziców od ciąży do 5 lat: cotygodniowe umiejętności do ćwiczenia, kamienie milowe z kartami pamiątkowymi, ciąża tydzień po tygodniu, poradniki „Czy to normalne?”, kalendarz oraz dzienniki snu, karmienia i wzrastania.\",\"url\":\"https://hoppoapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
+  "title": "Hoppo: mała umiejętność co tydzień, od ciąży do 10 lat",
+  "description": "Spokojna, życzliwa pomoc dla rodziców. 200 krótkich umiejętności od narodzin do 10 lat, 214 kamieni milowych z kartami pamiątkowymi, każdy tydzień ciąży i {guide_count} poradników „Czy to normalne?” Za darmo.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Darmowa aplikacja dla rodziców od ciąży do 10 lat: cotygodniowe umiejętności do ćwiczenia, kamienie milowe z kartami pamiątkowymi, ciąża tydzień po tygodniu, poradniki „Czy to normalne?”, kalendarz oraz dzienniki snu, karmienia i wzrastania.\",\"url\":\"https://hoppoapp.com/pl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"pl\"}"
  },
  "guides.html": {
   "title": "{guide_count} poradników „Czy to normalne?” dla rodziców | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Współpraca z Hoppo | Hoppo",
-  "description": "Dotrzyj do rodziców od ciąży do 5 lat przez Sklep Hoppo. Linki afiliacyjne przez Awin lub kody promocyjne, widoczne w aplikacji i na tej stronie."
+  "description": "Dotrzyj do rodziców od ciąży do 10 lat przez Sklep Hoppo. Linki afiliacyjne przez Awin lub kody promocyjne, widoczne w aplikacji i na tej stronie."
+ },
+ "blog.html": {
+  "title": "Blog Hoppo: szczere odpowiedzi dla rodziców, od ciąży do 10 lat",
+  "description": "Artykuły o śnie, kosztach pierwszego roku, gościach u noworodka, mleku modyfikowanym, zabawach sensorycznych, rytmie dnia, szkole i rodzinie. Ze źródłami, bez produktów."
  }
 }

@@ -1,15 +1,15 @@
 {
 "https://hoppoapp.com/": {
-"h": "c9b4cbfa34f62bb6",
-"d": "2026-10-30"
+"h": "4b6ec001188855a5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/404.html": {
 "h": "16196d6f589e3f5b",
 "d": "2026-10-18"
 },
 "https://hoppoapp.com/blog.html": {
-"h": "b8a88159153866a4",
-"d": "2026-10-19"
+"h": "4694bba7c592787d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/blog/baby-cost-first-year.html": {
 "h": "109f2ab4cb994349",
@@ -31,6 +31,10 @@
 "h": "9a21cc7edbf01220",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/blog/friendships-fall-outs-bullying.html": {
+"h": "a634654333b9bb27",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/blog/newborn-shopping-list.html": {
 "h": "df68afa742b8f65f",
 "d": "2026-10-30"
@@ -43,9 +47,37 @@
 "h": "1f825a81a8638d54",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "210edc775bed1511",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "424aa66d556bf22a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/blog/school-age-anxiety-big-feelings.html": {
+"h": "09a26548e445ccd5",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/blog/school-age-sleep-bedwetting.html": {
+"h": "e4bc013ecfa9e979",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/blog/screen-time-first-phone.html": {
+"h": "56ce72b53c17f80c",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/blog/sensory-play-by-age.html": {
 "h": "4a671b71560fc875",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/blog/siblings-fights-fair-rules.html": {
+"h": "2751522b1cdd4012",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/blog/starting-school-homework.html": {
+"h": "679fef71a74182a7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/blog/toddler-and-newborn.html": {
 "h": "f9ee90512a58098d",
@@ -64,8 +96,12 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/de/": {
-"h": "b61c1c4ebf990dda",
-"d": "2026-10-30"
+"h": "4292e9f44a022c0f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/blog.html": {
+"h": "acd547fe86eab5a0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/blog/baby-cost-first-year.html": {
 "h": "d84c6b2c606149bd",
@@ -87,6 +123,10 @@
 "h": "066070aa5fe7556a",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/de/blog/friendships-fall-outs-bullying.html": {
+"h": "09f7a9414db60b05",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/de/blog/newborn-shopping-list.html": {
 "h": "917193f7fbe515e5",
 "d": "2026-10-30"
@@ -99,189 +139,277 @@
 "h": "51d32f111b4a288a",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/de/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "a7e3ce54795618d3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "95eb28a99513e377",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/blog/school-age-anxiety-big-feelings.html": {
+"h": "fc06bf53de2c7960",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/blog/school-age-sleep-bedwetting.html": {
+"h": "4615f16aa38ee6a8",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/blog/screen-time-first-phone.html": {
+"h": "bcfca5c097ee40fc",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/de/blog/sensory-play-by-age.html": {
 "h": "0e0ecb09347c794a",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/de/blog/siblings-fights-fair-rules.html": {
+"h": "26b8eac8eb27a2d6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/blog/starting-school-homework.html": {
+"h": "a54889236e846c35",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/blog/toddler-and-newborn.html": {
 "h": "fd81086dcf54e6f4",
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/de/blog/toddler-behaviour-gentle-or-firm.html": {
-"h": "989329a618328e8a",
-"d": "2026-10-30"
+"h": "e49a36888142c690",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/blog/toddler-daily-routine-chart.html": {
-"h": "6be14bd3fc04ab38",
-"d": "2026-10-30"
+"h": "93563f1f289e5f0f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides.html": {
-"h": "482b4a58a8861e45",
-"d": "2026-10-30"
+"h": "579a2a0e24d50dfa",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/active.html": {
+"h": "00f1bbfe0758d34a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/baby-poo.html": {
-"h": "ab09b7ef87be72dd",
-"d": "2026-10-30"
+"h": "5186fe6b7897ee85",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/baby-sleep.html": {
-"h": "ddce489edc385f63",
-"d": "2026-10-30"
+"h": "9e8bb66294778f5a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/bedwetting.html": {
+"h": "775209cd81fd7a0a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/biting.html": {
-"h": "aefa768f9bb3fdcf",
-"d": "2026-10-30"
+"h": "b776d77d1bbfc84a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/choking.html": {
-"h": "93a8986f3720fd62",
-"d": "2026-10-30"
+"h": "83d326336d81c825",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/colds.html": {
-"h": "564b280ce9b4254a",
-"d": "2026-10-30"
+"h": "ed0b0b1cc190b1a1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/constipation.html": {
-"h": "685a5cf3860cf30c",
-"d": "2026-10-30"
+"h": "e075566d31f232c5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/crawling.html": {
-"h": "228b9348ff559769",
-"d": "2026-10-30"
+"h": "1b4cc7da784e00ee",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/crying.html": {
-"h": "5c15ce9eb7d6d716",
-"d": "2026-10-30"
+"h": "e207b4802892ce25",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/daycare.html": {
-"h": "14173d2d96486e3c",
-"d": "2026-10-30"
+"h": "469bcd1fe3856427",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/enough-milk.html": {
-"h": "1213baade7578112",
-"d": "2026-10-30"
+"h": "f931d4774e0a3a8d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/fever.html": {
-"h": "7273b95638127e04",
-"d": "2026-10-30"
+"h": "9f5759ae296dfdcc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/first-foods.html": {
-"h": "b9af6159921048e5",
-"d": "2026-10-30"
+"h": "bb85a697e1a5b61a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/foods-avoid.html": {
-"h": "4011a4264538072e",
-"d": "2026-10-30"
+"h": "006bf7fb149ef03e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/friends-bullying.html": {
+"h": "249c22f449ef3a04",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/head-bump.html": {
-"h": "d08ee09affd4869f",
-"d": "2026-10-30"
+"h": "0c2581e6c31ffc03",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/head-lice.html": {
+"h": "469e68c82bce9497",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/home-safety.html": {
-"h": "591d26cdd12b6cea",
-"d": "2026-10-30"
+"h": "ee87b3b50cb74668",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/homework.html": {
+"h": "5f9b71a4b1e2237b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/hospital-bag.html": {
-"h": "f880930c35b03f14",
-"d": "2026-10-30"
+"h": "0137d7b371eac0cd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/jaundice.html": {
-"h": "84b72fa4d4063f8f",
-"d": "2026-10-30"
+"h": "072693cd09400c0f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/labour-signs.html": {
-"h": "21f81cb9ae0f42ef",
-"d": "2026-10-30"
+"h": "024775bca8295c14",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/low-mood.html": {
-"h": "847212da04859fc5",
-"d": "2026-10-30"
+"h": "e5c66d7dd046484b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/lunchbox.html": {
+"h": "6b027dab3ce125ee",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/lying.html": {
+"h": "6b62483fa3108141",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/morning-sickness.html": {
-"h": "32c7629f0191b3bf",
-"d": "2026-10-30"
+"h": "580d691779868b2a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/movements.html": {
-"h": "106f979ede5f55b1",
-"d": "2026-10-30"
+"h": "e0c03b50285b8c37",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/nappy-rash.html": {
-"h": "0609c50bdf2463e0",
-"d": "2026-10-30"
+"h": "cd16edf26edc4503",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/online-safety.html": {
+"h": "f4524ec268d27f0d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/parent-anxiety.html": {
-"h": "f586f160257ce97d",
-"d": "2026-10-30"
+"h": "0f4dcf10a23e8364",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/parent-body.html": {
-"h": "1cdfdf33d4f9c69b",
-"d": "2026-10-30"
+"h": "95bf529d87a94cde",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/parent-couple.html": {
-"h": "f0e373524c575fe4",
-"d": "2026-10-30"
+"h": "10de4e6325f7b547",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/parent-tired.html": {
-"h": "3910c3e86dae4f88",
-"d": "2026-10-30"
+"h": "d47564abf225a8d3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/parent-work.html": {
-"h": "15dd4a6d9701496a",
-"d": "2026-10-30"
+"h": "09b1330e08617f86",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/picky-eating.html": {
-"h": "63fe0c0a14988fee",
-"d": "2026-10-30"
+"h": "99dd92f33af3996c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/pocket-money-guide.html": {
+"h": "788a57b7d48994f0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/potty.html": {
-"h": "1b63b95099798cb2",
-"d": "2026-10-30"
+"h": "23a4ebeedcc8be4a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/preg-exercise.html": {
-"h": "a1a736d91637fe3a",
-"d": "2026-10-30"
+"h": "45dfe43dda518afe",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/preg-sleep.html": {
-"h": "71a3140dcce77648",
-"d": "2026-10-30"
+"h": "dfccf94ab6e81aaf",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/puberty.html": {
+"h": "7cbeb3c58b876d72",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/reading.html": {
+"h": "aeb7ac9904a54d6f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/safe-sleep.html": {
-"h": "47630e0411f9628f",
-"d": "2026-10-30"
+"h": "c6a9dec7753bef81",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/screens-school.html": {
+"h": "2b975894d62910ec",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/screens.html": {
-"h": "7673f08f605981d2",
-"d": "2026-10-30"
+"h": "1730c16feeb25032",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/sleep-school.html": {
+"h": "7a86ce7a622e4cc3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/spitting-up.html": {
-"h": "b848832991e4ef5b",
-"d": "2026-10-30"
+"h": "299017463b5db6a3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/starting-school.html": {
+"h": "f81a622de064fe2a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/sun-safety.html": {
-"h": "905d4086c3ba9b01",
-"d": "2026-10-30"
+"h": "3ca8b3fca625f5ff",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/talking.html": {
-"h": "9e04e50aeb79afa4",
-"d": "2026-10-30"
+"h": "8d8eb18a14d38022",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/tantrums.html": {
-"h": "bc22d0cfe04f8de1",
-"d": "2026-10-30"
+"h": "78d0670ff3848e31",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/teeth-care.html": {
-"h": "8772fc14bab4fa14",
-"d": "2026-10-30"
+"h": "adf064a1520631a1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/teething.html": {
-"h": "ae436671ec6d9d01",
-"d": "2026-10-30"
+"h": "8d1e99b45293f34b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/guides/toddler-sleep.html": {
-"h": "2674b51ceb9a3872",
-"d": "2026-10-30"
+"h": "7728bdcbdff218dc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/de/guides/worries.html": {
+"h": "0b36853e0eb3ee84",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/partners.html": {
-"h": "ec66143e909095b8",
-"d": "2026-10-30"
+"h": "953c3c6e5754fd51",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/de/privacy.html": {
 "h": "bb2d1ac724b823f9",
@@ -296,12 +424,16 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/de/terms.html": {
-"h": "16ec3461c3c13246",
-"d": "2026-10-30"
+"h": "7c2c1d2fd98d831e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/": {
-"h": "7853f9318cd63189",
-"d": "2026-10-30"
+"h": "fd54b00cada196fc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/blog.html": {
+"h": "7cfcdb0c6ced194c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/blog/baby-cost-first-year.html": {
 "h": "b1d49e39b1c3ce8f",
@@ -323,6 +455,10 @@
 "h": "1fbcaa0c414b89a1",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/es/blog/friendships-fall-outs-bullying.html": {
+"h": "379621622effbd29",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/es/blog/newborn-shopping-list.html": {
 "h": "62356bc176cf1cf1",
 "d": "2026-10-30"
@@ -335,9 +471,37 @@
 "h": "ea802ef702ab659b",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/es/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "69d794efb3647f2f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "066c4efe109bf4b7",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/blog/school-age-anxiety-big-feelings.html": {
+"h": "535cc6bb74d9e86b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/blog/school-age-sleep-bedwetting.html": {
+"h": "afaecca9c546625e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/blog/screen-time-first-phone.html": {
+"h": "a1559231906d136a",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/es/blog/sensory-play-by-age.html": {
 "h": "d8f3db1017ae7dd0",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/es/blog/siblings-fights-fair-rules.html": {
+"h": "d5286cb9e2433049",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/blog/starting-school-homework.html": {
+"h": "20cac51be2e97d6f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/blog/toddler-and-newborn.html": {
 "h": "8dcae72b67d04cf0",
@@ -352,172 +516,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/es/guides.html": {
-"h": "f0eb4d2bd2d29259",
-"d": "2026-10-30"
+"h": "fe3dfb6d8d707f1e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/active.html": {
+"h": "c6435ea06a782e84",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/baby-poo.html": {
-"h": "329e91f310d505f1",
-"d": "2026-10-30"
+"h": "b8c427239cc500ae",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/baby-sleep.html": {
-"h": "86602324c232021a",
-"d": "2026-10-30"
+"h": "95ee12f2c28ad2d0",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/bedwetting.html": {
+"h": "ee34cff7be8b917c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/biting.html": {
-"h": "fd8de3967e1e66d9",
-"d": "2026-10-30"
+"h": "b59d65f487a8968a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/choking.html": {
-"h": "00ecc72f04487b6a",
-"d": "2026-10-30"
+"h": "65fa87bfcfd12ef7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/colds.html": {
-"h": "09f9a8f412ca8e47",
-"d": "2026-10-30"
+"h": "8770da07c4cbfae5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/constipation.html": {
-"h": "0dad6d772a4402d8",
-"d": "2026-10-30"
+"h": "c2b214dbcb2fc1bb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/crawling.html": {
-"h": "8d9925275a293aed",
-"d": "2026-10-30"
+"h": "a05cfe114705a366",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/crying.html": {
-"h": "f91e037e99bec4a7",
-"d": "2026-10-30"
+"h": "07a2861828239274",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/daycare.html": {
-"h": "5fe1264f2ae56299",
-"d": "2026-10-30"
+"h": "a97e23a7dccb0b65",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/enough-milk.html": {
-"h": "e740d828462efe58",
-"d": "2026-10-30"
+"h": "fb263c77381eee70",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/fever.html": {
-"h": "8d85a246ce674190",
-"d": "2026-10-30"
+"h": "3eba01d3162bc1fb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/first-foods.html": {
-"h": "1e9c9f9856e967a7",
-"d": "2026-10-30"
+"h": "1511141aefecb30d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/foods-avoid.html": {
-"h": "1fbd6648c444b1d9",
-"d": "2026-10-30"
+"h": "1b18e7e23e73e77a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/friends-bullying.html": {
+"h": "7d790e42ff561402",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/head-bump.html": {
-"h": "dbe1d6f8e911bc8e",
-"d": "2026-10-30"
+"h": "b86e439e147b9f09",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/head-lice.html": {
+"h": "996b2a91b08a7366",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/home-safety.html": {
-"h": "da7593443e6dfeb3",
-"d": "2026-10-30"
+"h": "1d7c977ada3ce721",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/homework.html": {
+"h": "126eb7ed0081f429",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/hospital-bag.html": {
-"h": "fe7ed96fa9128b0a",
-"d": "2026-10-30"
+"h": "99628e906678e253",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/jaundice.html": {
-"h": "1ebbcf53d97fe8ac",
-"d": "2026-10-30"
+"h": "91b0d0c2486b2517",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/labour-signs.html": {
-"h": "e1453a333e79dc09",
-"d": "2026-10-30"
+"h": "3de9e35cd7488748",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/low-mood.html": {
-"h": "4adbd31aea29bfee",
-"d": "2026-10-30"
+"h": "d20b0a41f9138ddb",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/lunchbox.html": {
+"h": "86abd87e8bf11f28",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/lying.html": {
+"h": "91cd823012018856",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/morning-sickness.html": {
-"h": "4be49784c473e9de",
-"d": "2026-10-30"
+"h": "a79be428781e3044",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/movements.html": {
-"h": "f0e6fae11104c443",
-"d": "2026-10-30"
+"h": "c0a76cb98bb620fe",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/nappy-rash.html": {
-"h": "d0424ababb9d6c55",
-"d": "2026-10-30"
+"h": "9e23fdd39a00df98",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/online-safety.html": {
+"h": "a6790c1983bbff42",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/parent-anxiety.html": {
-"h": "8ad01ea257997222",
-"d": "2026-10-30"
+"h": "002c462a189a7081",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/parent-body.html": {
-"h": "5aa94bc1325c8aca",
-"d": "2026-10-30"
+"h": "72ad53350e1ac1fc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/parent-couple.html": {
-"h": "a7587fa6cac0c5a5",
-"d": "2026-10-30"
+"h": "71bec0467403cf22",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/parent-tired.html": {
-"h": "8a8ce96f2cb5188f",
-"d": "2026-10-30"
+"h": "d26bbb895de238df",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/parent-work.html": {
-"h": "f67d6e55db4d6e4c",
-"d": "2026-10-30"
+"h": "dcad607152112c3b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/picky-eating.html": {
-"h": "f39e812ec7216242",
-"d": "2026-10-30"
+"h": "1d66cf8b5fa57e95",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/pocket-money-guide.html": {
+"h": "02e04aba39308e39",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/potty.html": {
-"h": "180d677e0d8a3407",
-"d": "2026-10-30"
+"h": "5100283557e25b57",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/preg-exercise.html": {
-"h": "5dc1e4db496d73e3",
-"d": "2026-10-30"
+"h": "212e70a578526bc1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/preg-sleep.html": {
-"h": "b2326d0e85ba5235",
-"d": "2026-10-30"
+"h": "411c31b0932b8a75",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/puberty.html": {
+"h": "4532a0ebcafbfdfc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/reading.html": {
+"h": "14b74aab83682326",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/safe-sleep.html": {
-"h": "e720bae9130f93db",
-"d": "2026-10-30"
+"h": "3cb09979eb88e8dc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/screens-school.html": {
+"h": "8bcf14bd02ef3da3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/screens.html": {
-"h": "51f5bd234b13b4cc",
-"d": "2026-10-30"
+"h": "743384319d631e30",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/sleep-school.html": {
+"h": "8ea6e3403fc3640d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/spitting-up.html": {
-"h": "0dd5578bac4999d2",
-"d": "2026-10-30"
+"h": "bfec60b93e5ba5af",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/starting-school.html": {
+"h": "73d8c6848ca5f9c9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/sun-safety.html": {
-"h": "27d475573c56775e",
-"d": "2026-10-30"
+"h": "0cdd44ff8bc94a44",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/talking.html": {
-"h": "7542ef9dcd7b9275",
-"d": "2026-10-30"
+"h": "9e992fa95f16f499",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/tantrums.html": {
-"h": "30062df8ea3a0b40",
-"d": "2026-10-30"
+"h": "1bbb96c99380e421",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/teeth-care.html": {
-"h": "c10441cf907a23f2",
-"d": "2026-10-30"
+"h": "a5de8482c9f8453d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/teething.html": {
-"h": "b9e478b93028d7b9",
-"d": "2026-10-30"
+"h": "5b6c88d4a80c0307",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/guides/toddler-sleep.html": {
-"h": "3879b5a2118c3b9c",
-"d": "2026-10-30"
+"h": "c8eb21b76a7bd31a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/es/guides/worries.html": {
+"h": "b97bf3447c68578b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/partners.html": {
-"h": "a0ee4868feac8538",
-"d": "2026-10-30"
+"h": "bfaf6a65d48ebb59",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/es/privacy.html": {
 "h": "30339bccb03d1951",
@@ -532,12 +756,16 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/es/terms.html": {
-"h": "d36c55aaab806666",
-"d": "2026-10-30"
+"h": "444a9e6a2e25983b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/": {
-"h": "4f896db20783e740",
-"d": "2026-10-30"
+"h": "e6bfa82d16884826",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/blog.html": {
+"h": "315b912e699f1ec3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/blog/baby-cost-first-year.html": {
 "h": "57612821850477c0",
@@ -559,6 +787,10 @@
 "h": "69010aa865015f66",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/fr/blog/friendships-fall-outs-bullying.html": {
+"h": "08ad95ff53ffd5ab",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/fr/blog/newborn-shopping-list.html": {
 "h": "d1f12e28d1228613",
 "d": "2026-10-30"
@@ -571,9 +803,37 @@
 "h": "158cfe819c054ae7",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/fr/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "8d9d109a2925eade",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "c38eb2c3a1e4be73",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/blog/school-age-anxiety-big-feelings.html": {
+"h": "1c94f446ffad6150",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/blog/school-age-sleep-bedwetting.html": {
+"h": "99b5cc1e1b519781",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/blog/screen-time-first-phone.html": {
+"h": "ed2ab77243d14382",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/fr/blog/sensory-play-by-age.html": {
 "h": "429b3c64860d519f",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/fr/blog/siblings-fights-fair-rules.html": {
+"h": "2f0bcd7851096944",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/blog/starting-school-homework.html": {
+"h": "aa9372f1a794e4d7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/blog/toddler-and-newborn.html": {
 "h": "7d13693fe55f73e7",
@@ -588,172 +848,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/fr/guides.html": {
-"h": "440149c9e2c5881f",
-"d": "2026-10-30"
+"h": "8eb921af84cd7f1b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/active.html": {
+"h": "306ff176816ae0cb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/baby-poo.html": {
-"h": "5032b91c014098af",
-"d": "2026-10-30"
+"h": "496db707fa86afef",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/baby-sleep.html": {
-"h": "1905fcdc9f2b1862",
-"d": "2026-10-30"
+"h": "9e1df527e3368a55",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/bedwetting.html": {
+"h": "71307ece409c83fe",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/biting.html": {
-"h": "a2a721d69b4c32f5",
-"d": "2026-10-30"
+"h": "82539bff7072d044",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/choking.html": {
-"h": "361aceafa64454c6",
-"d": "2026-10-30"
+"h": "ad50438449eb49b0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/colds.html": {
-"h": "519d1a661c13f935",
-"d": "2026-10-30"
+"h": "00f434725d42ef71",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/constipation.html": {
-"h": "4a18fd7d31de2572",
-"d": "2026-10-30"
+"h": "e379940bcb9b32ae",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/crawling.html": {
-"h": "28f062f074576ce9",
-"d": "2026-10-30"
+"h": "853f040545cde11e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/crying.html": {
-"h": "2e7c74c2b38618d8",
-"d": "2026-10-30"
+"h": "da52fde53485f15c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/daycare.html": {
-"h": "69fb1fb38d1e64e6",
-"d": "2026-10-30"
+"h": "3015f4407626354b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/enough-milk.html": {
-"h": "90268955586d71e1",
-"d": "2026-10-30"
+"h": "6b959ccf7727c547",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/fever.html": {
-"h": "d07af8d15f5b41c8",
-"d": "2026-10-30"
+"h": "01023b05f609008d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/first-foods.html": {
-"h": "918e2425f77b1fc6",
-"d": "2026-10-30"
+"h": "edd79ed3a02f45b5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/foods-avoid.html": {
-"h": "645f79cb8afbeea3",
-"d": "2026-10-30"
+"h": "5cbc4a22c7637896",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/friends-bullying.html": {
+"h": "156c4a8280a8ac3c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/head-bump.html": {
-"h": "77050cc301f747ee",
-"d": "2026-10-30"
+"h": "635d4d9b8b4f92f4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/head-lice.html": {
+"h": "c2e80afa96e4e525",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/home-safety.html": {
-"h": "54fd8ed2f66f1b33",
-"d": "2026-10-30"
+"h": "358bb7c1475dd89d",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/homework.html": {
+"h": "f1d8557cc59b7ca3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/hospital-bag.html": {
-"h": "f2dd63bad2ff4d05",
-"d": "2026-10-30"
+"h": "afbfa13d2ba92fd1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/jaundice.html": {
-"h": "a22802af31b844ff",
-"d": "2026-10-30"
+"h": "aa79419d412790e2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/labour-signs.html": {
-"h": "601a98842427c011",
-"d": "2026-10-30"
+"h": "fbfa87191357a00e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/low-mood.html": {
-"h": "ee9659e17aaa3a59",
-"d": "2026-10-30"
+"h": "0326494d13200863",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/lunchbox.html": {
+"h": "8beab0e61438b54b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/lying.html": {
+"h": "41e57a381c997e1b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/morning-sickness.html": {
-"h": "a5ea0d6adaf23605",
-"d": "2026-10-30"
+"h": "fa229c408e3e033a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/movements.html": {
-"h": "866eaa94a8152c63",
-"d": "2026-10-30"
+"h": "04495930e31c8694",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/nappy-rash.html": {
-"h": "1a9a5d640d9ee86d",
-"d": "2026-10-30"
+"h": "bc59602fd4b250a8",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/online-safety.html": {
+"h": "89b46f8403118195",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/parent-anxiety.html": {
-"h": "ecd6745aea512c9e",
-"d": "2026-10-30"
+"h": "f8258dc2b4fe5c4b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/parent-body.html": {
-"h": "4407bd6f2a7978e0",
-"d": "2026-10-30"
+"h": "c5815446ef5c6742",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/parent-couple.html": {
-"h": "98156c9ad9d02c01",
-"d": "2026-10-30"
+"h": "aa7d46733c8912eb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/parent-tired.html": {
-"h": "fe272c2a8877df21",
-"d": "2026-10-30"
+"h": "94fd496e63be70a9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/parent-work.html": {
-"h": "60f5dd6dcccfa98a",
-"d": "2026-10-30"
+"h": "c00badcfe75ce6cc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/picky-eating.html": {
-"h": "f5ef83bab225293f",
-"d": "2026-10-30"
+"h": "74cfa127c1f6de53",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/pocket-money-guide.html": {
+"h": "60a21bafd35dd39b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/potty.html": {
-"h": "efa60ec3bc4adc6d",
-"d": "2026-10-30"
+"h": "0b9034e6447e1346",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/preg-exercise.html": {
-"h": "d7c19c97760e4a16",
-"d": "2026-10-30"
+"h": "177314760bd7539d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/preg-sleep.html": {
-"h": "284268503b25be22",
-"d": "2026-10-30"
+"h": "0d74090316670540",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/puberty.html": {
+"h": "7b4bf740ce04047a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/reading.html": {
+"h": "54967bc5604cd5fc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/safe-sleep.html": {
-"h": "3bf3ea85adab8ea7",
-"d": "2026-10-30"
+"h": "3314ac23443588cd",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/screens-school.html": {
+"h": "86dcca53ba6c04df",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/screens.html": {
-"h": "45a5d91b5ea47763",
-"d": "2026-10-30"
+"h": "39a5fd7f30e8bec3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/sleep-school.html": {
+"h": "50ec574fe1e4fd82",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/spitting-up.html": {
-"h": "7e5d9ca7c9a3a6d7",
-"d": "2026-10-30"
+"h": "c31e269b14ab1fe6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/starting-school.html": {
+"h": "783cd2323876d259",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/sun-safety.html": {
-"h": "c093539c91dedf34",
-"d": "2026-10-30"
+"h": "4dde582bf30cdfe1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/talking.html": {
-"h": "8a655a1de94cf447",
-"d": "2026-10-30"
+"h": "edef19723d82fa98",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/tantrums.html": {
-"h": "e955c7b0fd1175c3",
-"d": "2026-10-30"
+"h": "b8681004e5991ba0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/teeth-care.html": {
-"h": "f6d7f3db81ebcefc",
-"d": "2026-10-30"
+"h": "134107ae98992dbf",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/teething.html": {
-"h": "ae4fa5f9ad4acf6f",
-"d": "2026-10-30"
+"h": "8453dc476cd7085a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/guides/toddler-sleep.html": {
-"h": "21298a275f5a67af",
-"d": "2026-10-30"
+"h": "d171fc0d6dc9b5b3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/fr/guides/worries.html": {
+"h": "b2d80cbcdb765f7e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/partners.html": {
-"h": "1ad5328b893457f1",
-"d": "2026-10-30"
+"h": "33fdefda69d71e79",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/fr/privacy.html": {
 "h": "c1d1a244481aadc7",
@@ -768,176 +1088,240 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/fr/terms.html": {
-"h": "d54be2f554b27487",
-"d": "2026-10-30"
+"h": "91b08995ba87a1d3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides.html": {
-"h": "941c80146a2be1c0",
-"d": "2026-10-30"
+"h": "c665118e5577ae4b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/active.html": {
+"h": "15824ec3679c9bab",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/baby-poo.html": {
-"h": "da2853af181d107e",
-"d": "2026-10-30"
+"h": "fb337e9d85ee981c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/baby-sleep.html": {
-"h": "8b86b02975123b44",
-"d": "2026-10-30"
+"h": "81bb938e67f7ab0f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/bedwetting.html": {
+"h": "dc2669368d01f710",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/biting.html": {
-"h": "b442fde3e842ec42",
-"d": "2026-10-30"
+"h": "616ff14cbc7eeb1e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/choking.html": {
-"h": "ceb5f36068630a6f",
-"d": "2026-10-30"
+"h": "b1ab684bf3ac1661",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/colds.html": {
-"h": "ce7edb145e0edc9a",
-"d": "2026-10-30"
+"h": "686f517a175fd7dc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/constipation.html": {
-"h": "9aed4ff686b3768e",
-"d": "2026-10-30"
+"h": "354f9d03092f080f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/crawling.html": {
-"h": "1682879ffe5ea354",
-"d": "2026-10-30"
+"h": "8121ea21333eed67",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/crying.html": {
-"h": "910a053d3896ef68",
-"d": "2026-10-30"
+"h": "559d7e40a64757e3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/daycare.html": {
-"h": "02f6f8075d4a9a6e",
-"d": "2026-10-30"
+"h": "8d4648f9f2c211c0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/enough-milk.html": {
-"h": "038b36808e239ff1",
-"d": "2026-10-30"
+"h": "c259238712ec15be",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/fever.html": {
-"h": "aaac83d96f023b80",
-"d": "2026-10-30"
+"h": "e3f4f09a0d83a7da",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/first-foods.html": {
-"h": "e75eeb7eea0aaa1a",
-"d": "2026-10-30"
+"h": "0a186ab71a913a56",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/foods-avoid.html": {
-"h": "1f2c90e0a2303360",
-"d": "2026-10-30"
+"h": "12d2af4a733d9295",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/friends-bullying.html": {
+"h": "38793cfccd6d258d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/head-bump.html": {
-"h": "93acf603e2373868",
-"d": "2026-10-30"
+"h": "7e8e454fb424321c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/head-lice.html": {
+"h": "4b85a474ecb35d46",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/home-safety.html": {
-"h": "c25f67c3e73d0c16",
-"d": "2026-10-30"
+"h": "5fe451169a3fd99f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/homework.html": {
+"h": "a95fedba2826c5d5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/hospital-bag.html": {
-"h": "ae61d53a4f996267",
-"d": "2026-10-30"
+"h": "864dc69465106ecb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/jaundice.html": {
-"h": "8163cd38bb7439da",
-"d": "2026-10-30"
+"h": "28e604873358f122",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/labour-signs.html": {
-"h": "0dd03cfb57aee0eb",
-"d": "2026-10-30"
+"h": "424b3428668f39b9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/low-mood.html": {
-"h": "075ce43c48f4717e",
-"d": "2026-10-30"
+"h": "18ba01f4751e8085",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/lunchbox.html": {
+"h": "e644258cc05267b6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/lying.html": {
+"h": "d92e646284f116eb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/morning-sickness.html": {
-"h": "7c1e6dc38e8307cd",
-"d": "2026-10-30"
+"h": "4a03d9dd993727e2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/movements.html": {
-"h": "bc89202160b957b3",
-"d": "2026-10-30"
+"h": "67d008b61592bdea",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/nappy-rash.html": {
-"h": "849ef06135819744",
-"d": "2026-10-30"
+"h": "f59db4f277357685",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/online-safety.html": {
+"h": "faba7e586fe7d2b4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/parent-anxiety.html": {
-"h": "7cbba7bbf40a0971",
-"d": "2026-10-30"
+"h": "7015983c3e293a6e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/parent-body.html": {
-"h": "119f3e61d3a137ab",
-"d": "2026-10-30"
+"h": "0677dabc47ecc7b9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/parent-couple.html": {
-"h": "f42439198810f73f",
-"d": "2026-10-30"
+"h": "ace8d4d6036abb76",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/parent-tired.html": {
-"h": "38ac3e94503fb16a",
-"d": "2026-10-30"
+"h": "754675e69d54ef76",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/parent-work.html": {
-"h": "adb55eb1f9aba162",
-"d": "2026-10-30"
+"h": "f17b029d4cc3aeb6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/picky-eating.html": {
-"h": "98c9466078cbd0bc",
-"d": "2026-10-30"
+"h": "b30bf7194d324828",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/pocket-money-guide.html": {
+"h": "7c7f514b8a923809",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/potty.html": {
-"h": "37c82df2de976e15",
-"d": "2026-10-30"
+"h": "764dcde475fde6c8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/preg-exercise.html": {
-"h": "b2598a2c13a2ab40",
-"d": "2026-10-30"
+"h": "b41db1dfbb7d19a7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/preg-sleep.html": {
-"h": "9c87352dacd9c769",
-"d": "2026-10-30"
+"h": "f116759cf145d5ce",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/puberty.html": {
+"h": "4cd2469e3e98ea35",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/reading.html": {
+"h": "38fa798aa4829dff",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/safe-sleep.html": {
-"h": "6505ef2241da3870",
-"d": "2026-10-30"
+"h": "d51b85878823bec4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/screens-school.html": {
+"h": "3cd79b774f414c0f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/screens.html": {
-"h": "6191c517e3dc0802",
-"d": "2026-10-30"
+"h": "83804a6b9decf8de",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/sleep-school.html": {
+"h": "edf30a757b966067",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/spitting-up.html": {
-"h": "570bb930c7ba705e",
-"d": "2026-10-30"
+"h": "97230ba1bda62359",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/starting-school.html": {
+"h": "f7110342371cfbbd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/sun-safety.html": {
-"h": "0eb643423c3fac08",
-"d": "2026-10-30"
+"h": "43ae8877ef4aa7cd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/talking.html": {
-"h": "dc6d23b859f03432",
-"d": "2026-10-30"
+"h": "c09190dd5fdda2d8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/tantrums.html": {
-"h": "381007131a93ef2b",
-"d": "2026-10-30"
+"h": "ec3ecb03eaac4418",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/teeth-care.html": {
-"h": "1dadd843e046a489",
-"d": "2026-10-30"
+"h": "562a7610d199a2a7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/teething.html": {
-"h": "5dc076f485effb01",
-"d": "2026-10-30"
+"h": "ba0479d7652bf3d7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/guides/toddler-sleep.html": {
-"h": "0f279d540a3da028",
-"d": "2026-10-30"
+"h": "08707a03dcc8a6fe",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/guides/worries.html": {
+"h": "4bfb0d383a9b6f3c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/": {
-"h": "8fe0457a109c6ee7",
-"d": "2026-10-30"
+"h": "bd9d93c361b9fdb1",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/blog.html": {
+"h": "86f1c3c799f7a03e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/blog/baby-cost-first-year.html": {
 "h": "bbe3e3a56f0e2c5e",
@@ -959,6 +1343,10 @@
 "h": "261070d93b2c04bf",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/hr/blog/friendships-fall-outs-bullying.html": {
+"h": "229bc820626425c9",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/hr/blog/newborn-shopping-list.html": {
 "h": "e93a4a4c5ac8f6a8",
 "d": "2026-10-30"
@@ -971,9 +1359,37 @@
 "h": "ddb0456a06e2e55f",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/hr/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "33c86fd93ae725ae",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "cdb336e459b9f01c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/blog/school-age-anxiety-big-feelings.html": {
+"h": "bb8595a752eaf012",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/blog/school-age-sleep-bedwetting.html": {
+"h": "6bbab48cb3af6966",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/blog/screen-time-first-phone.html": {
+"h": "75479ae229183db2",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/hr/blog/sensory-play-by-age.html": {
 "h": "d7c9593afd2ce439",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/hr/blog/siblings-fights-fair-rules.html": {
+"h": "7aee7249f5e95b28",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/blog/starting-school-homework.html": {
+"h": "82f0fc8c9afed7fd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/blog/toddler-and-newborn.html": {
 "h": "e37ada4de3d4834d",
@@ -988,172 +1404,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/hr/guides.html": {
-"h": "52d1f0a704fae0b2",
-"d": "2026-10-30"
+"h": "a6213ae8db661218",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/active.html": {
+"h": "74d5db6b24effcbd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/baby-poo.html": {
-"h": "5e25c872bb8cf58b",
-"d": "2026-10-30"
+"h": "7e02b72cd38d67b0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/baby-sleep.html": {
-"h": "b24612c9958d09ba",
-"d": "2026-10-30"
+"h": "7c38a938c03b83b1",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/bedwetting.html": {
+"h": "5373f8f627b7cc63",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/biting.html": {
-"h": "cec807b0f3607d2c",
-"d": "2026-10-30"
+"h": "220371f78dd888ee",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/choking.html": {
-"h": "951fca8db4f51379",
-"d": "2026-10-30"
+"h": "16395d8ea1219406",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/colds.html": {
-"h": "d0678178a91dedae",
-"d": "2026-10-30"
+"h": "58e18d3c0712133a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/constipation.html": {
-"h": "b396d04f25f555b4",
-"d": "2026-10-30"
+"h": "2c820f071e157a4b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/crawling.html": {
-"h": "42d1407310f8a2ae",
-"d": "2026-10-30"
+"h": "7cb922153833b2e1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/crying.html": {
-"h": "39da996a3b7d9b30",
-"d": "2026-10-30"
+"h": "a5528a991e9cc6bb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/daycare.html": {
-"h": "3434aa756ff10925",
-"d": "2026-10-30"
+"h": "cf9eba5efe05ff75",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/enough-milk.html": {
-"h": "731f0c2b0ec31835",
-"d": "2026-10-30"
+"h": "3305ceb30426a888",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/fever.html": {
-"h": "44825610236df4d2",
-"d": "2026-10-30"
+"h": "52edd70e68a8e9ff",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/first-foods.html": {
-"h": "a229c73e043d7e5c",
-"d": "2026-10-30"
+"h": "019944e0fcdc689b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/foods-avoid.html": {
-"h": "2d3c138d2498455c",
-"d": "2026-10-30"
+"h": "6d9de85520c5b198",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/friends-bullying.html": {
+"h": "1e589809a8884fb0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/head-bump.html": {
-"h": "576035aa21632647",
-"d": "2026-10-30"
+"h": "2fda79003fb78e19",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/head-lice.html": {
+"h": "d9f14131d8b606b5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/home-safety.html": {
-"h": "f07f1bd55bfbe1a0",
-"d": "2026-10-30"
+"h": "eaba35c38f84ca8b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/homework.html": {
+"h": "0aa4280232a73e62",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/hospital-bag.html": {
-"h": "d61d78164b4be112",
-"d": "2026-10-30"
+"h": "60dd6e64902070e9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/jaundice.html": {
-"h": "7ed9ec26745dd8a4",
-"d": "2026-10-30"
+"h": "244ed54f2d25c4cc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/labour-signs.html": {
-"h": "7f54bda1e450e75f",
-"d": "2026-10-30"
+"h": "a33e54bcd982cb89",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/low-mood.html": {
-"h": "0a3fe066aa53e7bb",
-"d": "2026-10-30"
+"h": "ead5f4e5699c6c3c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/lunchbox.html": {
+"h": "6005dbe50ea773a3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/lying.html": {
+"h": "c34e0edd04c0f74d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/morning-sickness.html": {
-"h": "47fee55ddda7f14b",
-"d": "2026-10-30"
+"h": "ea444dd0e3e487e5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/movements.html": {
-"h": "5930fa25cac90868",
-"d": "2026-10-30"
+"h": "a377fbe7dc7df569",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/nappy-rash.html": {
-"h": "212534ec5346028e",
-"d": "2026-10-30"
+"h": "5d773bdd32b99131",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/online-safety.html": {
+"h": "1d9485f68f3ef6a8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/parent-anxiety.html": {
-"h": "e4eec02e603a0a75",
-"d": "2026-10-30"
+"h": "18be45a1128b6b5f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/parent-body.html": {
-"h": "374255c5bd1c28eb",
-"d": "2026-10-30"
+"h": "1e7df2f05c94edfc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/parent-couple.html": {
-"h": "ffc57678dea71e6b",
-"d": "2026-10-30"
+"h": "9fffd21b7a5c8584",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/parent-tired.html": {
-"h": "d9ba40b651a30123",
-"d": "2026-10-30"
+"h": "0693263181671b08",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/parent-work.html": {
-"h": "f674b6eee68ea3cc",
-"d": "2026-10-30"
+"h": "f4a7cb2d721944b8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/picky-eating.html": {
-"h": "33a770bb2073490d",
-"d": "2026-10-30"
+"h": "6222cc8edacdf5bb",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/pocket-money-guide.html": {
+"h": "74cf84b385594cce",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/potty.html": {
-"h": "932bb3cff435d2e8",
-"d": "2026-10-30"
+"h": "f864a0ce20446310",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/preg-exercise.html": {
-"h": "6c4a13cf4427de0f",
-"d": "2026-10-30"
+"h": "1489c4c1d5b24a7a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/preg-sleep.html": {
-"h": "c2250c1554637796",
-"d": "2026-10-30"
+"h": "25dba1372f2fea63",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/puberty.html": {
+"h": "bae68a238b0c96a9",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/reading.html": {
+"h": "3c1f7fcba86a1b98",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/safe-sleep.html": {
-"h": "2b0280b3167dec71",
-"d": "2026-10-30"
+"h": "0b84573627e52bb6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/screens-school.html": {
+"h": "f8aa4375de3639fd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/screens.html": {
-"h": "bfab62bd125fc878",
-"d": "2026-10-30"
+"h": "75e9d4432fcc44e1",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/sleep-school.html": {
+"h": "448b1c492a3fe75d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/spitting-up.html": {
-"h": "b087a6dd42a39db4",
-"d": "2026-10-30"
+"h": "1893b8f4458ee454",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/starting-school.html": {
+"h": "4ee3a8ca9ab02b20",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/sun-safety.html": {
-"h": "1a5d6b7633db9549",
-"d": "2026-10-30"
+"h": "e8f8effacb30c93d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/talking.html": {
-"h": "7ae5860aa2cd872e",
-"d": "2026-10-30"
+"h": "ae0927b3ee3cfa3c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/tantrums.html": {
-"h": "461bf5c6d266e0c9",
-"d": "2026-10-30"
+"h": "085e1132d0770427",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/teeth-care.html": {
-"h": "bd846c766e717088",
-"d": "2026-10-30"
+"h": "00feb7ef1aab2da4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/teething.html": {
-"h": "a2b0251a860daf7a",
-"d": "2026-10-30"
+"h": "36ad1dbed0f2808c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/guides/toddler-sleep.html": {
-"h": "1deb29381054d07a",
-"d": "2026-10-30"
+"h": "dc0b42d1c4b32c39",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/hr/guides/worries.html": {
+"h": "f6b91831e93c315d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/partners.html": {
-"h": "0d934e8dca54d83f",
-"d": "2026-10-30"
+"h": "b14e2a6953624a66",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/hr/privacy.html": {
 "h": "d752279c0df6455a",
@@ -1168,12 +1644,16 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/hr/terms.html": {
-"h": "021c33ca629d0f05",
-"d": "2026-10-30"
+"h": "888db1031c3b956f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/": {
-"h": "8766d1c64a7fb5f5",
-"d": "2026-10-30"
+"h": "ed4734b3dc2f5c11",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/blog.html": {
+"h": "48dc599aafb65658",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/blog/baby-cost-first-year.html": {
 "h": "33f55208289c4deb",
@@ -1195,6 +1675,10 @@
 "h": "6f8f411d0ab96ed4",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/it/blog/friendships-fall-outs-bullying.html": {
+"h": "3ae66b82f1afb8f9",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/it/blog/newborn-shopping-list.html": {
 "h": "10608a6476bd7aeb",
 "d": "2026-10-30"
@@ -1207,9 +1691,37 @@
 "h": "39535612a813ed12",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/it/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "3f68aec10afcd71a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "0525b23588216629",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/blog/school-age-anxiety-big-feelings.html": {
+"h": "7bbfa0a72ea920ef",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/blog/school-age-sleep-bedwetting.html": {
+"h": "8041e71b9c2e472f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/blog/screen-time-first-phone.html": {
+"h": "6e9f0b48b2e60a97",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/it/blog/sensory-play-by-age.html": {
 "h": "eb47fa5910ea3ed2",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/it/blog/siblings-fights-fair-rules.html": {
+"h": "bb53c1477ffcdd14",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/blog/starting-school-homework.html": {
+"h": "93c2faab83d722c7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/blog/toddler-and-newborn.html": {
 "h": "b2eefc6fdcf68f72",
@@ -1224,172 +1736,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/it/guides.html": {
-"h": "e0e65229b89ad6cf",
-"d": "2026-10-30"
+"h": "026810277e1050fc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/active.html": {
+"h": "59212e2fe86fdac6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/baby-poo.html": {
-"h": "f15b58adee6ddf41",
-"d": "2026-10-30"
+"h": "2c074942a7e060da",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/baby-sleep.html": {
-"h": "fca099c962c38d81",
-"d": "2026-10-30"
+"h": "a9820598733e130c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/bedwetting.html": {
+"h": "0c0a518ee598ca32",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/biting.html": {
-"h": "7dfab28df01e4199",
-"d": "2026-10-30"
+"h": "2bedb9b3bb4b0f71",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/choking.html": {
-"h": "deeb36107dc6fc33",
-"d": "2026-10-30"
+"h": "0e600d1ddcacb86d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/colds.html": {
-"h": "41dd5cf3b32b2f14",
-"d": "2026-10-30"
+"h": "c5450d2363b2bc37",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/constipation.html": {
-"h": "74770906402f10ce",
-"d": "2026-10-30"
+"h": "6233dee9968d8d8d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/crawling.html": {
-"h": "0b9fa4a67b921e58",
-"d": "2026-10-30"
+"h": "3fe072f7730381d8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/crying.html": {
-"h": "1a461de1fd93b817",
-"d": "2026-10-30"
+"h": "e8bb13b287aad269",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/daycare.html": {
-"h": "61c59aa816925719",
-"d": "2026-10-30"
+"h": "032ac4f3286cae66",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/enough-milk.html": {
-"h": "685ec4335f1bae78",
-"d": "2026-10-30"
+"h": "75ba8f815bb45327",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/fever.html": {
-"h": "c73209c722dc6726",
-"d": "2026-10-30"
+"h": "a7643af67677a9f5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/first-foods.html": {
-"h": "5fa68eefd3f4a64d",
-"d": "2026-10-30"
+"h": "76b5767c111bcae3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/foods-avoid.html": {
-"h": "0c8473e868796e07",
-"d": "2026-10-30"
+"h": "d85884ba8c0a735b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/friends-bullying.html": {
+"h": "21a29bf63fb9cec6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/head-bump.html": {
-"h": "650dd834c0f64ead",
-"d": "2026-10-30"
+"h": "dc736e3079ada493",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/head-lice.html": {
+"h": "02089c0ae60c6f4e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/home-safety.html": {
-"h": "011029790f70db6a",
-"d": "2026-10-30"
+"h": "8e4978f0be5ef000",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/homework.html": {
+"h": "d87a39d2e88eddd6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/hospital-bag.html": {
-"h": "96bbe1a09b49ebf5",
-"d": "2026-10-30"
+"h": "c307c6e59e559342",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/jaundice.html": {
-"h": "fe73d8e83faf6267",
-"d": "2026-10-30"
+"h": "0748b68448a04a53",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/labour-signs.html": {
-"h": "3fd7bb16fb34382d",
-"d": "2026-10-30"
+"h": "3041014dc58e7484",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/low-mood.html": {
-"h": "da8aa22d4776b93a",
-"d": "2026-10-30"
+"h": "5746bf0ae989364a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/lunchbox.html": {
+"h": "c5f8599664a7f79c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/lying.html": {
+"h": "ece50dc2a6274280",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/morning-sickness.html": {
-"h": "818a9f7a398ad2ce",
-"d": "2026-10-30"
+"h": "fb32d9ff631771b1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/movements.html": {
-"h": "bb570f0dce77be2a",
-"d": "2026-10-30"
+"h": "d1e1b88aa7f6d37a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/nappy-rash.html": {
-"h": "5c955661e6958c2f",
-"d": "2026-10-30"
+"h": "d297694d8529c277",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/online-safety.html": {
+"h": "308a17cf8211651a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/parent-anxiety.html": {
-"h": "916c8c6cdbc4e73e",
-"d": "2026-10-30"
+"h": "8d90426225509ab1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/parent-body.html": {
-"h": "ce989bbcf0089ac2",
-"d": "2026-10-30"
+"h": "8a11770167e1e2cb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/parent-couple.html": {
-"h": "8fc741770ac36f8e",
-"d": "2026-10-30"
+"h": "7de530aa2811db9e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/parent-tired.html": {
-"h": "a7ab70072414ef08",
-"d": "2026-10-30"
+"h": "c2439602a3af30ce",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/parent-work.html": {
-"h": "7534304aeecf73c0",
-"d": "2026-10-30"
+"h": "7118577bf5adceb6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/picky-eating.html": {
-"h": "a0e03f1836a1ee80",
-"d": "2026-10-30"
+"h": "4c412c034ca7c715",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/pocket-money-guide.html": {
+"h": "0f63b920040fffab",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/potty.html": {
-"h": "6eb9659decf8ac5c",
-"d": "2026-10-30"
+"h": "2b63418f4b51a299",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/preg-exercise.html": {
-"h": "71870935b865b6df",
-"d": "2026-10-30"
+"h": "229a246ff32f0894",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/preg-sleep.html": {
-"h": "294c68174b597d74",
-"d": "2026-10-30"
+"h": "a2ccae10ddaadaa9",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/puberty.html": {
+"h": "5494b3537beedafc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/reading.html": {
+"h": "7ec6e40ec47c5e92",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/safe-sleep.html": {
-"h": "0653e2447149d1cf",
-"d": "2026-10-30"
+"h": "4cf59004494a513d",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/screens-school.html": {
+"h": "bc55d502c081a9da",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/screens.html": {
-"h": "75dc8519b57829f4",
-"d": "2026-10-30"
+"h": "e846211f7258e54b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/sleep-school.html": {
+"h": "908620d997b1a112",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/spitting-up.html": {
-"h": "5d530c9b80b74dd7",
-"d": "2026-10-30"
+"h": "f188a2728f599b2f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/starting-school.html": {
+"h": "e5f6003daa944af9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/sun-safety.html": {
-"h": "d03829a8491a0ec0",
-"d": "2026-10-30"
+"h": "23946c8603ac09a9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/talking.html": {
-"h": "696a5b25fdcb70de",
-"d": "2026-10-30"
+"h": "daaefd05ffa988f5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/tantrums.html": {
-"h": "b7c9203846e85f7c",
-"d": "2026-10-30"
+"h": "d47988dea2a90a70",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/teeth-care.html": {
-"h": "ac4bb2c75ef05d07",
-"d": "2026-10-30"
+"h": "60ee44c6d76c7be8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/teething.html": {
-"h": "69ad3b1beeed72c7",
-"d": "2026-10-30"
+"h": "8c423765b782bbb7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/guides/toddler-sleep.html": {
-"h": "8d703ecd7d2f3062",
-"d": "2026-10-30"
+"h": "bd833fe70c2b3daf",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/it/guides/worries.html": {
+"h": "ed8aff6520a2ca37",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/partners.html": {
-"h": "ee524a34ba45ad04",
-"d": "2026-10-30"
+"h": "dd0edb467b6301c6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/it/privacy.html": {
 "h": "9201f31a74b352bb",
@@ -1404,12 +1976,16 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/it/terms.html": {
-"h": "0d2f4e058e821667",
-"d": "2026-10-30"
+"h": "d21eb0615528857d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/": {
-"h": "ab068783a4255836",
-"d": "2026-10-30"
+"h": "bcba46cb35e4c6f3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/blog.html": {
+"h": "fbf675d241903ca0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/blog/baby-cost-first-year.html": {
 "h": "ca650e00810e9103",
@@ -1431,6 +2007,10 @@
 "h": "951ece786a12ac48",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/nl/blog/friendships-fall-outs-bullying.html": {
+"h": "f3aad697e09b85d3",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/nl/blog/newborn-shopping-list.html": {
 "h": "994b7499db8c0048",
 "d": "2026-10-30"
@@ -1443,9 +2023,37 @@
 "h": "1fffdd9b1024b786",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/nl/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "0f7f8d2eca65fe0d",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "8308516a77375a9a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/blog/school-age-anxiety-big-feelings.html": {
+"h": "704b362a76112e68",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/blog/school-age-sleep-bedwetting.html": {
+"h": "3d97a318bfae317e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/blog/screen-time-first-phone.html": {
+"h": "066bf1b0d630d890",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/nl/blog/sensory-play-by-age.html": {
 "h": "35a2eac927be3c86",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/nl/blog/siblings-fights-fair-rules.html": {
+"h": "c6ba0bbe67a35fc4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/blog/starting-school-homework.html": {
+"h": "3084dac79069210c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/blog/toddler-and-newborn.html": {
 "h": "6aa56f0dd2d31a78",
@@ -1460,172 +2068,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/nl/guides.html": {
-"h": "6c590b0c83f0cd4d",
-"d": "2026-10-30"
+"h": "fc0a9775a4d6b808",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/active.html": {
+"h": "c308e1eba563fc67",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/baby-poo.html": {
-"h": "43169e1166816a14",
-"d": "2026-10-30"
+"h": "b4dff4e7d2255cde",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/baby-sleep.html": {
-"h": "f3120bf2be66658d",
-"d": "2026-10-30"
+"h": "9b21c229abfb1465",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/bedwetting.html": {
+"h": "228d963ec52182cb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/biting.html": {
-"h": "0a18c4896d042b25",
-"d": "2026-10-30"
+"h": "6d353d37d49dcfab",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/choking.html": {
-"h": "0203b0e76a0a2207",
-"d": "2026-10-30"
+"h": "3bfbdc9485d4d386",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/colds.html": {
-"h": "a68739460f092fe5",
-"d": "2026-10-30"
+"h": "d1385f4d173a5702",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/constipation.html": {
-"h": "6921ba86758334b4",
-"d": "2026-10-30"
+"h": "48881fa4da97433f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/crawling.html": {
-"h": "8eac5dce02b790f7",
-"d": "2026-10-30"
+"h": "3ad3399b3e6b4696",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/crying.html": {
-"h": "08acf014a5837db0",
-"d": "2026-10-30"
+"h": "f11b84f44f404f84",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/daycare.html": {
-"h": "dac8834ef8a6e895",
-"d": "2026-10-30"
+"h": "ce6165ed93b6ebf4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/enough-milk.html": {
-"h": "c788d77d3ff30d94",
-"d": "2026-10-30"
+"h": "d353051d6b19afa9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/fever.html": {
-"h": "c56d0bd0984eb223",
-"d": "2026-10-30"
+"h": "d06ffecec15c413f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/first-foods.html": {
-"h": "506bd286485f891f",
-"d": "2026-10-30"
+"h": "c420c89119af8bfe",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/foods-avoid.html": {
-"h": "57f9a0f373f54572",
-"d": "2026-10-30"
+"h": "a9da854a5b195436",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/friends-bullying.html": {
+"h": "4da1868b188eaae1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/head-bump.html": {
-"h": "957e7329644a7f5f",
-"d": "2026-10-30"
+"h": "93a739ae39ee66d5",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/head-lice.html": {
+"h": "8643207408070ab2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/home-safety.html": {
-"h": "0e3a315f3d8d8ecc",
-"d": "2026-10-30"
+"h": "70f3b73c4ad45672",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/homework.html": {
+"h": "b9ebed75bddcd10d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/hospital-bag.html": {
-"h": "1b4e27b9019f710f",
-"d": "2026-10-30"
+"h": "23004c2504eb1a3b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/jaundice.html": {
-"h": "e8e1ca23031dfb73",
-"d": "2026-10-30"
+"h": "2cc42e566c329345",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/labour-signs.html": {
-"h": "75560de74491c700",
-"d": "2026-10-30"
+"h": "65ee047a698af9c2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/low-mood.html": {
-"h": "0b9b22696648882c",
-"d": "2026-10-30"
+"h": "dcc8f873d97778f3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/lunchbox.html": {
+"h": "928b236b06b468ff",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/lying.html": {
+"h": "c85f1846066ed838",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/morning-sickness.html": {
-"h": "1d4e02e5055d156b",
-"d": "2026-10-30"
+"h": "1dda7dae8e8360b1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/movements.html": {
-"h": "9c5ce169f5db4f5f",
-"d": "2026-10-30"
+"h": "32750d65c149ccef",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/nappy-rash.html": {
-"h": "f18d449cec1c6144",
-"d": "2026-10-30"
+"h": "5c19261398f46f48",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/online-safety.html": {
+"h": "8dd4ef88f2e645e4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/parent-anxiety.html": {
-"h": "8227fb93e743fe54",
-"d": "2026-10-30"
+"h": "de3c9d6fb3e84ac1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/parent-body.html": {
-"h": "38607a685e770885",
-"d": "2026-10-30"
+"h": "ef1daa1808570447",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/parent-couple.html": {
-"h": "e9be30d202717d70",
-"d": "2026-10-30"
+"h": "e7ae02748173ff0d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/parent-tired.html": {
-"h": "cbada5d116728651",
-"d": "2026-10-30"
+"h": "ad2a811cb31706b4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/parent-work.html": {
-"h": "358098526b225f1a",
-"d": "2026-10-30"
+"h": "21d28d340578d337",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/picky-eating.html": {
-"h": "40fa317e718480db",
-"d": "2026-10-30"
+"h": "d3391d0bd9f7ec66",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/pocket-money-guide.html": {
+"h": "698b1e35a576aaa9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/potty.html": {
-"h": "02d56ce161fa7e61",
-"d": "2026-10-30"
+"h": "eb955c7928738129",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/preg-exercise.html": {
-"h": "0e279abeaeba365a",
-"d": "2026-10-30"
+"h": "82c61a208d9a2776",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/preg-sleep.html": {
-"h": "672e32bbd9edba9e",
-"d": "2026-10-30"
+"h": "717628481e89b917",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/puberty.html": {
+"h": "478969bd25366f4e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/reading.html": {
+"h": "16a324edfcc7addc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/safe-sleep.html": {
-"h": "ce5b7d5c8c9c8997",
-"d": "2026-10-30"
+"h": "8780d6edb6c35d89",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/screens-school.html": {
+"h": "a28c9570dc5d20c9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/screens.html": {
-"h": "b267a6de55720b2a",
-"d": "2026-10-30"
+"h": "827f82e4f30dac07",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/sleep-school.html": {
+"h": "b67a547e0a7be944",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/spitting-up.html": {
-"h": "95cb2bbe6c0d1b97",
-"d": "2026-10-30"
+"h": "167039d3f46370d9",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/starting-school.html": {
+"h": "1450d902f7b2c59e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/sun-safety.html": {
-"h": "8bc75fd7121405b0",
-"d": "2026-10-30"
+"h": "d624b0a73dda6311",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/talking.html": {
-"h": "82fccf8eea9666b9",
-"d": "2026-10-30"
+"h": "e2d64a2303d7bf01",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/tantrums.html": {
-"h": "9d56076212c6e17b",
-"d": "2026-10-30"
+"h": "5986dce326663257",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/teeth-care.html": {
-"h": "87e01256846a32f0",
-"d": "2026-10-30"
+"h": "711f615426f574e2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/teething.html": {
-"h": "4bcb53c0469be7ba",
-"d": "2026-10-30"
+"h": "4a1d3b36326b80ce",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/guides/toddler-sleep.html": {
-"h": "4d213ccfc3f5e924",
-"d": "2026-10-30"
+"h": "b0d2157444e38904",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/nl/guides/worries.html": {
+"h": "ab819497ecfa6025",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/partners.html": {
-"h": "9d600bef8cd42f4e",
-"d": "2026-10-30"
+"h": "bb8776fdbc3ae057",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/nl/privacy.html": {
 "h": "1fb1a9efc6a23dcd",
@@ -1640,20 +2308,24 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/nl/terms.html": {
-"h": "18005b86e8775662",
-"d": "2026-10-30"
+"h": "5bb30c27811d27bb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/order-complete.html": {
 "h": "af1850a2bbc6daec",
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/partners.html": {
-"h": "370ab7e54000714b",
-"d": "2026-10-30"
+"h": "689677075a1fcad0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/": {
-"h": "f276677d982f1764",
-"d": "2026-10-30"
+"h": "8120ffe501610d1d",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/blog.html": {
+"h": "36f7393ace3ac35d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/blog/baby-cost-first-year.html": {
 "h": "4ff310b852fe9e2f",
@@ -1675,6 +2347,10 @@
 "h": "acfde876b9fc02ff",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/pl/blog/friendships-fall-outs-bullying.html": {
+"h": "3d7f1a3eb33e8a5a",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/pl/blog/newborn-shopping-list.html": {
 "h": "dd18a9ba7bca8b91",
 "d": "2026-10-30"
@@ -1687,9 +2363,37 @@
 "h": "3376195b683dfcd6",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/pl/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "d70eb49271ac9ecf",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "2259d7b3333719f3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/blog/school-age-anxiety-big-feelings.html": {
+"h": "fbd4cb74b2219342",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/blog/school-age-sleep-bedwetting.html": {
+"h": "784336d828391df4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/blog/screen-time-first-phone.html": {
+"h": "9595b618bf8545e2",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/pl/blog/sensory-play-by-age.html": {
 "h": "1a9e207e8a284b21",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/pl/blog/siblings-fights-fair-rules.html": {
+"h": "156f63d92c4341dd",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/blog/starting-school-homework.html": {
+"h": "69e6050db448cd2b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/blog/toddler-and-newborn.html": {
 "h": "e43858dfd2c78a97",
@@ -1704,172 +2408,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/pl/guides.html": {
-"h": "97879180348b59c7",
-"d": "2026-10-30"
+"h": "c7b37982754c2499",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/active.html": {
+"h": "f932093e8b433943",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/baby-poo.html": {
-"h": "7ae7ae35a8bc6c12",
-"d": "2026-10-30"
+"h": "9a7054cdec3a7eba",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/baby-sleep.html": {
-"h": "6b2b4f3f8a5fe426",
-"d": "2026-10-30"
+"h": "094c8918225ac192",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/bedwetting.html": {
+"h": "daca115070fcde48",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/biting.html": {
-"h": "020c8622f4a72c28",
-"d": "2026-10-30"
+"h": "5d9d1ac9cccb3367",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/choking.html": {
-"h": "2eb23b86b02e1180",
-"d": "2026-10-30"
+"h": "f9589df84b20b7ce",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/colds.html": {
-"h": "5c0440ac3ebe39ac",
-"d": "2026-10-30"
+"h": "34e44fa0c1e8dc7e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/constipation.html": {
-"h": "8b5cb7551e5528a2",
-"d": "2026-10-30"
+"h": "7c83fe718f7cb479",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/crawling.html": {
-"h": "5196edb532e35edf",
-"d": "2026-10-30"
+"h": "8aea0002f02b660c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/crying.html": {
-"h": "a59235b1f5bbf191",
-"d": "2026-10-30"
+"h": "f26cf52cbcda9ec4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/daycare.html": {
-"h": "cfafc4c2e991a996",
-"d": "2026-10-30"
+"h": "c0dbfb87981279a8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/enough-milk.html": {
-"h": "e8ac6d6956a9c000",
-"d": "2026-10-30"
+"h": "c3605875675d3b30",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/fever.html": {
-"h": "fb81b8f0c9ee58b0",
-"d": "2026-10-30"
+"h": "e1ba57cbec81734a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/first-foods.html": {
-"h": "c5477c4f267fa77c",
-"d": "2026-10-30"
+"h": "138c7717978ed5cc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/foods-avoid.html": {
-"h": "910f35c1a9adc961",
-"d": "2026-10-30"
+"h": "f2088d594f7545c3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/friends-bullying.html": {
+"h": "b198847ca6cbdd10",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/head-bump.html": {
-"h": "58021f1083c808a4",
-"d": "2026-10-30"
+"h": "41f312293e912dce",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/head-lice.html": {
+"h": "8c4e0e5bfad699ee",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/home-safety.html": {
-"h": "22dd66cb4a20304b",
-"d": "2026-10-30"
+"h": "9519bdd70d69ee5a",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/homework.html": {
+"h": "dc68d5f697d97e02",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/hospital-bag.html": {
-"h": "37f2e3f475373156",
-"d": "2026-10-30"
+"h": "45bbb0169e6f3819",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/jaundice.html": {
-"h": "1059c598d9e73f6e",
-"d": "2026-10-30"
+"h": "b8fe3a12ee80cd58",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/labour-signs.html": {
-"h": "2140a331df235725",
-"d": "2026-10-30"
+"h": "bf09daa5909e9951",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/low-mood.html": {
-"h": "fd90103ac730ca41",
-"d": "2026-10-30"
+"h": "2fc91194882ebfa4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/lunchbox.html": {
+"h": "4ebbb95aeb319dfe",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/lying.html": {
+"h": "9a14e1866159eca8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/morning-sickness.html": {
-"h": "e3373175e9b2aeeb",
-"d": "2026-10-30"
+"h": "71c6cd1072290878",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/movements.html": {
-"h": "21acecd75d7ae765",
-"d": "2026-10-30"
+"h": "5646ea1e504176d5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/nappy-rash.html": {
-"h": "389e89e91c071366",
-"d": "2026-10-30"
+"h": "6019cb5c5fe9eafd",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/online-safety.html": {
+"h": "c7a08f558ccc7316",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/parent-anxiety.html": {
-"h": "084ac179759f3acb",
-"d": "2026-10-30"
+"h": "bfa2804db4e3055c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/parent-body.html": {
-"h": "212aef286813d716",
-"d": "2026-10-30"
+"h": "d21f9f0cd50333fe",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/parent-couple.html": {
-"h": "bd43a32755d1120d",
-"d": "2026-10-30"
+"h": "723a63ba5368e0a3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/parent-tired.html": {
-"h": "1073eb7c132af549",
-"d": "2026-10-30"
+"h": "3a65a6a0c29b1e42",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/parent-work.html": {
-"h": "f201d230b9eb894c",
-"d": "2026-10-30"
+"h": "37e2208ca48bfe4a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/picky-eating.html": {
-"h": "f1f96906e2127388",
-"d": "2026-10-30"
+"h": "92af3aa3ff5bdf17",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/pocket-money-guide.html": {
+"h": "0dd0713ab46ffe2a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/potty.html": {
-"h": "9ab59f8b1f7aac57",
-"d": "2026-10-30"
+"h": "0af6b5a2f9d45634",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/preg-exercise.html": {
-"h": "8e7bbb1af5a139c6",
-"d": "2026-10-30"
+"h": "6909f30dcf734f7e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/preg-sleep.html": {
-"h": "c10dd02b66f7c1ac",
-"d": "2026-10-30"
+"h": "59c33a206b8e4a08",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/puberty.html": {
+"h": "5f4c17886682496b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/reading.html": {
+"h": "dac3d6499ad017be",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/safe-sleep.html": {
-"h": "38709a622ddabb6c",
-"d": "2026-10-30"
+"h": "1dc1e1788c736306",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/screens-school.html": {
+"h": "f5313f11da17372b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/screens.html": {
-"h": "1de4078ff242bfad",
-"d": "2026-10-30"
+"h": "cb3b539bca2ec482",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/sleep-school.html": {
+"h": "2d0204fdb735d9ef",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/spitting-up.html": {
-"h": "b97d89913d42935f",
-"d": "2026-10-30"
+"h": "a707422b2abcf30c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/starting-school.html": {
+"h": "37dadadd65048051",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/sun-safety.html": {
-"h": "aa4cc7930c1e09cb",
-"d": "2026-10-30"
+"h": "2e755b10118d71b5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/talking.html": {
-"h": "6abcf6f39d04c767",
-"d": "2026-10-30"
+"h": "5c7e09648344bbc4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/tantrums.html": {
-"h": "b87cc3c1b3561f95",
-"d": "2026-10-30"
+"h": "bd90c4904fc8207e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/teeth-care.html": {
-"h": "4d32fbd88eb179af",
-"d": "2026-10-30"
+"h": "2c1c2e415171af74",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/teething.html": {
-"h": "9fc599c2821da6ac",
-"d": "2026-10-30"
+"h": "94732fe0a6ef201c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/guides/toddler-sleep.html": {
-"h": "d1f5e06d0bdf1cb5",
-"d": "2026-10-30"
+"h": "5c4f27f9e39f87e5",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pl/guides/worries.html": {
+"h": "4340d539eed20da7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/partners.html": {
-"h": "e8d3c449136c0775",
-"d": "2026-10-30"
+"h": "b514edfcc83d711e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pl/privacy.html": {
 "h": "0ab35f127769b65d",
@@ -1884,8 +2648,8 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/pl/terms.html": {
-"h": "905423ed11a24ee6",
-"d": "2026-10-30"
+"h": "542932bd39ffc338",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/privacy.html": {
 "h": "c30c300235e50c4f",
@@ -1896,8 +2660,12 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/pt/": {
-"h": "2806835fa7b173fb",
-"d": "2026-10-30"
+"h": "dc60ebf35e4d41f8",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/blog.html": {
+"h": "862ea4402f2c9de5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/blog/baby-cost-first-year.html": {
 "h": "c7125125780fb79b",
@@ -1919,6 +2687,10 @@
 "h": "e13ed9a79d1130a7",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/pt/blog/friendships-fall-outs-bullying.html": {
+"h": "db28a0603580ee52",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/pt/blog/newborn-shopping-list.html": {
 "h": "7d67bac26a153453",
 "d": "2026-10-30"
@@ -1931,9 +2703,37 @@
 "h": "9002b691f9fef837",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/pt/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "d881df0f6557e19b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "c4db8902b0483e79",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/blog/school-age-anxiety-big-feelings.html": {
+"h": "119eff4e90128cfb",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/blog/school-age-sleep-bedwetting.html": {
+"h": "67957e61c06f72e2",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/blog/screen-time-first-phone.html": {
+"h": "7e549fbfdcc1720b",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/pt/blog/sensory-play-by-age.html": {
 "h": "ac95e3b098e60443",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/pt/blog/siblings-fights-fair-rules.html": {
+"h": "980a8b0d56e552f4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/blog/starting-school-homework.html": {
+"h": "0f997e54ff128838",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/blog/toddler-and-newborn.html": {
 "h": "cb71bf2555d2c400",
@@ -1948,172 +2748,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/pt/guides.html": {
-"h": "49e464644d2af957",
-"d": "2026-10-30"
+"h": "588dd0e3c4a0cdaa",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/active.html": {
+"h": "731ea9f6c4caf48b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/baby-poo.html": {
-"h": "4492ba251ea09109",
-"d": "2026-10-30"
+"h": "ade6e436be33aa91",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/baby-sleep.html": {
-"h": "672ce27919a7349c",
-"d": "2026-10-30"
+"h": "1067b1bafc92620d",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/bedwetting.html": {
+"h": "79d6fedd9e74ed30",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/biting.html": {
-"h": "1de796d5650237a3",
-"d": "2026-10-30"
+"h": "fc1159a2df65d515",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/choking.html": {
-"h": "2b4b2cdc74862755",
-"d": "2026-10-30"
+"h": "0831a9d68d2a7401",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/colds.html": {
-"h": "a475c01cab5639b1",
-"d": "2026-10-30"
+"h": "c24daeb9de71e1e0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/constipation.html": {
-"h": "38262f504be176fa",
-"d": "2026-10-30"
+"h": "e09d5be904d16c47",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/crawling.html": {
-"h": "dc7407ea97b9bddd",
-"d": "2026-10-30"
+"h": "8a8d72da0b438666",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/crying.html": {
-"h": "be9f97f0d63d0dca",
-"d": "2026-10-30"
+"h": "d7aa8c69782b7e28",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/daycare.html": {
-"h": "e1e0c4ae2162278c",
-"d": "2026-10-30"
+"h": "1d50d867a2139257",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/enough-milk.html": {
-"h": "836e33b985ed8af8",
-"d": "2026-10-30"
+"h": "72e600f15d71a13f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/fever.html": {
-"h": "44d64d8d237c975f",
-"d": "2026-10-30"
+"h": "6a5f453768b33a0f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/first-foods.html": {
-"h": "86526c46d2b90799",
-"d": "2026-10-30"
+"h": "eb04bb57d34dc1b0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/foods-avoid.html": {
-"h": "0af7bce81e6f9cd9",
-"d": "2026-10-30"
+"h": "78a62f139035d225",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/friends-bullying.html": {
+"h": "0c43bddc31a8199f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/head-bump.html": {
-"h": "e72a50629f49ca12",
-"d": "2026-10-30"
+"h": "a8f33c255e618e40",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/head-lice.html": {
+"h": "e531a60c4db27874",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/home-safety.html": {
-"h": "5eca3c8ab83de761",
-"d": "2026-10-30"
+"h": "b7c5065488846def",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/homework.html": {
+"h": "c46b2a82cf949461",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/hospital-bag.html": {
-"h": "ac4b0c7caf6405db",
-"d": "2026-10-30"
+"h": "4bd228379326e845",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/jaundice.html": {
-"h": "e03b56283eaef646",
-"d": "2026-10-30"
+"h": "9b34c2e3ed384f66",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/labour-signs.html": {
-"h": "ceff440174187b90",
-"d": "2026-10-30"
+"h": "b555d8ef9de478a4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/low-mood.html": {
-"h": "d9ad1e8b71f02715",
-"d": "2026-10-30"
+"h": "09db9a424ed2a6b4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/lunchbox.html": {
+"h": "7423735c13d5bfcf",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/lying.html": {
+"h": "33d906e8ff830b44",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/morning-sickness.html": {
-"h": "33ef021975c12657",
-"d": "2026-10-30"
+"h": "d7103b391c61725c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/movements.html": {
-"h": "a79ffa2d8afd63a2",
-"d": "2026-10-30"
+"h": "48480f8cf7bc7784",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/nappy-rash.html": {
-"h": "7496e30b14ef016d",
-"d": "2026-10-30"
+"h": "ccecd15ddbce3440",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/online-safety.html": {
+"h": "2c7248f51d3382d0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/parent-anxiety.html": {
-"h": "1c6ab828fb5f9b51",
-"d": "2026-10-30"
+"h": "bfc297aeb29162ed",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/parent-body.html": {
-"h": "6082088695a59271",
-"d": "2026-10-30"
+"h": "d1caaf4faab0e52c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/parent-couple.html": {
-"h": "6f543a2457012ca9",
-"d": "2026-10-30"
+"h": "abc50134c39a74e5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/parent-tired.html": {
-"h": "e4869b24322f3b63",
-"d": "2026-10-30"
+"h": "9fbbc9d2943e59f6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/parent-work.html": {
-"h": "c776efa5c761cfcf",
-"d": "2026-10-30"
+"h": "850f789a08e6103e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/picky-eating.html": {
-"h": "ed696054fe2fcd8b",
-"d": "2026-10-30"
+"h": "562da253f237baa7",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/pocket-money-guide.html": {
+"h": "217fe95dffd202d5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/potty.html": {
-"h": "8cc2f983723db9f9",
-"d": "2026-10-30"
+"h": "5e2e3483fc623fa4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/preg-exercise.html": {
-"h": "775768ffac75ff8f",
-"d": "2026-10-30"
+"h": "c6090519d0f5adb2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/preg-sleep.html": {
-"h": "a37f64c57968d0a3",
-"d": "2026-10-30"
+"h": "6983e20c1b3d2a13",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/puberty.html": {
+"h": "4a7e714143baedbd",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/reading.html": {
+"h": "855f3baceb077a1f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/safe-sleep.html": {
-"h": "0b64ee46f2343b87",
-"d": "2026-10-30"
+"h": "dce1913cbd20e7a8",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/screens-school.html": {
+"h": "ab8107318830a5b2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/screens.html": {
-"h": "7c210a3b015250a7",
-"d": "2026-10-30"
+"h": "526f7e31b1518eb6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/sleep-school.html": {
+"h": "2c5b16488e545c3c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/spitting-up.html": {
-"h": "a9d1d167c25b1c0c",
-"d": "2026-10-30"
+"h": "36e4ff6870de69c6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/starting-school.html": {
+"h": "227680b2a06485a8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/sun-safety.html": {
-"h": "729cb1d9b07c7966",
-"d": "2026-10-30"
+"h": "e7fd94f113dd2ceb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/talking.html": {
-"h": "d622a7c0e247fe65",
-"d": "2026-10-30"
+"h": "5e32896b0ea47366",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/tantrums.html": {
-"h": "6d622e213ac9b3bc",
-"d": "2026-10-30"
+"h": "a2d8dfffccd27598",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/teeth-care.html": {
-"h": "4ed4fb2f0eb1afed",
-"d": "2026-10-30"
+"h": "bca093e5d9ef6939",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/teething.html": {
-"h": "6f4c53189f79fe5c",
-"d": "2026-10-30"
+"h": "8a8cbe415b03b34d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/guides/toddler-sleep.html": {
-"h": "d265db69047eeb38",
-"d": "2026-10-30"
+"h": "f18ca95f253cea68",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/pt/guides/worries.html": {
+"h": "a961280a6bafd1b2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/partners.html": {
-"h": "dd116162e8a5a07b",
-"d": "2026-10-30"
+"h": "50f1c9724762a7da",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/pt/privacy.html": {
 "h": "69805529cae4b36b",
@@ -2128,12 +2988,16 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/pt/terms.html": {
-"h": "68c83ed9e6a06c0e",
-"d": "2026-10-30"
+"h": "7ba3bf39f60645dd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/": {
-"h": "e6222bdd9fb1e3da",
-"d": "2026-10-30"
+"h": "0bdaed4a900ce6da",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/blog.html": {
+"h": "c5ba4858203c0bdb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/blog/baby-cost-first-year.html": {
 "h": "ab852f89a43d3be7",
@@ -2155,6 +3019,10 @@
 "h": "5c965fc082c7b32b",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/ro/blog/friendships-fall-outs-bullying.html": {
+"h": "9f130758fad54970",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/ro/blog/newborn-shopping-list.html": {
 "h": "5c0d6a11b57fa295",
 "d": "2026-10-30"
@@ -2167,9 +3035,37 @@
 "h": "b50523f0661a9dba",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/ro/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "7ceff3c0d617231f",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "f187d4a6d1738620",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/blog/school-age-anxiety-big-feelings.html": {
+"h": "1d557700f3d64eb5",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/blog/school-age-sleep-bedwetting.html": {
+"h": "ab755e50ba6c7ce6",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/blog/screen-time-first-phone.html": {
+"h": "a605bab7da98ad11",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/ro/blog/sensory-play-by-age.html": {
 "h": "5f0767683202b7f8",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/ro/blog/siblings-fights-fair-rules.html": {
+"h": "fd0321093f068637",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/blog/starting-school-homework.html": {
+"h": "83df96df74f279d4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/blog/toddler-and-newborn.html": {
 "h": "a1b03d1f8ad5dfce",
@@ -2184,172 +3080,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/ro/guides.html": {
-"h": "0a6a10ffcef15676",
-"d": "2026-10-30"
+"h": "3a155e29459b334e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/active.html": {
+"h": "68ac932edd8c7429",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/baby-poo.html": {
-"h": "8b329d9612cb7c58",
-"d": "2026-10-30"
+"h": "1d0de51d8cc76368",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/baby-sleep.html": {
-"h": "ed3f2493b94dc514",
-"d": "2026-10-30"
+"h": "d860a5827426ec2c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/bedwetting.html": {
+"h": "582b3d87e4b8512e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/biting.html": {
-"h": "2540b6d938acd90f",
-"d": "2026-10-30"
+"h": "af775a7ba6e750d5",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/choking.html": {
-"h": "203b24c2619541e7",
-"d": "2026-10-30"
+"h": "a6b41136bb55010b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/colds.html": {
-"h": "37fc90e73c1bba04",
-"d": "2026-10-30"
+"h": "9668c6c0642cd7fc",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/constipation.html": {
-"h": "250169df83d6bd2b",
-"d": "2026-10-30"
+"h": "c905ca4b91c3f5be",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/crawling.html": {
-"h": "da74b83342863c07",
-"d": "2026-10-30"
+"h": "a54d140d1e376fba",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/crying.html": {
-"h": "528df25549b88bad",
-"d": "2026-10-30"
+"h": "b007cb38944e36c0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/daycare.html": {
-"h": "99fc3dd21915e384",
-"d": "2026-10-30"
+"h": "d02b1743574fbb47",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/enough-milk.html": {
-"h": "06817facff8686b2",
-"d": "2026-10-30"
+"h": "266d9e3adbab6ca9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/fever.html": {
-"h": "bb3bed3f4d016ee5",
-"d": "2026-10-30"
+"h": "9cc9c91c4cdfba3a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/first-foods.html": {
-"h": "9ffaa53515c35bb3",
-"d": "2026-10-30"
+"h": "96859e7d3967de22",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/foods-avoid.html": {
-"h": "f88f51ea3edeff92",
-"d": "2026-10-30"
+"h": "7e74054e167a0fd1",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/friends-bullying.html": {
+"h": "2f71dc4c506baccf",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/head-bump.html": {
-"h": "9da0b75e85c9cb64",
-"d": "2026-10-30"
+"h": "ea5854918ba5f57b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/head-lice.html": {
+"h": "5a03796ac92c134f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/home-safety.html": {
-"h": "74f2c93c73703ea9",
-"d": "2026-10-30"
+"h": "74391593e83ecbd3",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/homework.html": {
+"h": "8f64b884127be32e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/hospital-bag.html": {
-"h": "d56c1bcb9a23491b",
-"d": "2026-10-30"
+"h": "f16802f59eece984",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/jaundice.html": {
-"h": "82e961c798244511",
-"d": "2026-10-30"
+"h": "f7574bd2d0fe8b17",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/labour-signs.html": {
-"h": "f233ce4d0cbe6054",
-"d": "2026-10-30"
+"h": "8c280b3ba27f1302",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/low-mood.html": {
-"h": "ddf1a501deecdb45",
-"d": "2026-10-30"
+"h": "cf452bd1bc908559",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/lunchbox.html": {
+"h": "01c6c7a0eb4121e5",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/lying.html": {
+"h": "827faf2c4277f47f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/morning-sickness.html": {
-"h": "bf0d7e428b185498",
-"d": "2026-10-30"
+"h": "cf37384fd4fc73a6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/movements.html": {
-"h": "00bed55d1958ae37",
-"d": "2026-10-30"
+"h": "88882d2a30c73633",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/nappy-rash.html": {
-"h": "4cb5f1ce5448aa88",
-"d": "2026-10-30"
+"h": "4b622cf0e7f9af59",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/online-safety.html": {
+"h": "22d51f9de5bd4147",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/parent-anxiety.html": {
-"h": "a0aa4053b4eb8036",
-"d": "2026-10-30"
+"h": "cf54ad129d7298a1",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/parent-body.html": {
-"h": "fdb8ff4692ad633e",
-"d": "2026-10-30"
+"h": "54352022898bd7db",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/parent-couple.html": {
-"h": "4e913e6748be00fa",
-"d": "2026-10-30"
+"h": "1877d50c4f3cebb4",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/parent-tired.html": {
-"h": "d29ec094c97cbb26",
-"d": "2026-10-30"
+"h": "a981dbf01b16249a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/parent-work.html": {
-"h": "e1b2ceebe6265125",
-"d": "2026-10-30"
+"h": "f2efd6252e7dfdf2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/picky-eating.html": {
-"h": "ee4837158d6da7ec",
-"d": "2026-10-30"
+"h": "aedf531974d485ee",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/pocket-money-guide.html": {
+"h": "fab7b8a74f4a5a9b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/potty.html": {
-"h": "d9928ba5a96a321b",
-"d": "2026-10-30"
+"h": "22036cee78473bcd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/preg-exercise.html": {
-"h": "d9b149face3fcfb8",
-"d": "2026-10-30"
+"h": "0d4bb3df55ebfefb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/preg-sleep.html": {
-"h": "280ef098d7fed1c2",
-"d": "2026-10-30"
+"h": "3440dd59df9c9781",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/puberty.html": {
+"h": "d2a06da413ebc774",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/reading.html": {
+"h": "ea2704c0089c219a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/safe-sleep.html": {
-"h": "5570dbb0e58800e1",
-"d": "2026-10-30"
+"h": "acb39249b3725b3b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/screens-school.html": {
+"h": "d0d4ad4479ef3061",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/screens.html": {
-"h": "17ff2af61b89230a",
-"d": "2026-10-30"
+"h": "f30ff7c9a6ba412b",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/sleep-school.html": {
+"h": "0d43ff060629db1c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/spitting-up.html": {
-"h": "e611e3057e1d724c",
-"d": "2026-10-30"
+"h": "61b226fc818a3afd",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/starting-school.html": {
+"h": "91586fd69310b1bf",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/sun-safety.html": {
-"h": "e68af697a0902f28",
-"d": "2026-10-30"
+"h": "d1d0ccc6e812ff01",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/talking.html": {
-"h": "fff185ab8e3c8253",
-"d": "2026-10-30"
+"h": "17d981b2a223acd2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/tantrums.html": {
-"h": "a518aa7fcbc5a18c",
-"d": "2026-10-30"
+"h": "6f40664211e68b60",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/teeth-care.html": {
-"h": "31bd4aa9ad8d186e",
-"d": "2026-10-30"
+"h": "4ab53448234644d3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/teething.html": {
-"h": "6598607b0083fe60",
-"d": "2026-10-30"
+"h": "3a491689ae61ad2a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/guides/toddler-sleep.html": {
-"h": "d50a876a19062678",
-"d": "2026-10-30"
+"h": "59824de055bf9702",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/ro/guides/worries.html": {
+"h": "9c99995d1f470e6b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/partners.html": {
-"h": "1c7f3f5a02557065",
-"d": "2026-10-30"
+"h": "bd7eaf96585536ce",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/ro/privacy.html": {
 "h": "d3db7a115f796acc",
@@ -2364,16 +3320,20 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/ro/terms.html": {
-"h": "0a37d0cea178c849",
-"d": "2026-10-30"
+"h": "eb729b1616d891a3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/shop.html": {
 "h": "06bf6d09315e282d",
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/sl/": {
-"h": "6efe8c8156d0e6fe",
-"d": "2026-10-30"
+"h": "cd0fec8017dd2a77",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/blog.html": {
+"h": "cbdc6445c96deced",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/blog/baby-cost-first-year.html": {
 "h": "368376a4d353e5d8",
@@ -2395,6 +3355,10 @@
 "h": "785d7932235e718e",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/sl/blog/friendships-fall-outs-bullying.html": {
+"h": "d24c3fe551c00b73",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/sl/blog/newborn-shopping-list.html": {
 "h": "f878ecaeda348a29",
 "d": "2026-10-30"
@@ -2407,9 +3371,37 @@
 "h": "bf40d20c0d28481c",
 "d": "2026-10-30"
 },
+"https://hoppoapp.com/sl/blog/picky-eating-lunchbox-family-meals.html": {
+"h": "d8e0b00009b1be85",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/blog/puberty-body-talk-ages-8-to-10.html": {
+"h": "ed5835c8280725dc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/blog/school-age-anxiety-big-feelings.html": {
+"h": "6f69d6b266544611",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/blog/school-age-sleep-bedwetting.html": {
+"h": "9d1af3a0e65fe8e1",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/blog/screen-time-first-phone.html": {
+"h": "6503b6f3bad4b7d3",
+"d": "2026-11-01"
+},
 "https://hoppoapp.com/sl/blog/sensory-play-by-age.html": {
 "h": "094f2e5e244e70f7",
 "d": "2026-10-30"
+},
+"https://hoppoapp.com/sl/blog/siblings-fights-fair-rules.html": {
+"h": "cbf569a419188b1e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/blog/starting-school-homework.html": {
+"h": "84fc1dd11dc2f0ba",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/blog/toddler-and-newborn.html": {
 "h": "997b9f8bddc53a4e",
@@ -2424,172 +3416,232 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/sl/guides.html": {
-"h": "9048ccdfe6d604d7",
-"d": "2026-10-30"
+"h": "4dc86c2748cffdfc",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/active.html": {
+"h": "1f9e33d76fa1bbcb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/baby-poo.html": {
-"h": "f584d925003a4e90",
-"d": "2026-10-30"
+"h": "5d4e19bc32a22a60",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/baby-sleep.html": {
-"h": "b2a3e7df32e0ca3b",
-"d": "2026-10-30"
+"h": "3fde5feb8d7a49bf",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/bedwetting.html": {
+"h": "a83eaa2c61c23e39",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/biting.html": {
-"h": "9c993c6c51676d03",
-"d": "2026-10-30"
+"h": "bbc0e3453ed7ee79",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/choking.html": {
-"h": "9dbfd55c0898fc82",
-"d": "2026-10-30"
+"h": "b8b82f875f0ca41d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/colds.html": {
-"h": "04dcc42e2fa53d43",
-"d": "2026-10-30"
+"h": "514cf46b5d34ad84",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/constipation.html": {
-"h": "3ee6b051c702fd6b",
-"d": "2026-10-30"
+"h": "e8c0992cd8b84697",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/crawling.html": {
-"h": "dd83da587108110b",
-"d": "2026-10-30"
+"h": "93e823241c2a649a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/crying.html": {
-"h": "4a8777a7d6c8c788",
-"d": "2026-10-30"
+"h": "c51d6133653602d0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/daycare.html": {
-"h": "2a39a2cbaae96bd5",
-"d": "2026-10-30"
+"h": "737f17475f8b1262",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/enough-milk.html": {
-"h": "6d12583bc21fe4b5",
-"d": "2026-10-30"
+"h": "c9b8bf506c8af7cf",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/fever.html": {
-"h": "1e5e6ee037192919",
-"d": "2026-10-30"
+"h": "11b777a4d4ec9ecb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/first-foods.html": {
-"h": "43ce8edd8673bfdd",
-"d": "2026-10-30"
+"h": "5ecfa62fba5e35d3",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/foods-avoid.html": {
-"h": "b86250db4c15d0db",
-"d": "2026-10-30"
+"h": "e270f03e299d8126",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/friends-bullying.html": {
+"h": "e21a9f099fb6a74e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/head-bump.html": {
-"h": "3bdb9441f6a478e9",
-"d": "2026-10-30"
+"h": "6b24b62df3e7c03c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/head-lice.html": {
+"h": "0fee2a66e119706d",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/home-safety.html": {
-"h": "2747f5cf00ca5ac8",
-"d": "2026-10-30"
+"h": "850c1590c0f2d8fa",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/homework.html": {
+"h": "3755e50eda1e0d24",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/hospital-bag.html": {
-"h": "2ab34a1e680b6261",
-"d": "2026-10-30"
+"h": "53b43789c1854998",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/jaundice.html": {
-"h": "1f97e52adac4ad56",
-"d": "2026-10-30"
+"h": "f0c091943cd01fcb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/labour-signs.html": {
-"h": "a1d9160754a39767",
-"d": "2026-10-30"
+"h": "571d56bd8d8163d9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/low-mood.html": {
-"h": "c87f5c2b4e2d3812",
-"d": "2026-10-30"
+"h": "08d0697d838c9c9c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/lunchbox.html": {
+"h": "512e157ce8dec421",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/lying.html": {
+"h": "1569abcfdd99df4e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/morning-sickness.html": {
-"h": "08a4ab22c204513e",
-"d": "2026-10-30"
+"h": "54ee2592ab637421",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/movements.html": {
-"h": "16770519c501d907",
-"d": "2026-10-30"
+"h": "f1dd4b81801ad537",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/nappy-rash.html": {
-"h": "fb565dfdd3e55442",
-"d": "2026-10-30"
+"h": "a1dc4d917f5b75c1",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/online-safety.html": {
+"h": "7f4bd11b1a67fec6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/parent-anxiety.html": {
-"h": "5907473ddeeb850f",
-"d": "2026-10-30"
+"h": "08e56f8a897af1d7",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/parent-body.html": {
-"h": "c64dd2b2ab3b7fe4",
-"d": "2026-10-30"
+"h": "fe8bd5949861447f",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/parent-couple.html": {
-"h": "cd4e2b82c1bf9a8b",
-"d": "2026-10-30"
+"h": "4ba23147b2b5ab7b",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/parent-tired.html": {
-"h": "af6559d17d8d4467",
-"d": "2026-10-30"
+"h": "bf130852751bd36c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/parent-work.html": {
-"h": "b4c10f4f981aa824",
-"d": "2026-10-30"
+"h": "3e7853983cb6ebb0",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/picky-eating.html": {
-"h": "9d3d9f7769e3d346",
-"d": "2026-10-30"
+"h": "d611e47fa713dac4",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/pocket-money-guide.html": {
+"h": "6a6a2b6ef88ba751",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/potty.html": {
-"h": "3b1719eed80b8550",
-"d": "2026-10-30"
+"h": "0271c49df943cafb",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/preg-exercise.html": {
-"h": "7c7ab04d4f2cd642",
-"d": "2026-10-30"
+"h": "28ec9e885ae5d00e",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/preg-sleep.html": {
-"h": "2333064f47081e6e",
-"d": "2026-10-30"
+"h": "b39b32ed089c257e",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/puberty.html": {
+"h": "c3bff7323ed4939c",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/reading.html": {
+"h": "c03697d0a07b9ca6",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/safe-sleep.html": {
-"h": "e0ff7d6b1ef0a3f5",
-"d": "2026-10-30"
+"h": "97646c9c87467a50",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/screens-school.html": {
+"h": "1f07033b020919d2",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/screens.html": {
-"h": "d40bd15ea5f085d3",
-"d": "2026-10-30"
+"h": "21cbe8b50056d337",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/sleep-school.html": {
+"h": "0000fe9c5ec7b44c",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/spitting-up.html": {
-"h": "1324cf0098df955b",
-"d": "2026-10-30"
+"h": "802c4a25060b06a2",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/starting-school.html": {
+"h": "a2306884661e3374",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/sun-safety.html": {
-"h": "9f5c171911b7edf7",
-"d": "2026-10-30"
+"h": "e5e1e3d0cbb696dd",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/talking.html": {
-"h": "83c7950c91e5cae8",
-"d": "2026-10-30"
+"h": "871f90b4aa7c513a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/tantrums.html": {
-"h": "927bb14f8485e880",
-"d": "2026-10-30"
+"h": "17b9d85ba7b5bcf8",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/teeth-care.html": {
-"h": "6b87b9986a9382e6",
-"d": "2026-10-30"
+"h": "40c53b2ab0e943c9",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/teething.html": {
-"h": "18062d49eb737a66",
-"d": "2026-10-30"
+"h": "3c4c498354790d1a",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/guides/toddler-sleep.html": {
-"h": "6cf3ec15e5a18db7",
-"d": "2026-10-30"
+"h": "dc6087b700775f80",
+"d": "2026-11-01"
+},
+"https://hoppoapp.com/sl/guides/worries.html": {
+"h": "6303beb448a6e266",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/partners.html": {
-"h": "2e2e89c3104d3239",
-"d": "2026-10-30"
+"h": "5dae0e6178169baa",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/sl/privacy.html": {
 "h": "084614817ae8069f",
@@ -2604,15 +3656,15 @@
 "d": "2026-10-30"
 },
 "https://hoppoapp.com/sl/terms.html": {
-"h": "3c5645d43597ad82",
-"d": "2026-10-30"
+"h": "c3e92a81cc1daa60",
+"d": "2026-11-01"
 },
 "https://hoppoapp.com/support.html": {
 "h": "99d7f9eaa8805a8c",
 "d": "2026-10-18"
 },
 "https://hoppoapp.com/terms.html": {
-"h": "76808df81dafcec2",
-"d": "2026-10-30"
+"h": "fb8f2789b5c21062",
+"d": "2026-11-01"
 }
 }

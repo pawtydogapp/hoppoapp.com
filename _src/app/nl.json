@@ -42,7 +42,6 @@
   "Average gap": "Gemiddelde tussentijd",
   "Average length": "Gemiddelde duur",
   "Average per day": "Gemiddeld per dag",
-  "Baby arrived": "Baby is geboren",
   "Baby's name or nickname (optional)": "Naam of bijnaam van de baby (optioneel)",
   "Back": "Terug",
   "Bag": "Tas",
@@ -96,6 +95,7 @@
   "Demo mode": "Demomodus",
   "Demo mode: password reset emails work in the full app.": "Demomodus: e-mails om je wachtwoord te herstellen werken in de volledige app.",
   "Dirty": "Poep",
+  "Dirty per day": "Poep per dag",
   "Does not repeat": "Niet herhalen",
   "Done for this week.": "Klaar voor deze week.",
   "Done, rate it": "Klaar, beoordeel het",
@@ -162,8 +162,9 @@
   "Hoppo says": "Hoppo zegt",
   "Hoppo tips": "Hoppo-tips",
   "Hospital bag": "Ziekenhuistas",
+  "Hour": "Uur",
   "How did it go?": "Hoe ging het?",
-  "I agree to the terms and conditions. I explicitly consent to Hoppo storing pregnancy and child health details I add, such as due dates, growth, sleep and feeding, so the app can work.": "Ik ga akkoord met de algemene voorwaarden. Ik geef uitdrukkelijk toestemming dat Hoppo de gegevens over zwangerschap en gezondheid van mijn kind bewaart die ik toevoeg, zoals uitgerekende data, groei, slaap en voeding, zodat de app kan werken.",
+  "I agree to the {terms} and the {privacy}.": "Ik ga akkoord met de {terms} en het {privacy}.",
   "I already have an account. Log in": "Ik heb al een account. Inloggen",
   "I felt a movement": "Ik voelde een beweging",
   "I have a family code": "Ik heb een gezinscode",
@@ -175,6 +176,7 @@
   "Join": "Deelnemen",
   "Join a family": "Bij een gezin aansluiten",
   "Join our family in Hoppo: open More, Family, and type the code {code}. It works for 48 hours.": "Kom bij ons gezin in Hoppo: open Meer, Gezin, en typ de code {code}. Die werkt 48 uur.",
+  "Keep screen on": "Scherm aan laten",
   "Keepsake card": "Herinneringskaart",
   "Kicks": "Schopjes",
   "Labour": "Weeën",
@@ -193,6 +195,7 @@
   "Log in": "Inloggen",
   "Log out": "Uitloggen",
   "Main menu": "Hoofdmenu",
+  "Marks a must-have item.": "Markeert iets onmisbaars.",
   "Mastered": "Beheerst",
   "Maybe later": "Misschien later",
   "Meals": "Maaltijden",
@@ -217,6 +220,7 @@
   "Name": "Naam",
   "Nap": "Dutje",
   "Nappies": "Luiers",
+  "Nappies this week: {n}.": "Luiers deze week: {n}.",
   "Naps": "Dutjes",
   "New appointment": "Nieuwe afspraak",
   "New password": "Nieuw wachtwoord",
@@ -234,6 +238,7 @@
   "No consent form is available right now.": "Er is op dit moment geen toestemmingsformulier beschikbaar.",
   "No consent form is required for your region right now.": "Voor jouw regio is op dit moment geen toestemmingsformulier nodig.",
   "No guide found. Try another word.": "Geen gids gevonden. Probeer een ander woord.",
+  "No nappies logged this week.": "Je hebt deze week geen luiers ingevuld.",
   "Non-personalised": "Niet gepersonaliseerd",
   "Not now": "Niet nu",
   "Not today": "Niet vandaag",
@@ -258,6 +263,7 @@
   "Password changed. Log in with the new one.": "Wachtwoord gewijzigd. Log in met je nieuwe wachtwoord.",
   "Password needs at least 6 characters.": "Je wachtwoord moet minstens 6 tekens hebben.",
   "Pause": "Pauze",
+  "Per day": "Per dag",
   "Permanently deletes your account, your children's profiles, logs and calendar. Photos on this phone are removed when you uninstall the app.": "Verwijdert definitief je account, de profielen van je kinderen, je logboeken en je kalender. Foto's op deze telefoon worden verwijderd als je de app verwijdert.",
   "Phone notifications are off.": "Meldingen op je telefoon staan uit.",
   "Phone notifications are on.": "Meldingen op je telefoon staan aan.",
@@ -364,12 +370,13 @@
   "The current time is filled in for you. Leave the end empty if your child is still asleep.": "De huidige tijd is al ingevuld. Laat het einde leeg als je kind nog slaapt.",
   "The date of birth cannot be in the future.": "De geboortedatum kan niet in de toekomst liggen.",
   "The due date is in the past. If your baby has arrived, choose \"Child\".": "De uitgerekende datum ligt in het verleden. Is je baby geboren, kies dan \"Kind\".",
-  "The due date is in the past. If your baby has arrived, tap \"Baby arrived\" on Home.": "De uitgerekende datum ligt in het verleden. Is je baby geboren, tik dan op \"Baby is geboren\" op Home.",
+  "The due date is in the past. If your baby has arrived, tap \"Has your baby arrived?\" below.": "De uitgerekende datum is voorbij. Is je baby geboren? Tik dan hieronder op \"Is je baby geboren?\".",
   "The end must be after the start.": "Het einde moet na het begin liggen.",
   "The guide for this week is being written. The size picture is already here.": "De gids voor deze week wordt nog geschreven. De afbeelding van de grootte staat er al.",
   "The new password must be different from the current one.": "Het nieuwe wachtwoord moet anders zijn dan het huidige.",
   "The passwords do not match.": "De wachtwoorden komen niet overeen.",
   "The reference band is slightly different for girls and boys. To set your child's sex, open their profile in More. Until then, the girls' band is shown.": "Het referentiegebied is iets anders voor meisjes en jongens. Open het profiel van je kind in Meer om het geslacht in te stellen. Tot dan zie je het gebied voor meisjes.",
+  "The screen stays on while Hoppo is open. During a timer it stays on anyway.": "Het scherm blijft aan zolang Hoppo open is. Loopt er een timer, dan blijft het sowieso aan.",
   "The start cannot be in the future.": "Het begin kan niet in de toekomst liggen.",
   "There is no set number of kicks. What matters is your own baby's usual pattern. Use this to get to know it.": "Er is geen vast aantal schopjes. Waar het om gaat, is het gewone patroon van jouw baby. Gebruik dit om dat te leren kennen.",
   "This cannot be undone.": "Dit kan niet ongedaan worden gemaakt.",
@@ -413,6 +420,7 @@
   "Welcome to the world, {name}. Take your time and rest when you can. Hoppo now follows {name}'s first year.": "Welkom op de wereld, {name}. Neem je tijd en rust wanneer het kan. Hoppo volgt nu het eerste jaar van {name}.",
   "Wet": "Nat",
   "Wet and dirty": "Nat en poep",
+  "Wet per day": "Nat per dag",
   "What can help": "Wat kan helpen",
   "What is common": "Wat vaak voorkomt",
   "Where your data is stored": "Waar je gegevens worden bewaard",
@@ -448,7 +456,6 @@
   "to": "tot",
   "today": "vandaag",
   "tomorrow": "morgen",
-  "{a} of {b} must-haves": "{a} van {b} onmisbaar",
   "{a} wet · {b} dirty": "{a} nat · {b} poep",
   "{name} has mastered \"{skill}\". Well done, both of you. It is now ticked in Memories.": "{name} beheerst nu \"{skill}\". Goed gedaan, allebei. Het is nu afgevinkt in Album.",
   "{n} min after the one before": "{n} min na de vorige",
@@ -456,7 +463,12 @@
   "{n} ml from bottles": "{n} ml uit de fles",
   "{n} ml pumped": "{n} ml gekolfd",
   "{n} weeks in a row. Well done.": "{n} weken op rij. Goed gedaan.",
-  "{what} chart with the reference range": "Grafiek van {what} met het referentiegebied"
+  "{what} chart with the reference range": "Grafiek van {what} met het referentiegebied",
+  "Earlier: {list}": "Eerder: {list}",
+  "Hoppo covers children up to age 10.": "Hoppo is er voor kinderen tot 10 jaar.",
+  "Last time: {date}": "Vorige keer: {date}",
+  "Made with {paw} in Slovenia": "Gemaakt met {paw} in Slovenië",
+  "Reference: World Health Organization (WHO) Child Growth Standards, and the WHO Growth Reference from 5 years.": "Referentie: groeistandaarden voor kinderen van de Wereldgezondheidsorganisatie (WHO), en de groeireferentie van de WHO vanaf 5 jaar."
  },
  "plural": {
   "Averages use the {n} day with entries.|Averages use the {n} days with entries.": {
@@ -506,6 +518,10 @@
   "{n} movement|{n} movements": {
    "one": "{n} beweging",
    "other": "{n} bewegingen"
+  },
+  "{n} session in total|{n} sessions in total": {
+   "one": "{n} sessie in totaal",
+   "other": "{n} sessies in totaal"
   }
  },
  "content": {
@@ -676,7 +692,11 @@
     }
    },
    "bike": {
-    "title": "Fietst zonder zijwieltjes"
+    "title": "Fietst zonder zijwieltjes",
+    "card": {
+     "h": "Daar gaan we",
+     "m": "{name} fietste zonder zijwieltjes. Evenwicht, trappen en weg."
+    }
    },
    "rollerblades": {
     "title": "Skeelert"
@@ -688,7 +708,11 @@
     "title": "Skiet"
    },
    "swims_alone": {
-    "title": "Zwemt zonder bandjes"
+    "title": "Zwemt zonder bandjes",
+    "card": {
+     "h": "Slag voor slag",
+     "m": "{name} zwom een paar slagen zonder zwembandjes. Dapper en trots."
+    }
    },
    "balance_line": {
     "title": "Loopt over een lijn",
@@ -955,7 +979,11 @@
     }
    },
    "joke": {
-    "title": "Vertelt een eerste mopje"
+    "title": "Vertelt een eerste mopje",
+    "card": {
+     "h": "Lachen geblazen",
+     "m": "{name} vertelde voor het eerst een mopje. We liggen nog steeds dubbel."
+    }
    },
    "follows_toy": {
     "title": "Volgt speelgoed met de ogen",
@@ -1196,7 +1224,11 @@
     }
    },
    "knife": {
-    "title": "Gebruikt een mes"
+    "title": "Gebruikt een mes",
+    "card": {
+     "h": "Kleine chef",
+     "m": "{name} smeerde zelf een boterham met een mes. Ontbijt door mij gemaakt."
+    }
    },
    "cutlery": {
     "title": "Eet een hele maaltijd met mes en vork"
@@ -1473,6 +1505,188 @@
    },
    "kindergarten": {
     "title": "Eerste dag op de kleuterschool"
+   },
+   "writes_name": {
+    "title": "Schrijft de hele eigen naam",
+    "card": {
+     "h": "Ondertekend door mij",
+     "m": "{name} schreef vandaag de hele naam. Elke letter op de juiste plek."
+    }
+   },
+   "packs_bag": {
+    "title": "Pakt zelf de tas in",
+    "card": {
+     "h": "Alles ingepakt",
+     "m": "{name} pakte zelf de tas in. Klaar voor de dag."
+    }
+   },
+   "jump_rope": {
+    "title": "Springt zelf touwtje",
+    "card": {
+     "h": "Telkens weer",
+     "m": "{name} sprong helemaal alleen touwtje. Draaien, springen, draaien, springen."
+    }
+   },
+   "reads_book": {
+    "title": "Leest een kort boekje voor",
+    "card": {
+     "h": "Voorgelezen door mij",
+     "m": "{name} las me een heel boekje voor. Ik genoot van elke bladzijde."
+    }
+   },
+   "ties_laces": {
+    "title": "Strikt zelf de veters",
+    "card": {
+     "h": "Lusje en trekken",
+     "m": "{name} strikte zelf de veters. 2 nette strikken en we kunnen gaan."
+    }
+   },
+   "makes_snack": {
+    "title": "Maakt zelf een tussendoortje",
+    "card": {
+     "h": "Zelf gemaakt",
+     "m": "{name} maakte zelf een tussendoortje. Het smaakte extra lekker."
+    }
+   },
+   "swims_10m": {
+    "title": "Zwemt 10 meter",
+    "card": {
+     "h": "10 meter",
+     "m": "{name} zwom 10 meter. Rustige slagen, helemaal tot het eind."
+    }
+   },
+   "writes_card": {
+    "title": "Schrijft zelf een kaartje",
+    "card": {
+     "h": "Met liefde",
+     "m": "{name} schreef helemaal alleen een kaartje. Lieve woorden in eigen handschrift."
+    }
+   },
+   "pays_shop": {
+    "title": "Betaalt zelf in een winkel",
+    "card": {
+     "h": "Alstublieft",
+     "m": "{name} betaalde aan de kassa. Muntjes geteld en dankjewel gezegd."
+    }
+   },
+   "road_ride": {
+    "title": "Fietst met een volwassene op een rustige weg",
+    "card": {
+     "h": "Op de weg",
+     "m": "{name} fietste met mij op een rustige weg. Helm op, ogen vooruit."
+    }
+   },
+   "chapter_book": {
+    "title": "Leest een boek met hoofdstukken",
+    "card": {
+     "h": "Uitgelezen",
+     "m": "{name} las een heel boek met hoofdstukken. Hoofdstuk voor hoofdstuk."
+    }
+   },
+   "phone_call": {
+    "title": "Belt zelf iemand op",
+    "card": {
+     "h": "Hallo, met mij",
+     "m": "{name} belde helemaal alleen iemand op. Duidelijke woorden en een vriendelijke stem."
+    }
+   },
+   "saves_up": {
+    "title": "Spaart voor iets",
+    "card": {
+     "h": "Het wachten waard",
+     "m": "{name} spaarde en kocht iets bijzonders. Geduld werd beloond."
+    }
+   },
+   "swims_25m": {
+    "title": "Zwemt 25 meter",
+    "card": {
+     "h": "Een hele baan",
+     "m": "{name} zwom 25 meter. Slag na slag, helemaal tot het eind."
+    }
+   },
+   "walks_alone": {
+    "title": "Loopt alleen naar een vriendje",
+    "card": {
+     "h": "Helemaal alleen",
+     "m": "{name} liep alleen naar een vriendje. We hadden samen geoefend en de tijd was rijp."
+    }
+   },
+   "cooks_meal": {
+    "title": "Kookt een maaltijd voor het gezin",
+    "card": {
+     "h": "Aan tafel",
+     "m": "{name} kookte een maaltijd voor het gezin. Dankjewel, chef."
+    }
+   },
+   "school": {
+    "title": "Eerste schooldag",
+    "card": {
+     "h": "Naar school",
+     "m": "{name} ging vandaag voor het eerst naar school. Een grote stap en een dapper hart."
+    }
+   },
+   "school_trip": {
+    "title": "Eerste schoolreisje",
+    "card": {
+     "h": "Op pad",
+     "m": "{name} ging op schoolreisje. Zoveel te vertellen thuis."
+    }
+   },
+   "sleepover": {
+    "title": "Eerste keer logeren bij een vriendje",
+    "card": {
+     "h": "Logeerpartij",
+     "m": "{name} bleef slapen bij een vriendje. Dapper, blij en weer thuis."
+    }
+   },
+   "sports_club": {
+    "title": "Lid geworden van een sportclub",
+    "card": {
+     "h": "Teamspeler",
+     "m": "{name} werd lid van een sportclub. Nieuwe vrienden en nieuwe bewegingen."
+    }
+   },
+   "first_match": {
+    "title": "Eerste wedstrijd gespeeld",
+    "card": {
+     "h": "De wedstrijd begint",
+     "m": "{name} speelde mee in een echte wedstrijd. We hebben de hele tijd aangemoedigd."
+    }
+   },
+   "music_lesson": {
+    "title": "Eerste muziekles",
+    "card": {
+     "h": "Eerste noten",
+     "m": "{name} had vandaag de eerste muziekles. Het begin van iets moois."
+    }
+   },
+   "on_stage": {
+    "title": "Opgetreden op een podium",
+    "card": {
+     "h": "Een buiging",
+     "m": "{name} trad op op een podium. Wij klapten het hardst."
+    }
+   },
+   "library_card": {
+    "title": "Een eigen bibliotheekpas",
+    "card": {
+     "h": "Mijn bibliotheekpas",
+     "m": "{name} kreeg een eigen bibliotheekpas. Zoveel boeken om uit te kiezen."
+    }
+   },
+   "pocket_money": {
+    "title": "Eerste zakgeld",
+    "card": {
+     "h": "Mijn eigen geld",
+     "m": "{name} kreeg voor het eerst zakgeld. Een beetje uitgeven, een beetje sparen."
+    }
+   },
+   "summer_camp": {
+    "title": "Eerste zomerkamp",
+    "card": {
+     "h": "Kampdagen",
+     "m": "{name} ging op zomerkamp. Nieuwe vrienden en verhalen om te vertellen."
+    }
    }
   },
   "tips": {
@@ -2570,6 +2784,231 @@
    },
    "t365": {
     "text": "Moe na de kleuterschool? Sla de missie over en speel wat je kind wil."
+   },
+   "s01": {
+    "text": "Welkom bij de schooljaren. Nieuwe vaardigheden in Leren gaan over lezen, geld, koken en meer."
+   },
+   "s02": {
+    "text": "Laat je kind de vaardigheid van deze week kiezen in Leren. Kinderen doen meer hun best voor iets wat ze zelf kozen."
+   },
+   "s03": {
+    "text": "Begin met een vaardigheid die je kind bijna kan. Een snel succes geeft zelfvertrouwen voor moeilijkere."
+   },
+   "s04": {
+    "text": "Kies een vast moment voor missies, zoals zaterdagochtend of na het avondeten. Met een vaste gewoonte vergeet je het niet zo snel."
+   },
+   "s05": {
+    "text": "Nieuwe fase, zelfde idee. Houd het kort, houd het leuk en stop voordat iemand zich verveelt."
+   },
+   "s06": {
+    "text": "Moe na school? Eerst iets te eten en wat rust. De missie kan wachten tot het weekend."
+   },
+   "s07": {
+    "text": "Sommige weken zitten vol met school, clubs en bezoek. Een missie overslaan is prima."
+   },
+   "s08": {
+    "text": "Chagrijnig na school komt heel vaak voor. Veel kinderen houden zich de hele dag goed en laten het thuis los."
+   },
+   "s09": {
+    "text": "Weinig energie vanavond? Speel 1 kort kaartspelletje. Ook dat is goed bestede tijd."
+   },
+   "s10": {
+    "text": "Zware avond? Een knuffel en vroeg naar bed doen soms meer dan welke les ook."
+   },
+   "s11": {
+    "text": "Moe van elke ochtend hetzelfde zeggen? Hang een lijst met plaatjes bij de deur en laat die het herinneren doen."
+   },
+   "s12": {
+    "text": "Ziektedagen en vakanties doorbreken de routine. Pak het weer op als het leven rustiger is."
+   },
+   "s13": {
+    "text": "Je hoeft niet elke middag te vullen. Rustdagen zijn goed voor kinderen en ouders."
+   },
+   "s14": {
+    "text": "Oefen een nieuwe vaardigheid elke dag een beetje. Kort oefenen werkt beter dan één lange sessie."
+   },
+   "s15": {
+    "text": "Is iets lastig, verdeel het dan in kleine stapjes. Oefen 1 stap tegelijk."
+   },
+   "s16": {
+    "text": "Voeg het woord \"nog\" toe: \"Ik kan het nog niet.\" Dat kleine woord houdt het proberen levend."
+   },
+   "s17": {
+    "text": "Laat je kind eerst zelf het werk nakijken. Fouten ontdekken is ook een vaardigheid."
+   },
+   "s18": {
+    "text": "Houd een lijst bij van wat je kind dit jaar heeft geleerd. Lees die samen als iets moeilijk voelt."
+   },
+   "s19": {
+    "text": "Herhaal een missie waar je kind van genoot. Het nog eens doen met meer zelfvertrouwen is echte vooruitgang."
+   },
+   "s20": {
+    "text": "Pak de schooltas de avond van tevoren in. Rustige ochtenden beginnen de avond ervoor."
+   },
+   "s21": {
+    "text": "Hang een klok waar je kind die 's ochtends kan zien. Zo leert je kind de tijd in de gaten te houden."
+   },
+   "s22": {
+    "text": "Stel na school een concrete vraag, zoals \"Naast wie zat je bij de lunch?\" Dan krijg je meer dan \"Goed\"."
+   },
+   "s23": {
+    "text": "Sommige kinderen praten pas bij het slapengaan over school, niet bij het schoolhek. Laat ruimte voor allebei."
+   },
+   "s24": {
+    "text": "Richt een rustig huiswerkplekje in met een potlood, papier en goed licht. Houd schermen uit de buurt tijdens het werken."
+   },
+   "s25": {
+    "text": "Help met huiswerk door vragen te stellen, niet door antwoorden te geven. Laat je kind het daarna zelf proberen."
+   },
+   "s26": {
+    "text": "Houd contact met de leerkracht. Een kort, vriendelijk gesprek kan kleine zorgen vroeg oplossen."
+   },
+   "s27": {
+    "text": "Bekijk samen het schoolwerk en zoek 1 ding waar je kind trots op is."
+   },
+   "s28": {
+    "text": "Blijf voorlezen, ook als je kind zelf kan lezen. Moeilijkere verhalen brengen nieuwe woorden."
+   },
+   "s29": {
+    "text": "Lees om de beurt een bladzijde. Je kind leest er 1, jij leest de volgende."
+   },
+   "s30": {
+    "text": "Strips, moppenboeken en boeken met weetjes over dieren tellen allemaal als lezen."
+   },
+   "s31": {
+    "text": "Regel een eigen bibliotheekpas voor je kind. Zelf boeken kiezen voelt groot."
+   },
+   "s32": {
+    "text": "Vraag naar het verhaal, niet naar de toets: \"Welk personage zou je graag als vriend hebben?\""
+   },
+   "s33": {
+    "text": "Laat je kind zien dat jij leest. Kinderen doen na wat ze thuis zien."
+   },
+   "s34": {
+    "text": "Is een woord moeilijk, wacht dan een paar seconden voordat je helpt. Geef je kind tijd om het te verklanken."
+   },
+   "s35": {
+    "text": "Speel samen kaartspelletjes. Tellen, plannen en onthouden zijn allemaal verstopte oefening."
+   },
+   "s36": {
+    "text": "Houd minstens 1 middag per week vrij van clubs en plannen. Kinderen hebben tijd nodig om te rusten en op hun eigen manier te spelen."
+   },
+   "s37": {
+    "text": "Bouw iets groots van dozen, blokken of dekens. Laat je kind de baas zijn over het plan."
+   },
+   "s38": {
+    "text": "Speel aan tafel een woordspelletje, zoals dieren noemen van A tot Z."
+   },
+   "s39": {
+    "text": "Is je kind van streek, luister dan eerst en los het later op. Gehoord worden helpt gevoelens tot rust te komen."
+   },
+   "s40": {
+    "text": "Benoem soms je eigen gevoelens: \"Ik ben zenuwachtig voor morgen.\" Zo leert je kind dat dat normaal is."
+   },
+   "s41": {
+    "text": "Sommige zorgen komen pas bij het slapengaan naar boven. Houd een paar rustige minuten vrij voor een gesprekje voordat het licht uitgaat."
+   },
+   "s42": {
+    "text": "Vertel je kind over fouten die jij als kind maakte. Zo ziet je kind dat iedereen weleens iets fout doet."
+   },
+   "s43": {
+    "text": "Vraag na een moeilijk moment: \"Wat kunnen we de volgende keer proberen?\" Zoek samen naar ideeën."
+   },
+   "s44": {
+    "text": "Blijft een zorg weken duren of zit die het dagelijks leven in de weg, praat dan met de school of de arts van je kind."
+   },
+   "s45": {
+    "text": "Vraag nieuwsgierig naar vriendjes, niet bezorgd: \"Wat hebben jij en je vriendjes vandaag gespeeld?\""
+   },
+   "s46": {
+    "text": "Kleine ruzies met vriendjes horen bij het opgroeien. Luister eerst en help je kind daarna een volgende stap te bedenken."
+   },
+   "s47": {
+    "text": "Nodig een klasgenootje uit om te komen spelen. Tijd buiten school helpt vriendschappen groeien."
+   },
+   "s48": {
+    "text": "Oefen woorden voor lastige momenten, zoals \"Mag ik meedoen?\" of \"Stop alsjeblieft, dat vind ik niet fijn.\""
+   },
+   "s49": {
+    "text": "Let op momenten waarop je kind een goed maatje is. Vertel wat je zag."
+   },
+   "s50": {
+    "text": "Kinderen van 6 tot 12 jaar hebben 9 tot 12 uur slaap per nacht nodig. Een vaste bedtijd maakt het makkelijker."
+   },
+   "s51": {
+    "text": "Houd op schoolavonden dezelfde bedtijd aan. Een rustige routine van badje, boekje en bed helpt bij het inslapen."
+   },
+   "s52": {
+    "text": "Houd telefoons, tablets en de tv 's nachts uit de slaapkamer. Zonder die apparaten valt je kind makkelijker in slaap."
+   },
+   "s53": {
+    "text": "Spreek als gezin schermregels af en schrijf ze op. Duidelijke regels betekenen minder ruzie."
+   },
+   "s54": {
+    "text": "Houd sommige momenten schermvrij voor iedereen, zoals het eten en de weg naar school."
+   },
+   "s55": {
+    "text": "Vraag je kind om het favoriete spel of filmpje te laten zien. Samen kijken opent de deur naar fijne gesprekken."
+   },
+   "s56": {
+    "text": "Vertel je kind dat het altijd bij je terecht kan als iets online niet goed voelt. Je kind krijgt geen straf omdat het iets vertelt."
+   },
+   "s57": {
+    "text": "Gebruik een timer voor schermtijd. Als die afgaat, zegt de timer stop, niet jij."
+   },
+   "s58": {
+    "text": "De WHO raadt kinderen van 5 tot 17 jaar gemiddeld minstens 60 minuten per dag beweging aan waarvan ze sneller gaan ademen. Rennen, fietsen en dansen tellen allemaal mee."
+   },
+   "s59": {
+    "text": "Loop als het kan een deel van de weg naar school samen. Actieve tochtjes tellen op."
+   },
+   "s60": {
+    "text": "Klimmen, springen en huppelen maken spieren en botten sterk. De WHO raadt dit soort spel aan op minstens 3 dagen per week."
+   },
+   "s61": {
+    "text": "Ga met de juiste kleren naar buiten, wat voor weer het ook is. Plassen en wind maken een wandeling leuker."
+   },
+   "s62": {
+    "text": "Probeer een nieuwe sport of activiteit, gewoon voor de lol. Proberen is genoeg, je hoeft er niet goed in te zijn."
+   },
+   "s63": {
+    "text": "Onderbreek lang stilzitten. Even dansen in de keuken brengt iedereen in beweging."
+   },
+   "s64": {
+    "text": "Geef je kind 1 vast klusje thuis, zoals een huisdier eten geven of de planten water geven."
+   },
+   "s65": {
+    "text": "Laat je kind de avond van tevoren zelf de kleren voor school kiezen."
+   },
+   "s66": {
+    "text": "Een klusje hoeft niet perfect. Een bed dat een beetje scheef ligt, is toch opgemaakt."
+   },
+   "s67": {
+    "text": "Laat je kind zelf drinken inschenken en het eigen bord afruimen. Van kleine klusjes word je zelfstandig."
+   },
+   "s68": {
+    "text": "Vraag voordat je ingrijpt: \"Wat zou je kunnen proberen?\" Laat je kind eerst zelf kleine problemen oplossen."
+   },
+   "s69": {
+    "text": "Laat je kind aan de kassa betalen terwijl jij dichtbij staat. Echte muntjes maken rekenen echt."
+   },
+   "s70": {
+    "text": "Laat je kind meepraten over kleine gezinsplannen, zoals het eten op vrijdag of de wandeling in het weekend."
+   },
+   "s71": {
+    "text": "Prijs wat je kind deed: \"Je zette door toen het moeilijk was.\" Zo weet je kind wat het nog eens moet doen."
+   },
+   "s72": {
+    "text": "Vooruitgang gaat vaak langzaam en dan ineens snel. Ga door en blijf geduldig."
+   },
+   "s73": {
+    "text": "Bedank je kind als het helpt zonder dat je het vraagt. Gezien worden doet ertoe."
+   },
+   "s74": {
+    "text": "Bewaar iets wat je kind aan het begin van het schooljaar maakte. Bekijk het in de zomer samen terug."
+   },
+   "s75": {
+    "text": "Laat je kind horen dat je tegen iemand anders iets liefs over je kind zegt."
    }
   },
   "focusAreas": {
@@ -2581,6 +3020,9 @@
    },
    "hands": {
     "name": "Handen en denken"
+   },
+   "life": {
+    "name": "Dagelijks leven"
    }
   },
   "years": {
@@ -2598,35 +3040,41 @@
    },
    "5": {
     "name": "Jaar 5"
+   },
+   "6": {
+    "name": "Jaar 6"
+   },
+   "7": {
+    "name": "Jaar 7"
+   },
+   "8": {
+    "name": "Jaar 8"
+   },
+   "9": {
+    "name": "Jaar 9"
+   },
+   "10": {
+    "name": "Jaar 10"
    }
   },
   "families": {
-   "move": {
-    "name": "Bewegen"
-   },
-   "talk": {
-    "name": "Taal en woorden"
-   },
-   "creative": {
-    "name": "Handen en creativiteit"
+   "family": {
+    "name": "Familie en vrienden"
    },
    "food": {
     "name": "Eten"
    },
-   "teeth": {
-    "name": "Tandjes"
+   "move": {
+    "name": "Bewegen"
    },
-   "care": {
-    "name": "Zelfredzaamheid"
+   "talk": {
+    "name": "Praten"
    },
-   "family": {
-    "name": "Familie en vrienden"
+   "creative": {
+    "name": "Creativiteit"
    },
    "travel": {
-    "name": "Plekken en reizen"
-   },
-   "firsts": {
-    "name": "Eerste keren"
+    "name": "Reizen"
    }
   },
   "genericCard": {
@@ -2704,6 +3152,27 @@
    },
    {
     "name": "NHS, gezondheid van baby en kind: koorts, verkoudheid, luieruitslag, verstopping"
+   },
+   {
+    "name": "American Academy of Pediatrics (AAP) HealthyChildren.org, Gradeschool (kinderen van 5 tot 12 jaar)"
+   },
+   {
+    "name": "AAP HealthyChildren.org, Healthy Sleep Habits: hoeveel uur slaap heeft je kind nodig?"
+   },
+   {
+    "name": "Centers for Disease Control and Prevention (CDC), informatie over jonge kinderen (4 tot 11 jaar)"
+   },
+   {
+    "name": "WHO-richtlijnen voor lichamelijke activiteit en zitgedrag (kinderen en jongeren van 5 tot 17 jaar)"
+   },
+   {
+    "name": "NHS, richtlijnen voor lichamelijke activiteit bij kinderen en jongeren"
+   },
+   {
+    "name": "Raising Children Network: schoolleeftijd (5 tot 8 jaar)"
+   },
+   {
+    "name": "Wereldgezondheidsorganisatie (WHO), groeireferentiegegevens voor 5 tot 19 jaar"
    }
   ],
   "bag": {
@@ -5136,6 +5605,2328 @@
      "Een poetsliedje van 2 minuten.",
      "Een sticker voor elke avondpoetsbeurt."
     ]
+   },
+   "skip": {
+    "name": "Huppelen",
+    "goal": "Huppelt vooruit met een stap en een sprongetje op elke voet.",
+    "why": "Huppelen traint ritme, evenwicht en de samenwerking tussen beide kanten van het lichaam.",
+    "steps": [
+     "Zoek een vrije, vlakke plek, zoals een pad of een gang.",
+     "Doe het langzaam voor: stap, hop, dan stap, hop op de andere voet.",
+     "Zeg het ritme samen hardop: \"Stap, hop, stap, hop.\"",
+     "Geef elkaar een hand en huppel een paar passen naast elkaar.",
+     "Laat je kind het alleen proberen terwijl jij de maat klapt.",
+     "Prijs de poging, ook als het een galop wordt."
+    ],
+    "avoid": [
+     "Natte of gladde vloeren.",
+     "Snel willen gaan voordat het ritme makkelijk voelt.",
+     "Je kind vergelijken met andere kinderen."
+    ],
+    "success": "Je kind huppelt 4 passen achter elkaar.",
+    "ways": [
+     "Huppelend naar de auto of de winkel.",
+     "Huppelen op een lievelingsliedje.",
+     "Huppelend Volg de leider spelen."
+    ]
+   },
+   "catch_small": {
+    "name": "Een klein balletje gooien en vangen",
+    "goal": "Gooit en vangt een kleine bal met de handen, niet tegen de borst.",
+    "why": "Een kleine bal vangen scherpt de samenwerking tussen hand en oog, die je kind nodig heeft bij spel en sport.",
+    "steps": [
+     "Gebruik een zachte bal van ongeveer de grootte van een sinaasappel.",
+     "Ga 2 meter uit elkaar staan.",
+     "Laat zien hoe je beide handen klaarhoudt, met de vingers open.",
+     "Gooi zacht onderhands naar de handen van je kind.",
+     "Zeg voor elke worp \"Kijk naar de bal\".",
+     "Doe een stapje achteruit als je kind 3 keer goed gevangen heeft."
+    ],
+    "avoid": [
+     "Harde ballen die pijn doen als je kind mist.",
+     "Hard of hoog gooien.",
+     "Spelen bij ramen of wegen."
+    ],
+    "success": "Je kind vangt de bal 3 keer met de handen.",
+    "ways": [
+     "Een bal tegen een muur gooien en weer vangen.",
+     "Binnen met een opgerold paar sokken.",
+     "Samen tellen hoeveel keer achter elkaar je vangt."
+    ]
+   },
+   "bike_no_stab": {
+    "name": "Fietsen zonder zijwieltjes",
+    "goal": "Houdt evenwicht en trapt op een fiets zonder zijwieltjes.",
+    "why": "Fietsen traint evenwicht, kracht en zelfvertrouwen. Kinderen leren het op heel verschillende leeftijden.",
+    "steps": [
+     "Zet elke keer een helm op en controleer of hij goed past.",
+     "Kies een vlakke, open plek uit de buurt van wegen, zoals een pad in het park.",
+     "Zet het zadel zo laag dat beide voeten de grond raken.",
+     "Laat je kind eerst met de voeten afzetten en uitrollen.",
+     "Als uitrollen makkelijk gaat, komen de trappers erbij terwijl jij dichtbij meeloopt.",
+     "Stop terwijl het nog leuk is."
+    ],
+    "avoid": [
+     "Fietsen zonder helm.",
+     "Wegen, hellingen en drukke paden.",
+     "Loslaten zonder het je kind eerst te zeggen."
+    ],
+    "success": "Je kind trapt 5 meter alleen zonder zijwieltjes.",
+    "ways": [
+     "Uitrollen met de trappers eraf.",
+     "Fietsen tussen 2 bomen in het park.",
+     "Oefenen met wegrijden en stoppen."
+    ]
+   },
+   "swim_strokes": {
+    "name": "Een paar slagen zwemmen",
+    "goal": "Zwemt een paar slagen zonder zwembandjes, met een volwassene vlak ernaast.",
+    "why": "Vroege zwemvaardigheden geven zelfvertrouwen in het water. Zwemles en goed toezicht houden kinderen veilig.",
+    "steps": [
+     "Ga naar een zwembad met toezicht en blijf zelf met je kind in het water.",
+     "Blijf de hele tijd binnen handbereik.",
+     "Oefen het trappelen terwijl je kind zich aan de rand vasthoudt.",
+     "Ondersteun je kind zacht onder de buik en laat je kind peddelen.",
+     "Laat los voor 2 of 3 slagen en vang je kind dan op.",
+     "Prijs de poging en stop voordat je kind het koud krijgt of moe wordt."
+    ],
+    "avoid": [
+     "Je kind alleen laten in of bij het water, al is het maar heel even.",
+     "Open water, zoals meren, rivieren of de zee.",
+     "Een bang kind verder pushen."
+    ],
+    "success": "Je kind zwemt 3 slagen naar je toe zonder zwembandjes.",
+    "ways": [
+     "Zwemles bij een gediplomeerde zwemleraar.",
+     "Van de kant naar jou zwemmen.",
+     "Trappelspelletjes met een zwemplankje."
+    ]
+   },
+   "rope_jump_low": {
+    "name": "Over een laag touw springen",
+    "goal": "Springt met de voeten bij elkaar over een laag touw.",
+    "why": "Springen traint beenkracht, evenwicht en de timing die je kind later nodig heeft bij touwtjespringen.",
+    "steps": [
+     "Leg een touw of sjaal plat op de grond, op gras of vloerkleed.",
+     "Doe een sprong met de voeten bij elkaar voor.",
+     "Laat je kind er vooruit overheen springen.",
+     "Til het touw een paar centimeter op en houd het losjes vast, zodat het valt als het geraakt wordt.",
+     "Probeer er ook zijwaarts overheen te springen."
+    ],
+    "avoid": [
+     "Het touw ergens aan vastknopen.",
+     "Harde of gladde vloeren.",
+     "Het touw te snel te hoog houden."
+    ],
+    "success": "Je kind springt 3 keer met de voeten bij elkaar over een laag touw.",
+    "ways": [
+     "Over een \"rivier\" van 2 touwen springen.",
+     "Over de naden in de stoep springen.",
+     "In en uit hoepels springen."
+    ]
+   },
+   "name_feeling": {
+    "name": "Het gevoel benoemen",
+    "goal": "Benoemt gevoelens met woorden, zoals blij, verdrietig, boos of bezorgd.",
+    "why": "Een gevoel benoemen helpt kinderen tot rust te komen en om hulp te vragen. Het is een eerste stap in omgaan met emoties.",
+    "steps": [
+     "Kies een rustig moment, niet midden in een driftbui.",
+     "Trek samen gezichten voor de spiegel: blij, verdrietig, boos, bang.",
+     "Laat je kind raden welk gevoel het is.",
+     "Vertel over een gevoel dat jij vandaag had.",
+     "Vraag: \"Hoe voelde jij je vandaag?\"",
+     "Accepteer elk antwoord zonder het te verbeteren."
+    ],
+    "avoid": [
+     "Zeggen dat een gevoel fout of gek is.",
+     "Het vragen tijdens een driftbui.",
+     "Te veel gevoelswoorden tegelijk."
+    ],
+    "success": "Je kind benoemt 1 eigen gevoel.",
+    "ways": [
+     "Praten over hoe een personage in een boek zich voelt.",
+     "Een gevoelscheck bij het slapengaan.",
+     "Een gezicht tekenen voor vandaag."
+    ]
+   },
+   "wait_turn_talk": {
+    "name": "Op je beurt wachten om te praten",
+    "goal": "Wacht meestal op een stilte voordat het begint te praten.",
+    "why": "Op je beurt wachten helpt bij gesprekken, vriendschappen en samen leren in een groep.",
+    "steps": [
+     "Kies een klein voorwerp, zoals een lepel, als \"praatlepel\".",
+     "Leg uit: alleen wie hem vasthoudt, mag praten.",
+     "Vertel om de beurt één ding over je dag.",
+     "Geef de lepel door als je klaar bent.",
+     "Prijs je kind voor het wachten, ook als het maar kort was."
+    ],
+    "avoid": [
+     "Lange beurten die het geduld op de proef stellen.",
+     "Je kind berispen omdat het je onderbreekt.",
+     "Zelf je kind onderbreken."
+    ],
+    "success": "Je kind wacht 2 keer op de eigen beurt.",
+    "ways": [
+     "De praatlepel bij het avondeten.",
+     "Een gezinsgesprek in de auto.",
+     "Om de beurt praten met een speelgoedtelefoon."
+    ]
+   },
+   "say_sorry": {
+    "name": "Sorry zeggen en het goedmaken",
+    "goal": "Zegt sorry en doet iets liefs om het goed te maken na een probleem.",
+    "why": "Het goedmaken leert kinderen vriendschappen te herstellen en om te geven om hoe anderen zich voelen.",
+    "steps": [
+     "Wacht tot iedereen rustig is.",
+     "Praat over wat er gebeurde en hoe de ander zich voelde.",
+     "Vraag: \"Wat kun je zeggen of doen om te helpen?\"",
+     "Laat je kind zelf de woorden kiezen, zoals \"Sorry dat ik je duwde.\"",
+     "Voeg er iets liefs aan toe, zoals een speeltje delen.",
+     "Laat je kind zien hoe jij ook sorry zegt."
+    ],
+    "avoid": [
+     "Een sorry afdwingen in het heetst van de strijd.",
+     "Je kind beschamen.",
+     "Lange preken."
+    ],
+    "success": "Je kind zegt sorry en doet 1 lief ding.",
+    "ways": [
+     "Het goedmaken na ruzie met een broertje of zusje.",
+     "Oefenen met speelgoed of handpoppen.",
+     "Een sorrytekening maken."
+    ]
+   },
+   "tell_joke": {
+    "name": "Een mop vertellen",
+    "goal": "Vertelt een eenvoudige mop en wacht met de clou.",
+    "why": "Moppen trainen taal, timing en het plezier van samen lachen.",
+    "steps": [
+     "Vertel je kind een eenvoudige, korte mop.",
+     "Leg uit waarom hij grappig is, als dat nodig is.",
+     "Oefen hem samen, langzaam.",
+     "Laat je kind hem aan jou vertellen.",
+     "Lach en zeg dankjewel."
+    ],
+    "avoid": [
+     "Moppen die mensen belachelijk maken.",
+     "De mop verbeteren terwijl je kind hem vertelt.",
+     "Lange moppen die moeilijk te onthouden zijn."
+    ],
+    "success": "Je kind vertelt een mop van begin tot eind.",
+    "ways": [
+     "Een mop bij het avondeten.",
+     "Een klop-klopmop in de auto.",
+     "Samen een gekke mop verzinnen."
+    ]
+   },
+   "retell_trip": {
+    "name": "Een uitje op volgorde navertellen",
+    "goal": "Vertelt in de goede volgorde wat er tijdens een uitje gebeurde.",
+    "why": "Gebeurtenissen op volgorde zetten traint geheugen, taal en de eerste verhaalvaardigheden.",
+    "steps": [
+     "Ga na een uitje even samen zitten voor een kort gesprekje.",
+     "Vraag: \"Wat deden we eerst?\"",
+     "Vraag dan: \"Wat gebeurde er daarna?\"",
+     "Sluit af met: \"Wat deden we op het eind?\"",
+     "Gebruik de woorden eerst, daarna en als laatste.",
+     "Help met een kleine hint als je kind vastloopt."
+    ],
+    "avoid": [
+     "Te veel vragen achter elkaar.",
+     "Kleine details verbeteren.",
+     "Het vragen als je kind moe is."
+    ],
+    "success": "Je kind vertelt 3 delen van het uitje op volgorde.",
+    "ways": [
+     "Foto's van de dag bekijken.",
+     "Een ander familielid over het uitje vertellen.",
+     "3 tekeningen op volgorde maken."
+    ]
+   },
+   "write_name": {
+    "name": "Je naam schrijven",
+    "goal": "Schrijft de eigen voornaam met leesbare letters.",
+    "why": "De eigen naam schrijven is een trotse eerste stap in het schrijven en helpt op school.",
+    "steps": [
+     "Schrijf de naam van je kind in grote letters.",
+     "Wijs elke letter aan en zeg hem.",
+     "Laat je kind hem natrekken met een vinger, daarna met een potlood.",
+     "Vraag je kind de naam eronder over te schrijven.",
+     "Begin met een hoofdletter, daarna kleine letters."
+    ],
+    "avoid": [
+     "Alle letters in hoofdletters schrijven.",
+     "Lange oefensessies.",
+     "Op elke wiebelige letter wijzen."
+    ],
+    "success": "Je kind schrijft de eigen voornaam zonder over te schrijven.",
+    "ways": [
+     "De naam op een tekening schrijven.",
+     "Schrijven in het zand of met een vinger op een beslagen raam.",
+     "Een broodtrommel van een naam voorzien."
+    ]
+   },
+   "count_20": {
+    "name": "Tellen tot 20",
+    "goal": "Telt hardop van 1 tot 20 op volgorde.",
+    "why": "Tellen tot 20 legt de basis voor optellen, aftrekken en het begrijpen van grotere getallen.",
+    "steps": [
+     "Tel eerst samen tot 10.",
+     "Tel dan langzaam van 10 tot 20.",
+     "Klap of spring bij elk getal.",
+     "Laat je kind het tellen leiden.",
+     "Help bij lastige getallen, zoals 13 en 15."
+    ],
+    "avoid": [
+     "Overhoren of testen.",
+     "Doorgaan als je kind geen zin meer heeft.",
+     "Streng verbeteren."
+    ],
+    "success": "Je kind telt tot 20 zonder hulp.",
+    "ways": [
+     "Traptreden tellen.",
+     "Tellen tijdens het handen wassen.",
+     "Sprongen of stappen tellen tijdens een wandeling."
+    ]
+   },
+   "add_objects": {
+    "name": "Optellen met voorwerpen",
+    "goal": "Telt 2 kleine groepjes voorwerpen bij elkaar op en zegt hoeveel het er samen zijn.",
+    "why": "Optellen met echte voorwerpen maakt getallen begrijpelijk, nog voordat je kind op papier rekent.",
+    "steps": [
+     "Leg 2 kleine groepjes voorwerpen neer, zoals 3 knopen en 2 knopen.",
+     "Tel elk groepje samen.",
+     "Schuif de groepjes bij elkaar.",
+     "Vraag: \"Hoeveel zijn het er nu?\"",
+     "Laat je kind ze allemaal tellen.",
+     "Probeer een nieuw paar groepjes."
+    ],
+    "avoid": [
+     "Kleine voorwerpen als er jongere broertjes of zusjes in de buurt zijn.",
+     "Te vroeg sommen opschrijven.",
+     "Grote getallen voordat kleine makkelijk gaan."
+    ],
+    "success": "Je kind telt 2 groepjes tot 10 goed bij elkaar op.",
+    "ways": [
+     "Appels in de boodschappentas optellen.",
+     "Speelgoedautootjes optellen.",
+     "Vingers van 2 handen optellen."
+    ]
+   },
+   "cut_line": {
+    "name": "Langs een lijn knippen",
+    "goal": "Knipt met een kinderschaar langs een rechte lijn.",
+    "why": "Knippen traint kracht en controle in de hand, en dat helpt ook bij het schrijven.",
+    "steps": [
+     "Geef een kinderschaar en een strook papier.",
+     "Teken er een dikke rechte lijn op.",
+     "Laat de greep zien: duim boven.",
+     "Laat je kind langzaam langs de lijn knippen.",
+     "Draai zo nodig het papier, niet de schaar."
+    ],
+    "avoid": [
+     "Scherpe scharen voor volwassenen.",
+     "Rondlopen met een schaar.",
+     "Dun of hard papier."
+    ],
+    "success": "Je kind knipt langs een lijn van 10 centimeter.",
+    "ways": [
+     "Plaatjes uit oude folders knippen.",
+     "Een strook papier in stukjes knippen.",
+     "Klei knippen met een schaar."
+    ]
+   },
+   "draw_shapes": {
+    "name": "Een vierkant en een driehoek tekenen",
+    "goal": "Tekent een vierkant en een driehoek met duidelijke hoeken na.",
+    "why": "Vormen tekenen traint de controle over het potlood en helpt bij het vormen van letters.",
+    "steps": [
+     "Teken langzaam een vierkant terwijl je kind kijkt.",
+     "Tel samen de zijden: 1, 2, 3, 4.",
+     "Laat je kind het natekenen.",
+     "Doe hetzelfde met een driehoek en 3 zijden.",
+     "Prijs de hoeken, ook als ze wiebelig zijn."
+    ],
+    "avoid": [
+     "Alleen overtrekken, zonder vrij te tekenen.",
+     "Te veel vormen in één keer.",
+     "Cijfers geven voor de tekeningen."
+    ],
+    "success": "Je kind tekent een vierkant en een driehoek met hoeken.",
+    "ways": [
+     "Een huis tekenen met een vierkant en een dak.",
+     "Vierkanten en driehoeken zoeken in huis.",
+     "Buiten vormen tekenen met stoepkrijt."
+    ]
+   },
+   "left_right": {
+    "name": "Links en rechts",
+    "goal": "Kent de eigen linker- en rechterhand.",
+    "why": "Links en rechts kennen helpt bij de weg vinden, schrijven en spelletjes. Het heeft vaak tijd nodig.",
+    "steps": [
+     "Steek samen met je kind beide handen op.",
+     "Zeg: \"Dit is je rechterhand.\" Schud ermee.",
+     "Wijs op de hand waarmee je kind zwaait of tekent.",
+     "Speel een spelletje: \"Raak je linkeroor aan.\"",
+     "Wissel langzaam af tussen links en rechts."
+    ],
+    "avoid": [
+     "Snel overhoren.",
+     "Verwachten dat je kind jouw links en rechts kent.",
+     "Moeilijk doen over verwisselingen."
+    ],
+    "success": "Je kind laat de linker- en rechterhand zien als je erom vraagt.",
+    "ways": [
+     "Links of rechts afslaan tijdens een wandeling.",
+     "De linker- of rechterschoen aantrekken.",
+     "Een links-en-rechtsdansspel."
+    ]
+   },
+   "days_week": {
+    "name": "De dagen van de week",
+    "goal": "Zegt de dagen van de week op volgorde.",
+    "why": "De dagen kennen helpt kinderen tijd, plannen en routines te begrijpen.",
+    "steps": [
+     "Zeg samen langzaam de 7 dagen.",
+     "Zing ze op een eenvoudig wijsje.",
+     "Praat over vandaag: \"Vandaag is het maandag.\"",
+     "Koppel elke dag aan iets wat jullie doen, zoals zwemmen of op bezoek bij oma.",
+     "Laat je kind ze alleen opzeggen."
+    ],
+    "avoid": [
+     "Overhoren zonder eerst te helpen.",
+     "Tegelijk ook de maanden erbij nemen.",
+     "Lange sessies."
+    ],
+    "success": "Je kind zegt de 7 dagen op volgorde.",
+    "ways": [
+     "'s Ochtends een liedje over de dagen van de week.",
+     "Dagen afstrepen op een kalender.",
+     "Bij het ontbijt vragen: \"Welke dag is het morgen?\""
+    ]
+   },
+   "phone_address": {
+    "name": "Je telefoonnummer en adres kennen",
+    "goal": "Zegt het telefoonnummer van een ouder en het eigen adres.",
+    "why": "Als je kind ooit verdwaalt, kan een veilige volwassene je met deze gegevens bereiken.",
+    "steps": [
+     "Zeg samen langzaam je straat en woonplaats.",
+     "Zeg daarna je telefoonnummer in kleine groepjes cijfers.",
+     "Maak van het nummer een liedje of een ritme.",
+     "Oefen het één keer per dag.",
+     "Leg uit aan wie je kind het kan vertellen: een politieagent, een juf of meester, of iemand achter de kassa in een winkel."
+    ],
+    "avoid": [
+     "Deze gegevens online met vreemden delen.",
+     "Maar één keer oefenen en dan stoppen.",
+     "Enge verhalen over verdwalen."
+    ],
+    "success": "Je kind zegt je telefoonnummer en straat.",
+    "ways": [
+     "Het nummer zingen op weg naar huis.",
+     "Samen het adres op een kaartje schrijven.",
+     "Doen alsof: verdwaald in een winkel."
+    ]
+   },
+   "spread_knife": {
+    "name": "Smeren met een mes",
+    "goal": "Smeert met een bot mes iets zachts op brood.",
+    "why": "Smeren traint de controle over de hand en is een eerste stap naar zelf eten klaarmaken.",
+    "steps": [
+     "Geef een bot botermes of een kindermes.",
+     "Gebruik iets zachts, zoals smeerkaas of boter op kamertemperatuur.",
+     "Laat zien hoe je met de punt een beetje opschept.",
+     "Laat zien hoe je van het midden naar de randen smeert.",
+     "Laat je kind het proberen op 1 boterham."
+    ],
+    "avoid": [
+     "Scherpe messen.",
+     "Harde boter recht uit de koelkast.",
+     "Je druk maken over kruimels en rommel."
+    ],
+    "success": "Je kind smeert alleen 1 boterham.",
+    "ways": [
+     "Crackers smeren bij het tussendoortje.",
+     "Jam smeren bij het ontbijt.",
+     "Een geroosterde boterham smeren voor een familielid, nadat jij hem geroosterd hebt."
+    ]
+   },
+   "pack_bag": {
+    "name": "Je tas inpakken",
+    "goal": "Pakt de eigen school- of opvangtas in met een plaatjeslijst.",
+    "why": "Een tas inpakken traint geheugen, plannen en verantwoordelijkheid.",
+    "steps": [
+     "Maak een eenvoudige lijst met plaatjes van wat er in de tas moet.",
+     "Leg de avond ervoor de tas en de spullen op één plek.",
+     "Laat je kind inpakken terwijl het naar de lijst kijkt.",
+     "Loop aan het eind samen de lijst na.",
+     "Bedank je kind voor het inpakken."
+    ],
+    "avoid": [
+     "Inpakken op een gehaaste ochtend.",
+     "De tas opnieuw inpakken nadat je kind het gedaan heeft.",
+     "Een lange lijst met spullen."
+    ],
+    "success": "Je kind pakt de tas in met de lijst, zonder hulp.",
+    "ways": [
+     "Een tas inpakken voor de speeltuin.",
+     "Een speelgoedtas inpakken voor een bezoekje.",
+     "Een zwemtas inpakken."
+    ]
+   },
+   "jump_rope": {
+    "name": "Alleen touwtjespringen",
+    "goal": "Draait zelf een springtouw rond en springt er alleen overheen.",
+    "why": "Touwtjespringen traint timing, conditie en coördinatie.",
+    "steps": [
+     "Controleer de lengte van het touw: als je kind in het midden staat, komen de handvatten tot de oksels.",
+     "Zoek een vlakke plek zonder iemand in de buurt.",
+     "Oefen eerst op de plaats springen zonder touw.",
+     "Laat je kind het touw over zich heen zwaaien en eroverheen stappen.",
+     "Probeer dan een zwaai en een sprong.",
+     "Tel samen elke sprong."
+    ],
+    "avoid": [
+     "Lange touwen waar je kind over kan struikelen.",
+     "Spelen bij meubels of andere kinderen.",
+     "Meteen veel sprongen verwachten."
+    ],
+    "success": "Je kind springt 3 keer achter elkaar over het touw.",
+    "ways": [
+     "Een touwtjespringliedje in de tuin.",
+     "Elke week de sprongen tellen.",
+     "Touwtjespringen met een vriendje."
+    ]
+   },
+   "dribble_pass": {
+    "name": "Een bal dribbelen en passen",
+    "goal": "Neemt een bal mee met de voeten en speelt hem naar iemand toe.",
+    "why": "Dribbelen en passen trainen voetenwerk, evenwicht en samenspel.",
+    "steps": [
+     "Zoek een vlakke, open plek uit de buurt van wegen.",
+     "Laat zien hoe je de bal zacht aantikt met de binnenkant van de voet.",
+     "Laat je kind lopen terwijl het de bal aantikt.",
+     "Ga 3 meter verderop staan en vraag om een pass.",
+     "Speel hem terug en herhaal."
+    ],
+    "avoid": [
+     "Hard schieten in de buurt van ramen.",
+     "Spelen bij wegen of auto's.",
+     "Er te vroeg een wedstrijd van maken."
+    ],
+    "success": "Je kind dribbelt 5 meter en passt naar jou.",
+    "ways": [
+     "Dribbelen tussen 2 pionnen of schoenen.",
+     "10 keer heen en weer passen.",
+     "Een kort partijtje in het park."
+    ]
+   },
+   "hopscotch": {
+    "name": "Hinkelbaan",
+    "goal": "Speelt hinkelen: springt op één been en landt op 2 voeten.",
+    "why": "Hinkelen traint evenwicht, kracht, tellen en op je beurt wachten.",
+    "steps": [
+     "Teken een hinkelbaan met krijt, of gebruik binnen plakband.",
+     "Laat zien hoe je op één been in de enkele vakken springt.",
+     "Land op 2 voeten in de dubbele vakken.",
+     "Draai om aan het eind en hinkel terug.",
+     "Voeg een steentje toe om te gooien als je kind eraan toe is."
+    ],
+    "avoid": [
+     "De baan bij een weg tekenen.",
+     "Gladde of natte grond.",
+     "Grote sprongen tussen de vakken."
+    ],
+    "success": "Je kind hinkelt de baan heen en terug.",
+    "ways": [
+     "Hinkelen op de stoep voor het huis.",
+     "Een baan van plakband in de gang.",
+     "De getallen zeggen terwijl je springt."
+    ]
+   },
+   "float_back": {
+    "name": "Drijven op je rug",
+    "goal": "Drijft op de rug met hulp vlakbij.",
+    "why": "Op de rug drijven is een belangrijke vaardigheid voor veiligheid in het water. Zo kan een kind in het water rusten en ademen.",
+    "steps": [
+     "Ga naar een zwembad met toezicht en blijf zelf met je kind in het water.",
+     "Blijf de hele tijd binnen handbereik.",
+     "Ondersteun met je handen het achterhoofd en de onderrug.",
+     "Vraag je kind omhoog te kijken, buik omhoog, armen en benen gespreid als een ster.",
+     "Laat je steun een paar seconden langzaam los.",
+     "Help je kind weer te gaan staan."
+    ],
+    "avoid": [
+     "Je kind alleen in het water laten, al is het maar heel even.",
+     "Open water, zoals meren, rivieren of de zee.",
+     "Een nerveus kind opjagen."
+    ],
+    "success": "Je kind drijft 5 seconden met jouw handen er net onder.",
+    "ways": [
+     "Zwemles bij een gediplomeerde zwemleraar.",
+     "Samen drijven als een zeester.",
+     "Oefenen met een zwemplankje onder het hoofd."
+    ]
+   },
+   "read_book": {
+    "name": "Een kort boekje voorlezen",
+    "goal": "Leest een kort, eenvoudig boekje hardop voor aan een volwassene.",
+    "why": "Hardop lezen maakt het lezen vlotter en geeft zelfvertrouwen. Het samen met jou doen zorgt dat lezen goed voelt.",
+    "steps": [
+     "Kies een kort boekje op het juiste niveau, zoals een boekje van school.",
+     "Ga dicht bij elkaar zitten op een rustige plek.",
+     "Laat je kind het boekje vasthouden en de bladzijden omslaan.",
+     "Help pas na een korte pauze met een lastig woord.",
+     "Praat aan het eind over de plaatjes en het verhaal."
+    ],
+    "avoid": [
+     "Boekjes die te moeilijk zijn.",
+     "Elk klein foutje verbeteren.",
+     "Lezen als je kind erg moe is."
+    ],
+    "success": "Je kind leest een kort boekje van begin tot eind.",
+    "ways": [
+     "Voorlezen aan een jonger broertje of zusje.",
+     "Voorlezen aan een lievelingsknuffel.",
+     "Om de beurt een bladzijde lezen."
+    ]
+   },
+   "sound_out": {
+    "name": "Nieuwe woorden verklanken",
+    "goal": "Zegt de klanken in een kort woord en plakt ze aan elkaar om het te lezen.",
+    "why": "Door te verklanken kunnen kinderen woorden lezen die ze nog nooit gezien hebben.",
+    "steps": [
+     "Schrijf een kort woord op, zoals \"kat\".",
+     "Wijs elke letter aan en zeg de klank: k, a, t.",
+     "Zeg de klanken sneller om ze samen te voegen: \"kat\".",
+     "Laat je kind het volgende woord doen.",
+     "Begin met woorden van 3 letters."
+    ],
+    "avoid": [
+     "Letternamen in plaats van klanken.",
+     "Lange woordenlijsten.",
+     "Alleen raden aan de hand van plaatjes."
+    ],
+    "success": "Je kind verklankt en leest 3 nieuwe woorden.",
+    "ways": [
+     "Borden lezen tijdens een wandeling.",
+     "Magneetletters op de koelkast.",
+     "De namen op verpakkingen van eten lezen."
+    ]
+   },
+   "ask_play": {
+    "name": "Een vriendje vragen om te spelen",
+    "goal": "Vraagt een ander kind om te spelen en kan omgaan met een ja of een nee.",
+    "why": "Vragen om te spelen helpt bij vriendschappen, zelfvertrouwen en sociale vaardigheden.",
+    "steps": [
+     "Oefen thuis met een knuffel of met jou.",
+     "Geef eenvoudige woorden: \"Wil je met me spelen?\"",
+     "Oefen wat je kind kan zeggen als het antwoord nee is: \"Oké, misschien straks.\"",
+     "Blijf in de speeltuin in de buurt terwijl je kind het probeert.",
+     "Prijs de moed, wat het antwoord ook is."
+    ],
+    "avoid": [
+     "Een verlegen kind pushen om het nu meteen te doen.",
+     "Voor je kind het woord doen.",
+     "Een nee laten voelen als mislukking."
+    ],
+    "success": "Je kind vraagt een ander kind om te spelen.",
+    "ways": [
+     "Een neef of nicht vragen tijdens een familiebezoek.",
+     "Het vragen in de speeltuin.",
+     "Oefenen met handpoppen."
+    ]
+   },
+   "lose_calmly": {
+    "name": "Tegen je verlies kunnen",
+    "goal": "Verliest een spelletje en blijft redelijk rustig.",
+    "why": "Kunnen omgaan met verliezen helpt kinderen van spelletjes te genieten en vrienden te houden.",
+    "steps": [
+     "Speel een kort spelletje waarin geluk meespeelt, zoals een dobbelspel.",
+     "Spreek voor je begint af wat jullie aan het eind zeggen: \"Goed gespeeld.\"",
+     "Als jij verliest, laat het dan rustig zien: \"O, ik heb verloren. Het was leuk.\"",
+     "Als je kind verliest, benoem dan het gevoel: \"Je bent boos.\"",
+     "Bied nog een potje aan."
+    ],
+    "avoid": [
+     "Je kind elke keer laten winnen.",
+     "Je kind berispen omdat het van slag is.",
+     "Lange spelletjes als je kind moe is."
+    ],
+    "success": "Je kind zegt \"Goed gespeeld\" na het verliezen.",
+    "ways": [
+     "Kaartspelletjes na het avondeten.",
+     "Een wedstrijdje rennen in het park.",
+     "Een spelletjesavond met het gezin."
+    ]
+   },
+   "calm_breathing": {
+    "name": "Rustig ademhalen",
+    "goal": "Gebruikt langzame ademhalingen om tot rust te komen als het van streek is.",
+    "why": "Langzaam ademen helpt het lichaam te ontspannen. Zo krijgen kinderen een hulpmiddel dat ze overal kunnen gebruiken.",
+    "steps": [
+     "Oefen als je kind rustig is, niet als het van streek is.",
+     "Steek een hand op als \"verjaardagstaart\".",
+     "Ruik aan de bloemen: adem langzaam in door de neus.",
+     "Blaas de kaarsjes uit: adem langzaam uit door de mond.",
+     "Doe het samen 3 keer.",
+     "Herinner je kind eraan als het de volgende keer van streek is."
+    ],
+    "avoid": [
+     "Het aanleren tijdens een driftbui.",
+     "Snelle, diepe ademhalingen.",
+     "Het als straf gebruiken."
+    ],
+    "success": "Je kind haalt 3 keer langzaam adem met jou.",
+    "ways": [
+     "Ademhalen bij het slapengaan.",
+     "Langzaam bellen blazen.",
+     "Ademen als een slaperige hond."
+    ]
+   },
+   "three_step": {
+    "name": "Een opdracht in 3 stappen volgen",
+    "goal": "Volgt 3 eenvoudige opdrachten op volgorde.",
+    "why": "Stappen volgen traint geheugen en luisteren, en dat helpt op school en thuis.",
+    "steps": [
+     "Zorg eerst dat je de aandacht van je kind hebt.",
+     "Geef 3 eenvoudige stappen: \"Pak je schoenen, zet ze bij de deur en was dan je handen.\"",
+     "Vraag je kind ze te herhalen.",
+     "Laat je kind ze op volgorde uitvoeren.",
+     "Prijs elke stap die gelukt is."
+    ],
+    "avoid": [
+     "Stappen geven terwijl je kind met iets bezig is.",
+     "Te veel woorden.",
+     "De stappen steeds opnieuw herhalen."
+    ],
+    "success": "Je kind voert 3 stappen op volgorde uit.",
+    "ways": [
+     "Een opruimspelletje.",
+     "Commando met 3 bewegingen.",
+     "Een speurtocht met 3 aanwijzingen."
+    ]
+   },
+   "school_day": {
+    "name": "Vertellen over je schooldag",
+    "goal": "Vertelt je over iets wat er op school gebeurde.",
+    "why": "Praten over de dag traint taal en helpt je te weten hoe je kind zich voelt.",
+    "steps": [
+     "Wacht tot je kind iets gegeten en even uitgerust heeft.",
+     "Stel een concrete vraag: \"Met wie heb je vandaag gespeeld?\"",
+     "Vertel ook iets over je eigen dag.",
+     "Luister zonder op te lossen of te oordelen.",
+     "Stel nog één vraag over wat je kind vertelt."
+    ],
+    "avoid": [
+     "Alleen vragen \"Hoe was het op school?\"",
+     "Te veel vragen tegelijk.",
+     "Het meteen bij het ophalen vragen."
+    ],
+    "success": "Je kind vertelt je 1 ding over de eigen dag.",
+    "ways": [
+     "Kletsen op de wandeling naar huis.",
+     "Bij het avondeten een leuk en een minder leuk moment delen.",
+     "Praten tijdens het badderen."
+    ]
+   },
+   "tie_laces": {
+    "name": "Je veters strikken",
+    "goal": "Strikt langzaam een veter, zonder hulp.",
+    "why": "Veters strikken traint de vingers en maakt zelfstandig. Veel kinderen leren het tussen 6 en 8 jaar.",
+    "steps": [
+     "Oefen met de schoen op tafel, niet aan de voet.",
+     "Gebruik als het kan 2 veters in verschillende kleuren.",
+     "Laat langzaam het eerste kruisje en de knoop zien.",
+     "Maak 2 lussen als konijnenoren.",
+     "Kruis de lussen, steek er één onderdoor en trek aan.",
+     "Laat je kind elke stap na jou proberen."
+    ],
+    "avoid": [
+     "Oefenen op een drukke ochtend.",
+     "Korte of gladde veters.",
+     "Het overnemen als het langzaam gaat."
+    ],
+    "success": "Je kind strikt een strik zonder hulp.",
+    "ways": [
+     "Een strik op een cadeautje maken.",
+     "Een rijgkaart of schoenendoos met gaatjes.",
+     "Een schortlint strikken."
+    ]
+   },
+   "time_hour": {
+    "name": "Klokkijken: hele uren",
+    "goal": "Leest hele uren af op een klok met wijzers.",
+    "why": "Klokkijken helpt kinderen routines en plannen te begrijpen.",
+    "steps": [
+     "Gebruik een klok met wijzers, of teken er een op papier.",
+     "Laat de kleine wijzer voor de uren en de grote wijzer voor de minuten zien.",
+     "Zet de grote wijzer op de 12.",
+     "Verplaats de kleine wijzer en zeg: \"Het is 3 uur.\"",
+     "Laat je kind een tijd instellen en aflezen."
+    ],
+    "avoid": [
+     "Beginnen met de minuten.",
+     "Alleen digitale klokken.",
+     "Lang oefenen."
+    ],
+    "success": "Je kind leest 3 hele uren goed af.",
+    "ways": [
+     "Bij de lunch op de klok kijken.",
+     "Een klok van een papieren bordje maken.",
+     "Bedtijd om 7 uur op de klok."
+    ]
+   },
+   "add_take_10": {
+    "name": "Optellen en aftrekken tot 10",
+    "goal": "Telt kleine getallen op en trekt ze af tot 10.",
+    "why": "Optellen en aftrekken geven getalbegrip dat je kind elke dag gebruikt.",
+    "steps": [
+     "Leg 10 kleine voorwerpen op tafel, zoals stukjes pasta.",
+     "Maak een groepje van 6 en haal er 2 weg.",
+     "Vraag: \"Hoeveel zijn er over?\"",
+     "Doe er dan 3 bij en vraag: \"Hoeveel zijn het er nu?\"",
+     "Laat je kind een som voor jou maken."
+    ],
+    "avoid": [
+     "Sommen op papier zonder voorwerpen.",
+     "Je kind klokken.",
+     "Te snel getallen boven de 10."
+    ],
+    "success": "Je kind lost 3 sommen tot 10 op.",
+    "ways": [
+     "Druiven optellen en opeten bij het tussendoortje.",
+     "Vingersommen tijdens een wandeling.",
+     "Speelgoed uit een doos weghalen."
+    ]
+   },
+   "write_sentence": {
+    "name": "Een korte zin schrijven",
+    "goal": "Schrijft een korte zin met een hoofdletter en een punt.",
+    "why": "Een zin schrijven maakt van ideeën woorden. Het helpt bij spellen en geeft zelfvertrouwen.",
+    "steps": [
+     "Vraag je kind eerst een zin hardop te zeggen, zoals \"Ik hou van katten.\"",
+     "Tel de woorden op je vingers.",
+     "Laat je kind de zin opschrijven en elk woord verklanken.",
+     "Herinner je kind eraan: een hoofdletter aan het begin, een punt aan het eind.",
+     "Lees de zin samen terug."
+    ],
+    "avoid": [
+     "Elke spelfout verbeteren.",
+     "In het begin lange zinnen.",
+     "Alleen overschrijven, zonder eigen ideeën."
+    ],
+    "success": "Je kind schrijft een zin van 3 woorden.",
+    "ways": [
+     "Een briefje aan opa of oma schrijven.",
+     "Iets op het boodschappenlijstje schrijven.",
+     "Een onderschrift bij een tekening."
+    ]
+   },
+   "grow_plant": {
+    "name": "Een plant kweken",
+    "goal": "Plant een zaadje en zorgt ervoor.",
+    "why": "Een plant kweken leert zorgzaamheid, geduld en hoe levende dingen groeien.",
+    "steps": [
+     "Kies een snel zaadje, zoals tuinkers of een boon.",
+     "Vul een potje of beker met aarde, of gebruik vochtige watten.",
+     "Laat je kind het zaadje erin drukken en toedekken.",
+     "Zet het bij een raam.",
+     "Kijk er elke dag samen naar en geef een beetje water als het droog is."
+    ],
+    "avoid": [
+     "Te veel water.",
+     "Langzame zaden die het geduld op de proef stellen.",
+     "Planten die niet veilig zijn om aan te raken of op te eten."
+    ],
+    "success": "Je kind plant een zaadje en geeft het een week lang water.",
+    "ways": [
+     "Tuinkers kweken voor op een boterham.",
+     "Een boon in een glazen pot, zodat je de wortels ziet.",
+     "De plant elke week tekenen."
+    ]
+   },
+   "build_instructions": {
+    "name": "Bouwen volgens instructies",
+    "goal": "Bouwt een eenvoudig model door stappen met plaatjes te volgen.",
+    "why": "Stappen met plaatjes volgen traint concentratie, plannen en problemen oplossen.",
+    "steps": [
+     "Kies een eenvoudig model met weinig stappen.",
+     "Sorteer de onderdelen voordat jullie beginnen.",
+     "Bekijk samen stap 1.",
+     "Laat je kind de onderdelen zoeken en bouwen.",
+     "Help alleen als je kind erom vraagt."
+    ],
+    "avoid": [
+     "Piepkleine onderdelen in de buurt van baby's of peuters.",
+     "Modellen met te veel stappen.",
+     "Fouten herstellen voor je kind."
+    ],
+    "success": "Je kind bouwt alleen 3 stappen.",
+    "ways": [
+     "Met blokken bouwen naar een plaatjeskaart.",
+     "Een papieren bootje vouwen aan de hand van getekende stappen.",
+     "Een blokkentoren nabouwen die jij gemaakt hebt."
+    ]
+   },
+   "know_coins": {
+    "name": "De munten kennen",
+    "goal": "Benoemt de munten en weet welke meer waard zijn.",
+    "why": "Munten kennen is een eerste stap naar omgaan met geld en sparen.",
+    "steps": [
+     "Leg een paar verschillende munten neer.",
+     "Bekijk ze een voor een en zeg wat ze waard zijn.",
+     "Sorteer ze samen op kleur of grootte.",
+     "Leg ze op volgorde van minst naar meest waard.",
+     "Vraag je kind een munt te zoeken die jij noemt."
+    ],
+    "avoid": [
+     "Munten in de buurt van baby's of peuters, die ze kunnen inslikken.",
+     "Te veel munten tegelijk.",
+     "Denken dat grotere munten altijd meer waard zijn."
+    ],
+    "success": "Je kind benoemt 3 munten en wat ze waard zijn.",
+    "ways": [
+     "Thuis winkeltje spelen.",
+     "Munten sorteren in een spaarpot.",
+     "Munten zoeken in een portemonnee."
+    ]
+   },
+   "make_sandwich": {
+    "name": "Een boterham klaarmaken",
+    "goal": "Maakt met een beetje hulp een eenvoudige belegde boterham.",
+    "why": "Eten klaarmaken maakt zelfstandig en trots, en is een eerste stap naar koken.",
+    "steps": [
+     "Was eerst samen je handen.",
+     "Zet brood, iets zachts om te smeren en eenvoudig beleg klaar.",
+     "Laat je kind het brood smeren met een bot mes.",
+     "Doe het beleg erop en leg de bovenste snee erop.",
+     "Snijd hem zelf, of laat je kind snijden met een kindermes.",
+     "Eet hem samen lekker op."
+    ],
+    "avoid": [
+     "Scherpe messen.",
+     "Beleg dat verwarmd moet worden.",
+     "Je druk maken over rommel."
+    ],
+    "success": "Je kind maakt met weinig hulp een boterham klaar.",
+    "ways": [
+     "Een boterham voor in de broodtrommel maken.",
+     "Een picknick in de tuin.",
+     "Een boterham maken voor een familielid."
+    ]
+   },
+   "set_table": {
+    "name": "De tafel dekken",
+    "goal": "Zet borden, bekers en bestek klaar voor een maaltijd.",
+    "why": "De tafel dekken traint tellen, ordenen en behulpzaamheid.",
+    "steps": [
+     "Tel hoeveel mensen er mee-eten.",
+     "Geef je kind onbreekbare borden en bekers.",
+     "Laat zien waar de vork en het mes liggen.",
+     "Laat je kind eerst één plek dekken, daarna de rest.",
+     "Bedank je kind tijdens het eten."
+    ],
+    "avoid": [
+     "Glazen of zware borden.",
+     "Scherpe messen.",
+     "Achteraf elke plek verbeteren."
+    ],
+    "success": "Je kind dekt de tafel voor het gezin.",
+    "ways": [
+     "Een picknickkleed klaarleggen.",
+     "Een tafel dekken voor knuffels.",
+     "Servetten neerleggen voor gasten."
+    ]
+   },
+   "swim_10m": {
+    "name": "10 meter zwemmen",
+    "goal": "Zwemt 10 meter zonder te stoppen, in een zwembad met toezicht.",
+    "why": "Een korte afstand zwemmen geeft zelfvertrouwen in het water. Het is een belangrijke stap naar meer veiligheid in en bij het water.",
+    "steps": [
+     "Kies een zwembad met toezicht van een badmeester, of een zwemles.",
+     "Ga het water in en blijf binnen handbereik van je kind.",
+     "Begin met 3 meter, van jou naar de kant.",
+     "Doe elke keer dat je kind bij je is een stapje achteruit.",
+     "Tel samen de slagen en prijs elke poging."
+    ],
+    "avoid": [
+     "Oefenen in meren, rivieren of de zee.",
+     "Op je telefoon kijken terwijl je kind in het water is.",
+     "Doorgaan als je kind het koud heeft of moe is."
+    ],
+    "success": "Je kind zwemt 10 meter zonder te stoppen of te gaan staan.",
+    "ways": [
+     "Tijdens zwemles een breedte van het bad zwemmen.",
+     "Naar jou toe zwemmen terwijl jij langzaam achteruitloopt.",
+     "De slagen tellen van de ene kant naar de andere."
+    ]
+   },
+   "throw_target": {
+    "name": "Bovenhands naar een doel gooien",
+    "goal": "Gooit een bal bovenhands en raakt een doel op een paar meter afstand.",
+    "why": "Bij een bovenhandse worp doet het hele lichaam mee. Het traint coördinatie, mikken en vaardigheden die je kind bij veel sporten nodig heeft.",
+    "steps": [
+     "Zet een doel neer, zoals een emmer of een krijtcirkel op een muur.",
+     "Zet je kind zijwaarts neer, op ongeveer 3 meter afstand.",
+     "Doe de worp één keer voor: wijs naar het doel, stap met de andere voet naar voren, gooi.",
+     "Laat je kind 10 keer gooien met een zachte bal.",
+     "Zet het doel dichterbij als het te moeilijk is.",
+     "Prijs een goede techniek, niet alleen de treffers."
+    ],
+    "avoid": [
+     "Harde ballen binnen of bij ramen.",
+     "In het begin doelen die te ver weg staan.",
+     "Elke worp verbeteren."
+    ],
+    "success": "Je kind raakt met een bovenhandse worp 3 van de 10 keer het doel.",
+    "ways": [
+     "Opgerolde sokken in een wasmand gooien.",
+     "Een toren van plastic bekers omgooien.",
+     "In het park een bal door een hoepel gooien."
+    ]
+   },
+   "bike_brake_signal": {
+    "name": "Remmen en richting aangeven op de fiets",
+    "goal": "Stopt op een afgesproken plek en steekt een arm uit om richting aan te geven, uit de buurt van wegen.",
+    "why": "Goed remmen en met één hand fietsen zijn vaardigheden die een kind nodig heeft voordat het in de buurt van verkeer fietst.",
+    "steps": [
+     "Controleer voor elke rit of de helm goed past en de remmen werken.",
+     "Zoek een vlakke, open plek uit de buurt van wegen, zoals een pad in het park of een leeg schoolplein.",
+     "Trek een lijn en vraag je kind met beide remmen bij de lijn te stoppen.",
+     "Oefen over één schouder kijken terwijl je kind rechtdoor fietst.",
+     "Oefen even één hand van het stuur halen om naar links of rechts te wijzen.",
+     "Blijf dichtbij en houd elke poging kort."
+    ],
+    "avoid": [
+     "Oefenen op wegen of drukke paden.",
+     "Fietsen zonder helm.",
+     "Lange stukken met één hand fietsen voordat je kind stevig fietst."
+    ],
+    "success": "Je kind stopt bij de lijn en geeft met één arm richting aan zonder te wiebelen.",
+    "ways": [
+     "Een stop-en-gaspelletje waarbij jij het teken roept.",
+     "Een rondje fietsen en bij elke hoek richting aangeven.",
+     "Stoppen op een krijtlijn, eerst langzaam en dan wat sneller."
+    ]
+   },
+   "animal_yoga": {
+    "name": "Dierenyoga",
+    "goal": "Houdt 4 dierenyogahoudingen vast en gaat rustig van de ene naar de andere.",
+    "why": "Yogahoudingen trainen evenwicht, kracht en lichaamsbewustzijn. Langzaam ademen in elke houding kan een kind helpen zich rustig te voelen.",
+    "steps": [
+     "Maak een plek op de vloer vrij of gebruik een zachte mat.",
+     "Laat één houding tegelijk zien: hond, kat, cobra en flamingo op één been.",
+     "Houd elke houding samen 3 langzame ademhalingen vast.",
+     "Laat je kind het volgende dier kiezen.",
+     "Sluit af met even stil liggen om uit te rusten."
+    ],
+    "avoid": [
+     "Je kind verder in een rekoefening duwen.",
+     "Oefenen vlak na een grote maaltijd.",
+     "Er een wedstrijd van maken."
+    ],
+    "success": "Je kind houdt 4 houdingen elk 3 ademhalingen vast.",
+    "ways": [
+     "Een verhaal verzinnen met elk dier erin.",
+     "Voor elke houding het geluid van het dier maken.",
+     "Een korte, rustige sessie voor het slapengaan."
+    ]
+   },
+   "read_expression": {
+    "name": "Met expressie voorlezen",
+    "goal": "Leest een kort stukje hardop voor en past de stem aan het verhaal aan.",
+    "why": "Met expressie lezen laat zien dat je kind de woorden begrijpt. Het geeft ook zelfvertrouwen bij het spreken voor anderen.",
+    "steps": [
+     "Kies een korte bladzijde die je kind al goed kan lezen.",
+     "Lees zelf één regel met een blije, bange of boze stem.",
+     "Vraag je kind de volgende regel te lezen met een stem die past.",
+     "Wijs op vraagtekens en aanhalingstekens als hints.",
+     "Wissel af en lees om de beurt tot het eind van de bladzijde."
+    ],
+    "avoid": [
+     "Boeken die te moeilijk zijn om vlot te lezen.",
+     "Elk klein foutje verbeteren.",
+     "Lachen om een stem die je kind probeert."
+    ],
+    "success": "Je kind past de stem aan voor minstens 2 personages of gevoelens.",
+    "ways": [
+     "Een verhaaltje voor het slapengaan voorlezen aan een jonger kind of een knuffel.",
+     "Samen een stripverhaal naspelen.",
+     "Een bladzijde opnemen en terugluisteren."
+    ]
+   },
+   "thank_you_card": {
+    "name": "Een bedankkaart schrijven",
+    "goal": "Schrijft in eigen woorden een korte bedankkaart.",
+    "why": "Schriftelijk bedanken traint tegelijk vriendelijkheid en schrijfvaardigheid.",
+    "steps": [
+     "Vouw samen een vel papier tot een kaart.",
+     "Praat over voor wie de kaart is en wat die persoon gedaan heeft.",
+     "Help je kind 2 zinnen te bedenken: bedankt voor, en waarom het zo leuk was.",
+     "Laat je kind schrijven, terwijl jij moeilijke woorden hardop spelt.",
+     "Voeg een tekening toe en zet aan het eind de naam van je kind eronder."
+    ],
+    "avoid": [
+     "De kaart voor je kind schrijven.",
+     "Een perfecte spelling verlangen.",
+     "Lange kaarten die een karwei worden."
+    ],
+    "success": "Je kind schrijft 2 zinnen en zet de eigen naam eronder.",
+    "ways": [
+     "Een kaart voor de juf of meester aan het eind van het schooljaar.",
+     "Een briefje voor opa of oma na een bezoek.",
+     "Een bedankje na een verjaardagscadeau."
+    ]
+   },
+   "talk_worries": {
+    "name": "Praten over zorgen",
+    "goal": "Benoemt een zorg en praat er met jou over.",
+    "why": "Veel kinderen maken zich op deze leeftijd zorgen. Een zorg hardop uitspreken maakt die vaak kleiner, en je kind leert dat het bij jou terechtkan.",
+    "steps": [
+     "Kies een rustig moment, zoals een wandeling of bedtijd.",
+     "Vertel eerst zelf over een kleine zorg.",
+     "Vraag: zit je vandaag ergens mee?",
+     "Luister zonder het meteen op te lossen.",
+     "Vraag wat zou kunnen helpen en maak samen een klein plan."
+    ],
+    "avoid": [
+     "Zeggen dat er niets is om je zorgen over te maken.",
+     "Veel vragen tegelijk stellen.",
+     "Alleen bij het slapengaan over zorgen praten."
+    ],
+    "success": "Je kind benoemt een zorg en bedenkt 1 ding dat zou kunnen helpen.",
+    "ways": [
+     "Een zorgendoos waar je kind briefjes in stopt die jullie samen lezen.",
+     "De zorg tekenen en over de tekening praten.",
+     "De zorg voor en na het gesprek een cijfer geven van 1 tot 5."
+    ]
+   },
+   "friend_problem": {
+    "name": "Een probleem met een vriendje oplossen",
+    "goal": "Bedenkt ideeën om een klein probleem met een vriendje op te lossen.",
+    "why": "Vriendschappen worden op deze leeftijd steeds belangrijker. Kleine problemen oplossen helpt je kind vrienden te houden en zich bekwaam te voelen.",
+    "steps": [
+     "Vraag je kind te vertellen over een klein probleem dat het onlangs met een vriendje had.",
+     "Help je kind te zeggen wat er gebeurde en hoe iedereen zich voelde.",
+     "Bedenk samen 3 ideeën om het beter te maken.",
+     "Laat je kind het idee kiezen dat het het best vindt.",
+     "Oefen wat je kind zou kunnen zeggen, met jou als het vriendje."
+    ],
+    "avoid": [
+     "Het probleem voor je kind oplossen.",
+     "Het vriendje de schuld geven.",
+     "Een groot of heel naar probleem kiezen om mee te oefenen."
+    ],
+    "success": "Je kind bedenkt 1 idee en oefent wat het kan zeggen.",
+    "ways": [
+     "Met 2 speeltjes een probleem naspelen.",
+     "Praten over een probleem in een verhalenboek.",
+     "Na school even vragen hoe het idee uitpakte."
+    ]
+   },
+   "explain_rules": {
+    "name": "De regels van een spel uitleggen",
+    "goal": "Legt een eenvoudig spel zo duidelijk uit dat iemand anders het kan spelen.",
+    "why": "Regels uitleggen traint duidelijk spreken, ordenen en nadenken over wat een ander moet weten.",
+    "steps": [
+     "Kies een spel dat je kind goed kent.",
+     "Vraag je kind het je te leren alsof je het nog nooit gespeeld hebt.",
+     "Vraag: hoe begin je, wat doe je als je aan de beurt bent, hoe win je?",
+     "Volg de regels precies zoals je kind ze zegt.",
+     "Speel een kort potje om de regels te testen."
+    ],
+    "avoid": [
+     "Helpen voordat je kind het geprobeerd heeft.",
+     "Spellen met veel ingewikkelde regels.",
+     "Kleine details verbeteren die er niet toe doen."
+    ],
+    "success": "Je kind legt uit hoe je begint, een beurt speelt en wint.",
+    "ways": [
+     "Een spel leren aan opa, oma of een vriendje.",
+     "Een nieuw spel verzinnen en het uitleggen.",
+     "Bij het avondeten een spel van het schoolplein uitleggen."
+    ]
+   },
+   "say_why": {
+    "name": "Zeggen wat je denkt en waarom",
+    "goal": "Geeft een mening en voegt er een reden aan toe met het woord omdat.",
+    "why": "Redenen geven traint denken en spreken. Het helpt je kind ook om met zelfvertrouwen de eigen mening te delen.",
+    "steps": [
+     "Stel een leuke vraag, zoals welk seizoen het leukst is.",
+     "Geef zelf een antwoord met een reden: ik vind de winter leuk omdat.",
+     "Vraag je kind om een antwoord en een reden.",
+     "Vraag: kun je nog een reden bedenken?",
+     "Bedank je kind voor het delen, ook als jij er anders over denkt."
+    ],
+    "avoid": [
+     "Zeggen dat een mening fout is.",
+     "Vragen met een goed of fout antwoord.",
+     "Je kind opjagen om te antwoorden."
+    ],
+    "success": "Je kind geeft een mening met 1 duidelijke reden.",
+    "ways": [
+     "Praten over het leukste en minst leuke deel van een film.",
+     "Een avondmaaltijd kiezen en zeggen waarom.",
+     "Met redenen stemmen over een plan voor het weekend."
+    ]
+   },
+   "times_2_5_10": {
+    "name": "De tafels van 2, 5 en 10",
+    "goal": "Telt in sprongen van 2, 5 en 10 en kent een paar sommen uit deze tafels.",
+    "why": "Deze 3 tafels zijn de basis voor de andere tafels. Ze helpen ook bij geld en klokkijken.",
+    "steps": [
+     "Begin met samen in sprongen van 10 tellen terwijl jullie klappen.",
+     "Tel op dezelfde manier in sprongen van 5 en 2.",
+     "Gebruik echte dingen, zoals paren sokken voor de 2 of vingers voor de 5.",
+     "Stel een paar snelle vragen, zoals 3 keer 5.",
+     "Prijs elk antwoord en geef zo nodig vriendelijk het goede antwoord."
+    ],
+    "avoid": [
+     "Lange stampsessies die als een toets voelen.",
+     "Verdergaan voordat tellen in sprongen makkelijk gaat.",
+     "Vergelijken met andere kinderen."
+    ],
+    "success": "Je kind telt in sprongen van 2, 5 en 10 en beantwoordt 3 vragen.",
+    "ways": [
+     "Op elke traptree in sprongen van 2 tellen.",
+     "Munten tellen in sprongen van 5 en 10.",
+     "De tafels zingen op een wijsje dat jullie allebei kennen."
+    ]
+   },
+   "half_quarter": {
+    "name": "Half en kwart over",
+    "goal": "Leest halve uren en kwart over af op een klok met wijzers.",
+    "why": "Klokkijken helpt je kind de dag te begrijpen en traint rekenvaardigheid.",
+    "steps": [
+     "Gebruik een klok met wijzers, of teken er een op papier.",
+     "Controleer eerst of je kind hele uren kan aflezen.",
+     "Laat zien dat de grote wijzer op de 6 betekent dat het half is, zoals half 4.",
+     "Laat zien dat de grote wijzer op de 3 kwart over betekent.",
+     "Zet de klok op een paar tijden en laat je kind ze aflezen."
+    ],
+    "avoid": [
+     "Alleen digitale klokken gebruiken.",
+     "Kwart voor erbij nemen voordat half makkelijk gaat.",
+     "Lange sessies die je kind vermoeien."
+    ],
+    "success": "Je kind leest 3 tijden goed af, met half en kwart over.",
+    "ways": [
+     "Op echte momenten op de klok kijken, zoals bij het badderen.",
+     "Samen een klok van een papieren bordje maken.",
+     "Om de beurt een tijd instellen die de ander afleest."
+    ]
+   },
+   "read_calendar": {
+    "name": "Een kalender lezen",
+    "goal": "Vindt de datum van vandaag en telt op een kalender de dagen tot een gebeurtenis.",
+    "why": "Een kalender helpt je kind weken en maanden te begrijpen. Het maakt wachten op iets leuks ook makkelijker.",
+    "steps": [
+     "Gebruik een papieren kalender of teken één maand op papier.",
+     "Zoek samen vandaag op en zeg de dag, datum en maand.",
+     "Markeer iets waar je kind naar uitkijkt.",
+     "Tel samen de dagen tot dat moment.",
+     "Streep elke dag door als die voorbij is."
+    ],
+    "avoid": [
+     "Te veel gebeurtenissen tegelijk markeren.",
+     "Kalenders met piepkleine letters.",
+     "Je kind alle maanden tegelijk overhoren."
+    ],
+    "success": "Je kind vindt vandaag en telt de dagen tot een gebeurtenis.",
+    "ways": [
+     "Verjaardagen in de familie aanstrepen.",
+     "De weken tot een vakantie tellen.",
+     "Elke dag het weer invullen."
+    ]
+   },
+   "measure_ruler": {
+    "name": "Meten met een liniaal",
+    "goal": "Meet een kort voorwerp met een liniaal tot op de centimeter.",
+    "why": "Meten traint getalbegrip en een zorgvuldige controle over de hand. Het is ook handig bij knutselen en koken.",
+    "steps": [
+     "Laat zien waar de 0 op de liniaal staat, want die staat niet altijd helemaal aan het eind.",
+     "Leg de 0 tegen één kant van een voorwerp, zoals een potlood.",
+     "Lees samen het getal aan de andere kant af.",
+     "Laat je kind nog 3 voorwerpen alleen meten.",
+     "Schrijf de lengtes op en zoek de langste."
+    ],
+    "avoid": [
+     "Beginnen bij de rand van de liniaal in plaats van bij 0.",
+     "In het begin voorwerpen die langer zijn dan de liniaal.",
+     "Verbeteren voordat je kind zelf nog eens gekeken heeft."
+    ],
+    "success": "Je kind meet 3 voorwerpen tot op de centimeter.",
+    "ways": [
+     "Vingers en voeten van het gezin meten.",
+     "Blaadjes meten die je tijdens een wandeling vindt.",
+     "Een lijn van een bepaalde lengte tekenen."
+    ]
+   },
+   "spot_pattern": {
+    "name": "Het patroon ontdekken",
+    "goal": "Vindt wat er hierna komt in een patroon van vormen of getallen.",
+    "why": "Patronen ontdekken traint de denkvaardigheden achter rekenen, lezen en problemen oplossen.",
+    "steps": [
+     "Maak een eenvoudig patroon met voorwerpen, zoals lepel, vork, lepel, vork.",
+     "Vraag wat er hierna komt.",
+     "Probeer een moeilijker patroon, zoals rood, rood, blauw, rood, rood.",
+     "Probeer een getallenpatroon, zoals 2, 4, 6.",
+     "Laat je kind een patroon maken dat jij moet oplossen."
+    ],
+    "avoid": [
+     "In het begin te lange patronen.",
+     "Te snel het antwoord geven.",
+     "Het als een toets laten voelen."
+    ],
+    "success": "Je kind maakt 2 patronen af en bedenkt er zelf 1.",
+    "ways": [
+     "Kralen in een patroon rijgen.",
+     "Patronen zoeken in tegels en hekken.",
+     "Een ritme klappen en het nadoen."
+    ]
+   },
+   "pay_shop": {
+    "name": "Betalen in een winkel",
+    "goal": "Betaalt een klein artikel aan de kassa, met jou ernaast.",
+    "why": "Betalen geeft zelfvertrouwen, geldbesef en oefent beleefd praten met volwassenen.",
+    "steps": [
+     "Kies een klein artikel en een rustige winkel.",
+     "Geef je kind gepast geld of iets meer.",
+     "Oefen voor je naar binnen gaat wat je kind gaat zeggen.",
+     "Sta naast je kind terwijl het betaalt.",
+     "Herinner je kind eraan op het wisselgeld te wachten en dankjewel te zeggen."
+    ],
+    "avoid": [
+     "Drukke momenten met lange rijen.",
+     "Aan de kassa het woord doen voor je kind.",
+     "Grote bedragen."
+    ],
+    "success": "Je kind geeft het geld, wacht op het wisselgeld en zegt dankjewel.",
+    "ways": [
+     "Brood kopen bij een winkel in de buurt.",
+     "Iets lekkers betalen bij een marktkraam.",
+     "Eerst thuis oefenen met een speelwinkeltje."
+    ]
+   },
+   "count_change": {
+    "name": "Het wisselgeld tellen",
+    "goal": "Rekent met munten eenvoudig wisselgeld uit bij kleine bedragen.",
+    "why": "Wisselgeld tellen traint rekenen en helpt je kind begrijpen dat geld wordt uitgegeven en dat je er een deel van terugkrijgt.",
+    "steps": [
+     "Zet een speelwinkeltje op met een paar artikelen en prijskaartjes.",
+     "Gebruik echte munten en houd de prijzen laag.",
+     "Laat je kind iets kopen en betalen met een grotere munt.",
+     "Tel samen op van de prijs tot de munt waarmee betaald is.",
+     "Wissel van rol, zodat je kind jou wisselgeld geeft."
+    ],
+    "avoid": [
+     "In het begin prijzen waar veel munten voor nodig zijn.",
+     "Eerst oefenen in een drukke, echte winkel.",
+     "De sommen voor je kind maken."
+    ],
+    "success": "Je kind rekent bij 2 kleine aankopen het wisselgeld goed uit.",
+    "ways": [
+     "Na echte boodschappen samen het wisselgeld nakijken.",
+     "Een caféspel met een menukaart en prijzen.",
+     "Munten sorteren en tot een bepaald bedrag tellen."
+    ]
+   },
+   "follow_recipe": {
+    "name": "Een eenvoudig recept volgen",
+    "goal": "Volgt stap voor stap een kort recept waarvoor niet gekookt hoeft te worden.",
+    "why": "Een recept volgen traint lezen, afmeten en plannen. Kinderen proeven ook eerder eten dat ze zelf gemaakt hebben.",
+    "steps": [
+     "Kies een recept zonder koken, zoals fruitsalade of yoghurtbekertjes.",
+     "Was eerst samen je handen.",
+     "Lees elke stap samen hardop voor je hem uitvoert.",
+     "Laat je kind de ingrediënten verzamelen, afmeten en mengen.",
+     "Gebruik een kindermes voor zacht fruit, met jou ernaast.",
+     "Ruim aan het eind samen op."
+    ],
+    "avoid": [
+     "Je kind met scherpe messen of iets heets laten werken.",
+     "Lange recepten met veel stappen.",
+     "Kleine foutjes verbeteren die er niet toe doen."
+    ],
+    "success": "Je kind volgt elke stap van het recept op volgorde.",
+    "ways": [
+     "Een smoothie maken, waarbij jij de blender bedient.",
+     "Een bordje met fruit en kaas maken naar een foto.",
+     "Overnight oats klaarzetten voor het ontbijt."
+    ]
+   },
+   "sew_button": {
+    "name": "Een knoop aannaaien",
+    "goal": "Naait met jouw hulp een grote knoop op een stuk stof.",
+    "why": "Naaien traint fijne controle over de vingers, geduld en een handige vaardigheid voor later.",
+    "steps": [
+     "Gebruik een grote knoop, vilt en een grote naald met een stompe punt.",
+     "Rijg de draad in de naald en leg voor je kind een knoopje aan het eind.",
+     "Laat zien hoe je de naald door het ene gaatje omhoog en door het andere omlaag steekt.",
+     "Laat je kind dit 4 of 5 keer herhalen.",
+     "Help de draad aan de achterkant af te hechten.",
+     "Steek de naald meteen in een speldenkussen of doosje."
+    ],
+    "avoid": [
+     "Scherpe, dunne naalden.",
+     "Naalden op tafel of op de grond laten liggen.",
+     "Dunne stof die gaat rimpelen en frustreert."
+    ],
+    "success": "Je kind naait een knoop aan met minstens 4 steken.",
+    "ways": [
+     "Een knoop als oog op een vilten handpop naaien.",
+     "Oefenen op een oud overhemd.",
+     "2 knopen aannaaien om een gezichtje te maken."
+    ]
+   },
+   "fold_laundry": {
+    "name": "Was opvouwen en opruimen",
+    "goal": "Vouwt eenvoudige kleren op en legt ze in de goede la.",
+    "why": "Helpen met de was leert je kind verantwoordelijkheid en geeft het een echte rol in het gezin.",
+    "steps": [
+     "Begin met makkelijke dingen, zoals handdoeken en T-shirts.",
+     "Laat langzaam, stap voor stap, één keer vouwen zien.",
+     "Laat je kind het volgende stuk alleen vouwen.",
+     "Zoek samen de sokken bij elkaar.",
+     "Vraag je kind de eigen kleren in de goede laden te leggen."
+    ],
+    "avoid": [
+     "Het werk van je kind waar het bij is opnieuw vouwen.",
+     "Grote stapels die eindeloos lijken.",
+     "Vouwen verwachten zoals in de winkel."
+    ],
+    "success": "Je kind vouwt 5 stukken op en ruimt ze op.",
+    "ways": [
+     "Theedoeken vouwen voor de keuken.",
+     "Een wedstrijdje tegen een lievelingsliedje.",
+     "Schone was sorteren per gezinslid."
+    ]
+   },
+   "tread_water": {
+    "name": "Drijven, watertrappelen en eruit klimmen",
+    "goal": "Drijft op de rug, watertrappelt even en klimt bij de kant uit het water, in een zwembad met toezicht.",
+    "why": "Drijven en watertrappelen helpen een kind rustig te blijven en het hoofd boven water te houden. Dit zijn belangrijke vaardigheden voor veiligheid in het water.",
+    "steps": [
+     "Oefen alleen in een zwembad met toezicht of tijdens zwemles, met jou in het water.",
+     "Help je kind achterover te liggen als een ster, met de oren in het water en rustig ademend.",
+     "Laat je kind zich daarna aan de kant vasthouden en kleine rondjes maken met de handen en zacht trappelen met de benen.",
+     "Laat je kind loslaten terwijl jullie tot 10 tellen, met jou binnen armlengte, en zich dan weer aan de kant vasthouden.",
+     "Laat zien hoe je eruit klimt: handen op de rand, omhoog drukken, eerst een elleboog en dan een knie op de kant."
+    ],
+    "avoid": [
+     "Oefenen in meren, rivieren of de zee.",
+     "Spelletjes waarbij iemand onder water wordt geduwd of gehouden.",
+     "Doorgaan als je kind het koud heeft, moe of bang is."
+    ],
+    "success": "Je kind drijft 10 seconden, watertrappelt 10 seconden en klimt bij de kant uit het water.",
+    "ways": [
+     "Een sterdrijfwedstrijd: wie blijft het langst rustig?",
+     "Watertrappelen terwijl je hardop tot 10 telt.",
+     "Oefenen tijdens zwemles en je daarna laten zien wat je kind geleerd heeft."
+    ]
+   },
+   "sport_move": {
+    "name": "Een sportbeweging leren",
+    "goal": "Oefent één beweging uit een sport tot die soepel voelt.",
+    "why": "Een sportbeweging leren traint coördinatie en geeft zelfvertrouwen. Actief spelen helpt kinderen aan minstens 60 minuten beweging per dag te komen.",
+    "steps": [
+     "Laat je kind een sport kiezen die het leuk vindt.",
+     "Kies één beweging, zoals een pass met de binnenkant van de voet.",
+     "Deel hem op in 2 of 3 kleine stukjes en laat elk stukje zien.",
+     "Oefen 10 keer langzaam en dan iets sneller.",
+     "Prijs één ding dat beter ging."
+    ],
+    "avoid": [
+     "Alles tegelijk verbeteren.",
+     "Harde ballen bij ramen of wegen.",
+     "Vergelijken met oudere kinderen of teamgenoten."
+    ],
+    "success": "Je kind doet de beweging 5 keer achter elkaar met een goede techniek.",
+    "ways": [
+     "In het park een bal naar elkaar passen.",
+     "Een bal met een stuit tegen een muur passen.",
+     "Met een racket een zachte bal over een lijn slaan."
+    ]
+   },
+   "road_ride": {
+    "name": "Fietsen op een rustige weg met een volwassene",
+    "goal": "Fietst een kort stuk over een rustige weg, met een volwassene die vlak erachter fietst.",
+    "why": "Met een volwassene op een rustige weg fietsen bouwt stap voor stap verkeersinzicht op. Kinderen leren verkeer pas langzaam inschatten, over meerdere jaren.",
+    "steps": [
+     "Begin pas als je kind op een plek ver van wegen zelfverzekerd kan remmen, richting aangeven en achterom kijken.",
+     "Controleer voor vertrek de helm, de remmen en de banden.",
+     "Kies een heel rustige weg bij daglicht en volg de plaatselijke regels.",
+     "Fiets vlak achter je kind en geef korte, duidelijke aanwijzingen.",
+     "Oefen wegrijden, in een rechte lijn fietsen en stoppen als jij het zegt.",
+     "Houd de eerste rit kort en stop op een goed moment."
+    ],
+    "avoid": [
+     "Drukke wegen en kruispunten.",
+     "Fietsen zonder helm.",
+     "Fietsen in het donker, in de regen of bij mist."
+    ],
+    "success": "Je kind fietst een kort stuk over een rustige weg in een rechte lijn en stopt als je erom vraagt.",
+    "ways": [
+     "Op een rustige ochtend een kort rondje bij huis fietsen.",
+     "Oefenen met stoppen bij een geparkeerde auto en achterom kijken.",
+     "Meedoen aan een fietscursus voor kinderen in de buurt."
+    ]
+   },
+   "skip_20": {
+    "name": "20 keer achter elkaar touwtjespringen",
+    "goal": "Draait een touw rond en springt 20 keer zonder te stoppen.",
+    "why": "Touwtjespringen traint timing, uithoudingsvermogen en coördinatie. Het is een snelle manier om overal actief te zijn.",
+    "steps": [
+     "Controleer de lengte van het touw: als je kind in het midden staat, komen de handvatten tot de oksels.",
+     "Zoek een vlakke plek buiten of een ruimte met een hoog plafond.",
+     "Oefen kleine sprongetjes op de voorvoeten.",
+     "Tel samen elke sprong hardop.",
+     "Rust na elke poging en probeer het eigen record te verbeteren."
+    ],
+    "avoid": [
+     "Harde of gladde vloeren.",
+     "Touwen die te lang of te kort zijn.",
+     "Doorgaan als je kind moe is."
+    ],
+    "success": "Je kind springt 20 keer achter elkaar touwtje.",
+    "ways": [
+     "Touwtjespringen op een springversje.",
+     "Touwtjespringen terwijl je in sprongen van 2 telt.",
+     "Om de beurt springen en elkaar aanmoedigen."
+    ]
+   },
+   "chapter_book": {
+    "name": "Een boek met hoofdstukken lezen",
+    "goal": "Leest alleen een kort boek met hoofdstukken, één hoofdstuk per keer.",
+    "why": "Langere boeken lezen traint concentratie en verbeelding en laat je kind van verhalen houden. De woordenschat groeit er ook snel door.",
+    "steps": [
+     "Laat je kind een kort boek met hoofdstukken kiezen waar het enthousiast over is.",
+     "Lees samen het eerste hoofdstuk om op gang te komen.",
+     "Laat je kind het volgende hoofdstuk alleen lezen.",
+     "Vraag wat er gebeurde en wat er misschien nog gaat gebeuren.",
+     "Gebruik een boekenlegger om te laten zien hoe ver je kind al is."
+    ],
+    "avoid": [
+     "Boeken die veel te moeilijk zijn.",
+     "Van lezen een toets maken.",
+     "Helemaal stoppen met voorlezen aan je kind."
+    ],
+    "success": "Je kind leest 1 hoofdstuk alleen en vertelt je wat er gebeurde.",
+    "ways": [
+     "Bij het slapengaan om de beurt een bladzijde lezen.",
+     "Naar de bibliotheek gaan om het volgende boek te kiezen.",
+     "Naar het luisterboek luisteren en de woorden meelezen."
+    ]
+   },
+   "write_story": {
+    "name": "Een kort verhaal schrijven",
+    "goal": "Schrijft een kort verhaal met een begin, een midden en een eind.",
+    "why": "Verhalen schrijven traint verbeelding, spelling en het ordenen van ideeën.",
+    "steps": [
+     "Kies samen een personage en een plek.",
+     "Vraag: welk probleem ontstaat er, en hoe wordt het opgelost?",
+     "Help je kind 3 delen te plannen: begin, midden en eind.",
+     "Laat je kind voor elk deel 1 of 2 zinnen schrijven.",
+     "Vraag je kind het verhaal voor te lezen en prijs één idee."
+    ],
+    "avoid": [
+     "De spelling verbeteren terwijl je kind schrijft.",
+     "Om een lang verhaal vragen.",
+     "De ideeën van je kind veranderen in die van jou."
+    ],
+    "success": "Je kind schrijft een verhaal met een duidelijk begin, midden en eind.",
+    "ways": [
+     "Een verhaal schrijven over een huisdier of speelgoed.",
+     "Een strip maken met 3 vakjes.",
+     "Een verhaal afmaken dat jij begint."
+    ]
+   },
+   "share_online": {
+    "name": "Wat je online deelt",
+    "goal": "Weet welke gegevens online privé blijven en zegt het tegen een volwassene als iets niet goed voelt.",
+    "why": "Veel kinderen gaan op deze leeftijd online. Weten wat privé blijft en aan wie je het vertelt, helpt ze veilig te houden.",
+    "steps": [
+     "Ga samen zitten bij het apparaat dat je kind gebruikt.",
+     "Leg uit dat volledige naam, adres, school, telefoonnummer en foto's privé blijven.",
+     "Speel een snel spelletje: delen of privé houden, met een paar voorbeelden.",
+     "Spreek af dat je kind het je vertelt als iets online niet goed of vreemd voelt.",
+     "Beloof rustig te luisteren en niet boos te worden."
+    ],
+    "avoid": [
+     "Enge verhalen die je kind bang maken.",
+     "Boos worden als je kind je over een probleem vertelt.",
+     "Je kind nieuwe apps laten gebruiken voordat jullie ze samen hebben ingesteld."
+    ],
+    "success": "Je kind noemt 3 dingen die privé blijven en aan wie het iets vertelt.",
+    "ways": [
+     "Samen een lijst met online regels voor het gezin maken.",
+     "Samen de privacyinstellingen van een spel bekijken.",
+     "Er opnieuw over praten als je kind een nieuwe app gaat gebruiken."
+    ]
+   },
+   "disagree_politely": {
+    "name": "Beleefd het oneens zijn",
+    "goal": "Zegt rustig en met een reden dat het er anders over denkt.",
+    "why": "Beleefd het oneens zijn helpt je kind voor de eigen mening op te komen en toch vriendschappen te houden.",
+    "steps": [
+     "Kies een luchtig onderwerp, zoals het lekkerste pizzabeleg.",
+     "Laat een beleefde zin horen: ik zie het anders, omdat.",
+     "Geef om de beurt een tegengestelde mening.",
+     "Oefen om tot het eind te luisteren voordat je antwoordt.",
+     "Prijs rustige woorden en een duidelijke reden."
+    ],
+    "avoid": [
+     "Oefenen tijdens een echte ruzie.",
+     "Je kind altijd gelijk geven.",
+     "De mening van je kind belachelijk maken."
+    ],
+    "success": "Je kind is het 1 keer oneens met een rustige stem en een reden.",
+    "ways": [
+     "Praten over een film waar jullie anders over denken.",
+     "Oefenen met een gezinsdebat bij het avondeten.",
+     "Het naspelen met speelgoed."
+    ]
+   },
+   "phone_call": {
+    "name": "Iemand opbellen",
+    "goal": "Belt een familielid, zegt wie er belt en geeft een kort bericht door.",
+    "why": "Telefoneren geeft zelfvertrouwen en traint duidelijk spreken. Weten hoe je iemand belt is ook belangrijk voor de veiligheid.",
+    "steps": [
+     "Kies een vriendelijk familielid en laat weten dat er een telefoontje komt.",
+     "Bedenk wat je kind gaat zeggen: hallo, wie er belt, het bericht, dag.",
+     "Help je kind het nummer te vinden en te bellen.",
+     "Blijf in de buurt en laat je kind praten.",
+     "Praat er achteraf over hoe het ging."
+    ],
+    "avoid": [
+     "Mensen bellen die je kind niet kent.",
+     "Het gesprek overnemen.",
+     "112 bellen om te oefenen."
+    ],
+    "success": "Je kind belt iemand, zegt wie er belt en geeft een bericht door.",
+    "ways": [
+     "Opa of oma bellen om welterusten te zeggen.",
+     "Eerst oefenen met een speelgoedtelefoon.",
+     "Samen doorpraten wat je tegen 112 zegt, zonder het nummer te bellen."
+    ]
+   },
+   "keep_promise": {
+    "name": "Een belofte nakomen",
+    "goal": "Doet een kleine belofte en komt die na.",
+    "why": "Beloftes nakomen bouwt vertrouwen en verantwoordelijkheid op. Je kind voelt zich er trots en betrouwbaar door.",
+    "steps": [
+     "Praat over wat een belofte is en waarom die belangrijk is.",
+     "Help je kind een kleine belofte te kiezen, zoals vanavond het huisdier eten geven.",
+     "Schrijf of teken de belofte op.",
+     "Vraag er later die dag even naar.",
+     "Prijs je kind als het de belofte nakomt."
+    ],
+    "avoid": [
+     "Grote beloftes die je kind niet kan nakomen.",
+     "Je kind beschamen als het iets vergeet.",
+     "Zelf je beloftes aan je kind breken."
+    ],
+    "success": "Je kind komt 1 kleine belofte na.",
+    "ways": [
+     "Beloven een broertje of zusje met een klusje te helpen.",
+     "Beloven geleend speelgoed terug te geven.",
+     "Praten over een belofte die jij bent nagekomen."
+    ]
+   },
+   "help_younger": {
+    "name": "Een jonger kind helpen",
+    "goal": "Helpt een jonger kind lief en geduldig met een eenvoudige taak.",
+    "why": "Anderen helpen traint vriendelijkheid en geeft zelfvertrouwen. Het laat je kind ook zien hoeveel het al geleerd heeft.",
+    "steps": [
+     "Kies een eenvoudige taak, zoals een toren bouwen of een prentenboek lezen.",
+     "Praat over hoe je helpt: voordoen, wachten en prijzen.",
+     "Laat je kind het jongere kind helpen.",
+     "Blijf dichtbij voor het geval een van de kinderen je nodig heeft.",
+     "Bedank je kind voor het lief zijn."
+    ],
+    "avoid": [
+     "De kinderen alleen laten.",
+     "Je kind lang de leiding geven.",
+     "Taken die te moeilijk zijn voor het jongere kind."
+    ],
+    "success": "Je kind helpt een jonger kind een taak af te maken.",
+    "ways": [
+     "Een neefje of nichtje helpen met een puzzel.",
+     "Een verhaaltje voorlezen aan een jonger broertje of zusje.",
+     "Een klein kind laten zien hoe een spelletje werkt."
+    ]
+   },
+   "times_tables": {
+    "name": "De tafels tot 10",
+    "goal": "Kent de meeste keersommen tot en met 10 keer 10.",
+    "why": "Als de tafels snel gaan, worden veel rekentaken makkelijker. Ze geven snelheid en zelfvertrouwen met getallen.",
+    "steps": [
+     "Kies deze week één tafel om te oefenen, zoals de tafel van 3.",
+     "Tel eerst samen in sprongen.",
+     "Stel 5 snelle vragen door elkaar.",
+     "Gebruik sommen die je kind al kent, zoals de tafel van 2 verdubbelen voor de tafel van 4.",
+     "Prijs de inzet en let op welke sommen beter gaan."
+    ],
+    "avoid": [
+     "Lange stampsessies tegen de klok.",
+     "Veel tafels tegelijk oefenen.",
+     "Vergelijken met andere kinderen."
+    ],
+    "success": "Je kind beantwoordt 5 vragen door elkaar uit één tafel goed.",
+    "ways": [
+     "Bij elk rood licht of elke stop een vraag stellen.",
+     "Samen flitskaarten maken.",
+     "Een dobbelspel spelen en de getallen met elkaar vermenigvuldigen."
+    ]
+   },
+   "clock_minute": {
+    "name": "Klokkijken op de minuut",
+    "goal": "Leest de tijd op de minuut af op een klok met wijzers.",
+    "why": "Klokkijken helpt je kind de dag te plannen en zelfstandiger te worden.",
+    "steps": [
+     "Gebruik een klok met wijzers, of teken er een.",
+     "Controleer of je kind half, kwart over en kwart voor kent.",
+     "Tel samen de minuten rond in sprongen van 5.",
+     "Laat zien hoe je na de 5 verder telt met losse minuten.",
+     "Zet 3 tijden die je kind moet aflezen."
+    ],
+    "avoid": [
+     "Alleen digitale klokken gebruiken.",
+     "Snel naar losse minuten gaan voordat stappen van 5 minuten makkelijk gaan.",
+     "Lange sessies."
+    ],
+    "success": "Je kind leest 3 tijden op de minuut af.",
+    "ways": [
+     "Op echte momenten van de dag vragen hoe laat het is.",
+     "Een klok met wijzers vergelijken met een digitale klok.",
+     "Een korte activiteit plannen die op een precieze tijd begint."
+    ]
+   },
+   "halves_quarters": {
+    "name": "Helften en kwarten",
+    "goal": "Vindt de helft en een kwart van vormen en kleine hoeveelheden.",
+    "why": "Breuken horen bij het dagelijks leven, van eten delen tot klokkijken.",
+    "steps": [
+     "Vouw een vel papier dubbel en daarna in vieren.",
+     "Laat zien dat helften en kwarten even grote delen zijn.",
+     "Verdeel 8 kleine voorwerpen in 2 gelijke groepjes, daarna in 4.",
+     "Vraag: wat is de helft van 8, en een kwart van 8?",
+     "Laat je kind het proberen met 12 voorwerpen."
+    ],
+    "avoid": [
+     "Ongelijke delen helften noemen.",
+     "Getallen die niet eerlijk te verdelen zijn.",
+     "Verdergaan voordat helften duidelijk zijn."
+    ],
+    "success": "Je kind vindt de helft en een kwart van 2 hoeveelheden.",
+    "ways": [
+     "Een boterham of pizza in vieren snijden, waarbij jij het scherpe snijwerk doet.",
+     "Snoepjes eerlijk verdelen.",
+     "Papieren vormen vouwen en inkleuren."
+    ]
+   },
+   "use_map": {
+    "name": "Een plattegrond gebruiken",
+    "goal": "Volgt een eenvoudige plattegrond om een plek of voorwerp te vinden.",
+    "why": "Plattegronden trainen ruimtelijk denken en helpen je kind te begrijpen waar het is.",
+    "steps": [
+     "Teken samen een eenvoudige plattegrond van één kamer.",
+     "Verstop een klein voorwerp en zet er een kruisje op de kaart bij.",
+     "Laat je kind met de plattegrond het voorwerp zoeken.",
+     "Bekijk samen een kaart van jullie buurt.",
+     "Zoek jullie huis en één bekende plek."
+    ],
+    "avoid": [
+     "In het begin gedetailleerde kaarten.",
+     "Het kaartlezen voor je kind doen.",
+     "Je kind buiten alleen een kaart laten volgen."
+    ],
+    "success": "Je kind vindt een verstopt voorwerp met een plattegrond.",
+    "ways": [
+     "Samen tijdens een wandeling een kaart van het park volgen.",
+     "Een schatkaart maken voor een vriendje.",
+     "Voor een uitstapje een route op de kaart volgen met je vinger."
+    ]
+   },
+   "pocket_money": {
+    "name": "Zakgeld sparen en uitgeven",
+    "goal": "Verdeelt geld in sparen en uitgeven en spaart voor iets wat het graag wil.",
+    "why": "Met een klein bedrag omgaan leert geduld, keuzes maken en de waarde van sparen.",
+    "steps": [
+     "Zet 2 potten klaar: een om te sparen en een om uit te geven.",
+     "Spreek samen af hoe het geld verdeeld wordt.",
+     "Help je kind een spaardoel te kiezen en schrijf de prijs op.",
+     "Tel elke week samen het spaargeld.",
+     "Laat je kind zelf keuzes maken bij het uitgeven, ook als dat kleine vergissingen zijn."
+    ],
+    "avoid": [
+     "Bijpassen als het geld op is.",
+     "Het spaardoel voor je kind kiezen.",
+     "Doelen die zo ver weg liggen dat je kind de interesse verliest."
+    ],
+    "success": "Je kind spaart 3 weken achter elkaar een deel van het geld.",
+    "ways": [
+     "Een grafiek tekenen die zich vult naarmate het spaargeld groeit.",
+     "Een derde pot toevoegen om weg te geven.",
+     "Prijzen vergelijken voor je iets koopt."
+    ]
+   },
+   "cook_simple": {
+    "name": "Samen met een volwassene een eenvoudige maaltijd koken",
+    "goal": "Helpt een eenvoudige warme maaltijd koken, waarbij jij de hete en scherpe onderdelen doet.",
+    "why": "Samen koken geeft zelfvertrouwen en traint rekenen en gezonde gewoontes. Je kind gebruikt deze vaardigheid het hele leven.",
+    "steps": [
+     "Kies een eenvoudige maaltijd, zoals roerei op toast.",
+     "Was je handen en lees samen de stappen.",
+     "Laat je kind eieren breken, kloppen en afmeten, en laat je kind daarna opnieuw de handen wassen na het aanraken van rauw ei.",
+     "Jij doet de kookplaat, de hete pannen en de scherpe messen.",
+     "Laat je kind pas met een lange lepel roeren als jij vindt dat het eraan toe is, met jou ernaast.",
+     "Schep op en eet samen."
+    ],
+    "avoid": [
+     "Je kind alleen laten bij de kookplaat.",
+     "Pannenstelen die over de rand uitsteken.",
+     "Haasten als iedereen honger heeft."
+    ],
+    "success": "Je kind doet minstens 3 stappen van een eenvoudige warme maaltijd.",
+    "ways": [
+     "Samen pasta met een eenvoudige saus maken.",
+     "Een omelet met groenten maken.",
+     "Soep opwarmen en er toast bij maken."
+    ]
+   },
+   "pack_trip": {
+    "name": "Inpakken voor een uitstapje",
+    "goal": "Pakt met een lijst de eigen tas in voor een kort uitstapje.",
+    "why": "Inpakken traint plannen, zelfstandigheid en verantwoordelijkheid voor de eigen spullen.",
+    "steps": [
+     "Schrijf of teken samen een paklijst.",
+     "Laat je kind de spullen van de lijst verzamelen.",
+     "Laat zien hoe je kleren oprolt om ruimte te besparen.",
+     "Vraag je kind elk ding af te vinken.",
+     "Controleer aan het eind samen de tas."
+    ],
+    "avoid": [
+     "De tas voor je kind inpakken.",
+     "Lange lijsten met te veel spullen.",
+     "Het tot het laatste moment laten liggen."
+    ],
+    "success": "Je kind pakt alles van de lijst in.",
+    "ways": [
+     "Inpakken voor een nachtje logeren bij opa en oma.",
+     "Een tas inpakken voor een dagje strand.",
+     "Een sporttas inpakken voor een club."
+    ]
+   },
+   "homework_plan": {
+    "name": "Huiswerktijd plannen",
+    "goal": "Kiest een tijd en plek voor huiswerk en begint er zelf aan.",
+    "why": "Een eenvoudige huiswerkroutine traint concentratie en zelfstandigheid. Het betekent ook minder strijd thuis.",
+    "steps": [
+     "Praat over het beste moment voor huiswerk, zoals na een tussendoortje.",
+     "Kies een rustige plek met alles wat je kind nodig heeft.",
+     "Help je kind de taken van vandaag op een rij te zetten.",
+     "Deel grote taken op in kleine stukjes.",
+     "Gebruik een timer om geconcentreerd te werken en voor een korte pauze."
+    ],
+    "avoid": [
+     "Het huiswerk voor je kind maken.",
+     "Schermen en lawaai in de buurt.",
+     "Beginnen als je kind erg moe is."
+    ],
+    "success": "Je kind begint op de geplande tijd aan het huiswerk, zonder herinneringen.",
+    "ways": [
+     "Een huiswerkschema voor de week maken.",
+     "Taken afvinken op een lijstje.",
+     "Elke avond leestijd inplannen."
+    ]
+   },
+   "tidy_room": {
+    "name": "Je kamer opruimen als routine",
+    "goal": "Ruimt in een korte dagelijkse routine de eigen kamer op.",
+    "why": "Een opruimroutine geeft verantwoordelijkheid en maakt het makkelijker om dingen te vinden.",
+    "steps": [
+     "Geef alles een vaste plek, zoals dozen of laden met labels.",
+     "Kies 3 kleine klusjes, zoals kleren weg, speelgoed in de dozen, bed opgemaakt.",
+     "Zet een timer op 5 minuten.",
+     "Help in het begin en doe dan een stap terug.",
+     "Prijs de inzet en geniet samen van de opgeruimde kamer."
+    ],
+    "avoid": [
+     "De kamer voor je kind opruimen.",
+     "Perfectie verwachten.",
+     "Opruimen als straf gebruiken."
+    ],
+    "success": "Je kind doet de 3 klusjes in 5 minuten.",
+    "ways": [
+     "Opruimen op een lievelingsliedje.",
+     "Een afvinklijst met plaatjes op de deur.",
+     "Samen opruimen op een weekendochtend."
+    ]
+   },
+   "swim_25m": {
+    "name": "25 meter zwemmen",
+    "goal": "Zwemt 25 meter zonder te stoppen, in een zwembad met toezicht.",
+    "why": "Een langere afstand zwemmen traint uithoudingsvermogen en zelfvertrouwen in het water, en is een belangrijke vaardigheid voor de veiligheid.",
+    "steps": [
+     "Ga naar een zwembad met toezicht of naar zwemles.",
+     "Blijf met je kind in het water, of vlak aan de badrand als je kind goed kan zwemmen, en houd het de hele tijd in de gaten.",
+     "Begin met 1 breedte en rust dan uit aan de kant.",
+     "Zwem elke keer een stukje verder.",
+     "Tel samen de banen en prijs een rustige ademhaling."
+    ],
+    "avoid": [
+     "Meren, rivieren of de zee om te oefenen.",
+     "Je kind laten zwemmen zonder dat een volwassene meekijkt.",
+     "Doorgaan als je kind het koud heeft of moe is."
+    ],
+    "success": "Je kind zwemt 1 hele baan in een bad van 25 meter.",
+    "ways": [
+     "Zwemles bij een zwemleraar.",
+     "Naast een ouder de lengte van het bad zwemmen.",
+     "Een halve baan, even rusten, dan de andere helft."
+    ]
+   },
+   "team_game": {
+    "name": "Passen en vrijlopen in een teamspel",
+    "goal": "Speelt de bal af en loopt vrij tijdens een eenvoudig teamspel.",
+    "why": "Teamspellen trainen conditie, samenwerken en de gewoonte om aan anderen te denken.",
+    "steps": [
+     "Zoek een park of tuin en neem een zachte bal mee.",
+     "Speel 2 tegen 1 met een familielid of vriendje.",
+     "Laat zien hoe je passt en daarna naar een vrije plek loopt.",
+     "Roep \"passen en vrijlopen\" als geheugensteuntje.",
+     "Prijs elke goede pass, niet alleen doelpunten."
+    ],
+    "avoid": [
+     "Harde ballen bij ramen of wegen.",
+     "De score bijhouden op een manier waar iemand verdrietig van wordt.",
+     "Lange partijtjes die eindigen in moe geruzie."
+    ],
+    "success": "Je kind passt en loopt daarna 3 keer naar een nieuwe vrije plek.",
+    "ways": [
+     "Voetballen in het park.",
+     "Een bal met de handen overgooien, zoals bij korfbal.",
+     "Lummelen, met iemand in het midden."
+    ]
+   },
+   "warm_up": {
+    "name": "Opwarmen en rekken",
+    "goal": "Doet een korte warming-up voor het bewegen en zachte rekoefeningen erna.",
+    "why": "Opwarmen maakt het lichaam klaar om te bewegen. Het is een goede gewoonte bij sport en spel.",
+    "steps": [
+     "Begin met 1 minuut marcheren of joggen op de plaats.",
+     "Voeg armcirkels toe, naar voren en naar achteren.",
+     "Doe 5 rustige knieheffingen per been.",
+     "Houd na het spelen 3 makkelijke rekoefeningen vast terwijl je langzaam tot 10 telt.",
+     "Laat je kind de volgende keer de routine leiden."
+    ],
+    "avoid": [
+     "Verend of geforceerd rekken.",
+     "Doorrekken als het pijn doet.",
+     "De warming-up overslaan als je haast hebt."
+    ],
+    "success": "Je kind leidt alleen een warming-up met 3 bewegingen.",
+    "ways": [
+     "Een warming-up voor een wandeling met het gezin.",
+     "Een opwarmliedje met bewegingen.",
+     "Samen rekken na een fietstocht."
+    ]
+   },
+   "short_route": {
+    "name": "Een korte route fietsen met een volwassene",
+    "goal": "Fietst met een volwassene een korte, bekende route en volgt de plaatselijke regels.",
+    "why": "Samen een bekende route fietsen bouwt stap voor stap verkeersinzicht, plannen en zelfvertrouwen op.",
+    "steps": [
+     "Controleer of de helm goed past en maak hem elke keer vast.",
+     "Kies een korte, rustige route die jullie allebei kennen.",
+     "Loop of fiets hem eerst samen en wijs op de kruispunten.",
+     "Fiets achter of naast je kind en volg de plaatselijke regels.",
+     "Stop aan het eind en praat over wat goed ging.",
+     "Jij beslist wanneer je kind aan meer toe is."
+    ],
+    "avoid": [
+     "Drukke wegen of fietsen in het donker.",
+     "Fietsen zonder helm.",
+     "Je kind de route alleen laten fietsen voordat jij vindt dat het eraan toe is."
+    ],
+    "success": "Je kind fietst de korte route met jou en stopt bij elk kruispunt.",
+    "ways": [
+     "Een fietstochtje naar het park.",
+     "Via rustige straten naar het huis van een vriendje fietsen.",
+     "Een rondje om het blok."
+    ]
+   },
+   "mend_friendship": {
+    "name": "Een vriendschap herstellen",
+    "goal": "Vindt een manier om het na een ruzie goed te maken met een vriendje.",
+    "why": "Vriendschappen worden op deze leeftijd belangrijker. Leren ze te herstellen traint vriendelijkheid en geeft zelfvertrouwen.",
+    "steps": [
+     "Luister terwijl je kind vertelt wat er gebeurde.",
+     "Vraag hoe je kind zich voelt en hoe het vriendje zich misschien voelt.",
+     "Bedenk samen 2 manieren om het goed te maken.",
+     "Oefen de woorden, zoals \"Sorry. Zullen we weer vrienden zijn?\"",
+     "Laat je kind een rustig moment kiezen om het te proberen."
+    ],
+    "avoid": [
+     "Meteen partij kiezen.",
+     "Voor je kind contact opnemen met het vriendje of de ouders.",
+     "Een snel sorry afdwingen."
+    ],
+    "success": "Je kind bedenkt wat het gaat zeggen om het goed te maken.",
+    "ways": [
+     "Een rollenspel met een knuffel of een ouder.",
+     "Een kort briefje schrijven.",
+     "Het vriendje uitnodigen om te spelen."
+    ]
+   },
+   "say_no_pressure": {
+    "name": "Nee zeggen tegen groepsdruk",
+    "goal": "Zegt rustig nee als vrienden aandringen om iets te doen wat niet goed voelt.",
+    "why": "Kinderen voelen meer groepsdruk naarmate ze ouder worden. Een geoefend antwoord maakt nee zeggen makkelijker.",
+    "steps": [
+     "Praat over een keer dat iemand wilde dat je kind iets deed wat het niet wilde.",
+     "Oefen een kort, stevig antwoord: \"Nee, dank je, ik wil niet.\"",
+     "Laat zien hoe je rechtop staat en de ander aankijkt.",
+     "Oefen weglopen of over iets anders beginnen.",
+     "Herinner je kind eraan dat het het je altijd kan vertellen."
+    ],
+    "avoid": [
+     "Het oefenen eng maken.",
+     "Boos worden als je kind je over een fout vertelt.",
+     "Lange preken."
+    ],
+    "success": "Je kind zegt in een rollenspel nee en loopt weg.",
+    "ways": [
+     "Een nep-uitdaging van een ouder.",
+     "Een codewoord afspreken waarmee je kind vraagt om opgehaald te worden.",
+     "Praten over een personage in een boek of film."
+    ]
+   },
+   "present_topic": {
+    "name": "Een onderwerp presenteren aan het gezin",
+    "goal": "Vertelt het gezin 2 minuten over een onderwerp dat het leuk vindt.",
+    "why": "Spreken voor een groep geeft zelfvertrouwen en helpt bij spreekbeurten op school.",
+    "steps": [
+     "Laat je kind een onderwerp kiezen waar het dol op is.",
+     "Help je kind 3 belangrijke punten op een kaartje te schrijven.",
+     "Oefen het samen één keer hardop.",
+     "Roep het gezin bij elkaar en luister zonder te onderbreken.",
+     "Stel aan het eind 1 vriendelijke vraag en klap."
+    ],
+    "avoid": [
+     "Fouten verbeteren tijdens de presentatie.",
+     "Het onderwerp voor je kind kiezen.",
+     "De presentatie te lang maken."
+    ],
+    "success": "Je kind vertelt 2 minuten over het eigen onderwerp.",
+    "ways": [
+     "Een presentatie over een lievelingsdier.",
+     "Een tekening of voorwerp om te laten zien.",
+     "Een presentatie voor opa en oma via een videogesprek."
+    ]
+   },
+   "kind_online": {
+    "name": "Vriendelijke berichten online",
+    "goal": "Schrijft online vriendelijke, duidelijke berichten en weet wat te doen als een bericht naar voelt.",
+    "why": "Woorden online kunnen net zo veel pijn doen als woorden in het echt. Vriendelijke gewoontes beschermen nu je kind en anderen.",
+    "steps": [
+     "Ga samen zitten en bekijk een gezinsapp of spelchat waar jij toezicht op houdt.",
+     "Vraag: \"Zou ik dit ook recht in iemands gezicht zeggen?\"",
+     "Schrijf samen een vriendelijk bericht.",
+     "Praat over wat je kind doet als een bericht onaardig voelt: stoppen, niet antwoorden, een volwassene vertellen.",
+     "Spreek af dat er geen persoonlijke gegevens in berichten komen."
+    ],
+    "avoid": [
+     "Chatapps of spellen waarbij een ouder niet af en toe meekijkt.",
+     "Namen, school of adres delen.",
+     "Op onaardige berichten antwoorden."
+    ],
+    "success": "Je kind schrijft een vriendelijk bericht en zegt wat het doet als een bericht naar voelt.",
+    "ways": [
+     "Een bericht aan opa of oma.",
+     "Voorbeeldberichten lezen en de vriendelijke eruit halen.",
+     "Een kaart met gezinsregels bij de computer."
+    ]
+   },
+   "ask_help": {
+    "name": "Een volwassene om hulp vragen",
+    "goal": "Weet aan welke volwassenen het hulp kan vragen en hoe je dat duidelijk doet.",
+    "why": "Weten wie je kunt vragen en wat je zegt, helpt je kind zich veilig te voelen als er iets misgaat.",
+    "steps": [
+     "Praat over volwassenen die je kind kan vertrouwen, zoals juffen, meesters en familie.",
+     "Praat over veilige mensen om onderweg iets te vragen, zoals iemand die in een winkel werkt of een ouder met kinderen.",
+     "Oefen een duidelijke vraag: \"Ik ben verdwaald. Wil je me helpen mijn mama te bellen?\"",
+     "Speel het thuis één keer na.",
+     "Controleer of je kind je telefoonnummer kent."
+    ],
+    "avoid": [
+     "Met iemand meegaan die je kind niet kent.",
+     "Het oefenen beangstigend maken.",
+     "Het telefoonnummer niet controleren."
+    ],
+    "success": "Je kind noemt 3 volwassenen die het vertrouwt en vraagt in een rollenspel duidelijk om hulp.",
+    "ways": [
+     "Een bibliothecaris om een boek vragen.",
+     "Iemand in een winkel vragen waar iets ligt.",
+     "Op drukke plekken een ontmoetingsplek afspreken."
+    ]
+   },
+   "mental_maths": {
+    "name": "Hoofdrekenen",
+    "goal": "Telt eenvoudige getallen op, trekt ze af en vermenigvuldigt ze uit het hoofd.",
+    "why": "Snel hoofdrekenen helpt elke dag bij boodschappen, tijd en schoolwerk.",
+    "steps": [
+     "Kies een rustig moment, zoals een wandeling of een autorit.",
+     "Begin met een makkelijke vraag, zoals 20 plus 30.",
+     "Geef bedenktijd voordat je helpt.",
+     "Vraag hoe je kind het heeft uitgerekend.",
+     "Maak de volgende vraag iets moeilijker."
+    ],
+    "avoid": [
+     "Je kind tegen de klok laten rekenen.",
+     "Vergelijken met broertjes, zusjes of klasgenoten.",
+     "Te veel vragen achter elkaar."
+    ],
+    "success": "Je kind beantwoordt 5 vragen uit het hoofd.",
+    "ways": [
+     "Prijzen optellen in een winkel.",
+     "Tellen hoeveel minuten het nog duurt tot het avondeten.",
+     "Een getallenspel in de auto."
+    ]
+   },
+   "write_email": {
+    "name": "Een e-mail schrijven",
+    "goal": "Schrijft een korte e-mail met een aanhef, een bericht en een afsluiting.",
+    "why": "Een e-mail schrijven is een vaardigheid uit het echte leven die duidelijk schrijven en typen traint.",
+    "steps": [
+     "Ga samen zitten achter een computer of tablet met jouw e-mail open.",
+     "Kies iemand die je kind kent, zoals opa of oma.",
+     "Laat de onderdelen zien: onderwerp, aanhef, bericht, afsluiting.",
+     "Laat je kind 3 korte zinnen typen.",
+     "Lees de e-mail samen en laat je kind dan op verzenden drukken."
+    ],
+    "avoid": [
+     "E-mailen naar mensen die je kind niet kent.",
+     "Persoonlijke gegevens toevoegen, zoals je adres.",
+     "Elke spelfout voor je kind verbeteren."
+    ],
+    "success": "Je kind schrijft en verstuurt een e-mail met alle 4 onderdelen.",
+    "ways": [
+     "Een bedankmail aan een familielid.",
+     "Een e-mail aan een ouder op het werk.",
+     "Een korte e-mail met nieuws over het weekend."
+    ]
+   },
+   "look_up_safely": {
+    "name": "Veilig iets opzoeken",
+    "goal": "Zoekt samen met een volwassene online een antwoord en controleert of een site te vertrouwen is.",
+    "why": "Online goede antwoorden vinden is een belangrijke vaardigheid voor school. Samen zoeken houdt het veilig.",
+    "steps": [
+     "Kies samen een vraag, zoals hoe lang een giraf is.",
+     "Gebruik een kindvriendelijke zoekinstelling, met jou ernaast.",
+     "Help je kind eenvoudige zoekwoorden te kiezen.",
+     "Bekijk 2 resultaten en vraag welke betrouwbaar lijkt.",
+     "Spreek af dat je kind alles sluit wat niet goed voelt en het jou vertelt."
+    ],
+    "avoid": [
+     "Alleen zoeken zonder een ouder in de buurt.",
+     "Op advertenties of pop-ups klikken.",
+     "Persoonlijke gegevens intypen."
+    ],
+    "success": "Je kind vindt samen met jou een antwoord op een betrouwbare site.",
+    "ways": [
+     "Een feitje voor huiswerk controleren.",
+     "Iets uitzoeken over een dier.",
+     "Het weer voor morgen opzoeken."
+    ]
+   },
+   "cross_road": {
+    "name": "Alleen de straat oversteken",
+    "goal": "Steekt veilig een rustige straat over, na veel samen oefenen.",
+    "why": "Verkeersinzicht opbouwen duurt jaren. Samen oefenen helpt je te beslissen wanneer je kind eraan toe is.",
+    "steps": [
+     "Steek eerst vaak samen over, op een veilige oversteekplaats.",
+     "Laat je kind voorgaan: stoppen bij de stoeprand, naar beide kanten kijken en luisteren.",
+     "Wacht tot de weg vrij is en loop dan recht over, terwijl je de hele tijd blijft kijken en luisteren.",
+     "Kijk van dichtbij mee terwijl je kind alleen oversteekt.",
+     "Praat over wat je kind opviel.",
+     "Jij beslist wanneer je kind eraan toe is, volgens de plaatselijke regels."
+    ],
+    "avoid": [
+     "Oversteken tussen geparkeerde auto's of bij bochten.",
+     "Een telefoon of koptelefoon gebruiken tijdens het oversteken.",
+     "In het begin drukke wegen of oversteken in het donker."
+    ],
+    "success": "Je kind steekt veilig een rustige straat over terwijl jij meekijkt.",
+    "ways": [
+     "Samen een zebrapad gebruiken.",
+     "Tijdens een wandeling veilige oversteekplekken zoeken.",
+     "Je laten weten wanneer het veilig is om over te steken."
+    ]
+   },
+   "walk_friend": {
+    "name": "Alleen naar een vriendje lopen",
+    "goal": "Loopt een korte, bekende route naar het huis van een vriendje, zodra jij vindt dat het eraan toe is.",
+    "why": "Een eerste kleine wandeling alleen geeft zelfstandigheid en vertrouwen. Eerst komt samen oefenen.",
+    "steps": [
+     "Loop de route eerst vaak samen.",
+     "Laat je kind de weg wijzen en de veilige oversteekplekken aanwijzen.",
+     "Spreek de precieze route af en een tijd om aan te komen.",
+     "Vraag de ouder van het vriendje te bellen of een bericht te sturen als je kind er is.",
+     "Begin, als je wilt, door een stukje achter je kind aan te lopen.",
+     "Jij beslist wanneer je kind eraan toe is, volgens de plaatselijke regels."
+    ],
+    "avoid": [
+     "Nieuwe of lange routes.",
+     "Alleen lopen in het donker.",
+     "Het plan veranderen zonder het jou te vertellen."
+    ],
+    "success": "Je kind wijst de hele route terwijl jij erachter loopt.",
+    "ways": [
+     "Naar het huis van de buren lopen.",
+     "Naar de hoek lopen waar jij wacht.",
+     "Met een vriendje een kort stukje naar een winkel lopen."
+    ]
+   },
+   "shop_budget": {
+    "name": "Boodschappen doen met een budget",
+    "goal": "Koopt een paar dingen en blijft binnen een vast bedrag.",
+    "why": "Boodschappen doen met een budget leert plannen, keuzes maken en de waarde van geld.",
+    "steps": [
+     "Schrijf samen een kort lijstje met 3 dingen.",
+     "Geef een vast bedrag mee.",
+     "Laat je kind in de winkel de prijzen nakijken.",
+     "Help voor het betalen het totaal op te tellen.",
+     "Laat je kind betalen en het wisselgeld controleren."
+    ],
+    "avoid": [
+     "Haasten op een druk moment.",
+     "Het verschil bijbetalen als je kind erover gaat.",
+     "De dingen voor je kind kiezen."
+    ],
+    "success": "Je kind koopt 3 dingen en blijft binnen het budget.",
+    "ways": [
+     "Iets lekkers kopen voor een picknick.",
+     "Fruit kiezen voor de hele week.",
+     "Een klein verjaardagscadeau plannen."
+    ]
+   },
+   "cook_family": {
+    "name": "Een maaltijd koken voor het gezin",
+    "goal": "Maakt een eenvoudige maaltijd voor het gezin klaar, met een volwassene dichtbij.",
+    "why": "Koken voor anderen maakt trots en traint keukenvaardigheden en gezonde gewoontes.",
+    "steps": [
+     "Kies samen een makkelijke maaltijd, zoals pasta met saus.",
+     "Was je handen en lees het recept helemaal door.",
+     "Laat je kind afmeten, roeren en opscheppen.",
+     "Doe zelf de hete en scherpe onderdelen, tot je kind er duidelijk aan toe is.",
+     "Ga samen aan tafel en bedank de kok."
+    ],
+    "avoid": [
+     "Je kind alleen laten bij de kookplaat of oven.",
+     "Scherpe messen zonder hulp van dichtbij.",
+     "In het begin maaltijden met veel stappen."
+    ],
+    "success": "Je kind maakt een maaltijd klaar met jou in de buurt en schept die op.",
+    "ways": [
+     "Een koude maaltijd, zoals een salade.",
+     "In het weekend ontbijt voor het gezin.",
+     "Een pizza maken met kant-en-klare toppings."
+    ]
+   },
+   "timetable": {
+    "name": "Een dienstregeling van bus of trein lezen",
+    "goal": "Vindt een tijd in een dienstregeling van de bus of trein.",
+    "why": "Een dienstregeling lezen oefent klokkijken en helpt je kind uitstapjes te plannen.",
+    "steps": [
+     "Bekijk samen een geprinte of online dienstregeling.",
+     "Zoek jullie halte en waar jullie naartoe willen.",
+     "Vraag je kind de volgende bus of trein te vinden.",
+     "Reken uit hoe lang de reis duurt.",
+     "Controleer het antwoord samen tijdens een echte reis."
+    ],
+    "avoid": [
+     "In het begin dienstregelingen met te veel lijnen.",
+     "Haasten op weg naar de bus.",
+     "Het lezen voor je kind doen."
+    ],
+    "success": "Je kind vindt de tijd van de volgende bus of trein.",
+    "ways": [
+     "Een uitstapje naar de bibliotheek plannen.",
+     "Bij de halte de dienstregeling bekijken.",
+     "Een reisje plannen als spel."
+    ]
+   },
+   "plan_day_out": {
+    "name": "Een dagje uit plannen",
+    "goal": "Helpt een dagje uit met het gezin te plannen: waar, wanneer en wat jullie meenemen.",
+    "why": "Plannen traint denken en keuzes maken, en geeft je kind het gevoel dat de eigen ideeën ertoe doen.",
+    "steps": [
+     "Geef 2 of 3 plekken om uit te kiezen.",
+     "Vraag je kind samen met jou de openingstijden na te kijken.",
+     "Help bedenken hoe jullie er komen en weer thuiskomen.",
+     "Maak een kort lijstje van wat er mee moet.",
+     "Laat je kind op de dag zelf het plan leiden."
+    ],
+    "avoid": [
+     "Te veel keuzes.",
+     "Plannen die meer kosten dan je wilt uitgeven.",
+     "Het hele plan veranderen zonder het je kind te vragen."
+    ],
+    "success": "Je kind maakt een eenvoudig plan met een plek, een tijd en een paklijst.",
+    "ways": [
+     "Een picknick in het park.",
+     "Een uitstapje naar een museum.",
+     "Een wandeling in het bos."
+    ]
+   },
+   "first_aid": {
+    "name": "Eenvoudige EHBO",
+    "goal": "Weet hoe je een klein sneetje schoonmaakt en wanneer je een volwassene haalt of om hulp belt.",
+    "why": "Eenvoudige EHBO helpt kinderen rustig te blijven en te weten wat ze moeten doen in een noodgeval.",
+    "steps": [
+     "Laat zien waar de EHBO-doos staat.",
+     "Oefen een nepwondje schoonmaken en er een pleister op plakken.",
+     "Praat over wanneer je kind meteen een volwassene moet halen.",
+     "Oefen 112 en je adres opzeggen.",
+     "Speel een kort telefoongesprek na, zonder te bellen."
+    ],
+    "avoid": [
+     "112 bellen om te oefenen.",
+     "Medicijnen zonder een volwassene.",
+     "Beangstigende verhalen."
+    ],
+    "success": "Je kind plakt een pleister en zegt 112 en jullie adres op.",
+    "ways": [
+     "Een EHBO-spelletje met een knuffelbeer.",
+     "Samen de EHBO-doos nakijken.",
+     "Samen een EHBO-filmpje voor kinderen bekijken."
+    ]
+   },
+   "washing_machine": {
+    "name": "De wasmachine gebruiken met hulp",
+    "goal": "Sorteert de was en zet samen met een volwassene de wasmachine aan.",
+    "why": "Helpen met de was maakt zelfstandig en laat zien hoe een huishouden draait.",
+    "steps": [
+     "Sorteer samen de kleren in licht en donker.",
+     "Kijk de zakken na op zakdoekjes en munten.",
+     "Doe de was in de machine en sluit het deurtje.",
+     "Doe zelf het wasmiddel erin en laat dan zien welk programma je kiest.",
+     "Laat je kind op start drukken."
+    ],
+    "avoid": [
+     "Je kind alleen met wasmiddel laten omgaan.",
+     "Het deurtje openen tijdens het wassen.",
+     "Op de machine klimmen."
+    ],
+    "success": "Je kind sorteert de was, laadt de machine en zet een wasje aan, samen met jou.",
+    "ways": [
+     "De was ophangen.",
+     "Sokken uit de was bij elkaar zoeken.",
+     "Handdoeken vouwen."
+    ]
    }
   },
   "guides": {
@@ -6163,6 +8954,381 @@
     "urgent": [
      "Je hebt gedachten om jezelf of je baby iets aan te doen. Zoek nu hulp: bel 112 of een crisislijn, of ga naar de dichtstbijzijnde spoedeisende hulp."
     ]
+   },
+   "starting_school": {
+    "title": "Mijn kind gaat naar school",
+    "intro": "Naar school gaan is een grote verandering voor het hele gezin. De meeste kinderen wennen binnen een paar weken, zeker met een kalme start en genoeg rust.",
+    "common": [
+     "Veel kinderen zijn tegelijk enthousiast en zenuwachtig.",
+     "Kinderen zijn in de eerste weken vaak erg moe. Sommige zijn thuis chagrijnig, huilerig of aanhankelijk nadat ze zich de hele dag goed hebben gehouden.",
+     "Sommige kinderen vertellen weinig over hun dag. Dat is normaal en betekent niet dat er iets mis is.",
+     "Meer verkoudheden en buikgriepjes komen vaak voor in het eerste schooljaar."
+    ],
+    "helps": [
+     "Praat positief over school. Lees boekjes over naar school gaan en bezoek de school samen als dat kan.",
+     "Oefen de dagelijkse vaardigheden: aankleden, alleen naar de wc gaan, handen wassen, een broodtrommel openmaken en schoenen aantrekken.",
+     "Zet namen in kleren en tassen, en houd de ochtendroutine eenvoudig en elke dag hetzelfde.",
+     "Neem kort en vrolijk afscheid en vertel je kind wie het komt ophalen.",
+     "Geef na school iets te eten en wat rustige tijd, en houd de bedtijd vroeg.",
+     "Stel kleine vragen, zoals \"Naast wie zat je bij de lunch?\", in plaats van \"Hoe was je dag?\""
+    ],
+    "help": [
+     "Je kind is na de eerste 6 weken nog steeds erg van streek over school.",
+     "Je kind weigert vaak te gaan, of klaagt op schooldagen over buikpijn of hoofdpijn.",
+     "Je kind eet of slaapt niet meer goed, of lijkt het grootste deel van de tijd ongelukkig. Praat eerst met de leerkracht."
+    ],
+    "urgent": []
+   },
+   "homework": {
+    "title": "Huiswerk zonder strijd",
+    "intro": "Huiswerk in de eerste schooljaren is meestal kort. Een rustige routine is belangrijker dan elk antwoord goed hebben.",
+    "common": [
+     "Jonge kinderen krijgen vaak wat lees-, spel- of rekenoefening mee naar huis.",
+     "Moeheid, honger en schermen zijn veelvoorkomende redenen waarom huiswerk een strijd wordt.",
+     "Veel kinderen hebben hulp nodig om te beginnen, maar kunnen daarna even zelfstandig werken."
+    ],
+    "helps": [
+     "Kies een vast moment, na een tussendoortje en een korte pauze, en houd dat elke dag hetzelfde.",
+     "Zoek een rustig plekje met goed licht en de spullen die je kind nodig heeft. Houd schermen en speelgoed uit de buurt.",
+     "Help je kind de opdracht te begrijpen en doe dan een stapje terug. Doe het niet in de plaats van je kind.",
+     "Verdeel grotere taken in kleine stukjes, met een korte bewegingspauze ertussen.",
+     "Prijs inzet en goede gewoontes, niet alleen goede antwoorden.",
+     "Is je kind moe en van streek, stop dan en probeer het later opnieuw. Een korte, rustige sessie is beter dan een lange met tranen."
+    ],
+    "help": [
+     "Huiswerk duurt veel langer dan de leerkracht verwacht, of eindigt vaak in tranen.",
+     "Je kind lijkt lezen, schrijven of rekenen veel moeilijker te vinden dan andere taken. Praat met de leerkracht.",
+     "Je weet niet goed hoeveel hulp je moet geven. Vraag de school wat ze verwachten."
+    ],
+    "urgent": []
+   },
+   "reading": {
+    "title": "Hoe help ik mijn kind met lezen?",
+    "intro": "Kinderen leren in verschillend tempo lezen. Elke dag samen lezen, al is het maar 10 minuten, is een van de beste dingen die je kunt doen.",
+    "common": [
+     "Veel kinderen leren lezen door letters te verklanken en de klanken samen te voegen tot woorden. Vraag de school welke methode ze gebruiken.",
+     "Letters zoals b en d door elkaar halen komt vaak voor in de eerste schooljaren.",
+     "Vooruitgang komt vaak met sprongen, met trage weken ertussen.",
+     "Kinderen die thuis verhalen horen, leren nieuwe woorden, ook als ze die nog niet kunnen lezen."
+    ],
+    "helps": [
+     "Blijf je kind voorlezen, ook als het zelf kan lezen.",
+     "Laat je kind kiezen wat het leest: strips, moppen, weetjes over dieren of recepten tellen allemaal mee.",
+     "Loopt je kind vast, wacht dan een paar seconden. Help daarna het woord te verklanken.",
+     "Praat over het verhaal: \"Wat denk je dat er nu gaat gebeuren?\"",
+     "Ga samen naar de bibliotheek en laat je kind boeken kiezen.",
+     "Houd het leuk en kort. Stop voordat je kind moe wordt.",
+     "Laat je kind zien dat jij ook leest."
+    ],
+    "help": [
+     "Je kind vindt lezen nog steeds heel moeilijk na extra hulp op school. Sommige kinderen hebben dyslexie, en vroege ondersteuning helpt.",
+     "Je kind wrijft in de ogen, houdt boeken heel dichtbij of krijgt hoofdpijn bij het lezen. Laat de ogen testen.",
+     "Je maakt je zorgen over het gehoor of de spraak van je kind."
+    ],
+    "urgent": []
+   },
+   "bedwetting": {
+    "title": "Mijn kind plast nog in bed",
+    "intro": "Bedplassen komt veel voor bij kinderen op schoolleeftijd en zit vaak in de familie. Het is niet de schuld van je kind, en de meeste kinderen groeien eroverheen.",
+    "common": [
+     "Veel kinderen plassen op 5 jaar nog in bed, en sommige op 7 jaar of ouder.",
+     "Veelvoorkomende redenen zijn diep slapen, 's nachts veel urine aanmaken en een blaas die nog groeit.",
+     "Verstopping kan bedplassen erger maken.",
+     "Stress, zoals naar school gaan of een nieuwe baby, kan het een tijdje terugbrengen."
+    ],
+    "helps": [
+     "Blijf rustig en lief. Straf of plaag je kind nooit om het plassen.",
+     "Geef overdag regelmatig te drinken, ongeveer 6 tot 8 keer, en minder in het uur voor het slapengaan.",
+     "Vermijd frisdrank met prik, cola, thee en koffie, vooral 's avonds.",
+     "Moedig je kind aan om overdag regelmatig naar de wc te gaan en vlak voor het slapengaan.",
+     "Zorg dat de wc 's nachts makkelijk te bereiken is, met een nachtlampje.",
+     "Gebruik een waterdichte matrasbeschermer en houd reservelakens klaar.",
+     "Prijs afgesproken stappen, zoals naar de wc gaan voor het slapengaan, niet droge nachten."
+    ],
+    "help": [
+     "Je kind is ouder dan 5 en het plassen zit je kind of het gezin dwars.",
+     "Je kind is opnieuw gaan plassen na 6 maanden of langer droog te zijn geweest.",
+     "Je kind plast ook overdag in de broek, heeft pijn bij het plassen of heeft verstopping.",
+     "Tips voor thuis hebben niet geholpen. Je arts of de schoolverpleegkundige kan een plaswekker of medicijn met je bespreken."
+    ],
+    "urgent": [
+     "Je kind plast plotseling weer in bed en heeft ook veel dorst, plast veel meer, is erg moe of valt af. Vraag dezelfde dag medisch advies."
+    ]
+   },
+   "head_lice": {
+    "title": "Mijn kind heeft hoofdluis",
+    "intro": "Hoofdluis komt heel vaak voor bij kinderen op schoolleeftijd. Het is geen teken van vies haar, en luizen verspreiden geen ziektes.",
+    "common": [
+     "Hoofdluis verspreidt zich door contact van hoofd tot hoofd. Luizen kunnen niet springen of vliegen.",
+     "Jeuk op het hoofd komt vaak voor, maar sommige kinderen voelen niets.",
+     "Neten zijn de lege eihulsjes. Ze zien er wit of bruin uit en zitten vast aan het haar.",
+     "De enige manier om zeker te zijn is een levende luis vinden."
+    ],
+    "helps": [
+     "Controleer met een fijne luizenkam in nat haar met veel conditioner. Kam van de wortels tot de punten, pluk voor pluk.",
+     "Kam nat op dag 1, 5, 9 en 13 om pas uitgekomen luizen te vangen. Controleer nog eens op dag 17.",
+     "Liever een middel? Gebruik dan een lotion of spray tegen hoofdluis van de apotheek. Volg de bijsluiter precies. Bij sommige is na een week een tweede behandeling nodig.",
+     "Controleer iedereen in huis en behandel alleen wie levende luizen heeft, allemaal op dezelfde dag.",
+     "Je kind hoeft niet thuis te blijven van school.",
+     "Heet wassen of het huis speciaal schoonmaken is niet nodig.",
+     "Gebruik geen luizenmiddelen om luizen te voorkomen. Zo werken ze niet, en ze kunnen de hoofdhuid irriteren."
+    ],
+    "help": [
+     "Je vindt nog levende luizen na 2 volledige behandelrondes. Vraag de apotheek naar andere mogelijkheden.",
+     "De hoofdhuid van je kind ziet er rood, pijnlijk of ontstoken uit.",
+     "Je kind is jonger dan 2, heeft astma of allergieën, of heeft een huidaandoening. Vraag de apotheek om raad voordat je een lotion gebruikt."
+    ],
+    "urgent": []
+   },
+   "sleep_school": {
+    "title": "Hoeveel slaap heeft mijn schoolkind nodig?",
+    "intro": "Kinderen van 6 tot 12 jaar hebben ongeveer 9 tot 12 uur slaap per nacht nodig. Goed slapen helpt bij leren, humeur en groeien.",
+    "common": [
+     "Kinderen van 3 tot 5 jaar hebben ongeveer 10 tot 13 uur per dag nodig.",
+     "Sommige kinderen hebben meer slaap nodig dan andere. Een kind dat makkelijk wakker wordt en overdag niet moe is, slaapt meestal genoeg.",
+     "Angst bij het slapengaan, zorgen over school en schermen zijn veelvoorkomende redenen voor slecht slapen.",
+     "Moeheid kan eruitzien als chagrijnigheid, moeite met concentreren of druk gedrag."
+    ],
+    "helps": [
+     "Houd zoveel mogelijk elke dag dezelfde bedtijd en hetzelfde tijdstip van opstaan aan, ook in het weekend.",
+     "Zorg voor een rustige routine voor het slapengaan: in bad of wassen, tanden poetsen, een verhaaltje of een rustig gesprekje.",
+     "Zet schermen minstens 1 uur voor het slapengaan uit, en houd ze 's nachts uit de slaapkamer.",
+     "Houd de slaapkamer stil, donker en koel.",
+     "Maak overdag tijd voor actief buitenspelen.",
+     "Vermijd cafeïne, zoals in cola en energiedrankjes.",
+     "Maakt je kind zich zorgen bij het slapengaan, neem dan eerder op de avond een paar minuten om over zorgen te praten."
+    ],
+    "help": [
+     "Je kind snurkt de meeste nachten luid, of lijkt in de slaap even te stoppen met ademen.",
+     "Je kind is overdag vaak erg moe, zelfs na een volledige nacht.",
+     "Wakker worden 's nachts, nachtmerries of slaapwandelen komen vaak voor en hebben invloed op het gezin."
+    ],
+    "urgent": []
+   },
+   "screens_school": {
+    "title": "Schermen, games en een eerste telefoon",
+    "intro": "Er is niet één juiste hoeveelheid schermtijd voor kinderen op schoolleeftijd. Het belangrijkste is dat schermen geen plaats innemen van slaap, beweging, huiswerk en tijd samen.",
+    "common": [
+     "Experts raden duidelijke afspraken in het gezin aan in plaats van één aantal uren voor elk kind.",
+     "Games, filmpjes en apps zijn gemaakt om kinderen te laten blijven kijken. Stoppen is moeilijk, en dat is normaal.",
+     "Er is geen juiste leeftijd voor een eerste telefoon. Dat hangt af van je kind, je gezin en waarvoor de telefoon nodig is."
+    ],
+    "helps": [
+     "Maak samen een mediaplan voor het gezin: wanneer, waar en hoelang schermen gebruikt worden.",
+     "Houd schermen weg bij het eten en in het uur voor het slapengaan. Laad apparaten 's nachts buiten de slaapkamer op.",
+     "Controleer de leeftijdsclassificatie van games en apps voordat je kind ze gebruikt.",
+     "Speel of kijk soms samen, en vraag je kind om het favoriete spel te laten zien.",
+     "Waarschuw 5 minuten voordat de schermtijd voorbij is.",
+     "Kies je voor een eerste telefoon, begin dan met een eenvoudige telefoon of beperkte functies, gebruik ouderlijk toezicht en spreek de regels af voordat je de telefoon geeft.",
+     "Geef zelf het goede voorbeeld. Leg je eigen telefoon weg tijdens het eten en gezinstijd."
+    ],
+    "help": [
+     "Schermen zorgen thuis voor veel ruzie.",
+     "Je kind lijkt niet te kunnen stoppen, raakt erg van streek zonder scherm, of laat vriendjes, slaap of activiteiten ervoor schieten.",
+     "Je maakt je zorgen over het humeur, de slaap of het schoolwerk van je kind."
+    ],
+    "urgent": []
+   },
+   "online_safety": {
+    "title": "Hoe houd ik mijn kind veilig online?",
+    "intro": "Het internet kan een fijne plek zijn om te leren en te spelen. Kinderen hebben een volwassene dichtbij en eenvoudige regels nodig terwijl ze leren er veilig mee om te gaan.",
+    "common": [
+     "Kinderen kunnen per ongeluk op schokkende inhoud stuiten, zelfs op sites die voor hen bedoeld zijn.",
+     "De meeste socialemedia-apps zijn niet bedoeld voor kinderen onder 13, en op sommige plekken gelden hogere leeftijdsgrenzen.",
+     "Kinderen vertellen volwassenen vaak niet over een probleem online, omdat ze bang zijn hun apparaat kwijt te raken."
+    ],
+    "helps": [
+     "Houd apparaten in gedeelde ruimtes in huis, niet in de slaapkamer.",
+     "Stel samen ouderlijk toezicht, kindveilig zoeken en privacy-instellingen in.",
+     "Spreek eenvoudige regels af: deel nooit je volledige naam, adres, school, telefoonnummer of foto's met mensen die je niet kent.",
+     "Leg uit dat mensen online niet altijd zijn wie ze zeggen dat ze zijn.",
+     "Vertel je kind dat het altijd bij je terecht kan als iets niet goed voelt, en dat het dan geen straf krijgt.",
+     "Blijf rustig als je kind iets vertelt. Bedank je kind voor het vertellen.",
+     "Praat over aardig zijn online, en vraag vaak wat je kind aan het doen is."
+    ],
+    "help": [
+     "Je kind heeft iets gezien wat het van streek maakte en het blijft je kind dwarszitten.",
+     "Je kind krijgt online gemene berichten, of is van streek na het gebruik van een apparaat. Zie de gids over vriendschapsproblemen en pesten.",
+     "Je kind wordt geheimzinnig over een apparaat of online vrienden."
+    ],
+    "urgent": [
+     "Iemand die je kind online heeft leren kennen, vraagt om in het echt af te spreken, vraagt om foto's of vraagt je kind iets geheim te houden. Bewaar de berichten, reageer niet en neem contact op met de politie."
+    ]
+   },
+   "friends_bullying": {
+    "title": "Vriendschapsproblemen en pesten",
+    "intro": "Ruzie met vriendjes hoort bij het opgroeien. Pesten is anders: het is gemeen gedrag dat steeds weer gebeurt en bedoeld is om pijn te doen.",
+    "common": [
+     "Vriendschappen veranderen vaak in de schooljaren. Kinderen kunnen de ene week beste vrienden zijn en de volgende week ruzie hebben.",
+     "Pesten kan slaan of duwen zijn, uitschelden, iemand buitensluiten, verhalen rondvertellen of gemene berichten online.",
+     "Kinderen die gepest worden, vertellen dat niet altijd. Signalen zijn niet naar school willen, buikpijn, slecht slapen, kwijtgeraakte of kapotte spullen, of zich terugtrekken."
+    ],
+    "helps": [
+     "Luister rustig en laat je kind het hele verhaal vertellen. Bedank je kind voor het vertellen.",
+     "Vertel je kind dat het er zelf geen schuld aan heeft.",
+     "Help je kind oefenen wat het kan zeggen en doen: met een duidelijke stem \"Stop\" zeggen, weglopen en het aan een volwassene vertellen.",
+     "Zeg niet tegen je kind dat het terug moet slaan.",
+     "Schrijf op wat er gebeurde, wanneer en wie erbij betrokken waren. Bewaar screenshots van berichten online.",
+     "Praat met de leerkracht en vraag wat de school gaat doen. Spreek een moment af om terug te koppelen.",
+     "Help je kind vriendschappen op te bouwen buiten school, via clubs, sport of speelafspraakjes."
+    ],
+    "help": [
+     "Het pesten gaat door nadat je met de school hebt gepraat.",
+     "Je kind lijkt langer dan een paar weken verdrietig, angstig of teruggetrokken, of wil niet naar school.",
+     "Je ontdekt dat je kind anderen pest. Praat rustig met je kind en met de school."
+    ],
+    "urgent": [
+     "Je kind is gewond geraakt of bedreigd. Zorg dat je kind veilig is en zoek nu hulp.",
+     "Je kind praat over zichzelf iets aandoen of over niet meer willen leven. Zoek nu hulp: bel 112 of een kindertelefoon zoals 116 111, of ga naar de dichtstbijzijnde spoedeisende hulp."
+    ]
+   },
+   "worries": {
+    "title": "Mijn kind maakt zich veel zorgen",
+    "intro": "Alle kinderen maken zich weleens zorgen. Zorgen zijn een normale reactie die opkomt en weer wegzakt, en kinderen kunnen leren ermee om te gaan.",
+    "common": [
+     "Kinderen op schoolleeftijd maken zich vaak zorgen over toetsen, vriendjes, iets nieuws beginnen of dat er iets ergs met het gezin gebeurt.",
+     "Zorgen kunnen zich uiten als buikpijn, hoofdpijn, slecht slapen, nare dromen, aanhankelijkheid of boze uitbarstingen.",
+     "Sommige kinderen gaan dingen uit de weg waar ze zich zorgen over maken, zoals school, feestjes of logeren."
+    ],
+    "helps": [
+     "Luister goed en vraag wat de zorg is. Wuif het niet weg en ga niet raden.",
+     "Leg uit dat een zorg is als een golf. Die voelt groot en wordt dan kleiner.",
+     "Oefen samen rustig ademen: adem in terwijl je tot 3 telt, adem uit terwijl je tot 3 telt, en doe dat 3 keer.",
+     "Maak samen een plan voor de spannende situatie, en zet kleine stapjes in die richting.",
+     "Probeer een zorgendoos: je kind schrijft of tekent een zorg en stopt die in de doos om er later over te praten.",
+     "Houd de dagelijkse routine stabiel, en bereid je kind op tijd voor op veranderingen.",
+     "Probeer niet overbezorgd te worden. Alles vermijden waar je kind zich zorgen over maakt, kan zorgen laten groeien."
+    ],
+    "help": [
+     "De zorgen zijn sterk, duren weken, of houden je kind tegen bij gewone dingen zoals naar school gaan of vriendjes zien.",
+     "Je kind heeft vaak buikpijn of hoofdpijn zonder andere oorzaak.",
+     "Je hebt het gevoel dat je steun nodig hebt. Praat met je arts, de school of de schoolverpleegkundige."
+    ],
+    "urgent": [
+     "Je kind praat over zichzelf iets aandoen of over niet meer willen leven. Zoek nu hulp: bel 112 of een kindertelefoon zoals 116 111, of ga naar de dichtstbijzijnde spoedeisende hulp."
+    ]
+   },
+   "lying": {
+    "title": "Mijn kind liegt",
+    "intro": "Bijna alle kinderen liegen weleens. Het hoort bij het opgroeien, en kinderen leren eerlijkheid het best van rustige, geduldige volwassenen.",
+    "common": [
+     "Kinderen liegen vaak om geen straf te krijgen, om iets te krijgen wat ze willen of om iemands gevoelens te sparen.",
+     "Sommige leugens zijn eigenlijk wensen of verhaaltjes, vooral bij jongere kinderen.",
+     "Liegen wordt meestal minder als kinderen begrijpen wat het met vertrouwen doet."
+    ],
+    "helps": [
+     "Blijf rustig. Praat over de leugen en het gedrag, niet over je kind als \"stout\" of \"slecht\".",
+     "Maak de waarheid vertellen makkelijk. Weet je al wat er gebeurde, zeg dat dan in plaats van te vragen \"Heb jij dit gedaan?\"",
+     "Prijs eerlijkheid, vooral als de waarheid moeilijk is om te vertellen.",
+     "Geef een kleinere consequentie als je kind het zelf toegeeft.",
+     "Praat over waarom eerlijkheid belangrijk is: \"Als je me de waarheid vertelt, kan ik je vertrouwen.\"",
+     "Wees zelf eerlijk, ook in kleine dingen, zoals je kind niet laten zeggen dat je niet thuis bent."
+    ],
+    "help": [
+     "Je kind liegt heel vaak, zelfs over kleine dingen.",
+     "Liegen gaat samen met andere zorgen, zoals dingen wegnemen, anderen pijn doen of problemen op school.",
+     "Je denkt dat je kind misschien liegt om iets te verbergen wat het dwarszit."
+    ],
+    "urgent": []
+   },
+   "pocket_money_guide": {
+    "title": "Moet mijn kind zakgeld krijgen?",
+    "intro": "Zakgeld is een eenvoudige manier voor kinderen om over geld te leren. Veel gezinnen beginnen als een kind ongeveer 5 of 6 jaar is en begrijpt dat je met geld dingen kunt kopen.",
+    "common": [
+     "Er is geen juist bedrag. Het hangt af van je budget, de leeftijd van je kind en waarvoor het geld is.",
+     "Sommige gezinnen koppelen zakgeld aan klusjes, andere niet. Allebei kan werken.",
+     "Kinderen geven in het begin vaak al hun geld uit. Kleine fouten horen bij het leren."
+    ],
+    "helps": [
+     "Spreek het bedrag af en de dag waarop je het geeft, en houd je eraan.",
+     "Spreek af waarvoor het geld is, zoals kleine traktaties of sparen voor speelgoed.",
+     "Gebruik een doorzichtige pot om te sparen, zodat je kind het geld ziet groeien.",
+     "Help je kind een klein spaardoel te kiezen en tel het geld elke week samen.",
+     "Laat je kind zelf keuzes maken, en praat achteraf over hoe het ging.",
+     "Geef geen extra geld als het op is. Wachten hoort bij de les."
+    ],
+    "help": [
+     "Geld zorgt thuis vaak voor ruzie.",
+     "Je kind neemt geld of spullen die van iemand anders zijn. Praat eerst rustig met je kind."
+    ],
+    "urgent": []
+   },
+   "lunchbox": {
+    "title": "Broodtrommel en tussendoortjes",
+    "intro": "Een goede broodtrommel hoeft niet bijzonder te zijn. Een mix van een paar eenvoudige dingen geeft je kind energie voor de middag.",
+    "common": [
+     "Een gevarieerde lunch bevat iets zetmeelrijks, iets met eiwit, fruit of groente, en een zuivelproduct of alternatief.",
+     "Veel kinderen eten weinig op school omdat ze druk bezig zijn, opgewonden zijn of weinig tijd hebben.",
+     "Veel scholen hebben regels over eten, zoals geen noten, vanwege kinderen met allergieën."
+    ],
+    "helps": [
+     "Begin met iets zetmeelrijks, zoals een volkoren boterham, wrap, pasta of rijst.",
+     "Voeg iets met eiwit toe, zoals ei, bonen, vis, kip of kaas.",
+     "Voeg een stuk fruit en wat groente toe, zoals komkommer, reepjes wortel of cherrytomaatjes. Snijd kleine ronde dingen in vieren voor jongere kinderen.",
+     "Geef water of melk te drinken. Vermijd frisdrank met prik en zoete drankjes.",
+     "Houd snoep, chips en koek voor af en toe, niet voor elke dag.",
+     "Gebruik een koeltas of koelelement om het eten vers te houden.",
+     "Laat je kind helpen de lunch te kiezen en in te pakken. Dan eet je kind die eerder op.",
+     "Bekijk de regels over eten op school voordat je inpakt."
+    ],
+    "help": [
+     "Je kind komt vaak erg hongerig thuis of met een onaangeroerde lunch.",
+     "Je kind eet maar heel weinig verschillende dingen.",
+     "Je maakt je zorgen over het gewicht, de groei of een voedselallergie van je kind."
+    ],
+    "urgent": [
+     "Zwelling van de lippen of het gezicht, of moeite met ademen, na het eten. Bel 112."
+    ]
+   },
+   "active": {
+    "title": "Hoeveel moet mijn kind bewegen?",
+    "intro": "De Wereldgezondheidsorganisatie (WHO) raadt aan dat kinderen van 5 tot 17 jaar gemiddeld minstens 60 minuten per dag actief zijn, zo intensief dat ze er sneller van gaan ademen.",
+    "common": [
+     "De 60 minuten mogen verspreid zijn over de dag. Elk beetje beweging telt.",
+     "Op minstens 3 dagen per week horen kinderen activiteiten te doen waarvan ze flink gaan hijgen en die spieren en botten sterker maken, zoals rennen, springen of klimmen.",
+     "Veel kinderen bewegen minder dan dit, vooral als ze ouder worden.",
+     "Lange periodes van stilzitten, vooral achter een scherm, kun je het best kort houden."
+    ],
+    "helps": [
+     "Loop, step of fiets samen naar school of de winkel als dat kan. Bij fietsen en steppen gaat de helm elke keer op.",
+     "Speel samen buiten: tikkertje, balspelletjes, hinkelen of touwtjespringen.",
+     "Laat je kind verschillende sporten en clubs proberen om iets leuks te vinden.",
+     "Onderbreek schermtijd met bewegingspauzes.",
+     "Beweeg in het weekend als gezin: een wandeling, een fietstocht of een uitje naar het park.",
+     "Maak het leuk, geen verplichting. Prijs inzet, niet winnen."
+    ],
+    "help": [
+     "Je kind raakt veel sneller buiten adem of moe, of krijgt veel sneller pijn, dan andere kinderen van dezelfde leeftijd.",
+     "Je kind vermijdt alle lichamelijke activiteit, of lijkt onhandig vergeleken met anderen van dezelfde leeftijd.",
+     "Je maakt je zorgen over het gewicht of de groei van je kind."
+    ],
+    "urgent": [
+     "Je kind valt flauw, heeft pijn op de borst of moeite met ademen tijdens het bewegen. Laat je kind meteen stoppen en zoek nu medische hulp."
+    ]
+   },
+   "puberty": {
+    "title": "Begint de puberteit bij mijn kind?",
+    "intro": "De puberteit is de periode waarin het lichaam van een kind langzaam begint te veranderen, op weg naar volwassen worden. Bij meisjes begint die meestal tussen ongeveer 8 en 13 jaar, bij jongens tussen ongeveer 9 en 14 jaar.",
+    "common": [
+     "Elk kind begint op een eigen moment. Het zit vaak in de familie.",
+     "Vroege signalen kunnen een groeispurt zijn, sterkere lichaamsgeur, vettere huid en haren, en een veranderende lichaamsvorm.",
+     "Stemmingswisselingen en meer behoefte aan privacy komen ook vaak voor.",
+     "De puberteit duurt meestal een paar jaar, van de eerste signalen tot het einde."
+    ],
+    "helps": [
+     "Praat er vroeg en open over, rustig en eenvoudig, passend bij de leeftijd van je kind. Korte, regelmatige gesprekjes werken beter dan één groot gesprek.",
+     "Beantwoord vragen eerlijk. Weet je het antwoord niet, zeg dat dan en zoek het samen uit.",
+     "Zoek in de bibliotheek naar kinderboeken over opgroeien.",
+     "Help je kind met nieuwe gewoontes, zoals elke dag wassen en schone kleren aantrekken.",
+     "Respecteer de privacy van je kind. Klop voordat je binnenkomt, en laat je kind zelf kiezen wat het vertelt.",
+     "Vertel je kind dat veranderingen normaal zijn en dat elk lichaam in een eigen tempo groeit."
+    ],
+    "help": [
+     "Er zijn al signalen van puberteit voordat een meisje 8 jaar of een jongen 9 jaar is.",
+     "Een meisje heeft op ongeveer 13 jaar, of een jongen op ongeveer 14 jaar, nog geen signalen van puberteit.",
+     "Je kind is erg bezorgd of van streek over de veranderingen in het eigen lichaam."
+    ],
+    "urgent": []
    }
   },
   "guideStages": {
@@ -6177,6 +9343,9 @@
    },
    "parent": {
     "name": "Voor jou"
+   },
+   "school": {
+    "name": "Schoolkind"
    }
   },
   "weeks": {

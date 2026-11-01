@@ -13,7 +13,7 @@
   "guide_back": "Tutte le guide",
   "guide_disclaimer": "Questa guida dà informazioni generali, non consigli medici. Fidati del tuo istinto. Se hai dubbi o preoccupazioni, contatta il medico, l'ostetrica o il pediatra. La guida è verificata sulle fonti di NHS, Organizzazione mondiale della sanità (OMS), Accademia Americana di Pediatria (AAP) e altre fonti di sanità pubblica.",
   "guide_cta_title": "Questa guida è anche nell'app Hoppo",
-  "guide_cta_text": "Hoppo ha 100 piccole abilità da esercitare dalla nascita ai 5 anni, cartoline ricordo per 188 traguardi, ogni settimana di gravidanza dalla 4ª alla 40ª e un calendario con i diari di sonno, pasti e crescita. Gratis, senza abbonamento.",
+  "guide_cta_text": "Hoppo ha 200 piccole abilità da esercitare dalla nascita ai 10 anni, cartoline ricordo per 214 traguardi, ogni settimana di gravidanza dalla 4ª alla 40ª e un calendario con i diari di sonno, pasti e crescita. Gratis, senza abbonamento.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Bebè, da 0 a 12 mesi",
   "stage_any": "Neonati e bambini piccoli",
@@ -83,8 +83,8 @@
    "description": "Pagina non trovata su hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: una piccola abilità a settimana, dalla gravidanza ai 5 anni",
-   "description": "Un aiuto sereno e amichevole per i genitori. 100 piccole abilità da esercitare dalla nascita ai 5 anni, 188 traguardi con cartoline ricordo, ogni settimana di gravidanza e {guide_count} guide \"È normale?\". Gratis."
+   "title": "Hoppo: una piccola abilità a settimana, dalla gravidanza ai 10 anni",
+   "description": "Un aiuto sereno e amichevole per i genitori. 200 piccole abilità da esercitare dalla nascita ai 10 anni, 214 traguardi con cartoline ricordo, ogni settimana di gravidanza e {guide_count} guide \"È normale?\". Gratis."
   },
   "guides.html": {
    "title": "{guide_count} guide \"È normale?\" per genitori | Hoppo",
@@ -109,14 +109,18 @@
   "order-complete.html": {
    "title": "Grazie | Hoppo",
    "description": "Il tuo ordine Hoppo è confermato."
+  },
+  "blog.html": {
+   "title": "Il blog di Hoppo: risposte sincere, dalla gravidanza ai 10 anni",
+   "description": "Articoli su sonno, costi del primo anno, visite al neonato, latte artificiale, gioco sensoriale, routine e scuola. Con fonti, internazionali, senza link a prodotti."
   }
  },
- "ld": "App gratuita per genitori dalla gravidanza ai 5 anni: abilità settimanali da esercitare, traguardi con cartoline ricordo, gravidanza settimana per settimana, guide \"È normale?\", calendario, diari di sonno, pasti e crescita.",
+ "ld": "App gratuita per genitori dalla gravidanza ai 10 anni: abilità settimanali da esercitare, traguardi con cartoline ricordo, gravidanza settimana per settimana, guide \"È normale?\", calendario, diari di sonno, pasti e crescita.",
  "units": {
   "index.html": {
    "0": "Hoppo, un simpatico ippopotamo viola",
-   "2": "<strong>Un aiuto sereno e amichevole dalla gravidanza ai 5 anni.</strong> 5 minuti di gioco a settimana che sviluppano una vera abilità, e una cartolina ricordo per ogni traguardo.",
-   "3": "La schermata Home di Hoppo con la missione della settimana, Mettersi in piedi aggrappandosi, per un bambino di 9 mesi",
+   "2": "<strong>Un aiuto sereno e amichevole dalla gravidanza ai 10 anni.</strong> 5 minuti di gioco a settimana che sviluppano una vera abilità, e una cartolina ricordo per ogni traguardo.",
+   "3": "La schermata Home di Hoppo con la missione della settimana, Lanciare dall'alto verso un bersaglio, per un bambino di 7 anni",
    "5": "Gratis su iPhone e Android. Senza abbonamento.",
    "6": "abilità da esercitare",
    "7": "traguardi",
@@ -124,7 +128,7 @@
    "9": "guide \"È normale?\"",
    "10": "Come appare",
    "11": "Scorri per vedere altro",
-   "12": "La missione della settimana per un bambino di 9 mesi, con un'idea da 5 minuti",
+   "12": "La missione della settimana per un bambino di 7 anni, con un'idea da 5 minuti",
    "13": "1 missione a settimana",
    "14": "La scheda Ricordi con i traguardi spuntati e datati",
    "15": "Traguardi e ricordi",
@@ -132,11 +136,11 @@
    "17": "Gravidanza settimana per settimana",
    "18": "L'elenco delle settimane di gravidanza con un'immagine delle dimensioni del bebè per ogni settimana",
    "19": "Ogni settimana dalla 4ª alla 40ª",
-   "20": "La libreria delle abilità ordinata per età, con le etichette iniziata e acquisita",
-   "21": "100 abilità per età",
-   "22": "Le guide \"È normale?\" con ricerca e filtri per gravidanza, bebè e bambino piccolo",
+   "20": "La libreria delle abilità ordinata per anno di età, con l'etichetta in corso",
+   "21": "200 abilità per età",
+   "22": "Le guide \"È normale?\" con ricerca e filtri dalla gravidanza all'età scolare",
    "23": "Guide \"È normale?\"",
-   "24": "La guida sulla febbre alta, con cosa è comune e cosa può aiutare",
+   "24": "La guida sui compiti, con cosa è comune e cosa può aiutare",
    "25": "Passi successivi chiari",
    "26": "Un grafico del peso con l'intervallo di riferimento dell'Organizzazione mondiale della sanità",
    "27": "Crescita con i grafici OMS",
@@ -150,9 +154,9 @@
    "35": "Le tue foto restano sul tuo telefono",
    "36": "Le foto dei traguardi non vengono mai caricate. I dati del tuo account sono conservati nell'Unione europea e puoi eliminarli tutti dall'app in qualsiasi momento.",
    "37": "Cosa c'è dentro",
-   "38": "100 abilità, dalla nascita ai 5 anni",
+   "38": "200 abilità, dalla nascita ai 10 anni",
    "39": "Tummy time, prime parole, versare, bottoni, aspettare il proprio turno. Ogni abilità ha passi semplici, errori da evitare e altri modi per esercitarsi.",
-   "40": "188 traguardi",
+   "40": "214 traguardi",
    "41": "Segna il primo sorriso, i primi passi e il primo dentino. Aggiungi una foto e condividi una cartolina ricordo con la famiglia.",
    "42": "Gravidanza settimana per settimana",
    "43": "Ogni settimana dalla 4ª alla 40ª in parole semplici, con le dimensioni del tuo bebè paragonate a un frutto o a una verdura di tutti i giorni, domande da fare all'ostetrica e una lista per la valigia dell'ospedale.",
@@ -224,6 +228,11 @@
   "product.html": {
    "1": "Il negozio richiede JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Il blog di Hoppo",
+   "1": "Risposte sincere alle domande che i genitori si fanno più spesso, dalle prime settimane ai 10 anni. Numeri e intervalli reali, e nessun prodotto da vendere.",
+   "2": "Ogni articolo cita le sue fonti ed è verificato sulle indicazioni di salute pubblica, come l'NHS, l'Organizzazione mondiale della sanità (OMS) e l'Accademia Americana di Pediatria (AAP). Sono informazioni generali, non consigli medici."
+  }
  }
 }

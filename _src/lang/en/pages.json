@@ -4,9 +4,9 @@
   "description": "Page not found on hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: one small skill a week, from pregnancy to age 5",
-  "description": "Calm, friendly help for parents. 100 short skills to practise from birth to age 5, 188 milestones with keepsake cards, every pregnancy week and {guide_count} Is this normal? guides. Free.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Free app for parents from pregnancy to age 5: weekly practice skills, milestones with keepsake cards, pregnancy week by week, Is this normal? guides, calendar, sleep, feeding and growth logs.\",\"url\":\"https://hoppoapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
+  "title": "Hoppo: one small skill a week, from pregnancy to age 10",
+  "description": "Calm, friendly help for parents. 200 short skills to practise from birth to age 10, 214 milestones with keepsake cards, every pregnancy week and {guide_count} Is this normal? guides. Free.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Free app for parents from pregnancy to age 10: weekly practice skills, milestones with keepsake cards, pregnancy week by week, Is this normal? guides, calendar, sleep, feeding and growth logs.\",\"url\":\"https://hoppoapp.com/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"}}"
  },
  "guides.html": {
   "title": "{guide_count} Is this normal? guides for parents | Hoppo",
@@ -25,8 +25,8 @@
   "description": "Terms and Conditions for the Hoppo parenting app, including the medical disclaimer and affiliate link policy."
  },
  "blog.html": {
-  "title": "The Hoppo blog: honest answers for parents, pregnancy to age 5",
-  "description": "Articles on baby sleep, first-year costs, newborn visitors, formula, sensory play, toddler routines and family life. Sourced, international and free of product links."
+  "title": "The Hoppo blog: honest answers for parents, pregnancy to age 10",
+  "description": "Articles on baby sleep, first-year costs, newborn visitors, formula, sensory play, toddler routines, school years and family life. Sourced, international and free of product links."
  },
  "shop.html": {
   "title": "Shop | Hoppo",
@@ -34,7 +34,7 @@
  },
  "partners.html": {
   "title": "Partner with Hoppo | Hoppo",
-  "description": "Reach parents from pregnancy to age 5 through the Hoppo Shop. Affiliate links via Awin or promo codes, shown in the app and on this website."
+  "description": "Reach parents from pregnancy to age 10 through the Hoppo Shop. Affiliate links via Awin or promo codes, shown in the app and on this website."
  },
  "cart.html": {
   "title": "Cart | Hoppo",

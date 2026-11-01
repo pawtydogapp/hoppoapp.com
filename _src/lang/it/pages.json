@@ -4,9 +4,9 @@
   "description": "Pagina non trovata su hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: una piccola abilità a settimana, dalla gravidanza ai 5 anni",
-  "description": "Un aiuto sereno e amichevole per i genitori. 100 piccole abilità da esercitare dalla nascita ai 5 anni, 188 traguardi con cartoline ricordo, ogni settimana di gravidanza e {guide_count} guide \"È normale?\". Gratis.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita per genitori dalla gravidanza ai 5 anni: abilità settimanali da esercitare, traguardi con cartoline ricordo, gravidanza settimana per settimana, guide \\\"È normale?\\\", calendario, diari di sonno, pasti e crescita.\",\"url\":\"https://hoppoapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
+  "title": "Hoppo: una piccola abilità a settimana, dalla gravidanza ai 10 anni",
+  "description": "Un aiuto sereno e amichevole per i genitori. 200 piccole abilità da esercitare dalla nascita ai 10 anni, 214 traguardi con cartoline ricordo, ogni settimana di gravidanza e {guide_count} guide \"È normale?\". Gratis.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita per genitori dalla gravidanza ai 10 anni: abilità settimanali da esercitare, traguardi con cartoline ricordo, gravidanza settimana per settimana, guide \\\"È normale?\\\", calendario, diari di sonno, pasti e crescita.\",\"url\":\"https://hoppoapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
  },
  "guides.html": {
   "title": "{guide_count} guide \"È normale?\" per genitori | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Diventa partner di Hoppo | Hoppo",
-  "description": "Raggiungi i genitori dalla gravidanza ai 5 anni con il Negozio di Hoppo. Link di affiliazione tramite Awin o codici promozionali, mostrati nell'app e su questo sito."
+  "description": "Raggiungi i genitori dalla gravidanza ai 10 anni con il Negozio di Hoppo. Link di affiliazione tramite Awin o codici promozionali, mostrati nell'app e su questo sito."
+ },
+ "blog.html": {
+  "title": "Il blog di Hoppo: risposte sincere, dalla gravidanza ai 10 anni",
+  "description": "Articoli su sonno, costi del primo anno, visite al neonato, latte artificiale, gioco sensoriale, routine e scuola. Con fonti, internazionali, senza link a prodotti."
  }
 }

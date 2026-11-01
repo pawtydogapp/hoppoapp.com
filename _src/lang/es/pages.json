@@ -4,9 +4,9 @@
   "description": "Página no encontrada en hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: una pequeña habilidad a la semana, del embarazo a los 5 años",
-  "description": "Ayuda cercana y tranquila para familias. 100 habilidades cortas para practicar desde el nacimiento hasta los 5 años, 188 hitos con tarjetas de recuerdo, cada semana del embarazo y {guide_count} guías ¿Es normal? Gratis.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita para familias desde el embarazo hasta los 5 años: habilidades semanales para practicar, hitos con tarjetas de recuerdo, embarazo semana a semana, guías ¿Es normal?, calendario y registros de sueño, alimentación y crecimiento.\",\"url\":\"https://hoppoapp.com/es/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"es\"}"
+  "title": "Hoppo: una pequeña habilidad a la semana, del embarazo a los 10 años",
+  "description": "Ayuda cercana y tranquila para familias. 200 habilidades cortas para practicar desde el nacimiento hasta los 10 años, 214 hitos con tarjetas de recuerdo, cada semana del embarazo y {guide_count} guías ¿Es normal? Gratis.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita para familias desde el embarazo hasta los 10 años: habilidades semanales para practicar, hitos con tarjetas de recuerdo, embarazo semana a semana, guías ¿Es normal?, calendario y registros de sueño, alimentación y crecimiento.\",\"url\":\"https://hoppoapp.com/es/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"es\"}"
  },
  "guides.html": {
   "title": "{guide_count} guías ¿Es normal? para familias | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Colabora con Hoppo | Hoppo",
-  "description": "Llega a madres y padres desde el embarazo hasta los 5 años a través de la Tienda de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web."
+  "description": "Llega a madres y padres desde el embarazo hasta los 10 años a través de la Tienda de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web."
+ },
+ "blog.html": {
+  "title": "Blog de Hoppo: respuestas sinceras, del embarazo a los 10 años",
+  "description": "Artículos sobre sueño, gastos del primer año, visitas al bebé, leche de fórmula, juego sensorial y rutinas. Con fuentes, internacionales y sin enlaces a productos."
  }
 }

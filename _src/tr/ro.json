@@ -12,7 +12,7 @@
   "guide_back": "Toate ghidurile",
   "guide_disclaimer": "Acest ghid oferă informații generale, nu sfaturi medicale. Ai încredere în instinctul tău. Dacă te îngrijorează ceva, contactează medicul de familie, moașa sau pediatrul. Ghidul este verificat în raport cu NHS, Organizația Mondială a Sănătății (OMS), Academia Americană de Pediatrie (AAP) și alte surse publice de sănătate.",
   "guide_cta_title": "Acest ghid este și în aplicația Hoppo",
-  "guide_cta_text": "Hoppo are 100 de abilități scurte de exersat de la naștere până la 5 ani, carduri-amintire pentru 188 de repere, fiecare săptămână de sarcină de la 4 la 40 și un calendar cu jurnale de somn, hrănire și creștere. Gratuit, fără abonament.",
+  "guide_cta_text": "Hoppo are 200 de abilități scurte de exersat de la naștere până la 10 ani, carduri-amintire pentru 214 repere, fiecare săptămână de sarcină de la 4 la 40 și un calendar cu jurnale de somn, hrănire și creștere. Gratuit, fără abonament.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Bebeluș, 0 până la 12 luni",
   "stage_any": "Bebeluși și copii mici",
@@ -82,8 +82,8 @@
    "description": "Pagina nu a fost găsită pe hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: o abilitate mică pe săptămână, de la sarcină la 5 ani",
-   "description": "Ajutor calm și prietenos pentru părinți. 100 de abilități scurte de exersat de la naștere până la 5 ani, 188 de repere cu carduri-amintire, fiecare săptămână de sarcină și {guide_count} de ghiduri „E normal?”. Gratuit."
+   "title": "Hoppo: o abilitate mică pe săptămână, de la sarcină până la 10 ani",
+   "description": "Ajutor calm și prietenos pentru părinți. 200 de abilități scurte de exersat de la naștere până la 10 ani, 214 repere cu carduri-amintire, fiecare săptămână de sarcină și {guide_count} de ghiduri „E normal?”. Gratuit."
   },
   "guides.html": {
    "title": "{guide_count} de ghiduri „E normal?” pentru părinți | Hoppo",
@@ -108,14 +108,18 @@
   "order-complete.html": {
    "title": "Mulțumim | Hoppo",
    "description": "Comanda ta Hoppo este confirmată."
+  },
+  "blog.html": {
+   "title": "Blogul Hoppo: răspunsuri sincere, de la sarcină până la 10 ani",
+   "description": "Somnul bebelușului, costurile primului an, vizitele la nou-născut, formula, jocul senzorial, școala și familia. Cu surse, internațional, fără linkuri către produse."
   }
  },
- "ld": "Aplicație gratuită pentru părinți, de la sarcină la 5 ani: abilități de exersat în fiecare săptămână, repere cu carduri-amintire, sarcina săptămână cu săptămână, ghiduri „E normal?”, calendar, jurnale de somn, hrănire și creștere.",
+ "ld": "Aplicație gratuită pentru părinți, de la sarcină până la 10 ani: abilități de exersat în fiecare săptămână, repere cu carduri-amintire, sarcina săptămână cu săptămână, ghiduri „E normal?”, calendar, jurnale de somn, hrănire și creștere.",
  "units": {
   "index.html": {
    "0": "Hoppo, un hipopotam mov prietenos",
-   "2": "<strong>Ajutor calm și prietenos, de la sarcină la 5 ani.</strong> 5 minute de joacă pe săptămână care dezvoltă o abilitate reală și un card-amintire pentru fiecare reper.",
-   "3": "Ecranul Acasă din Hoppo cu misiunea săptămânii, Ridicarea în picioare, pentru un copil de 9 luni",
+   "2": "<strong>Ajutor calm și prietenos, de la sarcină până la 10 ani.</strong> 5 minute de joacă pe săptămână care dezvoltă o abilitate reală și un card-amintire pentru fiecare reper.",
+   "3": "Ecranul Acasă din Hoppo cu misiunea săptămânii, Aruncare de deasupra umărului la țintă, pentru un copil de 7 ani",
    "5": "Gratuit pe iPhone și Android. Fără abonament.",
    "6": "abilități de exersat",
    "7": "repere",
@@ -123,7 +127,7 @@
    "9": "ghiduri „E normal?”",
    "10": "Cum arată",
    "11": "Glisează pentru a vedea mai mult",
-   "12": "Misiunea săptămânii pentru un copil de 9 luni, cu o idee de exersare de 5 minute",
+   "12": "Misiunea săptămânii pentru un copil de 7 ani, cu o idee de exersare de 5 minute",
    "13": "1 misiune pe săptămână",
    "14": "Fila Amintiri cu repere bifate și datate",
    "15": "Repere și amintiri",
@@ -131,11 +135,11 @@
    "17": "Sarcina săptămână cu săptămână",
    "18": "Lista săptămânilor de sarcină, cu o imagine a mărimii bebelușului pentru fiecare săptămână",
    "19": "Fiecare săptămână de la 4 la 40",
-   "20": "Biblioteca de abilități sortată pe vârstă, cu etichete pentru început și stăpânit",
-   "21": "100 de abilități pe vârstă",
-   "22": "Ghidurile „E normal?” cu căutare și filtre pentru sarcină, bebeluș și copil mic",
+   "20": "Biblioteca de abilități sortată pe an de vârstă, cu o etichetă Începută",
+   "21": "200 de abilități pe vârstă",
+   "22": "Ghidurile „E normal?” cu căutare și filtre de la sarcină până la vârsta școlară",
    "23": "Ghiduri „E normal?”",
-   "24": "Ghidul despre temperatură ridicată, cu ce este frecvent și ce poate ajuta",
+   "24": "Ghidul despre Teme fără conflicte, cu ce este frecvent și ce poate ajuta",
    "25": "Pași clari de urmat",
    "26": "Un grafic de greutate cu intervalul de referință al Organizației Mondiale a Sănătății",
    "27": "Creștere cu grafice OMS",
@@ -149,9 +153,9 @@
    "35": "Fotografiile tale rămân pe telefon",
    "36": "Fotografiile cu repere nu sunt încărcate niciodată. Datele contului tău sunt stocate în Uniunea Europeană și le poți șterge pe toate din aplicație oricând.",
    "37": "Ce găsești înăuntru",
-   "38": "100 de abilități, de la naștere la 5 ani",
+   "38": "200 de abilități, de la naștere la 10 ani",
    "39": "Poziția pe burtică, primele cuvinte, turnatul, nasturii, rândul la joacă. Fiecare abilitate are pași simpli, greșeli de evitat și alte moduri de exersare.",
-   "40": "188 de repere",
+   "40": "214 repere",
    "41": "Bifează primul zâmbet, primii pași și primul dinte. Adaugă o fotografie și trimite familiei un card-amintire.",
    "42": "Sarcina săptămână cu săptămână",
    "43": "Fiecare săptămână de la 4 la 40, în cuvinte simple, cu mărimea bebelușului comparată cu un fruct sau o legumă obișnuită, întrebări pentru moașă și o listă pentru geanta de maternitate.",
@@ -223,6 +227,11 @@
   "product.html": {
    "1": "Magazinul necesită JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Blogul Hoppo",
+   "1": "Răspunsuri sincere la întrebările pe care le pun cel mai des părinții, din primele săptămâni până la 10 ani. Intervale reale, cifre reale și niciun produs de vândut.",
+   "2": "Fiecare articol își numește sursele și este verificat cu recomandările de sănătate publică, precum NHS, Organizația Mondială a Sănătății (OMS) și Academia Americană de Pediatrie (AAP). Sunt informații generale, nu sfaturi medicale."
+  }
  }
 }

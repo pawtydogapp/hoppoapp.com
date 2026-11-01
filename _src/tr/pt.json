@@ -12,7 +12,7 @@
   "guide_back": "Todos os guias",
   "guide_disclaimer": "Este guia é informação geral e não é aconselhamento médico. Confia no teu instinto. Se estiveres preocupado, contacta o teu médico, a enfermeira obstetra ou o enfermeiro de família. Este guia é verificado com o NHS, a Organização Mundial da Saúde (OMS), a Academia Americana de Pediatria (AAP) e outras fontes de saúde pública.",
   "guide_cta_title": "Este guia também está na app Hoppo",
-  "guide_cta_text": "O Hoppo tem 100 competências curtas para praticar do nascimento aos 5 anos, cartões de recordação para 188 marcos, todas as semanas de gravidez, da 4 à 40, e um calendário com registos de sono, refeições e crescimento. Gratuito, sem subscrição.",
+  "guide_cta_text": "O Hoppo tem 200 competências curtas para praticar do nascimento aos 10 anos, cartões de recordação para 214 marcos, todas as semanas de gravidez, da 4 à 40, e um calendário com registos de sono, refeições e crescimento. Gratuito, sem subscrição.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Bebé, 0 a 12 meses",
   "stage_any": "Bebés e crianças pequenas",
@@ -82,8 +82,8 @@
    "description": "Página não encontrada em hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: uma pequena competência por semana, da gravidez aos 5 anos",
-   "description": "Ajuda calma e amiga para pais. 100 competências curtas para praticar do nascimento aos 5 anos, 188 marcos com cartões de recordação, todas as semanas de gravidez e {guide_count} guias Isto é normal? Gratuito."
+   "title": "Hoppo: uma pequena competência por semana, da gravidez aos 10 anos",
+   "description": "Ajuda calma e amiga para pais. 200 competências curtas para praticar do nascimento aos 10 anos, 214 marcos com cartões de recordação, todas as semanas de gravidez e {guide_count} guias Isto é normal? Gratuito."
   },
   "guides.html": {
    "title": "{guide_count} guias Isto é normal? para pais | Hoppo",
@@ -108,14 +108,18 @@
   "order-complete.html": {
    "title": "Obrigado | Hoppo",
    "description": "A tua encomenda Hoppo está confirmada."
+  },
+  "blog.html": {
+   "title": "O blogue Hoppo: respostas honestas para pais, da gravidez aos 10 anos",
+   "description": "Artigos sobre sono do bebé, custos do primeiro ano, visitas ao recém-nascido, leite adaptado, brincadeira sensorial e anos escolares. Com fontes e sem links de produtos."
   }
  },
- "ld": "App gratuita para pais da gravidez aos 5 anos: competências semanais para praticar, marcos com cartões de recordação, gravidez semana a semana, guias Isto é normal?, calendário, registos de sono, refeições e crescimento.",
+ "ld": "App gratuita para pais da gravidez aos 10 anos: competências semanais para praticar, marcos com cartões de recordação, gravidez semana a semana, guias Isto é normal?, calendário, registos de sono, refeições e crescimento.",
  "units": {
   "index.html": {
    "0": "Hoppo, um hipopótamo roxo simpático",
-   "2": "<strong>Ajuda calma e amiga da gravidez aos 5 anos.</strong> 5 minutos de brincadeira por semana que desenvolvem uma competência real, e um cartão de recordação para cada marco.",
-   "3": "O ecrã Início do Hoppo com a missão da semana, Levantar-se com apoio, para um bebé de 9 meses",
+   "2": "<strong>Ajuda calma e amiga, da gravidez aos 10 anos.</strong> 5 minutos de brincadeira por semana que desenvolvem uma competência real, e um cartão de recordação para cada marco.",
+   "3": "O ecrã Início do Hoppo com a missão da semana, Lançar por cima do ombro para um alvo, para uma criança de 7 anos",
    "5": "Gratuito no iPhone e no Android. Sem subscrição.",
    "6": "competências para praticar",
    "7": "marcos",
@@ -123,7 +127,7 @@
    "9": "Guias \"Isto é normal?\"",
    "10": "Como é",
    "11": "Desliza para ver mais",
-   "12": "Missão da semana para um bebé de 9 meses, com uma ideia de prática de 5 minutos",
+   "12": "Missão da semana para uma criança de 7 anos, com uma ideia de prática de 5 minutos",
    "13": "1 missão por semana",
    "14": "O separador Recordações com marcos assinalados e datados",
    "15": "Marcos e recordações",
@@ -131,11 +135,11 @@
    "17": "Gravidez semana a semana",
    "18": "A lista das semanas de gravidez com uma imagem do tamanho do bebé em cada semana",
    "19": "Todas as semanas, da 4 à 40",
-   "20": "A biblioteca de competências por idade, com etiquetas de iniciada e dominada",
-   "21": "100 competências por idade",
-   "22": "Os guias Isto é normal com pesquisa e filtros para gravidez, bebé e criança pequena",
+   "20": "A biblioteca de competências por ano de idade, com uma etiqueta de Em curso",
+   "21": "200 competências por idade",
+   "22": "Os guias Isto é normal com pesquisa e filtros da gravidez à idade escolar",
    "23": "Guias \"Isto é normal?\"",
-   "24": "O guia sobre febre, com o que é comum e o que pode ajudar",
+   "24": "O guia Trabalhos de casa sem batalhas, com o que é comum e o que pode ajudar",
    "25": "Próximos passos claros",
    "26": "Um gráfico de peso com o intervalo de referência da Organização Mundial da Saúde",
    "27": "Crescimento com gráficos da OMS",
@@ -149,9 +153,9 @@
    "35": "As tuas fotos ficam no teu telemóvel",
    "36": "As fotos dos marcos nunca são enviadas. Os dados da tua conta ficam guardados na União Europeia e podes eliminá-los todos na app a qualquer momento.",
    "37": "O que tem lá dentro",
-   "38": "100 competências, do nascimento aos 5 anos",
+   "38": "200 competências, do nascimento aos 10 anos",
    "39": "Tempo de barriga para baixo, primeiras palavras, deitar líquidos, botões, esperar pela vez. Cada competência tem passos simples, erros a evitar e outras formas de praticar.",
-   "40": "188 marcos",
+   "40": "214 marcos",
    "41": "Assinala o primeiro sorriso, os primeiros passos e o primeiro dente. Junta uma foto e partilha um cartão de recordação com a família.",
    "42": "Gravidez semana a semana",
    "43": "Todas as semanas, da 4 à 40, em palavras simples, com o tamanho do bebé comparado a uma fruta ou legume do dia a dia, perguntas para fazer à enfermeira obstetra e uma lista para a mala da maternidade.",
@@ -223,6 +227,11 @@
   "product.html": {
    "1": "A loja precisa de JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "O blogue Hoppo",
+   "1": "Respostas honestas às perguntas que os pais mais fazem, das primeiras semanas aos 10 anos. Intervalos reais, números reais e nada para vender.",
+   "2": "Cada artigo indica as suas fontes e é verificado com orientações de saúde públicas, como o NHS, a Organização Mundial da Saúde (OMS) e a Academia Americana de Pediatria (AAP). É informação geral, não é aconselhamento médico."
+  }
  }
 }

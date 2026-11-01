@@ -58,5 +58,45 @@
   "headline": "A rotina da criança pequena que dobra sem partir: 3 dias-tipo para os 1 a 5 anos, e um quadro gratuito para imprimir",
   "description": "Estrutura sem um horário rígido: 3 dias-tipo flexíveis para os 1 a 5 anos com base nas orientações da OMS sobre sono e brincadeira, truques para as transições e um quadro gratuito para imprimir.",
   "card": "3 dias-tipo flexíveis para os 1 a 5 anos, truques para os momentos de birra e um quadro gratuito para imprimir."
+ },
+ "starting-school-homework": {
+  "headline": "Começar a escola sem batalhas: a regra dos 10 minutos de trabalhos de casa e o que é normal no primeiro período",
+  "description": "As crises depois da escola são normais, a prontidão tem mais a ver com o uso da casa de banho do que com a leitura, e a evidência a favor dos trabalhos de casa no ensino básico é fraca: cerca de 10 minutos por noite por ano escolar dos EUA é um guia comum.",
+  "card": "Crises, mitos sobre a prontidão e a regra dos 10 minutos de trabalhos de casa, verificados com AAP, NHS e EEF."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "9 a 12 horas por noite, e 1 em cada 20 ainda faz xixi na cama aos 10 anos: o sono dos 5 aos 10 anos, segundo a evidência",
+  "description": "As crianças dos 6 aos 12 anos precisam de 9 a 12 horas de sono. Cerca de 1 em cada 5 faz xixi na cama aos 5 anos e 1 em cada 20 aos 10. O que o NICE, o NHS e a ERIC dizem que ajuda, e quando ir ao médico de família.",
+  "card": "De quantas horas de sono as crianças precisam, ecrãs e medos noturnos, e porque é que fazer xixi na cama dos 5 aos 10 anos é comum e tem tratamento"
+ },
+ "screen-time-first-phone": {
+  "headline": "Aos 11 anos, 91% das crianças do Reino Unido têm telemóvel: o que a OMS, a AAP e a nova investigação dizem sobre ecrãs dos 5 aos 10 anos",
+  "description": "A OMS, a AAP e o RCPCH não definem um limite diário de ecrã a partir dos 5 anos, usar dispositivos à hora de deitar está ligado a cerca do dobro da probabilidade de dormir pouco, e 91% das crianças do Reino Unido têm telemóvel aos 11 anos.",
+  "card": "Limites de ecrã, classificações PEGI, proibições de telemóveis nas escolas e o primeiro telemóvel, verificados com OMS, AAP e Ofcom."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "A puberdade pode começar aos 8 anos: como falar sobre o corpo, a menstruação e a privacidade antes de ela começar",
+  "description": "A puberdade pode começar aos 8 anos nas raparigas e aos 9 nos rapazes. Intervalos normais, quando ir ao médico de família, as 5 regras de segurança PANTS, noções básicas sobre a menstruação e respostas calmas a perguntas difíceis.",
+  "card": "Idades normais da puberdade, sinais de alerta para o médico de família, as regras de segurança do corpo PANTS e respostas calmas para os 7 aos 10 anos."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 em cada 4 crianças têm medos. Como distinguir a preocupação do dia a dia da ansiedade que precisa de ajuda",
+  "description": "3 em cada 4 crianças dos 4 aos 12 anos referem medos, e 15,7% das crianças de 8 a 10 anos em Inglaterra têm uma provável perturbação mental. Sinais, recusa escolar e o que ajuda.",
+  "card": "Preocupação normal ou ansiedade? Sinais, dores de barriga por causa da escola, 8 ferramentas que ajudam e quando falar com o médico de família."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Uma zanga ou bullying? No 4.º ano de escolaridade, 15% das crianças referem bullying quase todas as semanas. 3 testes ajudam a distinguir",
+  "description": "Zanga ou bullying? 3 testes: repetido, de propósito, desequilíbrio de poder. No 4.º ano de escolaridade, 15% sofrem bullying quase todas as semanas. Frases para usar, passos com a escola, ajuda.",
+  "card": "3 testes que separam uma zanga normal de bullying, mais palavras para usar e passos com a escola."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Esquisitice com a comida dos 5 aos 10 anos: reduz-se para metade aos 6 anos, e 15 tentativas calmas valem mais do que 1 batalha à mesa",
+  "description": "A esquisitice com a comida desce de 27,6% aos 3 anos para 13,2% aos 6. Porque é que 15 tentativas calmas valem mais do que a pressão, ideias para a lancheira, limites de açúcar e as novas regras de 2027 para a alimentação escolar.",
+  "card": "Porque é que a esquisitice se reduz para metade aos 6 anos, porque é que 15 tentativas calmas valem mais do que a pressão, e lancheiras com menos açúcar."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Até 8 zangas por hora entre irmãos: como arbitrar com justiça, definir regras da casa e lidar com a semanada e as mentiras",
+  "description": "Até 8 zangas por hora dos 4 aos 8 anos, e 32% das crianças enfrentam agressão de irmãos num ano. Como arbitrar, reconhecer o bullying, manter a justiça e lidar com as mentiras.",
+  "card": "Zangas entre irmãos, justiça, tarefas, semanada e mentiras: o que diz a investigação e o que dizer."
  }
 }

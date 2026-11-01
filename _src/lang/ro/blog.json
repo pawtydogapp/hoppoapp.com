@@ -58,5 +58,45 @@
   "headline": "Rutina copilului mic care se îndoaie fără să se rupă: 3 zile-model pentru vârste de 1 până la 5 ani și un tabel gratuit de printat",
   "description": "Structură fără un program rigid: 3 zile-model flexibile pentru vârste de 1 până la 5 ani, bazate pe recomandările OMS despre somn și joc, trucuri pentru tranziții și un tabel gratuit de printat.",
   "card": "3 zile-model flexibile pentru vârste de 1 până la 5 ani, trucuri pentru momentele de criză și un tabel gratuit de printat."
+ },
+ "starting-school-homework": {
+  "headline": "Începutul școlii fără conflicte: regula temelor de 10 minute și ce este normal în primul trimestru",
+  "description": "Crizele de după școală sunt normale, pregătirea pentru școală înseamnă folosirea toaletei, nu cititul, iar dovezile despre temele din școala primară sunt slabe: aproximativ 10 minute pe seară pentru fiecare clasă din sistemul american este un reper des folosit.",
+  "card": "Crize, mituri despre pregătirea pentru școală și regula temelor de 10 minute, verificate cu AAP, NHS și EEF."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "9 până la 12 ore de somn, iar 1 din 20 de copii încă fac pipi în pat la 10 ani: ce îi ajută noaptea pe copiii de la 5 la 10 ani",
+  "description": "Copiii de 6 până la 12 ani au nevoie de 9 până la 12 ore de somn. Aproximativ 1 din 5 fac pipi în pat la 5 ani și 1 din 20 la 10 ani. Ce spun NICE, NHS și ERIC că ajută și când mergi la medicul de familie.",
+  "card": "Câte ore de somn au nevoie copiii, ecranele și temerile de noapte, și de ce udarea patului între 5 și 10 ani este frecventă și tratabilă"
+ },
+ "screen-time-first-phone": {
+  "headline": "Până la 11 ani, 91% dintre copiii din Marea Britanie au telefon: ce spun OMS, AAP și cercetările noi despre ecrane între 5 și 10 ani",
+  "description": "OMS, AAP și RCPCH nu stabilesc o limită zilnică pentru ecrane după vârsta de 5 ani, dispozitivele folosite la culcare sunt legate de dublul șanselor de somn prea scurt, iar 91% dintre copiii din Marea Britanie au telefon până la 11 ani.",
+  "card": "Limite pentru ecrane, clasificări PEGI, interdicții de telefon în școli și primul telefon, verificate cu OMS, AAP și Ofcom."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Mofturi la mâncare între 5 și 10 ani: ele se reduc la jumătate până la 6 ani, iar 15 încercări calme sunt mai bune decât 1 conflict la masă",
+  "description": "Mofturile la mâncare scad de la 27,6% la 3 ani la 13,2% la 6 ani. De ce 15 încercări calme sunt mai eficiente decât presiunea, idei pentru pachetul de școală, limitele pentru zahăr și noile reguli pentru mâncarea din școli din 2027.",
+  "card": "De ce mofturile se reduc la jumătate până la 6 ani, de ce 15 încercări calme sunt mai eficiente decât presiunea și pachete de școală cu mai puțin zahăr."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Până la 8 certuri între frați pe oră: cum arbitrezi corect, cum stabilești reguli de casă și cum abordezi banii de buzunar și minciunile",
+  "description": "Până la 8 certuri pe oră la 4 până la 8 ani, iar 32% dintre copii se confruntă într-un an cu agresiune din partea fraților. Cum arbitrezi, cum recunoști bullyingul, cum păstrezi corectitudinea și cum abordezi minciunile.",
+  "card": "Certurile dintre frați, corectitudinea, treburile casei, banii de buzunar și minciunile: ce spune cercetarea și ce poți spune."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 din 4 copii au frici. Cum deosebești grija obișnuită de anxietatea care are nevoie de ajutor",
+  "description": "3 din 4 copii cu vârste între 4 și 12 ani spun că au frici, iar 15,7% dintre copiii de 8 până la 10 ani din Anglia au probabil o tulburare mintală. Semne, refuzul școlii și ce ajută.",
+  "card": "Grijă normală sau anxietate? Semne, dureri de burtă legate de școală, 8 instrumente care ajută și când să întrebi medicul de familie."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Ceartă între prieteni sau bullying? În clasa a 4-a, 15% dintre copii raportează bullying aproximativ săptămânal. 3 teste le deosebesc",
+  "description": "Ceartă între prieteni sau bullying? 3 teste: repetat, intenționat, dezechilibru de putere. În clasa a 4-a, 15% sunt victime ale bullyingului aproximativ săptămânal. Formulări, pași la școală, ajutor.",
+  "card": "3 teste care separă o ceartă normală de bullying, plus cuvinte de folosit și pași de urmat la școală."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "Pubertatea poate începe la 8 ani: cum vorbești despre corp, menstruație și intimitate înainte să înceapă",
+  "description": "Pubertatea poate începe la 8 ani la fete și la 9 ani la băieți. Vârste normale, când mergi la medicul de familie, cele 5 reguli PANTS pentru siguranța corpului, noțiuni despre menstruație și răspunsuri calme la întrebări incomode.",
+  "card": "Vârste normale ale pubertății, semne care cer medicul de familie, regulile PANTS pentru siguranța corpului și răspunsuri calme pentru 7 până la 10 ani."
  }
 }

@@ -43,7 +43,6 @@
   "Average length": "Povprečno trajanje",
   "Average per day": "Povprečje na dan",
   "Baby": "Dojenček",
-  "Baby arrived": "Dojenček je tu",
   "Baby's name or nickname (optional)": "Ime ali vzdevek dojenčka (neobvezno)",
   "Back": "Nazaj",
   "Bag": "Torba",
@@ -98,6 +97,7 @@
   "Demo mode": "Predstavitveni način",
   "Demo mode: password reset emails work in the full app.": "Predstavitveni način: e-pošta za ponastavitev gesla deluje v polni aplikaciji.",
   "Dirty": "Umazana",
+  "Dirty per day": "Umazanih na dan",
   "Does not repeat": "Se ne ponavlja",
   "Done for this week.": "Za ta teden opravljeno.",
   "Done, rate it": "Končano, oceni",
@@ -165,8 +165,9 @@
   "Hoppo says": "Hoppo svetuje",
   "Hoppo tips": "Nasveti Hoppo",
   "Hospital bag": "Torba za porodnišnico",
+  "Hour": "Ura",
   "How did it go?": "Kako je šlo?",
-  "I agree to the terms and conditions. I explicitly consent to Hoppo storing pregnancy and child health details I add, such as due dates, growth, sleep and feeding, so the app can work.": "Strinjam se s pogoji uporabe. Izrecno privolim, da Hoppo hrani podatke o nosečnosti in zdravju otroka, ki jih dodam, na primer predvideni datum poroda, rast, spanje in hranjenje, da aplikacija lahko deluje.",
+  "I agree to the {terms} and the {privacy}.": "Strinjam se z dokumentoma {terms} in {privacy}.",
   "I already have an account. Log in": "Že imam račun. Prijavi se",
   "I felt a movement": "Čutim gib",
   "I have a family code": "Imam družinsko kodo",
@@ -178,6 +179,7 @@
   "Join": "Pridruži se",
   "Join a family": "Pridruži se družini",
   "Join our family in Hoppo: open More, Family, and type the code {code}. It works for 48 hours.": "Pridruži se naši družini v aplikaciji Hoppo: odpri Več, Družina in vnesi kodo {code}. Koda velja 48 ur.",
+  "Keep screen on": "Zaslon ostane prižgan",
   "Keepsake card": "Spominska kartica",
   "Kicks": "Brce",
   "Labour": "Porod",
@@ -197,6 +199,7 @@
   "Log in": "Prijava",
   "Log out": "Odjava",
   "Main menu": "Glavni meni",
+  "Marks a must-have item.": "Označuje nujen predmet.",
   "Mastered": "Obvladano",
   "Maybe later": "Morda pozneje",
   "Meals": "Obroki",
@@ -221,6 +224,7 @@
   "Name": "Ime",
   "Nap": "Dremež",
   "Nappies": "Plenice",
+  "Nappies this week: {n}.": "Plenice ta teden: {n}.",
   "Naps": "Dremeži",
   "New appointment": "Nov termin",
   "New password": "Novo geslo",
@@ -238,6 +242,7 @@
   "No consent form is available right now.": "Obrazec za privolitev trenutno ni na voljo.",
   "No consent form is required for your region right now.": "Za tvojo regijo obrazec za privolitev trenutno ni potreben.",
   "No guide found. Try another word.": "Ni ustreznega vodnika. Poskusi z drugo besedo.",
+  "No nappies logged this week.": "Ta teden ni vpisanih plenic.",
   "Non-personalised": "Nepersonalizirano",
   "Not now": "Ne zdaj",
   "Not today": "Danes ne",
@@ -262,6 +267,7 @@
   "Password changed. Log in with the new one.": "Geslo spremenjeno. Prijavi se z novim.",
   "Password needs at least 6 characters.": "Geslo mora imeti vsaj 6 znakov.",
   "Pause": "Premor",
+  "Per day": "Na dan",
   "Permanently deletes your account, your children's profiles, logs and calendar. Photos on this phone are removed when you uninstall the app.": "Trajno izbriše tvoj račun, profile otrok, dnevnike in koledar. Fotografije na tem telefonu se odstranijo, ko odstraniš aplikacijo.",
   "Phone notifications are off.": "Obvestila na telefonu so izklopljena.",
   "Phone notifications are on.": "Obvestila na telefonu so vklopljena.",
@@ -368,12 +374,13 @@
   "The current time is filled in for you. Leave the end empty if your child is still asleep.": "Trenutni čas je že vpisan. Konec pusti prazen, če otrok še spi.",
   "The date of birth cannot be in the future.": "Datum rojstva ne more biti v prihodnosti.",
   "The due date is in the past. If your baby has arrived, choose \"Child\".": "Predvideni datum poroda je že mimo. Če se je dojenček že rodil, izberi »Otrok«.",
-  "The due date is in the past. If your baby has arrived, tap \"Baby arrived\" on Home.": "Predvideni datum poroda je že mimo. Če se je dojenček že rodil, tapni »Dojenček je tu« na zaslonu Domov.",
+  "The due date is in the past. If your baby has arrived, tap \"Has your baby arrived?\" below.": "Predvideni datum poroda je že mimo. Če se je dojenček že rodil, spodaj tapni »Se je dojenček že rodil?«.",
   "The end must be after the start.": "Konec mora biti po začetku.",
   "The guide for this week is being written. The size picture is already here.": "Vodnik za ta teden še pripravljamo. Slika velikosti je že tu.",
   "The new password must be different from the current one.": "Novo geslo se mora razlikovati od trenutnega.",
   "The passwords do not match.": "Gesli se ne ujemata.",
   "The reference band is slightly different for girls and boys. To set your child's sex, open their profile in More. Until then, the girls' band is shown.": "Referenčni pas je za deklice in dečke nekoliko drugačen. Spol otroka nastaviš v njegovem profilu v razdelku Več. Do takrat je prikazan pas za deklice.",
+  "The screen stays on while Hoppo is open. During a timer it stays on anyway.": "Zaslon ostane prižgan, dokler je Hoppo odprt. Med merjenjem časa ostane prižgan v vsakem primeru.",
   "The start cannot be in the future.": "Začetek ne more biti v prihodnosti.",
   "There is no set number of kicks. What matters is your own baby's usual pattern. Use this to get to know it.": "Ni določenega števila brc. Pomemben je običajni vzorec tvojega dojenčka. Tukaj ga lahko spoznaš.",
   "This cannot be undone.": "Tega ni mogoče razveljaviti.",
@@ -419,6 +426,7 @@
   "Welcome to the world, {name}. Take your time and rest when you can. Hoppo now follows {name}'s first year.": "Svet te pozdravlja, {name}. Vzemi si čas in počivaj, kadar lahko. Hoppo zdaj spremlja prvo leto: {name}.",
   "Wet": "Mokra",
   "Wet and dirty": "Mokra in umazana",
+  "Wet per day": "Mokrih na dan",
   "What can help": "Kaj lahko pomaga",
   "What is common": "Kaj je pogosto",
   "Where your data is stored": "Kje so shranjeni tvoji podatki",
@@ -454,7 +462,6 @@
   "to": "do",
   "today": "danes",
   "tomorrow": "jutri",
-  "{a} of {b} must-haves": "Nujno: {a} od {b}",
   "{a} wet · {b} dirty": "mokre: {a} · umazane: {b}",
   "{name} has mastered \"{skill}\". Well done, both of you. It is now ticked in Memories.": "{name} obvlada »{skill}«. Bravo obema. Mejnik je zdaj označen v Spominih.",
   "{n} min after the one before": "{n} min po prejšnjem",
@@ -462,7 +469,12 @@
   "{n} ml from bottles": "Steklenička: {n} ml",
   "{n} ml pumped": "Načrpano: {n} ml",
   "{n} weeks in a row. Well done.": "Tednov zapored: {n}. Odlično.",
-  "{what} chart with the reference range": "Graf: {what}, z referenčnim območjem"
+  "{what} chart with the reference range": "Graf: {what}, z referenčnim območjem",
+  "Earlier: {list}": "Prej: {list}",
+  "Hoppo covers children up to age 10.": "Hoppo je namenjen otrokom do 10. leta starosti.",
+  "Last time: {date}": "Zadnjič: {date}",
+  "Made with {paw} in Slovenia": "Narejeno z {paw} v Sloveniji",
+  "Reference: World Health Organization (WHO) Child Growth Standards, and the WHO Growth Reference from 5 years.": "Vir: standardi rasti otrok Svetovne zdravstvene organizacije (SZO) in referenčne vrednosti rasti SZO od 5. leta naprej."
  },
  "plural": {
   "Averages use the {n} day with entries.|Averages use the {n} days with entries.": {
@@ -536,6 +548,12 @@
    "two": "{n} giba",
    "few": "{n} gibi",
    "other": "{n} gibov"
+  },
+  "{n} session in total|{n} sessions in total": {
+   "one": "Skupaj {n} vaja",
+   "two": "Skupaj {n} vaji",
+   "few": "Skupaj {n} vaje",
+   "other": "Skupaj {n} vaj"
   }
  },
  "content": {
@@ -706,7 +724,11 @@
     }
    },
    "bike": {
-    "title": "Vožnja kolesa brez pomožnih koles"
+    "title": "Vožnja kolesa brez pomožnih koles",
+    "card": {
+     "h": "Pa gremo",
+     "m": "{name} vozi kolo brez pomožnih koles. Ravnotežje, pedala in naprej."
+    }
    },
    "rollerblades": {
     "title": "Rolanje"
@@ -718,7 +740,11 @@
     "title": "Smučanje"
    },
    "swims_alone": {
-    "title": "Plavanje brez rokavčkov"
+    "title": "Plavanje brez rokavčkov",
+    "card": {
+     "h": "Zamah za zamahom",
+     "m": "{name} brez rokavčkov naredi nekaj zamahov. Pogum in ponos."
+    }
    },
    "balance_line": {
     "title": "Hoja po črti",
@@ -985,7 +1011,11 @@
     }
    },
    "joke": {
-    "title": "Prva šala"
+    "title": "Prva šala",
+    "card": {
+     "h": "Ura smeha",
+     "m": "{name} pove svojo prvo šalo. Še vedno se smejemo."
+    }
    },
    "follows_toy": {
     "title": "Sledenje igrački s pogledom",
@@ -1226,7 +1256,11 @@
     }
    },
    "knife": {
-    "title": "Uporaba noža"
+    "title": "Uporaba noža",
+    "card": {
+     "h": "Kuhinjska zvezda",
+     "m": "{name} si z nožem namaže popečen kruh. Zajtrk iz lastnih rok."
+    }
    },
    "cutlery": {
     "title": "Cel obrok z nožem in vilicami"
@@ -1503,6 +1537,188 @@
    },
    "kindergarten": {
     "title": "Prvi dan v vrtcu"
+   },
+   "writes_name": {
+    "title": "Pisanje celega imena",
+    "card": {
+     "h": "Moj podpis",
+     "m": "{name} danes napiše celo ime. Vsaka črka na svojem mestu."
+    }
+   },
+   "packs_bag": {
+    "title": "Pakiranje torbe brez pomoči",
+    "card": {
+     "h": "Vse spakirano",
+     "m": "{name} si spakira torbo. Dan se lahko začne."
+    }
+   },
+   "jump_rope": {
+    "title": "Skakanje čez kolebnico brez pomoči",
+    "card": {
+     "h": "Spet in spet",
+     "m": "{name} brez pomoči skače čez kolebnico. Zavrti, skoči, zavrti, skoči."
+    }
+   },
+   "reads_book": {
+    "title": "Kratka knjiga, prebrana meni na glas",
+    "card": {
+     "h": "Zdaj berem jaz",
+     "m": "{name} mi prebere celo knjigo. Uživam v vsaki strani."
+    }
+   },
+   "ties_laces": {
+    "title": "Zavezovanje vezalk",
+    "card": {
+     "h": "Zanka in poteg",
+     "m": "{name} si zaveže vezalke. 2 lični pentlji in gremo."
+    }
+   },
+   "makes_snack": {
+    "title": "Priprava prigrizka brez pomoči",
+    "card": {
+     "h": "Iz mojih rok",
+     "m": "{name} si pripravi prigrizek. Še posebej tekne."
+    }
+   },
+   "swims_10m": {
+    "title": "Preplavanih 10 metrov",
+    "card": {
+     "h": "10 metrov",
+     "m": "{name} preplava 10 metrov. Enakomerni zamahi vso pot."
+    }
+   },
+   "writes_card": {
+    "title": "Pisanje voščilnice brez pomoči",
+    "card": {
+     "h": "Z ljubeznijo",
+     "m": "{name} brez pomoči napiše voščilnico. Prijazne besede v lastni pisavi."
+    }
+   },
+   "pays_shop": {
+    "title": "Plačilo v trgovini",
+    "card": {
+     "h": "Izvolite",
+     "m": "{name} plača na blagajni. Kovanci prešteti, hvala izrečena."
+    }
+   },
+   "road_ride": {
+    "title": "Vožnja kolesa po mirni cesti z odraslim",
+    "card": {
+     "h": "Na cesti",
+     "m": "{name} z mano vozi kolo po mirni cesti. Čelada na glavi, pogled naprej."
+    }
+   },
+   "chapter_book": {
+    "title": "Prebrana knjiga s poglavji",
+    "card": {
+     "h": "Konec",
+     "m": "{name} prebere celo knjigo s poglavji. Poglavje za poglavjem."
+    }
+   },
+   "phone_call": {
+    "title": "Telefonski klic",
+    "card": {
+     "h": "Halo, tukaj jaz",
+     "m": "{name} brez pomoči opravi telefonski klic. Jasne besede in prijazen glas."
+    }
+   },
+   "saves_up": {
+    "title": "Varčevanje za želeno stvar",
+    "card": {
+     "h": "Vredno čakanja",
+     "m": "{name} prihrani denar in kupi nekaj posebnega. Potrpežljivost se splača."
+    }
+   },
+   "swims_25m": {
+    "title": "Preplavanih 25 metrov",
+    "card": {
+     "h": "Cel bazen",
+     "m": "{name} preplava 25 metrov. Zamah za zamahom, vso pot."
+    }
+   },
+   "walks_alone": {
+    "title": "Samostojna pot do prijatelja",
+    "card": {
+     "h": "Na lastnih nogah",
+     "m": "{name} gre brez spremstva do prijatelja. Najprej vaja, potem korak v samostojnost."
+    }
+   },
+   "cooks_meal": {
+    "title": "Kuhanje obroka za družino",
+    "card": {
+     "h": "Večerja je na mizi",
+     "m": "{name} skuha obrok za vso družino. Hvala, kuhinjska zvezda."
+    }
+   },
+   "school": {
+    "title": "Prvi šolski dan",
+    "card": {
+     "h": "Šolski dnevi",
+     "m": "{name} danes začne hoditi v šolo. Velik korak in pogumno srce."
+    }
+   },
+   "school_trip": {
+    "title": "Prvi šolski izlet",
+    "card": {
+     "h": "Gremo na pot",
+     "m": "{name} gre na šolski izlet. Doma bo veliko pripovedovanja."
+    }
+   },
+   "sleepover": {
+    "title": "Prvo prespanje pri prijatelju",
+    "card": {
+     "h": "Prespanje",
+     "m": "{name} prespi pri prijatelju. Pogum, veselje in spet doma."
+    }
+   },
+   "sports_club": {
+    "title": "Včlanitev v športni klub",
+    "card": {
+     "h": "Del ekipe",
+     "m": "{name} se včlani v športni klub. Novi prijatelji in novi gibi."
+    }
+   },
+   "first_match": {
+    "title": "Prva tekma",
+    "card": {
+     "h": "Tekma se začne",
+     "m": "{name} igra na pravi tekmi. Navijamo ves čas."
+    }
+   },
+   "music_lesson": {
+    "title": "Prva glasbena ura",
+    "card": {
+     "h": "Prvi toni",
+     "m": "{name} ima prvo glasbeno uro. Začetek nečesa lepega."
+    }
+   },
+   "on_stage": {
+    "title": "Nastop na odru",
+    "card": {
+     "h": "Priklon",
+     "m": "{name} nastopa na odru. Ploskamo najglasneje."
+    }
+   },
+   "library_card": {
+    "title": "Lastna knjižnična izkaznica",
+    "card": {
+     "h": "Moja izkaznica",
+     "m": "{name} dobi svojo knjižnično izkaznico. Toliko knjig za izbiro."
+    }
+   },
+   "pocket_money": {
+    "title": "Prva žepnina",
+    "card": {
+     "h": "Moj denar",
+     "m": "{name} dobi prvo žepnino. Nekaj za zapravljanje, nekaj za hranilnik."
+    }
+   },
+   "summer_camp": {
+    "title": "Prvi poletni tabor",
+    "card": {
+     "h": "Dnevi na taboru",
+     "m": "{name} gre na poletni tabor. Novi prijatelji in zgodbe za pripovedovanje."
+    }
    }
   },
   "tips": {
@@ -2600,6 +2816,231 @@
    },
    "t365": {
     "text": "Po vrtcu ni več moči? Izpusti nalogo in se igraj, kar želi otrok."
+   },
+   "s01": {
+    "text": "Dobrodošli v šolskih letih. Nove veščine v zavihku Učenje zajemajo branje, denar, kuhanje in še več."
+   },
+   "s02": {
+    "text": "Naj otrok sam izbere veščino tega tedna v zavihku Učenje. Otroci se bolj potrudijo pri tistem, kar so izbrali sami."
+   },
+   "s03": {
+    "text": "Začni z veščino, ki jo otrok že skoraj obvlada. Hiter uspeh da pogum za težje."
+   },
+   "s04": {
+    "text": "Za naloge si določi stalen čas, na primer sobotno dopoldne ali po večerji. Z navado se je lažje spomniti."
+   },
+   "s05": {
+    "text": "Novo obdobje, ista zamisel. Naj bo kratko in zabavno, nehaj pa, preden se komu zazdi dolgočasno."
+   },
+   "s06": {
+    "text": "Po šoli ni moči? Najprej prigrizek in malo miru. Naloga lahko počaka do vikenda."
+   },
+   "s07": {
+    "text": "Nekateri tedni so polni šole, krožkov in obiskov. Nič hudega, če nalogo izpustiš."
+   },
+   "s08": {
+    "text": "Slaba volja po šoli je zelo pogosta. Veliko otrok se ves dan drži, doma pa popustijo."
+   },
+   "s09": {
+    "text": "Nocoj ni energije? Igrajta 1 kratko igro s kartami. Tudi to je dobro porabljen čas."
+   },
+   "s10": {
+    "text": "Težak večer? Objem in zgodnji odhod v posteljo včasih naredita več kot katera koli lekcija."
+   },
+   "s11": {
+    "text": "Se ti ne ljubi vsako jutro ponavljati istega? Ob vrata obesi seznam s slikicami in naj ta opominja namesto tebe."
+   },
+   "s12": {
+    "text": "Bolezni in počitnice podrejo rutino. Nadaljuj, ko se življenje umiri."
+   },
+   "s13": {
+    "text": "Ni treba zapolniti vsakega popoldneva. Dnevi počitka koristijo otrokom in staršem."
+   },
+   "s14": {
+    "text": "Novo veščino vadi vsak dan malo. Kratke vaje delujejo bolje kot ena dolga."
+   },
+   "s15": {
+    "text": "Ko gre kaj težko, to razdeli na majhne korake. Vadi 1 korak naenkrat."
+   },
+   "s16": {
+    "text": "Dodaj besedico »še«: »Tega še ne znam.« Ta majhna beseda ohranja voljo do poskušanja."
+   },
+   "s17": {
+    "text": "Naj otrok najprej sam pregleda svoje delo. Tudi iskanje napak je veščina."
+   },
+   "s18": {
+    "text": "Vodi seznam stvari, ki se jih je otrok letos naučil. Preberita ga skupaj, ko se kaj zdi težko."
+   },
+   "s19": {
+    "text": "Ponovi nalogo, ki je bila otroku všeč. Ponovitev z več samozavesti je pravi napredek."
+   },
+   "s20": {
+    "text": "Šolsko torbo spakirajta že zvečer. Mirna jutra se začnejo prejšnji večer."
+   },
+   "s21": {
+    "text": "Postavi uro tja, kjer jo otrok zjutraj vidi. Tako se uči slediti času."
+   },
+   "s22": {
+    "text": "Po šoli postavi konkretno vprašanje, na primer »Kdo je sedel ob tebi pri kosilu?« Dobiš več kot »V redu«."
+   },
+   "s23": {
+    "text": "Nekateri otroci o šoli govorijo pred spanjem, ne takoj ob prihodu iz šole. Pusti prostor za oboje."
+   },
+   "s24": {
+    "text": "Uredi miren kotiček za domačo nalogo s svinčnikom, papirjem in dobro svetlobo. Med delom naj bodo zasloni stran."
+   },
+   "s25": {
+    "text": "Pri domači nalogi pomagaj z vprašanji, ne z odgovori. Potem naj otrok poskusi sam."
+   },
+   "s26": {
+    "text": "Ostani v stiku z učiteljem. Kratek, prijazen pogovor lahko zgodaj reši majhne skrbi."
+   },
+   "s27": {
+    "text": "Skupaj poglejta šolsko delo in poiščita 1 stvar, na katero je otrok ponosen."
+   },
+   "s28": {
+    "text": "Še naprej beri na glas, tudi ko otrok že bere sam. Zahtevnejše zgodbe prinesejo nove besede."
+   },
+   "s29": {
+    "text": "Berita izmenično po straneh. Otrok prebere 1 stran, ti naslednjo."
+   },
+   "s30": {
+    "text": "Stripi, knjige šal in knjige z zanimivostmi o živalih, vse to je branje."
+   },
+   "s31": {
+    "text": "Priskrbi otroku lastno knjižnično izkaznico. Samostojna izbira knjig daje občutek odraslosti."
+   },
+   "s32": {
+    "text": "Sprašuj o zgodbi, ne preverjaj znanja: »Kateri lik iz zgodbe bi bil dober prijatelj zate?«"
+   },
+   "s33": {
+    "text": "Naj te otrok vidi, kako bereš. Otroci posnemajo, kar vidijo doma."
+   },
+   "s34": {
+    "text": "Če je beseda težka, počakaj nekaj sekund, preden pomagaš. Daj otroku čas, da jo črko za črko prebere."
+   },
+   "s35": {
+    "text": "Skupaj igrajta igre s kartami. Štetje, načrtovanje in pomnjenje so skrita vaja."
+   },
+   "s36": {
+    "text": "Vsaj 1 popoldne na teden naj ostane brez krožkov in načrtov. Otroci potrebujejo čas za počitek in igro po svoje."
+   },
+   "s37": {
+    "text": "Iz škatel, kock ali odej zgradita nekaj velikega. Naj bo otrok glavni pri načrtu."
+   },
+   "s38": {
+    "text": "Pri večerji igrajte besedno igro, na primer naštevanje živali od A do Ž."
+   },
+   "s39": {
+    "text": "Ko je otrok vznemirjen, najprej poslušaj, rešuj pozneje. Ko je slišan, se čustva lažje umirijo."
+   },
+   "s40": {
+    "text": "Včasih poimenuj svoja čustva: »Malo me skrbi jutrišnji dan.« Otrok se nauči, da je to normalno."
+   },
+   "s41": {
+    "text": "Nekatere skrbi pridejo na dan šele pred spanjem. Pred ugašanjem luči si vzemi nekaj mirnih minut za pogovor."
+   },
+   "s42": {
+    "text": "Pripoveduj otroku o napakah iz svojega otroštva. Tako vidi, da se zmoti vsak."
+   },
+   "s43": {
+    "text": "Po težkem trenutku vprašaj: »Kaj bi lahko poskusili naslednjič?« Skupaj iščita zamisli."
+   },
+   "s44": {
+    "text": "Če skrb traja tedne ali ovira vsakdanje življenje, se pogovori s šolo ali z otrokovim zdravnikom."
+   },
+   "s45": {
+    "text": "O prijateljih sprašuj z zanimanjem, ne s skrbjo: »Kaj ste se danes igrali s prijatelji?«"
+   },
+   "s46": {
+    "text": "Manjši spori s prijatelji so normalen del odraščanja. Najprej poslušaj, nato otroku pomagaj najti naslednji korak."
+   },
+   "s47": {
+    "text": "Povabi sošolca ali sošolko na igranje. Druženje zunaj šole pomaga, da prijateljstva rastejo."
+   },
+   "s48": {
+    "text": "Vadita besede za težke trenutke, na primer »Se lahko pridružim?« ali »Prosim, nehaj, to mi ni všeč.«"
+   },
+   "s49": {
+    "text": "Opazi, ko je otrok dober prijatelj. Povej mu, kaj opaziš."
+   },
+   "s50": {
+    "text": "Otroci od 6 do 12 let potrebujejo 9 do 12 ur spanja na noč. Reden čas za spanje to olajša."
+   },
+   "s51": {
+    "text": "Pred šolskimi dnevi naj bo čas za spanje vedno enak. Mirna rutina s kopanjem, knjigo in posteljo pomaga, da spanec pride."
+   },
+   "s52": {
+    "text": "Telefoni, tablice in televizija naj ponoči ne bodo v spalnici. Brez njih spanec pride lažje."
+   },
+   "s53": {
+    "text": "Pravila za zaslone se dogovorite kot družina in jih zapišite. Jasna pravila pomenijo manj prepirov."
+   },
+   "s54": {
+    "text": "Nekateri trenutki naj bodo za vse brez zaslonov, na primer obroki in pot v šolo."
+   },
+   "s55": {
+    "text": "Prosi otroka, naj ti pokaže svojo najljubšo igro ali video. Skupno gledanje odpre dobre pogovore."
+   },
+   "s56": {
+    "text": "Povej otroku, da lahko vedno pride k tebi, če se mu na spletu kaj ne zdi prav. Zato, ker ti pove, ga nihče ne bo kaznoval."
+   },
+   "s57": {
+    "text": "Za čas pred zasloni uporabi časovnik. Ko zazvoni, reče stop časovnik, ne ti."
+   },
+   "s58": {
+    "text": "SZO svetuje povprečno vsaj 60 minut dejavnosti na dan, ob kateri otroci od 5 do 17 let hitreje dihajo. Tek, kolesarjenje in ples, vse šteje."
+   },
+   "s59": {
+    "text": "Če lahko, del poti do šole prehodita skupaj. Aktivne poti se seštevajo."
+   },
+   "s60": {
+    "text": "Plezanje, skakanje in poskakovanje krepijo mišice in kosti. SZO priporoča tako igro vsaj 3 dni na teden."
+   },
+   "s61": {
+    "text": "Pojdita ven v vsakem vremenu, v primernih oblačilih. Luže in veter naredijo sprehod zabavnejši."
+   },
+   "s62": {
+    "text": "Poskusita nov šport ali dejavnost samo za zabavo. Poskus je dovolj, ni treba biti dober."
+   },
+   "s63": {
+    "text": "Prekini dolgo sedenje. Hiter ples v kuhinji spravi telo v gibanje."
+   },
+   "s64": {
+    "text": "Daj otroku 1 stalno opravilo doma, na primer hranjenje hišnega ljubljenčka ali zalivanje rož."
+   },
+   "s65": {
+    "text": "Naj otrok že zvečer sam izbere oblačila za šolo."
+   },
+   "s66": {
+    "text": "Opravila so lahko narejena nepopolno. Malo postrani pospravljena postelja je še vedno pospravljena."
+   },
+   "s67": {
+    "text": "Naj si otrok sam natoči pijačo in pospravi krožnik. Majhna opravila gradijo samostojnost."
+   },
+   "s68": {
+    "text": "Preden posežeš vmes, vprašaj: »Kaj lahko poskusiš?« Naj otrok najprej sam reši majhne težave."
+   },
+   "s69": {
+    "text": "Naj otrok plača na blagajni, ti pa stoj blizu. S pravimi kovanci postane računanje resnično."
+   },
+   "s70": {
+    "text": "Daj otroku besedo pri majhnih družinskih načrtih, na primer pri petkovi večerji ali vikend sprehodu."
+   },
+   "s71": {
+    "text": "Pohvali, kar je otrok naredil: »Kljub težavam vztrajaš.« Tako ve, kaj naj ponovi."
+   },
+   "s72": {
+    "text": "Napredek je pogosto počasen, potem pa nenaden. Vztrajaj in daj stvarem čas."
+   },
+   "s73": {
+    "text": "Zahvali se otroku, ko pomaga brez prošnje. Pomembno je, da je opažen."
+   },
+   "s74": {
+    "text": "Shrani en izdelek z začetka šolskega leta. Poleti ga skupaj poglejta."
+   },
+   "s75": {
+    "text": "Naj te otrok sliši, ko o njem komu drugemu poveš kaj lepega."
    }
   },
   "focusAreas": {
@@ -2611,6 +3052,9 @@
    },
    "hands": {
     "name": "Roke in razmišljanje"
+   },
+   "life": {
+    "name": "Vsakdanje življenje"
    }
   },
   "years": {
@@ -2628,35 +3072,41 @@
    },
    "5": {
     "name": "5. leto"
+   },
+   "6": {
+    "name": "6. leto"
+   },
+   "7": {
+    "name": "7. leto"
+   },
+   "8": {
+    "name": "8. leto"
+   },
+   "9": {
+    "name": "9. leto"
+   },
+   "10": {
+    "name": "10. leto"
    }
   },
   "families": {
+   "family": {
+    "name": "Družina in prijatelji"
+   },
+   "food": {
+    "name": "Hrana"
+   },
    "move": {
     "name": "Gibanje"
    },
    "talk": {
-    "name": "Govor in besede"
+    "name": "Govor"
    },
    "creative": {
-    "name": "Roke in ustvarjalnost"
-   },
-   "food": {
-    "name": "Prehrana"
-   },
-   "teeth": {
-    "name": "Zobje"
-   },
-   "care": {
-    "name": "Samostojnost"
-   },
-   "family": {
-    "name": "Družina in prijatelji"
+    "name": "Ustvarjalnost"
    },
    "travel": {
-    "name": "Kraji in potovanja"
-   },
-   "firsts": {
-    "name": "Prvič"
+    "name": "Potovanja"
    }
   },
   "shopCats": {
@@ -2734,6 +3184,27 @@
    },
    {
     "name": "NHS, zdravje dojenčkov in otrok: vročina, prehlad, plenični izpuščaj, zaprtje"
+   },
+   {
+    "name": "American Academy of Pediatrics (AAP) HealthyChildren.org, šolski otroci (5 do 12 let)"
+   },
+   {
+    "name": "AAP HealthyChildren.org, zdrave spalne navade: koliko ur spanja potrebuje otrok"
+   },
+   {
+    "name": "Centers for Disease Control and Prevention (CDC), informacije o mlajših otrocih (od 4 do 11 let)"
+   },
+   {
+    "name": "Smernice SZO za telesno dejavnost in sedeči čas (otroci in mladostniki od 5 do 17 let)"
+   },
+   {
+    "name": "NHS, smernice za telesno dejavnost otrok in mladih"
+   },
+   {
+    "name": "Raising Children Network: šolska leta (5 do 8 let)"
+   },
+   {
+    "name": "Svetovna zdravstvena organizacija (SZO), referenčne vrednosti rasti za starost od 5 do 19 let"
    }
   ],
   "bag": {
@@ -5166,6 +5637,2328 @@
      "Pesmica za 2-minutno umivanje.",
      "Nalepka za vsako večerno umivanje."
     ]
+   },
+   "skip": {
+    "name": "Poskakovanje",
+    "goal": "Poskakuje naprej s korakom in majhnim poskokom na vsaki nogi.",
+    "why": "Poskakovanje krepi ritem, ravnotežje in usklajenost obeh strani telesa.",
+    "steps": [
+     "Poišči prost, raven prostor, na primer pot ali hodnik.",
+     "Počasi pokaži: korak, poskok, nato korak, poskok na drugi nogi.",
+     "Skupaj na glas izgovarjajta ritem: »Korak, hop, korak, hop.«",
+     "Primita se za roke in nekaj korakov poskakujta drug ob drugem.",
+     "Naj otrok poskusi brez pomoči, ti pa ploskaj ritem.",
+     "Pohvali poskus, tudi če se spremeni v galop."
+    ],
+    "avoid": [
+     "Mokra ali spolzka tla.",
+     "Hitenje, preden ritem steče zlahka.",
+     "Primerjanje otroka z drugimi otroki."
+    ],
+    "success": "Otrok naredi 4 poskoke zapored.",
+    "ways": [
+     "Poskakovanje do avta ali trgovine.",
+     "Poskakovanje ob najljubši pesmi.",
+     "Igra »sledi vodji« s poskakovanjem."
+    ]
+   },
+   "catch_small": {
+    "name": "Metanje in lovljenje majhne žoge",
+    "goal": "Vrže in ujame majhno žogo z rokami, ne s prsmi.",
+    "why": "Lovljenje majhne žoge izostri usklajenost oči in rok, ki jo otrok potrebuje pri igri in športu.",
+    "steps": [
+     "Uporabi mehko žogo, veliko približno kot pomaranča.",
+     "Stopita 2 metra narazen.",
+     "Pokaži, kako držati obe roki pripravljeni, s prsti narazen.",
+     "Žogo nežno vrzi od spodaj, otroku v roke.",
+     "Pred vsakim metom reci: »Glej žogo.«",
+     "Po 3 dobrih ulovih stopi malo nazaj."
+    ],
+    "avoid": [
+     "Trde žoge, ki zabolijo, če jih otrok ne ujame.",
+     "Hitri ali visoki meti.",
+     "Igra blizu oken ali cest."
+    ],
+    "success": "Otrok 3-krat ujame žogo z rokami.",
+    "ways": [
+     "Metanje žoge v steno in lovljenje.",
+     "V stanovanju zvit par nogavic.",
+     "Skupno štetje ulovov zapored."
+    ]
+   },
+   "bike_no_stab": {
+    "name": "Kolo brez pomožnih koles",
+    "goal": "Lovi ravnotežje in poganja kolo brez pomožnih koles.",
+    "why": "Vožnja s kolesom krepi ravnotežje, moč in samozavest. Otroci se tega naučijo pri zelo različni starosti.",
+    "steps": [
+     "Vsakič nadeni čelado in preveri, ali se dobro prilega.",
+     "Izberi raven, odprt prostor stran od cest, na primer pot v parku.",
+     "Sedež spusti, da otrok z obema nogama doseže tla.",
+     "Naj se otrok najprej odriva z nogami in drsi.",
+     "Ko drsenje steče zlahka, dodaj pedala, ti pa hodi tik ob otroku.",
+     "Nehaj, dokler je še zabavno."
+    ],
+    "avoid": [
+     "Vožnja brez čelade.",
+     "Ceste, klanci in prometne poti.",
+     "Spuščanje kolesa brez opozorila otroku."
+    ],
+    "success": "Otrok brez pomožnih koles in brez pomoči prevozi 5 metrov.",
+    "ways": [
+     "Drsenje s snetimi pedali.",
+     "Vožnja med 2 drevesoma v parku.",
+     "Vadenje speljevanja in ustavljanja."
+    ]
+   },
+   "swim_strokes": {
+    "name": "Nekaj zamahov plavanja",
+    "goal": "Brez rokavčkov naredi nekaj plavalnih zamahov, odrasli pa je tik ob otroku.",
+    "why": "Prve plavalne veščine krepijo samozavest v vodi. Tečaji in skrben nadzor otroke varujejo.",
+    "steps": [
+     "Pojdi na bazen z nadzorom in ostani v vodi z otrokom.",
+     "Ves čas bodi na dosegu roke.",
+     "Vadita brcanje z nogami, medtem ko se otrok drži roba.",
+     "Otroka nežno drži pod trebuhom in naj zamahuje z rokami.",
+     "Spusti ga za 2 ali 3 zamahe, nato ga ujemi.",
+     "Pohvali poskus in nehaj, preden otroka zebe ali se utrudi."
+    ],
+    "avoid": [
+     "Puščanje otroka v vodi ali ob njej, niti za trenutek.",
+     "Odprte vode, kot so jezera, reke ali morje.",
+     "Priganjanje prestrašenega otroka, naj gre dlje."
+    ],
+    "success": "Otrok brez rokavčkov naredi 3 zamahe do tebe.",
+    "ways": [
+     "Tečaj plavanja z usposobljenim učiteljem.",
+     "Plavanje od roba bazena do tebe.",
+     "Igre brcanja z nogami ob plavalni deski."
+    ]
+   },
+   "rope_jump_low": {
+    "name": "Skok čez nizko vrv",
+    "goal": "S sonožnim skokom preskoči nizko vrv.",
+    "why": "Skakanje krepi moč nog, ravnotežje in občutek za čas, ki ga otrok kasneje potrebuje pri igrah s kolebnico.",
+    "steps": [
+     "Vrv ali šal položi na tla, na travo ali preprogo.",
+     "Pokaži sonožni skok.",
+     "Naj otrok skoči čeznjo naprej.",
+     "Vrv dvigni za nekaj centimetrov in jo drži ohlapno, da pade, če se je otrok dotakne.",
+     "Poskusita skakati čeznjo tudi bočno."
+    ],
+    "avoid": [
+     "Privezovanje vrvi na karkoli.",
+     "Trda ali spolzka tla.",
+     "Prezgodnje dviganje vrvi previsoko."
+    ],
+    "success": "Otrok 3-krat sonožno preskoči nizko vrv.",
+    "ways": [
+     "Preskakovanje »reke« iz 2 vrvi.",
+     "Preskakovanje razpok na pločniku.",
+     "Skakanje v obroče in iz njih."
+    ]
+   },
+   "name_feeling": {
+    "name": "Poimenuj občutek",
+    "goal": "Z besedami poimenuje občutke, kot so veselje, žalost, jeza ali skrb.",
+    "why": "Ko otrok občutek poimenuje, se lažje pomiri in prosi za pomoč. To je prvi korak pri obvladovanju čustev.",
+    "steps": [
+     "Izberi miren trenutek, ne izbruha.",
+     "Skupaj pred ogledalom delajta obraze: veselje, žalost, jeza, strah.",
+     "Naj otrok ugiba vsak občutek.",
+     "Povej enega od svojih današnjih občutkov.",
+     "Vprašaj: »Kako se počutiš po današnjem dnevu?«",
+     "Sprejmi vsak odgovor, ne popravljaj ga."
+    ],
+    "avoid": [
+     "Govorjenje, da je občutek napačen ali neumen.",
+     "Spraševanje med izbruhom trme.",
+     "Preveč besed za občutke naenkrat."
+    ],
+    "success": "Otrok poimenuje 1 svoj občutek.",
+    "ways": [
+     "Pogovor o tem, kako se počuti junak v knjigi.",
+     "Preverjanje občutkov pred spanjem.",
+     "Risanje obraza za današnji dan."
+    ]
+   },
+   "wait_turn_talk": {
+    "name": "Počakaj, da prideš na vrsto",
+    "goal": "Večinoma počaka na premor, preden spregovori.",
+    "why": "Čakanje na svojo vrsto pomaga pri pogovoru, prijateljstvih in učenju v skupini.",
+    "steps": [
+     "Izberi majhen predmet, na primer žlico, za »govorilno žlico«.",
+     "Razloži: govori samo tisti, ki jo drži.",
+     "Izmenjujta se in vsak pove eno stvar o svojem dnevu.",
+     "Ko končaš, jo podaj naprej.",
+     "Pohvali otroka za čakanje, tudi če je bilo kratko."
+    ],
+    "avoid": [
+     "Dolgi nastopi, ki preizkušajo potrpežljivost.",
+     "Oštevanje otroka zaradi skakanja v besedo.",
+     "Tvoje lastno skakanje otroku v besedo."
+    ],
+    "success": "Otrok 2-krat počaka, da pride na vrsto.",
+    "ways": [
+     "Govorilna žlica pri večerji.",
+     "Družinski klepet v avtu.",
+     "Izmenjevanje ob telefonu igrači."
+    ]
+   },
+   "say_sorry": {
+    "name": "Opravičilo in sprava",
+    "goal": "Po težavi se opraviči in naredi nekaj prijaznega, da se pobota.",
+    "why": "Sprava otroke uči popravljati prijateljstva in skrbeti za to, kako se počutijo drugi.",
+    "steps": [
+     "Počakaj, da se vsi umirijo.",
+     "Pogovorita se o tem, kaj se je zgodilo in kako se je ob tem počutila druga oseba.",
+     "Vprašaj: »Kaj lahko rečeš ali narediš, da pomagaš?«",
+     "Naj otrok izbere svoje besede, na primer: »Oprosti za porivanje.«",
+     "Dodajta prijazno dejanje, na primer posojo igrače.",
+     "Pokaži otroku, kako se opravičuješ tudi ti."
+    ],
+    "avoid": [
+     "Izsiljevanje opravičila v vročini trenutka.",
+     "Sramotenje otroka.",
+     "Dolge pridige."
+    ],
+    "success": "Otrok se opraviči in naredi 1 prijazno stvar.",
+    "ways": [
+     "Sprava po prepiru med bratom in sestro.",
+     "Vadenje z igračami ali lutkami.",
+     "Risba za opravičilo."
+    ]
+   },
+   "tell_joke": {
+    "name": "Povej šalo",
+    "goal": "Pove preprosto šalo in počaka na poanto.",
+    "why": "Šale krepijo jezik, občutek za čas in veselje ob skupnem smehu.",
+    "steps": [
+     "Otroku povej preprosto, kratko šalo.",
+     "Če je treba, razloži, zakaj je smešna.",
+     "Skupaj jo počasi vadita.",
+     "Naj ti jo otrok pove.",
+     "Nasmej se in se zahvali."
+    ],
+    "avoid": [
+     "Šale, ki se norčujejo iz ljudi.",
+     "Popravljanje šale, medtem ko jo otrok pripoveduje.",
+     "Dolge šale, ki si jih je težko zapomniti."
+    ],
+    "success": "Otrok pove šalo od začetka do konca.",
+    "ways": [
+     "Šala pri večerji.",
+     "Šala »Trk, trk. Kdo je?« v avtu.",
+     "Skupno izmišljanje smešne šale."
+    ]
+   },
+   "retell_trip": {
+    "name": "Izlet po vrsti",
+    "goal": "Pove, kaj se je na izletu zgodilo, v pravem vrstnem redu.",
+    "why": "Razvrščanje dogodkov po vrsti krepi spomin, jezik in prve pripovedne veščine.",
+    "steps": [
+     "Po izletu se usedita za kratek klepet.",
+     "Vprašaj: »Kaj je bilo najprej?«",
+     "Nato vprašaj: »Kaj je bilo potem?«",
+     "Končaj z vprašanjem: »Kaj je bilo na koncu?«",
+     "Uporabljaj besede najprej, potem in na koncu.",
+     "Če se otrok zatakne, mu pomagaj z majhnim namigom."
+    ],
+    "avoid": [
+     "Preveč vprašanj zapored.",
+     "Popravljanje drobnih podrobnosti.",
+     "Spraševanje, ko je otrok utrujen."
+    ],
+    "success": "Otrok po vrsti pove 3 dele izleta.",
+    "ways": [
+     "Ogled fotografij z izleta.",
+     "Pripovedovanje o izletu drugemu družinskemu članu.",
+     "Risanje 3 slik po vrsti."
+    ]
+   },
+   "write_name": {
+    "name": "Napiši svoje ime",
+    "goal": "Napiše svoje ime s čitljivimi črkami.",
+    "why": "Pisanje svojega imena je ponosen prvi korak pri pisanju in pomaga v šoli.",
+    "steps": [
+     "Otrokovo ime napiši z velikimi črkami.",
+     "Pokaži na vsako črko in jo izgovori.",
+     "Naj otrok črke obriše s prstom, nato s svinčnikom.",
+     "Naj otrok ime prepiše spodaj.",
+     "Začni z veliko začetnico, nadaljuj z malimi črkami."
+    ],
+    "avoid": [
+     "Pisanje vseh črk z velikimi tiskanimi.",
+     "Dolgo vadenje.",
+     "Opozarjanje na vsako majavo črko."
+    ],
+    "success": "Otrok napiše svoje ime brez prepisovanja.",
+    "ways": [
+     "Podpis na risbi.",
+     "Pisanje v pesek ali s prstom na zarošeno okno.",
+     "Napis na škatli za malico."
+    ]
+   },
+   "count_20": {
+    "name": "Štetje do 20",
+    "goal": "Na glas šteje po vrsti od 1 do 20.",
+    "why": "Štetje do 20 je temelj za seštevanje, odštevanje in razumevanje večjih števil.",
+    "steps": [
+     "Najprej skupaj preštejta do 10.",
+     "Nato počasi štejta od 10 do 20.",
+     "Ob vsakem številu ploskni ali skoči.",
+     "Naj otrok vodi štetje.",
+     "Pomagaj pri težjih številih, na primer 13 in 15."
+    ],
+    "avoid": [
+     "Preverjanje ali spraševanje kot pri testu.",
+     "Nadaljevanje, ko otrok izgubi zanimanje.",
+     "Grobo popravljanje."
+    ],
+    "success": "Otrok brez pomoči prešteje do 20.",
+    "ways": [
+     "Štetje stopnic.",
+     "Štetje med umivanjem rok.",
+     "Štetje skokov ali korakov na sprehodu."
+    ]
+   },
+   "add_objects": {
+    "name": "Seštevanje s predmeti",
+    "goal": "Sešteje 2 majhni skupini predmetov in pove, koliko jih je skupaj.",
+    "why": "Seštevanje s pravimi predmeti pomaga, da števila dobijo pomen, preden jih otrok uporablja na papirju.",
+    "steps": [
+     "Pripravi 2 majhni skupini predmetov, na primer 3 gumbe in 2 gumba.",
+     "Skupaj preštejta vsako skupino.",
+     "Skupini potisni skupaj.",
+     "Vprašaj: »Koliko jih je zdaj?«",
+     "Naj otrok prešteje vse.",
+     "Poskusita nov par skupin."
+    ],
+    "avoid": [
+     "Majhni predmeti, ko so v bližini mlajši bratci ali sestrice.",
+     "Prezgodnje zapisovanje računov.",
+     "Velika števila, preden gre z majhnimi zlahka."
+    ],
+    "success": "Otrok pravilno sešteje 2 skupini do 10.",
+    "ways": [
+     "Seštevanje jabolk v nakupovalni vrečki.",
+     "Seštevanje avtomobilčkov.",
+     "Seštevanje prstov na 2 rokah."
+    ]
+   },
+   "cut_line": {
+    "name": "Rezanje po črti",
+    "goal": "Z varnimi otroškimi škarjami reže po ravni črti.",
+    "why": "Rezanje krepi moč in nadzor rok, kar pomaga tudi pri pisanju.",
+    "steps": [
+     "Daj otroku varne otroške škarje in trak papirja.",
+     "Nanj nariši debelo ravno črto.",
+     "Pokaži prijem: palec zgoraj.",
+     "Naj otrok počasi reže po črti.",
+     "Če je treba, obrni papir, ne škarij."
+    ],
+    "avoid": [
+     "Ostre škarje za odrasle.",
+     "Hoja s škarjami.",
+     "Tanek ali trd papir."
+    ],
+    "success": "Otrok izreže 10 centimetrov dolgo črto.",
+    "ways": [
+     "Izrezovanje slik iz starih letakov.",
+     "Rezanje papirnega traku na koščke.",
+     "Rezanje plastelina s škarjami."
+    ]
+   },
+   "draw_shapes": {
+    "name": "Kvadrat in trikotnik",
+    "goal": "Preriše kvadrat in trikotnik z jasnimi koti.",
+    "why": "Risanje likov krepi nadzor nad svinčnikom in pomaga pri oblikovanju črk.",
+    "steps": [
+     "Počasi nariši kvadrat, otrok pa gleda.",
+     "Skupaj preštejta stranice: 1, 2, 3, 4.",
+     "Naj ga otrok preriše.",
+     "Enako naredita s trikotnikom in 3 stranicami.",
+     "Pohvali kote, tudi če so majavi."
+    ],
+    "avoid": [
+     "Samo obrisovanje, brez prostega risanja.",
+     "Preveč likov naenkrat.",
+     "Ocenjevanje risb."
+    ],
+    "success": "Otrok nariše kvadrat in trikotnik s koti.",
+    "ways": [
+     "Risanje hiše s kvadratom in streho.",
+     "Iskanje kvadratov in trikotnikov doma.",
+     "Risanje likov s kredo zunaj."
+    ]
+   },
+   "left_right": {
+    "name": "Levo in desno",
+    "goal": "Pozna svojo levo in desno roko.",
+    "why": "Poznavanje leve in desne pomaga pri smereh, pisanju in igrah. Pogosto se utrdi šele sčasoma.",
+    "steps": [
+     "Skupaj z otrokom dvignita obe roki.",
+     "Reci: »To je tvoja desna roka.« Stresi jo.",
+     "Pokaži roko, s katero otrok maha ali riše.",
+     "Igrajta se igro: »Dotakni se levega ušesa.«",
+     "Počasi menjaj med levo in desno."
+    ],
+    "avoid": [
+     "Hitro spraševanje.",
+     "Pričakovanje, da otrok pozna tvojo levo in desno.",
+     "Delanje drame zaradi zamenjav."
+    ],
+    "success": "Otrok na prošnjo pokaže svojo levo in desno roko.",
+    "ways": [
+     "Zavijanje levo ali desno na sprehodu.",
+     "Obuvanje levega ali desnega čevlja.",
+     "Plesna igra z levo in desno."
+    ]
+   },
+   "days_week": {
+    "name": "Dnevi v tednu",
+    "goal": "Po vrsti pove dneve v tednu.",
+    "why": "Poznavanje dni pomaga otrokom razumeti čas, načrte in vsakdanji ritem.",
+    "steps": [
+     "Skupaj počasi izgovorita vseh 7 dni.",
+     "Zapojta jih na preprosto melodijo.",
+     "Pogovorita se o današnjem dnevu: »Danes je ponedeljek.«",
+     "Vsak dan poveži z eno stvarjo, ki jo počnete, na primer s plavanjem ali obiskom pri babici.",
+     "Naj jih otrok pove brez pomoči."
+    ],
+    "avoid": [
+     "Preverjanje, preden otrok vadi s pomočjo.",
+     "Hkratno dodajanje mesecev.",
+     "Dolgo vadenje."
+    ],
+    "success": "Otrok po vrsti pove 7 dni.",
+    "ways": [
+     "Pesmica o dnevih v tednu zjutraj.",
+     "Prečrtovanje dni na koledarju.",
+     "Vprašanje »Kateri dan bo jutri?« pri zajtrku."
+    ]
+   },
+   "phone_address": {
+    "name": "Telefonska številka in naslov",
+    "goal": "Pove telefonsko številko starša in domači naslov.",
+    "why": "Če se otrok kdaj izgubi, ti podatki pomagajo varni odrasli osebi, da stopi v stik s tabo.",
+    "steps": [
+     "Skupaj počasi povejta ulico in kraj.",
+     "Nato povej telefonsko številko v majhnih skupinah števk.",
+     "Iz številke naredita kratko pesmico ali ritem.",
+     "Vadita enkrat na dan.",
+     "Razloži, komu naj to pove: policistu, učitelju ali prodajalcu na blagajni."
+    ],
+    "avoid": [
+     "Deljenje teh podatkov z neznanci na spletu.",
+     "Enkratno vadenje, nato pa nič več.",
+     "Strašljive zgodbe o tem, kako se kdo izgubi."
+    ],
+    "success": "Otrok pove tvojo telefonsko številko in ulico.",
+    "ways": [
+     "Petje številke na poti domov.",
+     "Skupno pisanje naslova na kartico.",
+     "Igra vlog: kaj storiti, če se izgubiš v trgovini."
+    ]
+   },
+   "spread_knife": {
+    "name": "Mazanje z nožem",
+    "goal": "S topim nožem namaže mehko hrano na kruh.",
+    "why": "Mazanje krepi nadzor rok in je prvi korak k samostojni pripravi hrane.",
+    "steps": [
+     "Daj otroku top nož za maslo ali otroški nož.",
+     "Uporabi nekaj mehkega, na primer mehki sir ali maslo na sobni temperaturi.",
+     "Pokaži, kako s konico zajeti malo namaza.",
+     "Pokaži, kako mazati od sredine proti robovom.",
+     "Naj otrok poskusi na 1 rezini kruha."
+    ],
+    "avoid": [
+     "Ostri noži.",
+     "Trdo maslo naravnost iz hladilnika.",
+     "Skrb zaradi drobtin in nereda."
+    ],
+    "success": "Otrok brez pomoči namaže 1 rezino kruha.",
+    "ways": [
+     "Mazanje krekerjev za malico.",
+     "Mazanje marmelade pri zajtrku.",
+     "Priprava toasta za družinskega člana, ko ga ti popečeš."
+    ]
+   },
+   "pack_bag": {
+    "name": "Pripravi svojo torbo",
+    "goal": "S pomočjo slikovnega seznama pripravi svojo šolsko torbo ali torbo za vrtec.",
+    "why": "Pripravljanje torbe krepi spomin, načrtovanje in odgovornost.",
+    "steps": [
+     "Naredi preprost slikovni seznam stvari, ki gredo v torbo.",
+     "Torbo in stvari že zvečer pripravi na enem mestu.",
+     "Naj otrok pripravi torbo in pri tem gleda seznam.",
+     "Na koncu skupaj preverita seznam.",
+     "Zahvali se otroku za pripravo."
+    ],
+    "avoid": [
+     "Pripravljanje torbe zjutraj, ko se mudi.",
+     "Prepakiranje torbe za otrokom.",
+     "Dolg seznam stvari."
+    ],
+    "success": "Otrok s seznamom brez pomoči pripravi svojo torbo.",
+    "ways": [
+     "Priprava torbe za park.",
+     "Priprava torbe z igračami za obisk.",
+     "Priprava torbe za plavanje."
+    ]
+   },
+   "jump_rope": {
+    "name": "Kolebnica brez pomoči",
+    "goal": "Brez pomoči vrti kolebnico in jo preskakuje.",
+    "why": "Skakanje s kolebnico krepi občutek za čas, kondicijo in usklajenost.",
+    "steps": [
+     "Preveri dolžino kolebnice: ko otrok stoji na sredini, ročaja sežeta do pazduh.",
+     "Poišči raven prostor, kjer ni nikogar v bližini.",
+     "Vadita skakanje na mestu brez kolebnice.",
+     "Naj otrok zavihti kolebnico čez glavo in jo prestopi.",
+     "Nato poskusita zamah in skok.",
+     "Skupaj štejta vsak skok."
+    ],
+    "avoid": [
+     "Predolge kolebnice, ob katere se otrok lahko spotakne.",
+     "Igra blizu pohištva ali drugih otrok.",
+     "Pričakovanje veliko skokov na začetku."
+    ],
+    "success": "Otrok 3-krat zapored preskoči kolebnico.",
+    "ways": [
+     "Pesmica ob kolebnici na vrtu.",
+     "Štetje skokov vsak teden.",
+     "Skakanje s prijateljem."
+    ]
+   },
+   "dribble_pass": {
+    "name": "Vodenje in podajanje žoge",
+    "goal": "Z nogami vodi žogo in jo poda nekomu.",
+    "why": "Vodenje in podajanje krepita spretnost nog, ravnotežje in igro v ekipi.",
+    "steps": [
+     "Poišči raven, odprt prostor stran od cest.",
+     "Pokaži, kako žogo nežno potiskati z notranjo stranjo stopala.",
+     "Naj otrok hodi in pri tem potiska žogo.",
+     "Stopi 3 metre stran in prosi za podajo.",
+     "Žogo podaj nazaj in ponovita."
+    ],
+    "avoid": [
+     "Močni udarci blizu oken.",
+     "Igra blizu cest ali avtomobilov.",
+     "Prezgodnje tekmovanje."
+    ],
+    "success": "Otrok vodi žogo 5 metrov in ti jo poda.",
+    "ways": [
+     "Vodenje žoge med 2 stožcema ali čevljema.",
+     "10 podaj sem in tja.",
+     "Kratka igra v parku."
+    ]
+   },
+   "hopscotch": {
+    "name": "Ristanc",
+    "goal": "Igra ristanc, skače po eni nogi in pristane na obeh.",
+    "why": "Ristanc krepi ravnotežje, moč, štetje in čakanje na vrsto.",
+    "steps": [
+     "S kredo nariši ristanc ali ga v stanovanju označi z lepilnim trakom.",
+     "Pokaži, kako po eni nogi skakati v posamezna polja.",
+     "V dvojnih poljih pristani na obeh nogah.",
+     "Na koncu se obrni in skači nazaj.",
+     "Ko je otrok pripravljen, dodaj kamenček za metanje."
+    ],
+    "avoid": [
+     "Risanje ristanca blizu ceste.",
+     "Spolzka ali mokra tla.",
+     "Veliki skoki med polji."
+    ],
+    "success": "Otrok preskače ristanc tja in nazaj.",
+    "ways": [
+     "Ristanc na pločniku pred domom.",
+     "Ristanc iz lepilnega traku na hodniku.",
+     "Izgovarjanje številk med skakanjem."
+    ]
+   },
+   "float_back": {
+    "name": "Ležanje na hrbtu v vodi",
+    "goal": "Leži na hrbtu na vodi, s podporo v bližini.",
+    "why": "Ležanje na hrbtu v vodi je ključna veščina za varnost v vodi. Otroku omogoča, da v vodi počiva in diha.",
+    "steps": [
+     "Pojdi na bazen z nadzorom in ostani v vodi z otrokom.",
+     "Ves čas bodi na dosegu roke.",
+     "Z rokama podpiraj zatilje in spodnji del hrbta.",
+     "Prosi otroka, naj gleda gor, trebuh naj bo zgoraj, roke in noge pa razprte kot zvezda.",
+     "Za nekaj sekund počasi popusti podporo.",
+     "Pomagaj otroku, da spet vstane."
+    ],
+    "avoid": [
+     "Puščanje otroka samega v vodi, niti za trenutek.",
+     "Odprte vode, kot so jezera, reke ali morje.",
+     "Priganjanje negotovega otroka."
+    ],
+    "success": "Otrok 5 sekund leži na vodi, tvoje roke pa so tik pod njim.",
+    "ways": [
+     "Tečaj plavanja z usposobljenim učiteljem.",
+     "Skupno ležanje na vodi kot morska zvezda.",
+     "Vadenje s plavalno desko pod glavo."
+    ]
+   },
+   "read_book": {
+    "name": "Preberi mi kratko knjigo",
+    "goal": "Odraslemu na glas prebere kratko, preprosto knjigo.",
+    "why": "Glasno branje krepi tekočnost in samozavest. Ko ga deli s tabo, je branje prijetno.",
+    "steps": [
+     "Izberi kratko knjigo primerne težavnosti, na primer iz šole.",
+     "Usedita se tesno skupaj v miren kotiček.",
+     "Naj otrok drži knjigo in obrača strani.",
+     "Pri težji besedi pomagaj šele po kratkem premoru.",
+     "Na koncu se pogovorita o slikah in zgodbi."
+    ],
+    "avoid": [
+     "Pretežke knjige.",
+     "Popravljanje vsake drobne napake.",
+     "Branje, ko je otrok zelo utrujen."
+    ],
+    "success": "Otrok prebere kratko knjigo od začetka do konca.",
+    "ways": [
+     "Branje mlajšemu bratcu ali sestrici.",
+     "Branje najljubši igrači.",
+     "Izmenično branje, vsak eno stran."
+    ]
+   },
+   "sound_out": {
+    "name": "Glaskovanje novih besed",
+    "goal": "Izgovori glasove v kratki besedi in jih poveže, da jo prebere.",
+    "why": "Glaskovanje otrokom omogoča, da preberejo besede, ki jih še nikoli niso videli.",
+    "steps": [
+     "Napiši kratko besedo, na primer »pes«.",
+     "Pokaži na vsako črko in izgovori njen glas: p, e, s.",
+     "Glasove izgovori hitreje, da se povežejo: »pes«.",
+     "Naj otrok glaskuje naslednjo besedo.",
+     "Najprej uporabljaj besede s 3 črkami."
+    ],
+    "avoid": [
+     "Imena črk namesto glasov.",
+     "Dolgi seznami besed.",
+     "Ugibanje samo po slikah."
+    ],
+    "success": "Otrok glaskuje in prebere 3 nove besede.",
+    "ways": [
+     "Branje napisov na sprehodu.",
+     "Magnetne črke na hladilniku.",
+     "Branje imen na embalaži hrane."
+    ]
+   },
+   "ask_play": {
+    "name": "Povabi prijatelja k igri",
+    "goal": "Povabi drugega otroka k igri in zmore sprejeti »da« ali »ne«.",
+    "why": "Povabilo k igri krepi prijateljstva, samozavest in družabne veščine.",
+    "steps": [
+     "Vadita doma, z igračo ali s tabo.",
+     "Daj otroku preproste besede: »Se greš igrat z mano?«",
+     "Vadita, kaj reči, če je odgovor ne: »Prav, mogoče kasneje.«",
+     "V parku bodi blizu, medtem ko otrok poskusi.",
+     "Pohvali pogum, ne glede na odgovor."
+    ],
+    "avoid": [
+     "Priganjanje sramežljivega otroka, naj gre takoj.",
+     "Govorjenje namesto otroka.",
+     "Odziv, ob katerem se »ne« zdi kot neuspeh."
+    ],
+    "success": "Otrok povabi drugega otroka k igri.",
+    "ways": [
+     "Povabilo bratranca ali sestrične na družinskem obisku.",
+     "Povabilo na igrišču.",
+     "Vadenje z lutkami."
+    ]
+   },
+   "lose_calmly": {
+    "name": "Mirno sprejmi poraz",
+    "goal": "Poraz v igri sprejme dokaj mirno.",
+    "why": "Ko se otrok zna spopasti s porazom, lažje uživa v igrah in ohrani prijatelje.",
+    "steps": [
+     "Igrajta kratko igro na srečo, na primer igro s kocko.",
+     "Pred začetkom se dogovorita, kaj rečeta na koncu: »Dobra igra.«",
+     "Ko izgubiš ti, to pokaži mirno: »Oh, tokrat poraz. Pa je bilo zabavno.«",
+     "Če izgubi otrok, poimenuj občutek: »Jezi te.«",
+     "Ponudi še en krog."
+    ],
+    "avoid": [
+     "Puščanje, da otrok vsakič zmaga.",
+     "Oštevanje otroka, ker je razburjen.",
+     "Dolge igre, ko je otrok utrujen."
+    ],
+    "success": "Otrok po porazu reče »Dobra igra«.",
+    "ways": [
+     "Igre s kartami po večerji.",
+     "Tek v parku.",
+     "Družinski večer iger."
+    ]
+   },
+   "calm_breathing": {
+    "name": "Dihanje za pomiritev",
+    "goal": "Ob razburjenju se umiri s počasnimi vdihi.",
+    "why": "Počasno dihanje pomaga telesu, da se sprosti. Otrok dobi orodje, ki ga lahko uporabi kjerkoli.",
+    "steps": [
+     "Vadita, ko je otrok miren, ne razburjen.",
+     "Dvigni dlan, kot da je »rojstnodnevna torta«.",
+     "Povohaj rožice: počasi vdihni skozi nos.",
+     "Upihni svečke: počasi izdihni skozi usta.",
+     "Skupaj ponovita 3-krat.",
+     "Ko bo otrok naslednjič razburjen, ga spomni na to."
+    ],
+    "avoid": [
+     "Učenje sredi izbruha.",
+     "Hitri, globoki vdihi.",
+     "Uporaba dihanja kot kazni."
+    ],
+    "success": "Otrok s tabo naredi 3 počasne vdihe.",
+    "ways": [
+     "Dihanje pred spanjem.",
+     "Počasno pihanje milnih mehurčkov.",
+     "Dihanje kot zaspan kuža."
+    ]
+   },
+   "three_step": {
+    "name": "Navodilo v 3 korakih",
+    "goal": "Po vrsti sledi 3 preprostim navodilom.",
+    "why": "Sledenje korakom krepi spomin in poslušanje, kar pomaga v šoli in doma.",
+    "steps": [
+     "Najprej pritegni otrokovo pozornost.",
+     "Daj 3 preproste korake: »Prinesi čevlje, jih postavi k vratom in si nato umij roke.«",
+     "Prosi otroka, naj jih ponovi.",
+     "Naj jih otrok opravi po vrsti.",
+     "Pohvali vsak opravljen korak."
+    ],
+    "avoid": [
+     "Dajanje navodil, ko je otrok zaposlen.",
+     "Preveč besed.",
+     "Ponavljanje korakov vedno znova."
+    ],
+    "success": "Otrok po vrsti opravi 3 korake.",
+    "ways": [
+     "Igra pospravljanja.",
+     "Igra »Simon pravi« s 3 gibi.",
+     "Lov na zaklad s 3 namigi."
+    ]
+   },
+   "school_day": {
+    "name": "Pogovor o šolskem dnevu",
+    "goal": "Ti pove o nečem, kar se je zgodilo v šoli.",
+    "why": "Pogovor o dnevu krepi jezik in ti pomaga vedeti, kako se otrok počuti.",
+    "steps": [
+     "Počakaj, da otrok malica in se odpočije.",
+     "Postavi konkretno vprašanje: »S kom je bilo danes na odmoru najbolj zabavno?«",
+     "Povej tudi nekaj o svojem dnevu.",
+     "Poslušaj, ne popravljaj in ne sodi.",
+     "Postavi še eno vprašanje o tem, kar pove."
+    ],
+    "avoid": [
+     "Samo vprašanje »Kako je bilo v šoli?«",
+     "Preveč vprašanj naenkrat.",
+     "Spraševanje takoj, ko otroka prevzameš."
+    ],
+    "success": "Otrok ti pove 1 stvar o svojem dnevu.",
+    "ways": [
+     "Klepet na poti domov.",
+     "Pri večerji vsak pove en lep in en žalosten del dneva.",
+     "Pogovor med kopanjem."
+    ]
+   },
+   "tie_laces": {
+    "name": "Zaveži vezalke",
+    "goal": "Počasi in brez pomoči zaveže pentljo na vezalkah.",
+    "why": "Zavezovanje vezalk krepi spretnost prstov in samostojnost. Veliko otrok se tega nauči med 6. in 8. letom.",
+    "steps": [
+     "Vadita s čevljem na mizi, ne na nogi.",
+     "Če lahko, uporabi 2 vezalki različnih barv.",
+     "Počasi pokaži prvo prekrižanje in podvlečenje.",
+     "Naredi 2 zanki, kot zajčja ušesa.",
+     "Zanki prekrižaj, eno podvleci in povleci.",
+     "Naj otrok vsak korak poskusi za tabo."
+    ],
+    "avoid": [
+     "Vadenje ob jutrih, ko se mudi.",
+     "Kratke ali spolzke vezalke.",
+     "Prevzemanje dela, ko gre počasi."
+    ],
+    "success": "Otrok brez pomoči zaveže pentljo.",
+    "ways": [
+     "Zavezovanje pentlje na darilu.",
+     "Kartica za vezanje ali škatla za čevlje z luknjami.",
+     "Zavezovanje predpasnika."
+    ]
+   },
+   "time_hour": {
+    "name": "Branje polnih ur",
+    "goal": "Na uri s kazalci prebere polne ure.",
+    "why": "Branje ure otrokom pomaga razumeti vsakdanji ritem in načrte.",
+    "steps": [
+     "Uporabi uro s kazalci ali jo nariši na papir.",
+     "Pokaži kratki kazalec za ure in dolgi kazalec za minute.",
+     "Dolgi kazalec usmeri na 12.",
+     "Premakni kratki kazalec in reci: »Ura je 3.«",
+     "Naj otrok nastavi in prebere uro."
+    ],
+    "avoid": [
+     "Začetek z minutami.",
+     "Samo digitalne ure.",
+     "Dolgo vadenje."
+    ],
+    "success": "Otrok pravilno prebere 3 polne ure.",
+    "ways": [
+     "Branje ure ob kosilu.",
+     "Izdelava ure iz papirnatega krožnika.",
+     "Ko kazalca pokažeta 7. uro, je čas za spanje."
+    ]
+   },
+   "add_take_10": {
+    "name": "Seštevanje in odštevanje do 10",
+    "goal": "Sešteva in odšteva majhna števila do 10.",
+    "why": "Seštevanje in odštevanje krepita občutek za števila, ki ga potrebujemo vsak dan.",
+    "steps": [
+     "Na mizo daj 10 majhnih predmetov, na primer testenin.",
+     "Naredi skupino 6 predmetov in 2 odvzemi.",
+     "Vprašaj: »Koliko jih je ostalo?«",
+     "Nato dodaj 3 in vprašaj: »Koliko jih je zdaj?«",
+     "Naj otrok sestavi račun zate."
+    ],
+    "avoid": [
+     "Računi na papirju brez predmetov.",
+     "Merjenje časa.",
+     "Števila nad 10 prezgodaj."
+    ],
+    "success": "Otrok reši 3 račune do 10.",
+    "ways": [
+     "Seštevanje in jedenje grozdnih jagod za malico.",
+     "Računanje s prsti na sprehodu.",
+     "Jemanje igrač iz škatle."
+    ]
+   },
+   "write_sentence": {
+    "name": "Napiši kratko poved",
+    "goal": "Napiše kratko poved z veliko začetnico in piko.",
+    "why": "S pisanjem povedi otrok misli spremeni v besede. To krepi pravopis in samozavest.",
+    "steps": [
+     "Prosi otroka, naj poved najprej pove na glas, na primer »Mačke so lepe.«",
+     "Besede preštejta na prste.",
+     "Naj jo otrok napiše in pri tem glaskuje vsako besedo.",
+     "Spomni ga: na začetku velika začetnica, na koncu pika.",
+     "Skupaj jo preberita."
+    ],
+    "avoid": [
+     "Popravljanje vsake pravopisne napake.",
+     "Dolge povedi na začetku.",
+     "Samo prepisovanje, brez lastnih idej."
+    ],
+    "success": "Otrok napiše poved iz 3 besed.",
+    "ways": [
+     "Pisanje sporočila babici ali dedku.",
+     "Pisanje ene stvari na nakupovalni seznam.",
+     "Napis k risbi."
+    ]
+   },
+   "grow_plant": {
+    "name": "Vzgoji rastlino",
+    "goal": "Posadi seme in skrbi zanj.",
+    "why": "Gojenje rastline uči skrbnosti, potrpežljivosti in tega, kako rastejo živa bitja.",
+    "steps": [
+     "Izberi seme, ki hitro vzklije, na primer vrtno krešo ali fižol.",
+     "Lonček ali kozarček napolni z zemljo ali uporabi vlažno vato.",
+     "Naj otrok potisne seme v zemljo in ga pokrije.",
+     "Postavi ga k oknu.",
+     "Vsak dan ga skupaj preglejta in ga malo zalijta, ko je suho."
+    ],
+    "avoid": [
+     "Preveč vode.",
+     "Počasna semena, ki preizkušajo potrpežljivost.",
+     "Rastline, ki se jih ni varno dotikati ali jih jesti."
+    ],
+    "success": "Otrok posadi seme in ga en teden zaliva.",
+    "ways": [
+     "Gojenje kreše za sendvič.",
+     "Fižol v kozarcu, da se vidijo korenine.",
+     "Risanje rastline vsak teden."
+    ]
+   },
+   "build_instructions": {
+    "name": "Sestavljanje po navodilih",
+    "goal": "Po slikovnih korakih sestavi preprost model.",
+    "why": "Sledenje slikovnim korakom krepi zbranost, načrtovanje in reševanje težav.",
+    "steps": [
+     "Izberi preprost model z malo koraki.",
+     "Pred začetkom razvrstita dele.",
+     "Skupaj poglejta 1. korak.",
+     "Naj otrok poišče dele in sestavlja.",
+     "Pomagaj le, ko te prosi."
+    ],
+    "avoid": [
+     "Drobni deli blizu dojenčkov ali malčkov.",
+     "Modeli s preveč koraki.",
+     "Popravljanje napak namesto otroka."
+    ],
+    "success": "Otrok brez pomoči sestavi 3 korake.",
+    "ways": [
+     "Sestavljanje kock po slikovni kartici.",
+     "Zgibanje papirnate ladjice po narisanih korakih.",
+     "Posnemanje stolpa iz kock, ki ga sestaviš ti."
+    ]
+   },
+   "know_coins": {
+    "name": "Spoznaj kovance",
+    "goal": "Poimenuje kovance in ve, kateri so vredni več.",
+    "why": "Poznavanje kovancev je prvi korak k uporabi denarja in varčevanju.",
+    "steps": [
+     "Pripravi nekaj različnih kovancev.",
+     "Poglejta vsakega in povej njegovo vrednost.",
+     "Skupaj jih razvrstita po barvi ali velikosti.",
+     "Razvrstita jih od najmanj do največ vrednega.",
+     "Prosi otroka, naj poišče kovanec, ki ga poimenuješ."
+    ],
+    "avoid": [
+     "Kovanci blizu dojenčkov ali malčkov, ki bi jih lahko pogoltnili.",
+     "Preveč kovancev naenkrat.",
+     "Prepričanje, da so večji kovanci vedno vredni več."
+    ],
+    "success": "Otrok poimenuje 3 kovance in njihovo vrednost.",
+    "ways": [
+     "Igra trgovine doma.",
+     "Razvrščanje kovancev v hranilniku.",
+     "Iskanje kovancev v denarnici."
+    ]
+   },
+   "make_sandwich": {
+    "name": "Pripravi sendvič",
+    "goal": "Z malo pomoči pripravi preprost sendvič.",
+    "why": "Priprava hrane krepi samostojnost in ponos ter je prvi korak h kuhanju.",
+    "steps": [
+     "Najprej si skupaj umijta roke.",
+     "Pripravi kruh, mehak namaz in preprost nadev.",
+     "Naj otrok s topim nožem namaže kruh.",
+     "Dodajta nadev in zgornjo rezino.",
+     "Sendvič prereži ti ali naj ga otrok prereže z otroškim nožem.",
+     "Skupaj ga z užitkom pojejta."
+    ],
+    "avoid": [
+     "Ostri noži.",
+     "Nadevi, ki jih je treba segreti.",
+     "Skrb zaradi nereda."
+    ],
+    "success": "Otrok z malo pomoči pripravi sendvič.",
+    "ways": [
+     "Priprava sendviča za malico.",
+     "Piknik na vrtu.",
+     "Priprava sendviča za družinskega člana."
+    ]
+   },
+   "set_table": {
+    "name": "Pogrni mizo",
+    "goal": "Za obrok pripravi krožnike, kozarce in pribor.",
+    "why": "Pogrinjanje mize krepi štetje, red in pripravljenost pomagati.",
+    "steps": [
+     "Preštejta, koliko ljudi bo jedlo.",
+     "Daj otroku nezlomljive krožnike in kozarce.",
+     "Pokaži, kam gresta vilice in nož.",
+     "Naj otrok pripravi en pogrinjek, nato še ostale.",
+     "Pri obroku se otroku zahvali."
+    ],
+    "avoid": [
+     "Stekleni ali težki krožniki.",
+     "Ostri noži.",
+     "Popravljanje vseh pogrinjkov za otrokom."
+    ],
+    "success": "Otrok pogrne mizo za vso družino.",
+    "ways": [
+     "Razgrinjanje odeje za piknik.",
+     "Pogrinjanje mize za igrače.",
+     "Pripravljanje prtičkov za goste."
+    ]
+   },
+   "swim_10m": {
+    "name": "Preplavaj 10 metrov",
+    "goal": "V bazenu z nadzorom brez ustavljanja preplava 10 metrov.",
+    "why": "Plavanje na kratko razdaljo krepi samozavest v vodi. To je pomemben korak k večji varnosti v vodi in ob njej.",
+    "steps": [
+     "Izberi bazen z nadzorom in reševalcem ali tečaj plavanja.",
+     "Pojdi v vodo in ostani na dosegu roke od otroka.",
+     "Začni s 3 metri od tebe do roba bazena.",
+     "Vsakič, ko otrok prispe do tebe, stopi malo nazaj.",
+     "Skupaj štejta zamahe in pohvali vsak poskus."
+    ],
+    "avoid": [
+     "Vadenje v jezerih, rekah ali morju.",
+     "Gledanje v telefon, medtem ko je otrok v vodi.",
+     "Nadaljevanje, ko otroka zebe ali se utrudi."
+    ],
+    "success": "Otrok preplava 10 metrov brez ustavljanja in brez postavljanja na noge.",
+    "ways": [
+     "Preplavanje širine bazena na tečaju.",
+     "Plavanje do tebe, medtem ko počasi hodiš nazaj.",
+     "Štetje zamahov od ene strani do druge."
+    ]
+   },
+   "throw_target": {
+    "name": "Met od zgoraj v cilj",
+    "goal": "Žogo vrže od zgoraj in zadene cilj, oddaljen nekaj metrov.",
+    "why": "Met od zgoraj uporablja vse telo. Krepi usklajenost, natančnost in veščine, ki jih potrebuje veliko športov.",
+    "steps": [
+     "Pripravi cilj, na primer vedro ali krog s kredo na steni.",
+     "Otroka postavi bočno, približno 3 metre stran.",
+     "Met enkrat pokaži: pokaži na cilj, stopi z nasprotno nogo naprej, vrzi.",
+     "Naj otrok z mehko žogo vrže 10-krat.",
+     "Če je pretežko, cilj približaj.",
+     "Pohvali dobro tehniko, ne samo zadetkov."
+    ],
+    "avoid": [
+     "Trde žoge v stanovanju ali blizu oken.",
+     "Predaleč postavljeni cilji na začetku.",
+     "Popravljanje čisto vsakega meta."
+    ],
+    "success": "Otrok z metom od zgoraj zadene cilj 3-krat od 10.",
+    "ways": [
+     "Metanje zvitih nogavic v košaro za perilo.",
+     "Podiranje stolpa iz plastičnih lončkov.",
+     "Metanje žoge skozi obroč v parku."
+    ]
+   },
+   "bike_brake_signal": {
+    "name": "Zaviranje in nakazovanje na kolesu",
+    "goal": "Stran od cest se ustavi na izbranem mestu in z iztegnjeno roko nakaže smer.",
+    "why": "Dobro zaviranje in vožnja z eno roko sta veščini, ki ju otrok potrebuje, preden vozi blizu prometa.",
+    "steps": [
+     "Pred vsako vožnjo preveri, ali se čelada dobro prilega in ali zavore delujejo.",
+     "Poišči raven, odprt prostor stran od cest, na primer pot v parku ali prazno igrišče.",
+     "Označi črto in prosi otroka, naj se ob črti ustavi z obema zavorama.",
+     "Vadita pogled čez ramo med vožnjo naravnost.",
+     "Vadita, kako za trenutek umakniti eno roko in pokazati levo ali desno.",
+     "Bodi blizu in naj bo vsak poskus kratek."
+    ],
+    "avoid": [
+     "Vadenje na cestah ali prometnih poteh.",
+     "Vožnja brez čelade.",
+     "Dolga vožnja z eno roko, preden je otrok stabilen."
+    ],
+    "success": "Otrok se ustavi ob črti in z eno roko nakaže smer brez majanja.",
+    "ways": [
+     "Igra »stoj in pojdi« na tvoj klic.",
+     "Vožnja v krogu z nakazovanjem na vsakem vogalu.",
+     "Ustavljanje na črti s kredo, najprej pri počasni, nato pri hitrejši vožnji."
+    ]
+   },
+   "animal_yoga": {
+    "name": "Živalska joga",
+    "goal": "Zadrži 4 živalske jogijske položaje in se med njimi mirno premika.",
+    "why": "Jogijski položaji krepijo ravnotežje, moč in zavedanje telesa. Počasno dihanje v vsakem položaju lahko otroka pomiri.",
+    "steps": [
+     "Na tleh naredi prostor ali uporabi mehko podlogo.",
+     "Pokaži en položaj naenkrat: pes, mačka, kobra in flamingo na eni nogi.",
+     "Vsak položaj skupaj zadržita 3 počasne vdihe.",
+     "Naj otrok izbere naslednjo žival.",
+     "Končajta z mirnim ležanjem za kratek počitek."
+    ],
+    "avoid": [
+     "Potiskanje otroka globlje v raztezanje.",
+     "Vadenje takoj po obilnem obroku.",
+     "Tekmovanje."
+    ],
+    "success": "Otrok zadrži 4 položaje, vsakega 3 vdihe.",
+    "ways": [
+     "Izmišljena zgodba, v kateri nastopi vsaka žival.",
+     "Oglašanje vsake živali pred položajem.",
+     "Kratka umirjena vadba pred spanjem."
+    ]
+   },
+   "read_expression": {
+    "name": "Doživeto branje na glas",
+    "goal": "Na glas prebere kratek odlomek in spreminja glas glede na zgodbo.",
+    "why": "Doživeto branje pokaže, da otrok besede razume. Krepi tudi samozavest pri govorjenju pred drugimi.",
+    "steps": [
+     "Izberi kratko stran, ki jo otrok že dobro bere.",
+     "Eno vrstico preberi ti, z veselim, prestrašenim ali jeznim glasom.",
+     "Prosi otroka, naj naslednjo vrstico prebere z glasom, ki se ujema.",
+     "Pokaži vprašaje in narekovaje kot namige.",
+     "Menjajta se do konca strani."
+    ],
+    "avoid": [
+     "Knjige, ki so pretežke za tekoče branje.",
+     "Popravljanje vsake drobne napake.",
+     "Smejanje glasu, ki ga otrok poskusi."
+    ],
+    "success": "Otrok spremeni glas za vsaj 2 junaka ali občutka.",
+    "ways": [
+     "Branje pravljice za lahko noč mlajšemu otroku ali igrači.",
+     "Skupno igranje stripa.",
+     "Snemanje strani in poslušanje posnetka."
+    ]
+   },
+   "thank_you_card": {
+    "name": "Zahvalna kartica",
+    "goal": "S svojimi besedami napiše kratko zahvalno kartico.",
+    "why": "Zahvala v pisni obliki hkrati krepi prijaznost in pisanje.",
+    "steps": [
+     "Skupaj prepognita list papirja v kartico.",
+     "Pogovorita se, komu je kartica namenjena in kaj je ta oseba naredila.",
+     "Pomagaj otroku načrtovati 2 povedi: hvala za, in zakaj je bilo všeč.",
+     "Naj otrok piše, ti pa na glas črkuj težke besede.",
+     "Na koncu dodajta risbo in otrokovo ime."
+    ],
+    "avoid": [
+     "Pisanje kartice namesto otroka.",
+     "Zahteva po brezhibnem pravopisu.",
+     "Dolge kartice, ki postanejo muka."
+    ],
+    "success": "Otrok napiše 2 povedi in se podpiše.",
+    "ways": [
+     "Kartica za učitelja ob koncu šolskega leta.",
+     "Sporočilo babici ali dedku po obisku.",
+     "Zahvala za rojstnodnevno darilo."
+    ]
+   },
+   "talk_worries": {
+    "name": "Pogovor o skrbeh",
+    "goal": "Poimenuje skrb in se o njej pogovori s tabo.",
+    "why": "Veliko otrok ima v tej starosti skrbi. Ko skrb izreče na glas, se pogosto zdi manjša, otrok pa se nauči, da lahko pride k tebi.",
+    "steps": [
+     "Izberi miren trenutek, na primer sprehod ali čas pred spanjem.",
+     "Najprej povej eno svojo majhno skrb.",
+     "Vprašaj: te danes kaj teži?",
+     "Poslušaj in ne hiti z rešitvami.",
+     "Vprašaj, kaj bi lahko pomagalo, in skupaj naredita majhen načrt."
+    ],
+    "avoid": [
+     "Govorjenje, da ni razloga za skrb.",
+     "Veliko vprašanj naenkrat.",
+     "Pogovor o skrbeh samo pred spanjem."
+    ],
+    "success": "Otrok poimenuje skrb in se spomni 1 stvari, ki bi lahko pomagala.",
+    "ways": [
+     "Škatla za skrbi z listki, ki jih otrok vrže vanjo, vidva pa jih skupaj prebereta.",
+     "Risanje skrbi in pogovor o risbi.",
+     "Ocena skrbi od 1 do 5 pred pogovorom in po njem."
+    ]
+   },
+   "friend_problem": {
+    "name": "Reši težavo s prijateljem",
+    "goal": "Domisli se rešitev za majhno težavo s prijateljem.",
+    "why": "Prijateljstva so v tej starosti vse pomembnejša. Reševanje majhnih težav otroku pomaga ohraniti prijatelje in verjeti vase.",
+    "steps": [
+     "Prosi otroka, naj ti pove o nedavni majhni težavi s prijateljem.",
+     "Pomagaj mu povedati, kaj se je zgodilo in kako se je ob tem počutila vsaka stran.",
+     "Skupaj se domislita 3 zamisli, kako stvar izboljšati.",
+     "Naj otrok izbere zamisel, ki mu je najbolj všeč.",
+     "Vadita, kaj lahko reče, ti pa igraj prijatelja."
+    ],
+    "avoid": [
+     "Reševanje težave namesto otroka.",
+     "Valjenje krivde na prijatelja.",
+     "Vadenje na veliki ali zelo boleči težavi."
+    ],
+    "success": "Otrok se domisli 1 zamisli in vadi, kaj reči.",
+    "ways": [
+     "Igranje težave z 2 igračama.",
+     "Pogovor o težavi iz slikanice.",
+     "Po šoli preverita, kako se je zamisel obnesla."
+    ]
+   },
+   "explain_rules": {
+    "name": "Razloži pravila igre",
+    "goal": "Preprosto igro razloži dovolj jasno, da jo lahko igra še kdo drug.",
+    "why": "Razlaganje pravil krepi jasno izražanje, razvrščanje po vrsti in razmišljanje o tem, kaj mora vedeti drugi.",
+    "steps": [
+     "Izberi igro, ki jo otrok dobro pozna.",
+     "Prosi ga, naj te jo nauči, kot da je igra zate čisto nova.",
+     "Vprašaj: kako se začne, kaj narediš, ko si na vrsti, kako zmagaš?",
+     "Upoštevaj pravila točno tako, kot jih pove.",
+     "Odigrajta kratek krog, da preizkusita pravila."
+    ],
+    "avoid": [
+     "Pomoč, preden otrok poskusi.",
+     "Igre z veliko zapletenimi pravili.",
+     "Popravljanje drobnih podrobnosti, ki niso pomembne."
+    ],
+    "success": "Otrok razloži, kako se igra začne, kako poteka poteza in kako se zmaga.",
+    "ways": [
+     "Razlaga igre babici, dedku ali prijatelju.",
+     "Izmišljanje nove igre in njena razlaga.",
+     "Razlaga igre z igrišča pri večerji."
+    ]
+   },
+   "say_why": {
+    "name": "Povej, kaj misliš in zakaj",
+    "goal": "Pove svoje mnenje in doda razlog z besedo »ker«.",
+    "why": "Navajanje razlogov krepi razmišljanje in govor. Otroku tudi pomaga, da samozavestno deli svoje poglede.",
+    "steps": [
+     "Postavi zabavno vprašanje, na primer kateri letni čas je najboljši.",
+     "Odgovori tudi ti in dodaj razlog: Najljubši letni čas mi je zima, ker ...",
+     "Vprašaj otroka za njegov odgovor in razlog.",
+     "Vprašaj: se spomniš še enega razloga?",
+     "Zahvali se mu za odgovor, tudi če misliš drugače."
+    ],
+    "avoid": [
+     "Govorjenje, da je mnenje napačno.",
+     "Vprašanja s pravilnim ali napačnim odgovorom.",
+     "Priganjanje otroka k odgovoru."
+    ],
+    "success": "Otrok pove mnenje z 1 jasnim razlogom.",
+    "ways": [
+     "Pogovor o najboljšem in najslabšem delu filma.",
+     "Izbira večerje z razlogom.",
+     "Glasovanje o načrtu za konec tedna z razlogi."
+    ]
+   },
+   "times_2_5_10": {
+    "name": "Poštevanka števil 2, 5 in 10",
+    "goal": "Šteje po 2, po 5 in po 10 in pozna nekaj računov iz teh poštevank.",
+    "why": "Te 3 poštevanke so temelj za druge. Pomagajo tudi pri denarju in branju ure.",
+    "steps": [
+     "Začnita s štetjem po 10, skupaj in ob ploskanju.",
+     "Na enak način štejta po 5 in po 2.",
+     "Uporabi prave stvari, na primer pare nogavic za 2 ali prste za 5.",
+     "Postavi nekaj hitrih vprašanj, na primer koliko je 3-krat 5.",
+     "Pohvali vsak odgovor in po potrebi nežno povej pravilnega."
+    ],
+    "avoid": [
+     "Dolgo ponavljanje, ki je podobno testu.",
+     "Nadaljevanje, preden gre štetje po korakih zlahka.",
+     "Primerjanje z drugimi otroki."
+    ],
+    "success": "Otrok šteje po 2, po 5 in po 10 in odgovori na 3 vprašanja.",
+    "ways": [
+     "Štetje po 2 na vsaki stopnici.",
+     "Štetje kovancev po 5 in po 10.",
+     "Petje poštevanke na melodijo, ki jo oba poznata."
+    ]
+   },
+   "half_quarter": {
+    "name": "Pol in četrt",
+    "goal": "Na uri s kazalci prebere »pol« in »četrt na«.",
+    "why": "Branje ure otroku pomaga razumeti potek dneva in krepi znanje števil.",
+    "steps": [
+     "Uporabi uro s kazalci ali jo nariši na papir.",
+     "Najprej preveri, ali otrok zna prebrati polne ure.",
+     "Pokaži, da dolgi kazalec na 6 pomeni »pol« naslednje ure.",
+     "Pokaži, da dolgi kazalec na 3 pomeni »četrt na« naslednjo uro.",
+     "Nastavi nekaj časov in naj jih otrok prebere."
+    ],
+    "avoid": [
+     "Uporaba samo digitalnih ur.",
+     "Dodajanje »tri četrt na«, preden gre »pol« zlahka.",
+     "Dolgo vadenje, ki otroka utrudi."
+    ],
+    "success": "Otrok pravilno prebere 3 čase z »pol« in »četrt na«.",
+    "ways": [
+     "Preverjanje ure v pravih trenutkih, na primer pred kopanjem.",
+     "Skupna izdelava ure iz papirnatega krožnika.",
+     "Izmenično nastavljanje časa, ki ga prebere drugi."
+    ]
+   },
+   "read_calendar": {
+    "name": "Branje koledarja",
+    "goal": "Na koledarju najde današnji datum in prešteje dneve do dogodka.",
+    "why": "Koledar otroku pomaga razumeti tedne in mesece. Tudi čakanje na dogodke je lažje.",
+    "steps": [
+     "Uporabi papirnat koledar ali en mesec nariši na papir.",
+     "Skupaj poiščita današnji dan in povejta dan v tednu, datum in mesec.",
+     "Označi dogodek, ki se ga otrok veseli.",
+     "Skupaj preštejta dneve do dogodka.",
+     "Vsak pretekli dan prečrtajta."
+    ],
+    "avoid": [
+     "Preveč označenih dogodkov naenkrat.",
+     "Koledarji z drobnim tiskom.",
+     "Spraševanje otroka o vseh mesecih naenkrat."
+    ],
+    "success": "Otrok najde današnji dan in prešteje dneve do dogodka.",
+    "ways": [
+     "Označevanje rojstnih dni v družini.",
+     "Štetje tednov do počitnic.",
+     "Vsakodnevno vpisovanje vremena."
+    ]
+   },
+   "measure_ruler": {
+    "name": "Merjenje z ravnilom",
+    "goal": "Z ravnilom izmeri kratek predmet na centimeter natančno.",
+    "why": "Merjenje krepi občutek za števila in natančen nadzor rok. Koristi tudi pri ustvarjanju in kuhanju.",
+    "steps": [
+     "Pokaži, kje je na ravnilu 0, saj ni vedno čisto na robu.",
+     "0 poravnaj z enim koncem predmeta, na primer svinčnika.",
+     "Skupaj preberita številko na drugem koncu.",
+     "Naj otrok brez pomoči izmeri še 3 predmete.",
+     "Zapišita dolžine in poiščita najdaljšega."
+    ],
+    "avoid": [
+     "Merjenje od roba ravnila namesto od 0.",
+     "Predmeti, daljši od ravnila, na začetku.",
+     "Popravljanje, preden otrok še enkrat preveri."
+    ],
+    "success": "Otrok izmeri 3 predmete na centimeter natančno.",
+    "ways": [
+     "Merjenje prstov in stopal v družini.",
+     "Merjenje listov, najdenih na sprehodu.",
+     "Risanje črte določene dolžine."
+    ]
+   },
+   "spot_pattern": {
+    "name": "Najdi vzorec",
+    "goal": "Najde, kaj sledi v vzorcu likov ali števil.",
+    "why": "Iskanje vzorcev krepi miselne veščine, na katerih temeljijo matematika, branje in reševanje težav.",
+    "steps": [
+     "S predmeti naredi preprost vzorec, na primer žlica, vilice, žlica, vilice.",
+     "Vprašaj, kaj sledi.",
+     "Poskusita težji vzorec, na primer rdeča, rdeča, modra, rdeča, rdeča.",
+     "Poskusita vzorec s števili, na primer 2, 4, 6.",
+     "Naj otrok naredi vzorec, ki ga rešiš ti."
+    ],
+    "avoid": [
+     "Predolgi vzorci na začetku.",
+     "Prehitro izdajanje odgovora.",
+     "Vzdušje kot pri testu."
+    ],
+    "success": "Otrok nadaljuje 2 vzorca in naredi 1 svojega.",
+    "ways": [
+     "Nizanje perl v vzorcu.",
+     "Iskanje vzorcev na ploščicah in ograjah.",
+     "Ploskanje ritma in posnemanje."
+    ]
+   },
+   "pay_shop": {
+    "name": "Plačilo v trgovini",
+    "goal": "V trgovini na blagajni plača majhen izdelek, ti pa stojiš ob otroku.",
+    "why": "Plačevanje krepi samozavest, občutek za denar in vljuden pogovor z odraslimi.",
+    "steps": [
+     "Izberi majhen izdelek in mirno trgovino.",
+     "Daj otroku točen znesek ali malo več.",
+     "Preden vstopita, vadita, kaj reči.",
+     "Stoj ob otroku, medtem ko plača.",
+     "Spomni ga, naj počaka na drobiž in se zahvali."
+    ],
+    "avoid": [
+     "Gneča z dolgimi vrstami.",
+     "Govorjenje namesto otroka na blagajni.",
+     "Veliki zneski denarja."
+    ],
+    "success": "Otrok izroči denar, počaka na drobiž in se zahvali.",
+    "ways": [
+     "Nakup kruha v bližnji trgovini.",
+     "Plačilo priboljška na stojnici na tržnici.",
+     "Najprej vadenje v trgovini za igro doma."
+    ]
+   },
+   "count_change": {
+    "name": "Preštej drobiž",
+    "goal": "S kovanci izračuna preprost drobiž pri majhnih zneskih.",
+    "why": "Štetje drobiža krepi znanje števil in otroku pomaga razumeti, da se denar porabi in se del vrne.",
+    "steps": [
+     "Pripravi trgovino za igro z nekaj izdelki in cenami.",
+     "Uporabi prave kovance in naj bodo cene nizke.",
+     "Naj otrok kupi izdelek in plača z večjim kovancem.",
+     "Skupaj štejta od cene navzgor do plačanega kovanca.",
+     "Zamenjajta vlogi, da otrok vrača drobiž tebi."
+    ],
+    "avoid": [
+     "Cene, za katere je na začetku treba veliko kovancev.",
+     "Prvo vadenje v pravi trgovini, kjer je gneča.",
+     "Računanje namesto otroka."
+    ],
+    "success": "Otrok pri 2 majhnih nakupih pravilno izračuna drobiž.",
+    "ways": [
+     "Skupno preverjanje drobiža po pravem nakupu.",
+     "Igra kavarne z jedilnikom in cenami.",
+     "Razvrščanje kovancev in štetje do določenega zneska."
+    ]
+   },
+   "follow_recipe": {
+    "name": "Jed po preprostem receptu",
+    "goal": "Korak za korakom sledi kratkemu receptu brez kuhanja.",
+    "why": "Sledenje receptu krepi branje, merjenje in načrtovanje. Otroci tudi raje poskusijo hrano, ki so jo pripravili sami.",
+    "steps": [
+     "Izberi recept brez kuhanja, na primer sadno solato ali jogurtove lončke.",
+     "Najprej si skupaj umijta roke.",
+     "Vsak korak skupaj na glas preberita, preden ga naredita.",
+     "Naj otrok pripravi, odmeri in zmeša sestavine.",
+     "Za mehko sadje naj uporabi otroški nož, ti pa bodi ob njem.",
+     "Na koncu skupaj pospravita."
+    ],
+    "avoid": [
+     "Ostri noži ali vroči deli za otroka.",
+     "Dolgi recepti z veliko koraki.",
+     "Popravljanje drobnih napak, ki niso pomembne."
+    ],
+    "success": "Otrok po vrsti sledi vsakemu koraku recepta.",
+    "ways": [
+     "Priprava smutija, mešalnik pa uporabljaš ti.",
+     "Sestavljanje krožnika s sadjem in sirom po sliki.",
+     "Priprava ovsenih kosmičev, namočenih čez noč, za zajtrk."
+    ]
+   },
+   "sew_button": {
+    "name": "Prišij gumb",
+    "goal": "S tvojo pomočjo na blago prišije velik gumb.",
+    "why": "Šivanje krepi natančen nadzor prstov, potrpežljivost in uporabno življenjsko veščino.",
+    "steps": [
+     "Uporabi velik gumb, filc in veliko iglo s topo konico.",
+     "Otroku vdeni nit v iglo in na koncu naredi vozel.",
+     "Pokaži, kako iglo potisniti gor skozi eno luknjico in dol skozi drugo.",
+     "Naj otrok to ponovi 4- ali 5-krat.",
+     "Pomagaj zavozlati nit na hrbtni strani.",
+     "Iglo takoj zatakni v blazinico za igle ali pospravi v škatlo."
+    ],
+    "avoid": [
+     "Ostre, tanke igle.",
+     "Puščanje igel na mizi ali tleh.",
+     "Tanko blago, ki se nabira in jezi."
+    ],
+    "success": "Otrok prišije gumb z vsaj 4 vbodi.",
+    "ways": [
+     "Prišivanje gumba za oko na lutko iz filca.",
+     "Vadenje na stari srajci.",
+     "Prišivanje 2 gumbov za obraz."
+    ]
+   },
+   "fold_laundry": {
+    "name": "Zloži in pospravi perilo",
+    "goal": "Zloži preprosta oblačila in jih pospravi v pravi predal.",
+    "why": "Pomoč pri perilu krepi odgovornost in otroku da pravo vlogo v družinskem življenju.",
+    "steps": [
+     "Začni z lahkimi kosi, na primer brisačami in majicami.",
+     "Počasi, korak za korakom, pokaži eno zlaganje.",
+     "Naj otrok naslednji kos zloži brez pomoči.",
+     "Skupaj sestavljajta pare nogavic.",
+     "Prosi otroka, naj svoja oblačila pospravi v prave predale."
+    ],
+    "avoid": [
+     "Ponovno zlaganje pred otrokom.",
+     "Veliki kupi, ki se zdijo neskončni.",
+     "Pričakovanje zlaganja kot v trgovini."
+    ],
+    "success": "Otrok zloži 5 kosov in jih pospravi.",
+    "ways": [
+     "Zlaganje kuhinjskih krp.",
+     "Zlaganje, preden se konča najljubša pesem.",
+     "Razvrščanje čistega perila po družinskih članih."
+    ]
+   },
+   "tread_water": {
+    "name": "Ležanje na vodi, stopanje po vodi in izhod",
+    "goal": "V bazenu z nadzorom leži na hrbtu, kratek čas stopa po vodi in pri robu pride iz vode.",
+    "why": "Ležanje na vodi in stopanje po vodi otroku pomagata ostati miren in obdržati glavo nad vodo. To sta ključni veščini za varnost v vodi.",
+    "steps": [
+     "Vadita samo v bazenu z nadzorom ali na tečaju, ti pa bodi v vodi.",
+     "Pomagaj otroku, da se uleže na hrbet v obliki zvezde, z ušesi v vodi, in počasi diha.",
+     "Nato naj se drži roba ter z rokami dela majhne kroge in z nogami nežno brca.",
+     "Naj spusti rob, medtem ko štejeta do 10 in si ti na dosegu roke, nato naj se spet prime.",
+     "Pokaži, kako priti iz vode: roke na rob, odriv navzgor, nato komolec in koleno na rob."
+    ],
+    "avoid": [
+     "Vadenje v jezerih, rekah ali morju.",
+     "Igre, pri katerih kdo koga potiska ali drži pod vodo.",
+     "Nadaljevanje, ko otroka zebe, se utrudi ali se boji."
+    ],
+    "success": "Otrok 10 sekund leži na vodi, 10 sekund stopa po vodi in pri robu spleza iz vode.",
+    "ways": [
+     "Tekmovanje v ležanju kot zvezda: kdo dlje mirno leži.",
+     "Stopanje po vodi ob glasnem štetju do 10.",
+     "Vadenje na tečaju, nato otrok tebi pokaže novo znanje."
+    ]
+   },
+   "sport_move": {
+    "name": "Nauči se športne prvine",
+    "goal": "Vadi eno prvino iz športa, dokler ne steče gladko.",
+    "why": "Učenje športne prvine krepi usklajenost in samozavest. Z gibalno igro otroci lažje dosežejo vsaj 60 minut gibanja na dan.",
+    "steps": [
+     "Naj otrok izbere šport, ki ga veseli.",
+     "Izberita eno prvino, na primer podajo z notranjo stranjo stopala.",
+     "Razdeli jo na 2 ali 3 majhne dele in pokaži vsakega.",
+     "Počasi jo ponovita 10-krat, nato malo hitreje.",
+     "Pohvali eno stvar, ki se je izboljšala."
+    ],
+    "avoid": [
+     "Popravljanje vsega naenkrat.",
+     "Trde žoge blizu oken ali cest.",
+     "Primerjanje s starejšimi otroki ali soigralci."
+    ],
+    "success": "Otrok prvino izvede 5-krat zapored z dobro tehniko.",
+    "ways": [
+     "Podajanje žoge v parku.",
+     "Podaja z odbojem od stene.",
+     "Udarjanje mehke žogice z loparjem čez črto."
+    ]
+   },
+   "road_ride": {
+    "name": "Vožnja po mirni cesti z odraslim",
+    "goal": "Prevozi kratek odsek mirne ceste, odrasli pa vozi tik za otrokom.",
+    "why": "Vožnja z odraslim po mirni cesti korak za korakom krepi zavedanje prometa. Otroci se presojanja prometa učijo počasi, več let.",
+    "steps": [
+     "Začni šele, ko otrok na prostoru stran od cest zna samozavestno zavirati, nakazovati smer in se ozirati nazaj.",
+     "Pred odhodom preveri čelado, zavore in pnevmatike.",
+     "Izberi zelo mirno cesto, podnevi, in upoštevaj lokalna pravila.",
+     "Vozi tik za otrokom in dajaj kratka, jasna navodila.",
+     "Vadita speljevanje, vožnjo v ravni črti in ustavljanje na tvoj znak.",
+     "Prva vožnja naj bo kratka in naj se konča v lepem trenutku."
+    ],
+    "avoid": [
+     "Prometne ceste in križišča.",
+     "Vožnja brez čelade.",
+     "Vožnja v temi, dežju ali megli."
+    ],
+    "success": "Otrok prevozi kratek odsek mirne ceste v ravni črti in se na prošnjo ustavi.",
+    "ways": [
+     "Kratek krog blizu doma v mirnem jutru.",
+     "Vadenje ustavljanja ob parkiranem avtu in oziranja nazaj.",
+     "Vključitev v lokalno kolesarsko usposabljanje za otroke."
+    ]
+   },
+   "skip_20": {
+    "name": "20 skokov s kolebnico zapored",
+    "goal": "Vrti kolebnico in brez ustavljanja skoči 20-krat.",
+    "why": "Skakanje s kolebnico krepi občutek za čas, vzdržljivost in usklajenost. Je hiter način za gibanje kjerkoli.",
+    "steps": [
+     "Preveri dolžino kolebnice: ko otrok stoji na sredini, ročaja sežeta do pazduh.",
+     "Poišči raven prostor zunaj ali prostor z visokim stropom.",
+     "Vadita majhne skoke na blazinicah stopal.",
+     "Skupaj na glas štejta vsak skok.",
+     "Po vsakem poskusu počijta in poskusita preseči otrokov najboljši dosežek."
+    ],
+    "avoid": [
+     "Trda ali spolzka tla.",
+     "Predolge ali prekratke kolebnice.",
+     "Nadaljevanje, ko se otrok utrudi."
+    ],
+    "success": "Otrok s kolebnico skoči 20-krat zapored.",
+    "ways": [
+     "Skakanje ob izštevanki.",
+     "Skakanje, medtem ko štejeta po 2.",
+     "Izmenično skakanje in navijanje drug za drugega."
+    ]
+   },
+   "chapter_book": {
+    "name": "Knjiga s poglavji",
+    "goal": "Brez pomoči bere kratko knjigo s poglavji, po eno poglavje naenkrat.",
+    "why": "Branje daljših knjig krepi zbranost, domišljijo in ljubezen do zgodb. Tudi besedni zaklad hitro raste.",
+    "steps": [
+     "Naj otrok izbere kratko knjigo s poglavji, ki ga navdušuje.",
+     "Za začetek skupaj preberita prvo poglavje.",
+     "Naj otrok naslednje poglavje prebere brez pomoči.",
+     "Vprašaj, kaj se je zgodilo in kaj bi se lahko zgodilo potem.",
+     "Uporabljajta bralno kazalo, da se vidi, koliko je že prebranega."
+    ],
+    "avoid": [
+     "Knjige, ki so veliko pretežke.",
+     "Branje kot preverjanje znanja.",
+     "Popolno opuščanje branja na glas otroku."
+    ],
+    "success": "Otrok brez pomoči prebere 1 poglavje in ti pove, kaj se je zgodilo.",
+    "ways": [
+     "Izmenično branje strani pred spanjem.",
+     "Obisk knjižnice za izbiro naslednje knjige.",
+     "Poslušanje zvočne knjige ob sledenju besedilu."
+    ]
+   },
+   "write_story": {
+    "name": "Napiši kratko zgodbo",
+    "goal": "Napiše kratko zgodbo z začetkom, sredino in koncem.",
+    "why": "Pisanje zgodb krepi domišljijo, pravopis in razvrščanje misli po vrsti.",
+    "steps": [
+     "Skupaj izberita junaka in kraj.",
+     "Vprašaj: kakšna težava se pojavi in kako se reši?",
+     "Pomagaj otroku načrtovati 3 dele: začetek, sredino in konec.",
+     "Naj otrok za vsak del napiše 1 ali 2 povedi.",
+     "Prosi ga, naj ti zgodbo prebere, in pohvali eno zamisel."
+    ],
+    "avoid": [
+     "Popravljanje pravopisa med pisanjem.",
+     "Zahteva po dolgi zgodbi.",
+     "Spreminjanje otrokovih zamisli v tvoje."
+    ],
+    "success": "Otrok napiše zgodbo z jasnim začetkom, sredino in koncem.",
+    "ways": [
+     "Zgodba o družinskem ljubljenčku ali igrači.",
+     "Strip s 3 okvirčki.",
+     "Nadaljevanje zgodbe, ki jo začneš ti."
+    ]
+   },
+   "share_online": {
+    "name": "Kaj deliti na spletu",
+    "goal": "Ve, katere podatke na spletu ohrani zase, in pove odraslemu, če se kaj ne zdi prav.",
+    "why": "Veliko otrok v tej starosti začne uporabljati splet. Ko vedo, kaj ohraniti zase in komu povedati, so bolj varni.",
+    "steps": [
+     "Usedita se skupaj k napravi, ki jo otrok uporablja.",
+     "Razloži, da so polno ime, naslov, šola, telefonska številka in fotografije zasebni.",
+     "Odigrajta hitro igro: pri nekaj primerih odločita, ali deliti ali ohraniti zase.",
+     "Dogovorita se, da ti otrok pove, če se mu kaj na spletu zdi narobe ali čudno.",
+     "Obljubi mirno poslušanje, brez jeze."
+    ],
+    "avoid": [
+     "Strašljive zgodbe, ki otroka prestrašijo.",
+     "Jeza, ko ti otrok pove o težavi.",
+     "Nove aplikacije, preden jih skupaj nastavita."
+    ],
+    "success": "Otrok našteje 3 stvari, ki jih ohrani zase, in ve, komu povedati.",
+    "ways": [
+     "Skupni družinski seznam pravil za splet.",
+     "Skupno preverjanje nastavitev zasebnosti v igri.",
+     "Ponoven pogovor ob vsaki novi aplikaciji."
+    ]
+   },
+   "disagree_politely": {
+    "name": "Vljudno nestrinjanje",
+    "goal": "Mirno in z razlogom pove, da vidi stvari drugače.",
+    "why": "Vljudno nestrinjanje otroku pomaga zagovarjati svoje poglede in hkrati ohraniti prijateljstva.",
+    "steps": [
+     "Izberi lahkotno temo, na primer najboljši dodatek na pici.",
+     "Pokaži vljuden stavek: Jaz to vidim drugače, ker ...",
+     "Izmenično zagovarjajta nasprotni mnenji.",
+     "Vadita poslušanje do konca, preden odgovorita.",
+     "Pohvali mirne besede in jasen razlog."
+    ],
+    "avoid": [
+     "Vadenje med pravim prepirom.",
+     "Puščanje, da otrok vedno zmaga.",
+     "Norčevanje iz otrokovega mnenja."
+    ],
+    "success": "Otrok se enkrat ne strinja, z mirnim glasom in razlogom.",
+    "ways": [
+     "Pogovor o filmu, o katerem imata različno mnenje.",
+     "Vadenje z družinsko debato pri večerji.",
+     "Igranje z igračami."
+    ]
+   },
+   "phone_call": {
+    "name": "Telefonski klic",
+    "goal": "Pokliče družinskega člana, pove, kdo kliče, in posreduje kratko sporočilo.",
+    "why": "Telefonski klici krepijo samozavest in jasen govor. Znati nekoga poklicati je tudi pomembna varnostna veščina.",
+    "steps": [
+     "Izberi prijaznega sorodnika in mu povej, da bo dobil klic.",
+     "Načrtujta, kaj povedati: pozdrav, kdo kliče, sporočilo, slovo.",
+     "Pomagaj otroku najti številko in poklicati.",
+     "Bodi blizu in pusti otroka govoriti.",
+     "Potem se pogovorita, kako je šlo."
+    ],
+    "avoid": [
+     "Klicanje ljudi, ki jih otrok ne pozna.",
+     "Prevzemanje pogovora.",
+     "Klicanje na 112 za vajo."
+    ],
+    "success": "Otrok pokliče, pove, kdo kliče, in posreduje sporočilo.",
+    "ways": [
+     "Klic babici ali dedku za lahko noč.",
+     "Najprej vadenje s telefonom igračo.",
+     "Pogovor o tem, kaj povedati ob klicu na 112, brez izbiranja številke."
+    ]
+   },
+   "keep_promise": {
+    "name": "Drži obljubo",
+    "goal": "Da majhno obljubo in jo drži.",
+    "why": "Držanje obljub krepi zaupanje in odgovornost. Otrok je lahko ponosen in nanj se je mogoče zanesti.",
+    "steps": [
+     "Pogovorita se, kaj je obljuba in zakaj je pomembna.",
+     "Pomagaj otroku izbrati majhno obljubo, na primer današnje večerno hranjenje ljubljenčka.",
+     "Zapišita jo ali narišita.",
+     "Kasneje tisti dan preveri.",
+     "Pohvali otroka, ko obljubo izpolni."
+    ],
+    "avoid": [
+     "Velike obljube, ki jih otrok ne more izpolniti.",
+     "Sramotenje otroka, če pozabi.",
+     "Prelamljanje tvojih obljub otroku."
+    ],
+    "success": "Otrok izpolni 1 majhno obljubo.",
+    "ways": [
+     "Obljuba, da pomaga bratu ali sestri pri opravilu.",
+     "Obljuba, da vrne izposojeno igračo.",
+     "Pogovor o tvoji izpolnjeni obljubi."
+    ]
+   },
+   "help_younger": {
+    "name": "Pomagaj mlajšemu otroku",
+    "goal": "Nežno in potrpežljivo pomaga mlajšemu otroku pri preprosti dejavnosti.",
+    "why": "Pomoč drugim krepi prijaznost in samozavest. Otrok tudi vidi, koliko že zna.",
+    "steps": [
+     "Izberi preprosto dejavnost, na primer gradnjo stolpa ali branje slikanice.",
+     "Pogovorita se, kako pomagati: pokaži, počakaj in pohvali.",
+     "Naj otrok pomaga mlajšemu otroku.",
+     "Bodi blizu, če bi te kateri od otrok potreboval.",
+     "Zahvali se otroku za prijaznost."
+    ],
+    "avoid": [
+     "Puščanje otrok samih.",
+     "Prošnja, naj otrok dolgo skrbi za mlajšega.",
+     "Dejavnosti, ki so pretežke za mlajšega otroka."
+    ],
+    "success": "Otrok pomaga mlajšemu otroku dokončati dejavnost.",
+    "ways": [
+     "Pomoč bratrancu ali sestrični pri sestavljanki.",
+     "Branje zgodbe mlajšemu bratcu ali sestrici.",
+     "Razlaga igre majhnemu otroku."
+    ]
+   },
+   "times_tables": {
+    "name": "Poštevanka do 10",
+    "goal": "Pozna večino računov iz poštevanke do 10-krat 10.",
+    "why": "Hitro znanje poštevanke olajša veliko matematičnih nalog. Krepi hitrost in samozavest pri številih.",
+    "steps": [
+     "Izberi eno poštevanko za ta teden, na primer poštevanko števila 3.",
+     "Najprej skupaj štejta po korakih.",
+     "Postavi 5 hitrih, premešanih vprašanj.",
+     "Pomagaj si z znanimi računi, na primer poštevanka števila 4 je podvojena poštevanka števila 2.",
+     "Pohvali trud in opazi račune, ki gredo vse bolje."
+    ],
+    "avoid": [
+     "Dolgo ponavljanje na čas.",
+     "Vadenje več poštevank naenkrat.",
+     "Primerjanje z drugimi otroki."
+    ],
+    "success": "Otrok pravilno odgovori na 5 premešanih vprašanj iz ene poštevanke.",
+    "ways": [
+     "Vprašanje ob vsaki rdeči luči ali postanku.",
+     "Skupna izdelava kartic.",
+     "Igra s kocko, pri kateri števili zmnožita."
+    ]
+   },
+   "clock_minute": {
+    "name": "Ura na minuto natančno",
+    "goal": "Na uri s kazalci prebere čas na minuto natančno.",
+    "why": "Branje ure otroku pomaga načrtovati dan in biti bolj samostojen.",
+    "steps": [
+     "Uporabi uro s kazalci ali jo nariši.",
+     "Preveri, ali otrok pozna »pol«, »četrt na« in »tri četrt na«.",
+     "Skupaj štejta minute okrog številčnice po 5.",
+     "Pokaži, kako po zadnjem koraku po 5 šteti naprej posamezne minute.",
+     "Nastavi 3 čase, ki jih otrok prebere."
+    ],
+    "avoid": [
+     "Uporaba samo digitalnih ur.",
+     "Hitenje k minutam, preden gre štetje po 5 minut zlahka.",
+     "Dolgo vadenje."
+    ],
+    "success": "Otrok prebere 3 čase na minuto natančno.",
+    "ways": [
+     "Vprašanje po uri v pravih trenutkih dneva.",
+     "Povezovanje ure s kazalci z digitalno uro.",
+     "Načrt kratke dejavnosti, ki se začne ob točno določeni uri."
+    ]
+   },
+   "halves_quarters": {
+    "name": "Polovice in četrtine",
+    "goal": "Poišče polovico in četrtino likov in majhnih količin.",
+    "why": "Ulomki so del vsakdana, od deljenja hrane do branja ure.",
+    "steps": [
+     "List papirja prepogni na polovico, nato na četrtine.",
+     "Pokaži, da so polovice in četrtine enaki deli.",
+     "8 majhnih predmetov razdeli na 2 enaki skupini, nato na 4.",
+     "Vprašaj: koliko je polovica od 8 in koliko četrtina od 8?",
+     "Naj otrok poskusi z 12 predmeti."
+    ],
+    "avoid": [
+     "Neenaki deli, ki jih imenujemo polovice.",
+     "Števila, ki se ne dajo enakomerno razdeliti.",
+     "Nadaljevanje, preden so polovice jasne."
+    ],
+    "success": "Otrok poišče polovico in četrtino 2 količin.",
+    "ways": [
+     "Rezanje sendviča ali pice na četrtine, ostro rezanje pa opraviš ti.",
+     "Pravična delitev bonbonov med ljudi.",
+     "Prepogibanje in barvanje papirnatih likov."
+    ]
+   },
+   "use_map": {
+    "name": "Uporaba zemljevida",
+    "goal": "Sledi preprostemu zemljevidu in najde kraj ali predmet.",
+    "why": "Zemljevidi krepijo prostorsko mišljenje in otroku pomagajo razumeti, kje je.",
+    "steps": [
+     "Skupaj narišita preprost zemljevid ene sobe.",
+     "Skrij majhen predmet in ga označi z X.",
+     "Naj ga otrok poišče s pomočjo zemljevida.",
+     "Skupaj poglejta zemljevid vašega kraja.",
+     "Poiščita svoj dom in en znan kraj."
+    ],
+    "avoid": [
+     "Podrobni zemljevidi na začetku.",
+     "Branje zemljevida namesto otroka.",
+     "Puščanje, da otrok zunaj brez odraslega sledi zemljevidu."
+    ],
+    "success": "Otrok s pomočjo zemljevida najde skrit predmet.",
+    "ways": [
+     "Skupno sledenje zemljevidu parka na sprehodu.",
+     "Izdelava zemljevida zaklada za prijatelja.",
+     "Risanje poti na zemljevidu pred izletom."
+    ]
+   },
+   "pocket_money": {
+    "name": "Varčevanje in poraba žepnine",
+    "goal": "Denar razdeli na varčevanje in porabo ter varčuje za nekaj, kar si želi.",
+    "why": "Upravljanje majhne vsote denarja uči potrpežljivosti, odločanja in vrednosti varčevanja.",
+    "steps": [
+     "Pripravi 2 kozarca: enega za varčevanje, enega za porabo.",
+     "Skupaj se dogovorita, kako razdeliti denar.",
+     "Pomagaj otroku izbrati cilj varčevanja in zapisati njegovo ceno.",
+     "Vsak teden skupaj preštejta prihranke.",
+     "Naj se otrok samostojno odloča o porabi, tudi če naredi majhne napake."
+    ],
+    "avoid": [
+     "Dodajanje denarja, ko ga zmanjka.",
+     "Izbira cilja namesto otroka.",
+     "Cilji, ki so tako daleč, da otrok izgubi zanimanje."
+    ],
+    "success": "Otrok 3 tedne zapored prihrani del svojega denarja.",
+    "ways": [
+     "Risanje grafa, ki se polni, ko prihranki rastejo.",
+     "Tretji kozarec za darovanje.",
+     "Primerjanje cen pred nakupom."
+    ]
+   },
+   "cook_simple": {
+    "name": "Preprost obrok z odraslim",
+    "goal": "Pomaga skuhati preprost topel obrok, vroče in ostre dele pa opraviš ti.",
+    "why": "Skupno kuhanje krepi samozavest, matematiko in zdrave navade. To je veščina, ki jo bo otrok uporabljal vse življenje.",
+    "steps": [
+     "Izberi preprost obrok, na primer umešana jajca na toastu.",
+     "Umijta si roke in skupaj preberita korake.",
+     "Naj otrok ubija jajca, stepa in odmerja, nato si po stiku s surovim jajcem spet umijta roke.",
+     "Kuhalno ploščo, vroče posode in ostre nože prevzameš ti.",
+     "Naj otrok meša z dolgo žlico šele, ko presodiš, da je pripravljen, ti pa bodi ob njem.",
+     "Postrezita in jejta skupaj."
+    ],
+    "avoid": [
+     "Puščanje otroka samega ob štedilniku.",
+     "Ročaji posod, ki gledajo čez rob.",
+     "Hitenje, ko so vsi lačni."
+    ],
+    "success": "Otrok opravi vsaj 3 korake preprostega toplega obroka.",
+    "ways": [
+     "Skupna priprava testenin s preprosto omako.",
+     "Priprava zelenjavne omlete.",
+     "Segrevanje juhe in priprava toasta zraven."
+    ]
+   },
+   "pack_trip": {
+    "name": "Pakiranje za izlet",
+    "goal": "S seznamom spakira svojo torbo za kratek izlet.",
+    "why": "Pakiranje krepi načrtovanje, samostojnost in odgovornost za svoje stvari.",
+    "steps": [
+     "Skupaj napišita ali narišita seznam za pakiranje.",
+     "Naj otrok zbere stvari s seznama.",
+     "Pokaži, kako oblačila zviti, da prihranita prostor.",
+     "Prosi otroka, naj vsako stvar odkljuka.",
+     "Na koncu skupaj preverita torbo."
+    ],
+    "avoid": [
+     "Pakiranje torbe namesto otroka.",
+     "Dolgi seznami s preveč stvarmi.",
+     "Pakiranje v zadnjem trenutku."
+    ],
+    "success": "Otrok spakira vse stvari s seznama.",
+    "ways": [
+     "Pakiranje za noč pri babici in dedku.",
+     "Pakiranje torbe za dan na plaži.",
+     "Pakiranje športne torbe za krožek."
+    ]
+   },
+   "homework_plan": {
+    "name": "Načrt za domače naloge",
+    "goal": "Izbere čas in kraj za domače naloge in jih začne delati samostojno.",
+    "why": "Preprosta rutina za domače naloge krepi zbranost in samostojnost. Doma je tudi manj prepirov.",
+    "steps": [
+     "Pogovorita se o najboljšem času za domače naloge, na primer po malici.",
+     "Izberita miren prostor s stvarmi, ki jih otrok potrebuje.",
+     "Pomagaj otroku narediti seznam današnjih šolskih obveznosti.",
+     "Velike naloge razdelita na majhne dele.",
+     "Uporabita časovnik za zbranost in kratek odmor."
+    ],
+    "avoid": [
+     "Delanje domačih nalog namesto otroka.",
+     "Zasloni in hrup v bližini.",
+     "Začetek, ko je otrok zelo utrujen."
+    ],
+    "success": "Otrok brez opominjanja začne z domačimi nalogami ob načrtovanem času.",
+    "ways": [
+     "Tedenski razpored domačih nalog.",
+     "Odkljukanje nalog na seznamu.",
+     "Načrtovan čas za branje vsak večer."
+    ]
+   },
+   "tidy_room": {
+    "name": "Rutina pospravljanja sobe",
+    "goal": "S kratko vsakodnevno rutino pospravi svojo sobo.",
+    "why": "Rutina pospravljanja krepi odgovornost in olajša iskanje stvari.",
+    "steps": [
+     "Vsaki stvari določi jasno mesto, na primer škatle ali označene predale.",
+     "Izberita 3 majhna opravila, na primer oblačila na svoje mesto, igrače v škatle, postlana postelja.",
+     "Nastavi časovnik na 5 minut.",
+     "Na začetku pomagaj, nato stopi korak nazaj.",
+     "Pohvali trud in skupaj uživajta v pospravljeni sobi."
+    ],
+    "avoid": [
+     "Pospravljanje sobe namesto otroka.",
+     "Pričakovanje popolnosti.",
+     "Pospravljanje kot kazen."
+    ],
+    "success": "Otrok v 5 minutah opravi 3 opravila.",
+    "ways": [
+     "Pospravljanje ob najljubši pesmi.",
+     "Slikovni seznam na vratih.",
+     "Skupno pospravljanje ob vikend jutru."
+    ]
+   },
+   "swim_25m": {
+    "name": "Preplavaj 25 metrov",
+    "goal": "V bazenu z nadzorom brez ustavljanja preplava 25 metrov.",
+    "why": "Plavanje na daljšo razdaljo krepi vzdržljivost, samozavest v vodi in pomembno varnostno veščino.",
+    "steps": [
+     "Pojdi na bazen z nadzorom ali na tečaj plavanja.",
+     "Bodi v vodi z otrokom ali tik ob robu bazena, če otrok samozavestno plava, in ga ves čas opazuj.",
+     "Začni z 1 širino, nato naj otrok počije ob robu.",
+     "Ob vsakem obisku dodaj malo razdalje.",
+     "Skupaj štejta dolžine in pohvali enakomerno dihanje."
+    ],
+    "avoid": [
+     "Jezera, reke ali morje za vadenje.",
+     "Plavanje otroka brez nadzora odraslega.",
+     "Nadaljevanje, ko otroka zebe ali se utrudi."
+    ],
+    "success": "Otrok preplava 1 celo dolžino 25-metrskega bazena.",
+    "ways": [
+     "Tečaj plavanja z učiteljem.",
+     "Plavanje ob staršu po dolžini bazena.",
+     "Pol dolžine, počitek, nato druga polovica."
+    ]
+   },
+   "team_game": {
+    "name": "Podaj in se premakni v ekipni igri",
+    "goal": "Med preprosto ekipno igro poda žogo in se premakne na prosto mesto.",
+    "why": "Ekipne igre krepijo kondicijo, timsko delo in navado, da misliš na druge.",
+    "steps": [
+     "Poišči park ali vrt in mehko žogo.",
+     "Igrajta 2 proti 1 z družinskim članom ali prijateljem.",
+     "Pokaži, kako podati in se nato premakniti na prosto mesto.",
+     "Za opomnik zakliči »podaj in teci«.",
+     "Pohvali vsako dobro podajo, ne samo zadetkov."
+    ],
+    "avoid": [
+     "Trde žoge blizu oken ali cest.",
+     "Štetje točk na način, ki koga razburi.",
+     "Dolge igre, ki se končajo z utrujenostjo in prepiri."
+    ],
+    "success": "Otrok 3-krat poda žogo in se nato premakne na novo mesto.",
+    "ways": [
+     "Nogomet v parku.",
+     "Podajanje žoge z rokami, kot pri rokometu.",
+     "Igra, pri kateri tisti v sredini lovi podaje."
+    ]
+   },
+   "warm_up": {
+    "name": "Ogrevanje in raztezanje",
+    "goal": "Pred gibanjem se na kratko ogreje, po njem pa se nežno razteza.",
+    "why": "Ogrevanje pripravi telo na gibanje. To je dobra navada za šport in igro.",
+    "steps": [
+     "Začni z 1 minuto korakanja ali teka na mestu.",
+     "Dodaj kroženje z rokami, naprej in nazaj.",
+     "Na vsaki nogi naredi 5 nežnih dvigov kolena.",
+     "Po igri zadrži 3 lahke raztezne položaje, vsakega ob počasnem štetju do 10.",
+     "Naj otrok naslednjič vodi rutino."
+    ],
+    "avoid": [
+     "Zibanje ali siljenje v raztezanje.",
+     "Raztezanje kljub bolečini.",
+     "Izpuščanje ogrevanja, ko se mudi."
+    ],
+    "success": "Otrok brez pomoči vodi ogrevanje s 3 gibi.",
+    "ways": [
+     "Ogrevanje pred družinskim sprehodom.",
+     "Pesmica za ogrevanje z gibi.",
+     "Skupno raztezanje po vožnji s kolesom."
+    ]
+   },
+   "short_route": {
+    "name": "Kratka pot s kolesom z odraslim",
+    "goal": "Z odraslim prevozi kratko, znano pot in upošteva lokalna pravila.",
+    "why": "Skupna vožnja po znani poti korak za korakom krepi občutek za promet, načrtovanje in samozavest.",
+    "steps": [
+     "Preveri, ali se čelada dobro prilega, in jo vsakič zapni.",
+     "Izberi kratko, mirno pot, ki jo oba poznata.",
+     "Najprej jo skupaj prehodita ali prevozita in pokaži križišča.",
+     "Vozi za otrokom ali ob njem in upoštevaj lokalna pravila.",
+     "Na koncu se ustavita in pogovorita, kaj je šlo dobro.",
+     "Ti odločiš, kdaj je otrok pripravljen na več."
+    ],
+    "avoid": [
+     "Prometne ceste ali vožnja v temi.",
+     "Vožnja brez čelade.",
+     "Samostojna vožnja otroka po tej poti, preden se strinjaš, da je pripravljen."
+    ],
+    "success": "Otrok s tabo prevozi kratko pot in se ustavi pred vsakim križiščem.",
+    "ways": [
+     "Vožnja do parka.",
+     "Vožnja k prijatelju po mirnih ulicah.",
+     "Krog okrog vašega bloka ali soseske."
+    ]
+   },
+   "mend_friendship": {
+    "name": "Popravi prijateljstvo",
+    "goal": "Po sporu najde način, da se s prijateljem pobota.",
+    "why": "Prijateljstva so v tej starosti vse pomembnejša. Ko se jih otrok nauči popravljati, krepi prijaznost in samozavest.",
+    "steps": [
+     "Poslušaj, ko ti otrok pove, kaj se je zgodilo.",
+     "Vprašaj, kako se počuti in kako se morda počuti prijatelj.",
+     "Skupaj se domislita 2 načinov za spravo.",
+     "Vadita besede, na primer: »Oprosti. Se lahko spet druživa?«",
+     "Naj otrok izbere miren trenutek za poskus."
+    ],
+    "avoid": [
+     "Takojšnje postavljanje na eno stran.",
+     "Stik s prijateljem ali njegovimi starši namesto otroka.",
+     "Izsiljevanje hitrega opravičila."
+    ],
+    "success": "Otrok načrtuje, kaj reči za spravo.",
+    "ways": [
+     "Igra vlog z igračo ali s staršem.",
+     "Pisanje kratkega sporočila.",
+     "Povabilo prijatelja k igri."
+    ]
+   },
+   "say_no_pressure": {
+    "name": "Reci ne pritisku",
+    "goal": "Mirno reče ne, ko ga prijatelji silijo v nekaj, kar se ne zdi prav.",
+    "why": "Ko otroci rastejo, čutijo vse več pritiska vrstnikov. Vnaprej vajen odgovor olajša zavrnitev.",
+    "steps": [
+     "Pogovorita se o primeru, ko je nekdo od otroka želel nekaj, česar otrok ni želel narediti.",
+     "Vadita kratek, odločen odgovor: »Ne, hvala, nočem.«",
+     "Pokaži, kako stati vzravnano in osebo pogledati.",
+     "Vadita odhod ali menjavo teme.",
+     "Spomni otroka, da ti lahko vedno vse pove."
+    ],
+    "avoid": [
+     "Strašljivo vadenje.",
+     "Jeza, če ti otrok pove o napaki.",
+     "Dolge pridige."
+    ],
+    "success": "Otrok v igri vlog reče ne in odide.",
+    "ways": [
+     "Izziv, ki si ga za igro izmisli starš.",
+     "Dogovor o skrivni besedi, s katero otrok prosi, da ga prideš iskat.",
+     "Pogovor o junaku iz knjige ali filma."
+    ]
+   },
+   "present_topic": {
+    "name": "Predstavi temo družini",
+    "goal": "Družini 2 minuti govori o temi, ki ga veseli.",
+    "why": "Govorjenje pred skupino krepi samozavest in pomaga pri govornih nastopih v šoli.",
+    "steps": [
+     "Naj otrok izbere temo, ki jo obožuje.",
+     "Pomagaj mu na kartico napisati 3 ključne točke.",
+     "Enkrat skupaj vadita na glas.",
+     "Zberi družino in poslušajte brez prekinjanja.",
+     "Na koncu postavi 1 prijazno vprašanje in zaploskajte."
+    ],
+    "avoid": [
+     "Popravljanje napak med nastopom.",
+     "Izbira teme namesto otroka.",
+     "Predolg nastop."
+    ],
+    "success": "Otrok 2 minuti govori o svoji temi.",
+    "ways": [
+     "Nastop o najljubši živali.",
+     "Risba ali predmet za prikaz.",
+     "Nastop za babico in dedka po videoklicu."
+    ]
+   },
+   "kind_online": {
+    "name": "Prijazna sporočila na spletu",
+    "goal": "Na spletu piše prijazna, jasna sporočila in ve, kaj storiti, če ga sporočilo prizadene.",
+    "why": "Besede na spletu lahko bolijo enako kot besede v živo. Prijazne navade zdaj varujejo otroka in druge.",
+    "steps": [
+     "Usedita se skupaj in poglejta družinsko sporočilo ali klepet v igri, ki ga nadzoruješ.",
+     "Vprašaj: »Je to nekaj, kar lahko rečem tudi v obraz?«",
+     "Skupaj napišita prijazno sporočilo.",
+     "Pogovorita se, kaj storiti, če se sporočilo zdi neprijazno: ustavi se, ne odgovarjaj, povej odraslemu.",
+     "Dogovorita se, da v sporočila ne gredo osebni podatki."
+    ],
+    "avoid": [
+     "Aplikacije za klepet ali igre, ki jih starš ne preverja.",
+     "Deljenje imen, šole ali naslova.",
+     "Odgovarjanje na neprijazna sporočila."
+    ],
+    "success": "Otrok napiše prijazno sporočilo in pove, kaj storiti, če ga sporočilo prizadene.",
+    "ways": [
+     "Sporočilo babici ali dedku.",
+     "Branje primerov sporočil in iskanje prijaznih.",
+     "Kartica z družinskimi pravili ob računalniku."
+    ]
+   },
+   "ask_help": {
+    "name": "Prosi odraslega za pomoč",
+    "goal": "Ve, katere odrasle lahko prosi za pomoč, in zna jasno prositi.",
+    "why": "Ko otrok ve, koga prositi in kaj reči, se počuti varneje, kadar gre kaj narobe.",
+    "steps": [
+     "Pogovorita se o odraslih, ki jim zaupate, na primer o učiteljih in družini.",
+     "Pogovorita se o varnih ljudeh, ki jih lahko prosi zunaj, na primer o prodajalcu ali staršu z otroki.",
+     "Vadita jasno prošnjo: »Ne vem, kje sem. Mi lahko pomagate poklicati mamo?«",
+     "Enkrat doma odigrajta igro vlog.",
+     "Preveri, ali otrok pozna tvojo telefonsko številko."
+    ],
+    "avoid": [
+     "Odhod kamorkoli z nekom, ki ga otrok ne pozna.",
+     "Strašljivo vadenje.",
+     "Izpuščanje preverjanja telefonske številke."
+    ],
+    "success": "Otrok našteje 3 odrasle, ki jim zaupa, in v igri vlog jasno prosi za pomoč.",
+    "ways": [
+     "Prošnja knjižničarju za knjigo.",
+     "Vprašanje prodajalcu, kje je kaj.",
+     "Dogovor o točki srečanja na obljudenih krajih."
+    ]
+   },
+   "mental_maths": {
+    "name": "Računanje na pamet",
+    "goal": "Na pamet sešteva, odšteva in množi preprosta števila.",
+    "why": "Hitro računanje na pamet vsak dan pomaga pri nakupovanju, času in šolskem delu.",
+    "steps": [
+     "Izberi miren trenutek, na primer sprehod ali vožnjo z avtom.",
+     "Začni z lahkim vprašanjem, na primer koliko je 20 in 30.",
+     "Pred pomočjo daj čas za razmislek.",
+     "Vprašaj, kako otrok pride do rezultata.",
+     "Naslednje vprašanje naj bo malo težje."
+    ],
+    "avoid": [
+     "Merjenje otrokovega časa z uro.",
+     "Primerjanje z brati, sestrami ali sošolci.",
+     "Preveč vprašanj zapored."
+    ],
+    "success": "Otrok na pamet odgovori na 5 vprašanj.",
+    "ways": [
+     "Seštevanje cen v trgovini.",
+     "Štetje minut do večerje.",
+     "Igra s števili v avtu."
+    ]
+   },
+   "write_email": {
+    "name": "Napiši e-pošto",
+    "goal": "Napiše kratko e-poštno sporočilo s pozdravom, sporočilom in zaključkom.",
+    "why": "Pisanje e-pošte je veščina iz resničnega življenja, ki krepi jasno pisanje in tipkanje.",
+    "steps": [
+     "Usedita se skupaj k računalniku ali tablici z odprto e-pošto.",
+     "Izberita nekoga, ki ga otrok pozna, na primer babico ali dedka.",
+     "Pokaži dele: zadeva, pozdrav, sporočilo, zaključek.",
+     "Naj otrok natipka 3 kratke povedi.",
+     "Skupaj ga preberita, nato naj otrok pritisne pošlji."
+    ],
+    "avoid": [
+     "Pisanje ljudem, ki jih otrok ne pozna.",
+     "Dodajanje osebnih podatkov, kot je vaš naslov.",
+     "Popravljanje vsake pravopisne napake namesto otroka."
+    ],
+    "success": "Otrok napiše in pošlje e-poštno sporočilo z vsemi 4 deli.",
+    "ways": [
+     "Zahvalno sporočilo sorodniku.",
+     "Sporočilo staršu v službi.",
+     "Kratko sporočilo z novicami o koncu tedna."
+    ]
+   },
+   "look_up_safely": {
+    "name": "Varno iskanje odgovora",
+    "goal": "Z odraslim na spletu poišče odgovor in preveri, ali je stran vredna zaupanja.",
+    "why": "Iskanje dobrih odgovorov na spletu je ključna veščina za šolo. Skupno iskanje je varno.",
+    "steps": [
+     "Skupaj izberita vprašanje, na primer kako visoka je žirafa.",
+     "Uporabita otrokom prijazne nastavitve iskanja, ti pa bodi ob otroku.",
+     "Pomagaj otroku izbrati preproste iskalne besede.",
+     "Poglejta 2 zadetka in vprašaj, kateri se zdi vreden zaupanja.",
+     "Dogovorita se, da otrok zapre vse, kar se zdi narobe, in ti pove."
+    ],
+    "avoid": [
+     "Iskanje brez starša v bližini.",
+     "Klikanje oglasov ali pojavnih oken.",
+     "Vpisovanje osebnih podatkov."
+    ],
+    "success": "Otrok s tabo najde odgovor na strani, vredni zaupanja.",
+    "ways": [
+     "Preverjanje podatka za domačo nalogo.",
+     "Iskanje podatkov o živali.",
+     "Iskanje vremenske napovedi za jutri."
+    ]
+   },
+   "cross_road": {
+    "name": "Samostojno prečkanje ceste",
+    "goal": "Po veliko skupnih vajah varno prečka mirno cesto.",
+    "why": "Občutek za promet se razvija leta. Skupno vadenje ti pomaga presoditi, kdaj je otrok pripravljen.",
+    "steps": [
+     "Najprej mnogokrat prečkajta skupaj, na varnem mestu za prečkanje.",
+     "Naj otrok vodi: se ustavi na robu pločnika, pogleda in prisluhne na obe strani.",
+     "Počaka, da je cesta prosta, nato gre naravnost čez in ves čas gleda in posluša.",
+     "Od blizu opazuj, medtem ko otrok prečka brez tebe.",
+     "Pogovorita se, kaj vse otrok opazi.",
+     "Ti odločiš, kdaj je otrok pripravljen, in upoštevaš lokalna pravila."
+    ],
+    "avoid": [
+     "Prečkanje med parkiranimi avtomobili ali blizu ovinkov.",
+     "Uporaba telefona ali slušalk med prečkanjem.",
+     "Na začetku prometne ceste ali prečkanje v temi."
+    ],
+    "success": "Otrok varno prečka mirno cesto, ti pa ga opazuješ.",
+    "ways": [
+     "Skupna uporaba prehoda za pešce.",
+     "Iskanje varnih mest za prečkanje na sprehodu.",
+     "Otrok ti pove, kdaj je varno iti."
+    ]
+   },
+   "walk_friend": {
+    "name": "Samostojno do prijatelja",
+    "goal": "Ko se strinjaš, da je otrok pripravljen, prehodi kratko, znano pot do prijateljevega doma.",
+    "why": "Prva majhna samostojna pot krepi samostojnost in zaupanje. Najprej je na vrsti skupno vadenje.",
+    "steps": [
+     "Najprej pot mnogokrat prehodita skupaj.",
+     "Naj otrok vodi in poišče varna mesta za prečkanje.",
+     "Dogovorita se za točno pot in čas prihoda.",
+     "Prosi prijateljeve starše, naj pokličejo ali pošljejo sporočilo, ko otrok pride.",
+     "Če želiš, mu na začetku sledi malo zadaj.",
+     "Ti odločiš, kdaj je otrok pripravljen, in upoštevaš lokalna pravila."
+    ],
+    "avoid": [
+     "Nove ali dolge poti.",
+     "Samostojna hoja v temi.",
+     "Spreminjanje načrta brez obvestila tebi."
+    ],
+    "success": "Otrok vodi vso pot, ti pa hodiš zadaj.",
+    "ways": [
+     "Pot do sosedove hiše.",
+     "Pot do vogala, kjer ga počakaš.",
+     "Kratka pot do trgovine s prijateljem."
+    ]
+   },
+   "shop_budget": {
+    "name": "Nakup z omejenim zneskom",
+    "goal": "Kupi nekaj stvari in ne preseže določenega zneska.",
+    "why": "Nakupovanje z omejenim zneskom uči načrtovanja, odločanja in vrednosti denarja.",
+    "steps": [
+     "Skupaj napišita kratek seznam s 3 stvarmi.",
+     "Daj otroku določen znesek denarja.",
+     "V trgovini naj otrok preverja cene.",
+     "Pred plačilom mu pomagaj sešteti skupni znesek.",
+     "Naj plača in preveri drobiž."
+    ],
+    "avoid": [
+     "Hitenje ob gneči.",
+     "Doplačilo razlike, če otrok preseže znesek.",
+     "Izbira stvari namesto otroka."
+    ],
+    "success": "Otrok kupi 3 stvari in ostane znotraj zneska.",
+    "ways": [
+     "Nakup prigrizkov za piknik.",
+     "Izbira sadja za ves teden.",
+     "Načrt za majhno rojstnodnevno darilo."
+    ]
+   },
+   "cook_family": {
+    "name": "Skuhaj obrok za družino",
+    "goal": "Pripravi preprost obrok za družino, odrasli pa je v bližini.",
+    "why": "Kuhanje za druge krepi ponos, kuhinjske veščine in zdrave navade.",
+    "steps": [
+     "Skupaj izberita lahek obrok, na primer testenine z omako.",
+     "Umijta si roke in preberita ves recept.",
+     "Naj otrok odmerja, meša in postreže.",
+     "Vroče in ostre dele opravljaj ti, dokler otrok ni jasno pripravljen.",
+     "Usedite se skupaj in se zahvalite za obrok."
+    ],
+    "avoid": [
+     "Puščanje otroka samega ob štedilniku ali pečici.",
+     "Ostri noži brez tvoje pomoči od blizu.",
+     "Obroki z veliko koraki na začetku."
+    ],
+    "success": "Otrok pripravi in postreže obrok, ti pa si v bližini.",
+    "ways": [
+     "Hladen obrok, na primer solata.",
+     "Zajtrk za družino ob koncu tedna.",
+     "Pica s pripravljenimi dodatki."
+    ]
+   },
+   "timetable": {
+    "name": "Vozni red avtobusa ali vlaka",
+    "goal": "Na voznem redu avtobusa ali vlaka najde čas odhoda.",
+    "why": "Branje voznega reda uporablja znanje o času in otroku pomaga načrtovati poti.",
+    "steps": [
+     "Skupaj poglejta natisnjen ali spletni vozni red.",
+     "Poiščita svojo postajo in kraj, kamor želita.",
+     "Prosi otroka, naj poišče naslednji avtobus ali vlak.",
+     "Izračunajta, koliko časa traja vožnja.",
+     "Odgovor skupaj preverita na pravi poti."
+    ],
+    "avoid": [
+     "Vozni redi s preveč linijami na začetku.",
+     "Hitenje na poti na avtobus.",
+     "Branje namesto otroka."
+    ],
+    "success": "Otrok najde čas naslednjega avtobusa ali vlaka.",
+    "ways": [
+     "Načrt poti do knjižnice.",
+     "Preverjanje voznega reda na postaji.",
+     "Načrt namišljenega potovanja."
+    ]
+   },
+   "plan_day_out": {
+    "name": "Načrtuj družinski izlet",
+    "goal": "Pomaga načrtovati družinski izlet: kam, kdaj in kaj vzeti s seboj.",
+    "why": "Načrtovanje krepi razmišljanje, odločanje in občutek, da so otrokove zamisli pomembne.",
+    "steps": [
+     "Ponudi 2 ali 3 kraje za izbiro.",
+     "Prosi otroka, naj s tabo preveri delovni čas.",
+     "Pomagaj mu načrtovati pot tja in nazaj.",
+     "Naredita kratek seznam stvari za pakiranje.",
+     "Na dan izleta naj otrok vodi načrt."
+    ],
+    "avoid": [
+     "Preveč izbire.",
+     "Načrti, ki stanejo več, kot želiš porabiti.",
+     "Spreminjanje celotnega načrta brez otrokovega mnenja."
+    ],
+    "success": "Otrok naredi preprost načrt s krajem, časom in seznamom za pakiranje.",
+    "ways": [
+     "Piknik v parku.",
+     "Obisk muzeja.",
+     "Sprehod po gozdu."
+    ]
+   },
+   "first_aid": {
+    "name": "Osnove prve pomoči",
+    "goal": "Zna očistiti majhno ureznino in ve, kdaj poklicati odraslega ali na pomoč.",
+    "why": "Osnove prve pomoči otrokom pomagajo ostati mirni in vedeti, kaj storiti v nujnem primeru.",
+    "steps": [
+     "Pokaži, kje je škatla za prvo pomoč.",
+     "Vadita čiščenje namišljene ureznine in lepljenje obliža.",
+     "Pogovorita se, kdaj takoj poklicati odraslega.",
+     "Vadita, kako povedati številko 112 in vaš naslov.",
+     "Odigrajta kratek klic, brez izbiranja številke."
+    ],
+    "avoid": [
+     "Klicanje na 112 za vajo.",
+     "Zdravila brez odraslega.",
+     "Strašljive zgodbe."
+    ],
+    "success": "Otrok nalepi obliž ter pove številko 112 in vaš naslov.",
+    "ways": [
+     "Igra prve pomoči z medvedkom.",
+     "Skupni pregled škatle za prvo pomoč.",
+     "Skupni ogled videa o prvi pomoči za otroke."
+    ]
+   },
+   "washing_machine": {
+    "name": "Pralni stroj s pomočjo",
+    "goal": "Razvrsti perilo in z odraslim zažene pralni stroj.",
+    "why": "Pomoč pri perilu krepi samostojnost in pokaže, kako teče gospodinjstvo.",
+    "steps": [
+     "Skupaj razvrstita oblačila na svetla in temna.",
+     "Preglejta žepe, ali so v njih robčki ali kovanci.",
+     "Napolnita stroj in zaprita vrata.",
+     "Pralno sredstvo dodaj ti, nato pokaži, kateri program izbrati.",
+     "Naj otrok pritisne start."
+    ],
+    "avoid": [
+     "Puščanje, da otrok brez nadzora ravna s pralnim sredstvom.",
+     "Odpiranje vrat med pranjem.",
+     "Plezanje na stroj."
+    ],
+    "success": "Otrok s tabo razvrsti perilo, napolni stroj in zažene pranje.",
+    "ways": [
+     "Obešanje perila.",
+     "Iskanje parov nogavic po pranju.",
+     "Zlaganje brisač."
+    ]
    }
   },
   "guides": {
@@ -6193,6 +8986,381 @@
     "urgent": [
      "Pojavijo se misli o samopoškodovanju ali o poškodovanju dojenčka. Takoj poišči pomoč: pokliči 112 ali telefon za pomoč v stiski ali pojdi v najbližji urgentni center."
     ]
+   },
+   "starting_school": {
+    "title": "Otrok začenja hoditi v šolo",
+    "intro": "Začetek šole je velika sprememba za vso družino. Večina otrok se navadi v nekaj tednih, zlasti ob mirnem začetku in dovolj počitka.",
+    "common": [
+     "Veliko otrok je hkrati navdušenih in živčnih.",
+     "Otroci so v prvih tednih pogosto zelo utrujeni. Nekateri so doma slabe volje, jokavi ali se oklepajo staršev, ker so se ves dan zbrano držali.",
+     "Nekateri otroci o svojem dnevu povedo malo. To je normalno in ne pomeni, da je kaj narobe.",
+     "V prvem šolskem letu so pogostejši prehladi in črevesne viroze."
+    ],
+    "helps": [
+     "O šoli govori pozitivno. Berita knjige o začetku šole in si šolo, če je mogoče, skupaj oglejta.",
+     "Vadita vsakdanje veščine: oblačenje, samostojen odhod na stranišče, umivanje rok, odpiranje škatle za malico in obuvanje.",
+     "Označi oblačila in torbe, jutranja rutina pa naj bo preprosta in vsak dan enaka.",
+     "Poslovi se na kratko in veselo ter otroku povej, kdo bo prišel ponj.",
+     "Po šoli ponudi prigrizek in malo miru, otrok pa naj gre zgodaj spat.",
+     "Postavljaj majhna vprašanja, na primer »Kdo je sedel ob tebi pri kosilu?«, namesto »Kako je bilo danes?«"
+    ],
+    "help": [
+     "Otrok je zaradi šole še vedno zelo vznemirjen tudi po prvih 6 tednih.",
+     "Otrok pogosto noče v šolo ali ob šolskih dneh toži, da ga boli trebuh ali glava.",
+     "Otrok ne je ali ne spi več dobro ali je videti nesrečen večino časa. Najprej se pogovori z učiteljem."
+    ],
+    "urgent": []
+   },
+   "homework": {
+    "title": "Domača naloga brez prepirov",
+    "intro": "Domače naloge so v prvih šolskih letih navadno kratke. Mirna rutina je pomembnejša od tega, da je vsak odgovor pravilen.",
+    "common": [
+     "Mlajši otroci za domačo nalogo pogosto dobijo malo branja, pisanja ali računanja.",
+     "Utrujenost, lakota in zasloni so pogosti razlogi, da se domača naloga sprevrže v prepir.",
+     "Veliko otrok potrebuje pomoč pri začetku, potem pa lahko kratek čas delajo sami."
+    ],
+    "helps": [
+     "Izberi stalen čas, po prigrizku in kratkem odmoru, in naj bo vsak dan isti.",
+     "Poišči miren kotiček z dobro svetlobo in vsem, kar otrok potrebuje. Zasloni in igrače naj bodo stran.",
+     "Pomagaj otroku razumeti nalogo, nato se umakni. Ne delaj je namesto njega.",
+     "Večje naloge razdeli na majhne dele, vmes pa naj bo kratek odmor za gibanje.",
+     "Hvali trud in dobre navade, ne le pravilnih odgovorov.",
+     "Če je otrok utrujen in vznemirjen, prenehaj in poskusita pozneje. Kratko mirno delo je boljše od dolgega s solzami."
+    ],
+    "help": [
+     "Domača naloga traja veliko dlje, kot pričakuje učitelj, ali se pogosto konča s solzami.",
+     "Zdi se, da so otroku branje, pisanje ali računanje veliko težji od drugih nalog. Pogovori se z učiteljem.",
+     "Ne veš, koliko pomagati. Vprašaj v šoli, kaj pričakujejo."
+    ],
+    "urgent": []
+   },
+   "reading": {
+    "title": "Kako lahko otroku pomagam pri branju?",
+    "intro": "Otroci se naučijo brati z različno hitrostjo. Skupno branje vsak dan, tudi samo 10 minut, je ena najboljših stvari, ki jih lahko narediš.",
+    "common": [
+     "Veliko otrok se nauči brati tako, da glaskujejo črke in glasove povežejo v besede. V šoli vprašaj, katero metodo uporabljajo.",
+     "Zamenjevanje črk, kot sta b in d, je v prvih šolskih letih pogosto.",
+     "Napredek pogosto pride v skokih, vmes pa so počasnejši tedni.",
+     "Otroci, ki doma poslušajo zgodbe, se učijo novih besed, tudi če jih še ne znajo prebrati."
+    ],
+    "helps": [
+     "Še naprej beri otroku na glas, tudi ko že bere sam.",
+     "Naj otrok sam izbere branje: stripi, šale, zanimivosti o živalih ali recepti, vse šteje.",
+     "Ko se otrok zatakne, počakaj nekaj sekund. Nato mu pomagaj besedo glaskovati.",
+     "Pogovarjajta se o zgodbi: »Kaj misliš, kaj se bo zgodilo potem?«",
+     "Skupaj obiščita knjižnico in naj otrok sam izbere knjige.",
+     "Naj bo zabavno in kratko. Nehaj, preden se otrok utrudi.",
+     "Naj otrok vidi, da bereš tudi ti."
+    ],
+    "help": [
+     "Otroku je branje še vedno zelo težko tudi po dodatni pomoči v šoli. Nekateri otroci imajo disleksijo in zgodnja podpora pomaga.",
+     "Otrok si med branjem mane oči, drži knjigo zelo blizu ali ga boli glava. Naroči ga na pregled vida.",
+     "Skrbi te otrokov sluh ali govor."
+    ],
+    "urgent": []
+   },
+   "bedwetting": {
+    "title": "Otrok še vedno moči posteljo",
+    "intro": "Nočno močenje postelje je pri šolskih otrocih pogosto in se pogosto pojavlja v družini. Otrok ni kriv in večina otrok to preraste.",
+    "common": [
+     "Veliko otrok še pri 5 letih moči posteljo, nekateri tudi pri 7 ali več.",
+     "Pogosti razlogi so globok spanec, nastajanje veliko urina ponoči in mehur, ki še raste.",
+     "Zaprtje lahko močenje postelje poslabša.",
+     "Stres, na primer začetek šole ali nov dojenček v družini, ga lahko za nekaj časa vrne."
+    ],
+    "helps": [
+     "Ohrani mir in prijaznost. Otroka zaradi močenja nikoli ne kaznuj in ga ne zbadaj.",
+     "Čez dan redno ponujaj pijačo, približno 6 do 8 kozarcev, v uri pred spanjem pa manj.",
+     "Izogibaj se gaziranim pijačam, coli, čaju in kavi, zlasti zvečer.",
+     "Spodbujaj otroka, da čez dan redno hodi na stranišče in tik pred spanjem.",
+     "Poskrbi, da je stranišče ponoči lahko dosegljivo, z nočno lučko.",
+     "Uporabi nepremočljivo zaščito za vzmetnico in imej pripravljeno rezervno posteljnino.",
+     "Hvali dogovorjene korake, na primer odhod na stranišče pred spanjem, ne suhih noči."
+    ],
+    "help": [
+     "Otrok je starejši od 5 let in močenje vznemirja otroka ali družino.",
+     "Otrok spet moči posteljo po 6 mesecih ali več brez močenja.",
+     "Otrok se moči tudi čez dan, ga pri uriniranju boli ali je zaprt.",
+     "Domači nasveti niso pomagali. Izbrani zdravnik ali medicinska sestra v šolskem dispanzerju se lahko s tabo pogovori o alarmu za nočno močenje ali o zdravilu."
+    ],
+    "urgent": [
+     "Otrok nenadoma spet moči posteljo in je hkrati zelo žejen, urinira veliko več, je zelo utrujen ali hujša. Še isti dan poišči zdravniški nasvet."
+    ]
+   },
+   "head_lice": {
+    "title": "Otrok ima uši",
+    "intro": "Uši so pri šolskih otrocih zelo pogoste. Niso znak umazanih las in ne prenašajo bolezni.",
+    "common": [
+     "Uši se širijo z neposrednim stikom glave z glavo. Ne morejo skakati ali leteti.",
+     "Srbenje glave je pogosto, nekateri otroci pa ne čutijo ničesar.",
+     "Gnide so prazni ovoji jajčec. So bele ali rjave in se trdno držijo las.",
+     "Edini zanesljiv dokaz je živa uš."
+    ],
+    "helps": [
+     "Preglej z gostim glavnikom za uši na mokrih laseh z veliko balzama. Češi od korenin do konic, pramen za pramenom.",
+     "Mokro česanje ponovi 1., 5., 9. in 13. dan, da odstraniš na novo izlegle uši. 17. dan še enkrat preveri.",
+     "Če ti je ljubše, uporabi losjon ali pršilo proti ušem iz lekarne. Natančno upoštevaj navodila. Pri nekaterih je treba postopek ponoviti po enem tednu.",
+     "Preglej vse doma in zdravi le tiste z živimi ušmi, vse na isti dan.",
+     "Otroku zaradi tega ni treba izostati od pouka.",
+     "Vročega pranja ali posebnega čiščenja doma ni treba.",
+     "Sredstev proti ušem ne uporabljaj za preprečevanje. Tako ne delujejo in lahko dražijo lasišče."
+    ],
+    "help": [
+     "Žive uši najdeš še po 2 celotnih krogih zdravljenja. V lekarni vprašaj za druge možnosti.",
+     "Otrokovo lasišče je rdeče, boleče ali vneto.",
+     "Otrok je mlajši od 2 let, ima astmo ali alergije ali kožno bolezen. Pred uporabo losjona vprašaj v lekarni."
+    ],
+    "urgent": []
+   },
+   "sleep_school": {
+    "title": "Koliko spanja potrebuje šolski otrok?",
+    "intro": "Otroci od 6 do 12 let potrebujejo približno 9 do 12 ur spanja na noč. Dober spanec pomaga pri učenju, razpoloženju in rasti.",
+    "common": [
+     "Otroci od 3 do 5 let potrebujejo približno 10 do 13 ur spanja na dan.",
+     "Nekateri otroci potrebujejo več spanja kot drugi. Otrok, ki se zlahka zbudi in čez dan ni utrujen, navadno spi dovolj.",
+     "Strah pred spanjem, skrbi zaradi šole in zasloni so pogosti razlogi za slab spanec.",
+     "Utrujenost se lahko kaže kot slaba volja, težave s koncentracijo ali pretirana živahnost."
+    ],
+    "helps": [
+     "Čas za spanje in vstajanje naj bo, kolikor je mogoče, vsak dan enak, tudi ob vikendih.",
+     "Pred spanjem naj bo mirna rutina: kopanje ali umivanje, zobje, zgodba ali tih pogovor.",
+     "Zaslone ugasni vsaj 1 uro pred spanjem, ponoči pa naj ne bodo v spalnici.",
+     "Spalnica naj bo tiha, temna in hladna.",
+     "Čez dan poskrbi za aktivno igro na prostem.",
+     "Izogibaj se kofeinu, na primer coli in energijskim pijačam.",
+     "Če otroka pred spanjem kaj skrbi, si že prej zvečer vzemi nekaj minut za pogovor o skrbeh."
+    ],
+    "help": [
+     "Otrok večino noči glasno smrči ali se zdi, da med spanjem za kratek čas preneha dihati.",
+     "Otrok je čez dan pogosto zelo utrujen, tudi po celi noči spanja.",
+     "Nočno prebujanje, nočne more ali mesečnost so pogosti in vplivajo na družino."
+    ],
+    "urgent": []
+   },
+   "screens_school": {
+    "title": "Zasloni, igre in prvi telefon",
+    "intro": "Za šolske otroke ni ene prave količine časa pred zasloni. Najpomembnejše je, da zasloni ne izrinejo spanja, gibanja, domače naloge in skupnega časa.",
+    "common": [
+     "Strokovnjaki priporočajo jasne družinske meje namesto enega števila ur za vse otroke.",
+     "Igre, videi in aplikacije so narejeni tako, da otroke čim dlje zadržijo. Težko je nehati in to je normalno.",
+     "Za prvi telefon ni prave starosti. Odvisno je od otroka, družine in tega, zakaj telefon potrebuje."
+    ],
+    "helps": [
+     "Skupaj naredite družinski načrt za medije: kdaj, kje in kako dolgo se uporabljajo zasloni.",
+     "Pri obrokih in v uri pred spanjem naj ne bo zaslonov. Naprave naj se ponoči polnijo zunaj spalnice.",
+     "Preden otrok začne uporabljati igro ali aplikacijo, preveri starostno oznako.",
+     "Včasih se igrajta ali glejta skupaj in prosi otroka, naj ti pokaže svojo najljubšo igro.",
+     "5 minut pred koncem časa pred zaslonom otroka opozori.",
+     "Če se odločiš za prvi telefon, začni s preprostim telefonom ali omejenimi funkcijami, uporabi starševski nadzor in se o pravilih dogovorita, preden ga izročiš.",
+     "Bodi zgled navad, ki jih želiš videti. Med obroki in družinskim časom odloži svoj telefon."
+    ],
+    "help": [
+     "Zasloni povzročajo doma veliko sporov.",
+     "Zdi se, da otrok ne zmore nehati, je brez zaslonov zelo vznemirjen ali se zaradi njih odpoveduje prijateljem, spanju ali dejavnostim.",
+     "Skrbi te otrokovo razpoloženje, spanje ali šolsko delo."
+    ],
+    "urgent": []
+   },
+   "online_safety": {
+    "title": "Kako naj otroka zaščitim na spletu?",
+    "intro": "Splet je lahko odličen prostor za učenje in igro. Otroci potrebujejo odraslega v bližini in preprosta pravila, medtem ko se ga učijo varno uporabljati.",
+    "common": [
+     "Otroci lahko po nesreči naletijo na vznemirjajoče vsebine, tudi na straneh, namenjenih njim.",
+     "Večina aplikacij družbenih omrežij ni namenjena otrokom, mlajšim od 13 let, ponekod pa veljajo višje starostne meje.",
+     "Otroci odraslim pogosto ne povedo za težavo na spletu, ker se bojijo, da bodo izgubili napravo."
+    ],
+    "helps": [
+     "Naprave naj bodo v skupnih družinskih prostorih, ne v spalnici.",
+     "Skupaj nastavita starševski nadzor, varno iskanje za otroke in nastavitve zasebnosti.",
+     "Dogovorita se o preprostih pravilih: nikoli ne deli svojega polnega imena, naslova, šole, telefonske številke ali fotografij z ljudmi, ki jih ne poznaš.",
+     "Razloži, da ljudje na spletu niso vedno tisti, za katere se izdajajo.",
+     "Povej otroku, da lahko vedno pride k tebi, če se mu kaj ne zdi prav, in da ga zaradi tega nihče ne bo kaznoval.",
+     "Če ti kaj pove, ohrani mir. Zahvali se mu, da ti je povedal.",
+     "Pogovarjajta se o prijaznosti na spletu in se pogosto pozanimaj, kaj otrok počne na spletu."
+    ],
+    "help": [
+     "Otrok je videl nekaj, kar ga je vznemirilo, in ga to še naprej muči.",
+     "Otrok dobiva neprijazna sporočila na spletu ali je po uporabi naprave vznemirjen. Preberi vodnik o težavah s prijatelji in medvrstniškem nasilju.",
+     "Otrok postane skrivnosten glede naprave ali prijateljev na spletu."
+    ],
+    "urgent": [
+     "Nekdo, ki ga je otrok spoznal na spletu, se želi srečati v živo, prosi za fotografije ali prosi otroka, naj o tem nikomur ne pove. Shrani sporočila, ne odgovarjaj in obvesti policijo."
+    ]
+   },
+   "friends_bullying": {
+    "title": "Težave s prijatelji in medvrstniško nasilje",
+    "intro": "Spori s prijatelji so normalen del odraščanja. Medvrstniško nasilje je nekaj drugega: neprijazno vedenje, ki se ponavlja in je namenjeno prizadeti.",
+    "common": [
+     "Prijateljstva se v šolskih letih pogosto spreminjajo. Otroci so lahko en teden najboljši prijatelji, naslednji teden pa sprti.",
+     "Nasilje je lahko udarjanje ali porivanje, zmerjanje, izključevanje, širjenje govoric ali neprijazna sporočila na spletu.",
+     "Otroci, ki doživljajo nasilje, tega morda ne povedo. Znaki so lahko, da otrok noče v šolo, ga boli trebuh, slabo spi, izgublja stvari ali prinaša domov poškodovane stvari ali se zdi zaprt vase."
+    ],
+    "helps": [
+     "Mirno poslušaj in pusti otroku, da pove vso zgodbo. Zahvali se mu, da ti je povedal.",
+     "Povej otroku, da ni kriv.",
+     "Pomagaj mu vaditi, kaj naj reče in naredi: z jasnim glasom reče »Nehaj«, odide stran in pove odraslemu.",
+     "Ne reci otroku, naj vrne udarec.",
+     "Zapiši, kaj se je zgodilo, kdaj in kdo je bil vpleten. Shrani posnetke zaslona spletnih sporočil.",
+     "Pogovori se z učiteljem in vprašaj, kaj bo naredila šola. Dogovori se, kdaj boste stanje ponovno preverili.",
+     "Pomagaj otroku graditi prijateljstva zunaj šole, prek krožkov, športa ali druženja s prijatelji."
+    ],
+    "help": [
+     "Nasilje se nadaljuje tudi po pogovoru s šolo.",
+     "Otrok se zdi žalosten, tesnoben ali zaprt vase več kot nekaj tednov ali noče v šolo.",
+     "Izveš, da otrok izvaja nasilje nad drugimi. Mirno se pogovori z otrokom in s šolo."
+    ],
+    "urgent": [
+     "Otrok je poškodovan ali se mu grozi. Poskrbi, da je na varnem, in takoj poišči pomoč.",
+     "Otrok govori o samopoškodovanju ali o tem, da ne želi živeti. Takoj poišči pomoč: pokliči 112 ali otroški telefon za pomoč, na primer 116 111, ali pojdi v najbližji urgentni center."
+    ]
+   },
+   "worries": {
+    "title": "Otroka veliko skrbi",
+    "intro": "Vse otroke kdaj kaj skrbi. Skrb je normalen odziv, ki naraste in se nato umiri, otroci pa se lahko naučijo, kako se z njo spoprijeti.",
+    "common": [
+     "Šolske otroke pogosto skrbijo preizkusi znanja, prijatelji, začetek nečesa novega ali to, da bi se družini zgodilo kaj hudega.",
+     "Skrb se lahko pokaže kot bolečina v trebuhu, glavobol, slab spanec, slabe sanje, oklepanje staršev ali izbruhi jeze.",
+     "Nekateri otroci se izogibajo stvarem, ki jih skrbijo, na primer šoli, zabavam ali prespanju pri prijateljih."
+    ],
+    "helps": [
+     "Pozorno poslušaj in vprašaj, kaj otroka skrbi. Ne zamahni z roko in ne ugibaj.",
+     "Razloži, da je skrb kot val. Zdi se velika, nato postane manjša.",
+     "Skupaj vadita počasno dihanje: vdihnita ob štetju do 3, izdihnita ob štetju do 3 in to ponovita 3-krat.",
+     "Skupaj naredita načrt za situacijo, ki otroka skrbi, in se ji približujta po majhnih korakih.",
+     "Poskusita s škatlo za skrbi: otrok skrb zapiše ali nariše in jo da v škatlo, da se o njej pogovorita pozneje.",
+     "Vsakdanja rutina naj bo stalna, na spremembe pa otroka pripravi vnaprej.",
+     "Poskusi se izogniti pretirani zaščitniškosti. Izogibanje vsemu, kar otroka skrbi, lahko skrb še poveča."
+    ],
+    "help": [
+     "Skrb je močna, traja tedne ali otroku preprečuje vsakdanje stvari, kot sta hoja v šolo ali druženje s prijatelji.",
+     "Otroka pogosto boli trebuh ali glava brez drugega vzroka.",
+     "Čutiš, da potrebuješ podporo. Pogovori se z zdravnikom, v šoli ali z medicinsko sestro v šolskem dispanzerju."
+    ],
+    "urgent": [
+     "Otrok govori o samopoškodovanju ali o tem, da ne želi živeti. Takoj poišči pomoč: pokliči 112 ali otroški telefon za pomoč, na primer 116 111, ali pojdi v najbližji urgentni center."
+    ]
+   },
+   "lying": {
+    "title": "Otrok laže",
+    "intro": "Skoraj vsi otroci kdaj lažejo. To je normalen del odraščanja, poštenosti pa se otroci najbolje naučijo ob mirnih, potrpežljivih odraslih.",
+    "common": [
+     "Otroci pogosto lažejo, da bi se izognili težavam, dobili nekaj, kar si želijo, ali zaščitili čustva drugih.",
+     "Nekatere laži so v resnici želje ali zgodbe, zlasti pri mlajših otrocih.",
+     "Laganje navadno postane redkejše, ko otroci razumejo, kako vpliva na zaupanje."
+    ],
+    "helps": [
+     "Ohrani mir. Govori o laži in vedenju, ne o tem, da je otrok slab.",
+     "Olajšaj govorjenje resnice. Če že veš, kaj se je zgodilo, to povej, namesto da vprašaš »Je to tvoje delo?«",
+     "Hvali poštenost, zlasti ko je resnico težko povedati.",
+     "Ko otrok sam prizna, naj bo posledica manjša.",
+     "Pogovorita se, zakaj je poštenost pomembna: »Ko mi poveš resnico, ti lahko zaupam.«",
+     "Bodi zgled poštenosti tudi v malenkostih, na primer ne prosi otroka, naj reče, da te ni doma."
+    ],
+    "help": [
+     "Otrok laže zelo pogosto, tudi o malenkostih.",
+     "Laganje spremljajo druge skrbi, na primer jemanje stvari, poškodovanje drugih ali težave v šoli.",
+     "Misliš, da otrok morda laže, da bi skril nekaj, kar ga vznemirja."
+    ],
+    "urgent": []
+   },
+   "pocket_money_guide": {
+    "title": "Naj otrok dobiva žepnino?",
+    "intro": "Žepnina je preprost način, da se otroci učijo o denarju. Veliko družin začne, ko je otrok star približno 5 ali 6 let in razume, da se z denarjem kupujejo stvari.",
+    "common": [
+     "Ni prave vsote. Odvisna je od družinskega proračuna, otrokove starosti in tega, za kaj je denar namenjen.",
+     "Nekatere družine žepnino povezujejo z opravili, druge ne. Oboje lahko deluje.",
+     "Otroci na začetku pogosto zapravijo ves denar. Majhne napake so del učenja."
+    ],
+    "helps": [
+     "Dogovorita se o vsoti in dnevu izplačila ter se tega drži.",
+     "Dogovorita se, za kaj je denar, na primer za manjše priboljške ali varčevanje za igračo.",
+     "Za varčevanje uporabi prozoren kozarec, da otrok vidi, kako denar raste.",
+     "Pomagaj otroku postaviti majhen cilj varčevanja in vsak teden skupaj preštejta denar.",
+     "Naj otrok sam izbira, potem pa se pogovorita, kako se je izšlo.",
+     "Ko denarja zmanjka, ne dodajaj. Čakanje je del lekcije."
+    ],
+    "help": [
+     "Denar je doma pogosto vzrok za prepire.",
+     "Otrok jemlje denar ali stvari, ki niso njegove. Najprej se mirno pogovori z otrokom."
+    ],
+    "urgent": []
+   },
+   "lunchbox": {
+    "title": "Malica in prigrizki",
+    "intro": "Dobra malica ni nujno posebna. Mešanica nekaj preprostih živil da otroku energijo za popoldne.",
+    "common": [
+     "Uravnotežena malica vsebuje škrobno živilo, beljakovinsko živilo, sadje ali zelenjavo ter mlečni izdelek ali nadomestek.",
+     "Veliko otrok v šoli poje malo, ker so zaposleni, razigrani ali jim zmanjka časa.",
+     "Veliko šol ima pravila glede hrane, na primer prepoved oreščkov, zaradi otrok z alergijami."
+    ],
+    "helps": [
+     "Začni s škrobnim živilom, na primer polnozrnatim sendvičem, tortiljo, testeninami ali rižem.",
+     "Dodaj beljakovinsko živilo, na primer jajce, fižol, ribo, piščanca ali sir.",
+     "Dodaj kos sadja in nekaj zelenjave, na primer kumare, korenčkove palčke ali češnjeve paradižnike. Majhna okrogla živila za mlajše otroke nareži na četrtine.",
+     "Za pitje daj vodo ali mleko. Izogibaj se gaziranim in sladkim pijačam.",
+     "Sladkarije, čips in pecivo naj bodo le občasno, ne vsak dan.",
+     "Da hrana ostane sveža, uporabi hladilno torbico ali hladilni vložek.",
+     "Naj otrok pomaga izbrati in pripraviti malico. Tako jo bo raje pojedel.",
+     "Pred pripravo preveri šolska pravila glede hrane."
+    ],
+    "help": [
+     "Otrok pogosto pride domov zelo lačen ali z nedotaknjeno malico.",
+     "Otrok je le zelo malo različnih živil.",
+     "Skrbi te otrokova teža, rast ali alergija na hrano."
+    ],
+    "urgent": [
+     "Otekanje ustnic ali obraza ali težave z dihanjem po jedi. Pokliči 112."
+    ]
+   },
+   "active": {
+    "title": "Koliko naj se otrok giblje?",
+    "intro": "Svetovna zdravstvena organizacija (SZO) priporoča, da so otroci od 5 do 17 let telesno dejavni povprečno vsaj 60 minut na dan, tako da hitreje dihajo.",
+    "common": [
+     "60 minut je lahko razporejenih čez ves dan. Šteje vsako gibanje.",
+     "Vsaj 3 dni na teden naj otroci izvajajo dejavnosti, ob katerih se zadihajo in ki krepijo mišice in kosti, na primer tek, skakanje ali plezanje.",
+     "Veliko otrok se giblje manj, zlasti ko so starejši.",
+     "Dolga obdobja sedenja, zlasti pred zasloni, naj bodo čim krajša."
+    ],
+    "helps": [
+     "Ko lahko, pojdita v šolo ali trgovino peš, s skirojem ali s kolesom. Pri kolesu in skiroju gre čelada na glavo vsakič.",
+     "Igrajta se zunaj: lovljenje, igre z žogo, ristanc ali skakanje čez kolebnico.",
+     "Naj otrok poskusi različne športe in krožke, da najde nekaj, kar ga veseli.",
+     "Čas pred zasloni prekinjaj z odmori za gibanje.",
+     "Ob vikendih naj bo dejavna vsa družina: sprehod, kolesarjenje ali izlet v park.",
+     "Naj bo zabavno, ne obveznost. Hvali trud, ne zmage."
+    ],
+    "help": [
+     "Otrok se zadiha, utrudi ali ga začne boleti veliko prej kot druge otroke iste starosti.",
+     "Otrok se izogiba vsakršni telesni dejavnosti ali se zdi okornejši od vrstnikov.",
+     "Skrbi te otrokova teža ali rast."
+    ],
+    "urgent": [
+     "Otrok med telesno dejavnostjo omedli, ga boli v prsih ali težko diha. Naj takoj preneha, ti pa takoj poišči zdravniško pomoč."
+    ]
+   },
+   "puberty": {
+    "title": "Ali otrok vstopa v puberteto?",
+    "intro": "Puberteta je obdobje, ko se otrokovo telo med odraščanjem počasi začne spreminjati. Pri deklicah se navadno začne med približno 8. in 13. letom, pri dečkih pa med približno 9. in 14. letom.",
+    "common": [
+     "Vsak otrok začne ob svojem času. Čas začetka je pogosto podoben kot pri drugih v družini.",
+     "Zgodnji znaki so lahko hitra rast, močnejši telesni vonj, bolj mastna koža in lasje ter spremembe oblike telesa.",
+     "Pogosta so tudi nihanja razpoloženja in večja želja po zasebnosti.",
+     "Puberteta navadno traja nekaj let od prvih znakov do konca."
+    ],
+    "helps": [
+     "Pogovarjaj se zgodaj in odkrito, mirno in preprosto, primerno otrokovi starosti. Kratki, redni pogovori delujejo bolje kot en velik pogovor.",
+     "Na vprašanja odgovarjaj pošteno. Če odgovora ne poznaš, to povej in ga poiščita skupaj.",
+     "V knjižnici poišči otroške knjige o odraščanju.",
+     "Pomagaj otroku pri novih navadah, kot sta vsakodnevno umivanje in čista oblačila.",
+     "Spoštuj otrokovo zasebnost. Preden vstopiš, potrkaj, in naj otrok sam izbere, kaj bo delil s tabo.",
+     "Povej otroku, da so spremembe normalne in da vsako telo raste s svojo hitrostjo."
+    ],
+    "help": [
+     "Znaki pubertete se pojavijo pred 8. letom pri deklici ali pred 9. letom pri dečku.",
+     "Pri deklici do približno 13. leta ali pri dečku do približno 14. leta ni znakov pubertete.",
+     "Otroka spremembe na telesu zelo skrbijo ali vznemirjajo."
+    ],
+    "urgent": []
    }
   },
   "guideStages": {
@@ -6207,6 +9375,9 @@
    },
    "parent": {
     "name": "Zate"
+   },
+   "school": {
+    "name": "Šolar"
    }
   },
   "weeks": {

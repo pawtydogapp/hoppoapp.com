@@ -12,7 +12,7 @@
   "guide_back": "Svi vodiči",
   "guide_disclaimer": "Ovaj vodič daje opće informacije i nije medicinski savjet. Vjeruj svom osjećaju. Ako si zabrinut ili zabrinuta, obrati se svom liječniku, primalji ili patronažnoj sestri. Vodič je provjeren prema NHS-u, Svjetskoj zdravstvenoj organizaciji (SZO), Američkoj akademiji za pedijatriju (AAP) i drugim javnim zdravstvenim izvorima.",
   "guide_cta_title": "Ovaj vodič je i u aplikaciji Hoppo",
-  "guide_cta_text": "Hoppo ima 100 kratkih vještina za vježbanje od rođenja do 5. godine, kartice za uspomenu za 188 miljokaza, svaki tjedan trudnoće od 4. do 40. i kalendar s dnevnicima spavanja, hranjenja i rasta. Besplatno, bez pretplate.",
+  "guide_cta_text": "Hoppo ima 200 kratkih vještina za vježbanje od rođenja do 10 godina, kartice za uspomenu za 214 miljokaza, svaki tjedan trudnoće od 4. do 40. i kalendar s dnevnicima spavanja, hranjenja i rasta. Besplatno, bez pretplate.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Beba, 0 do 12 mjeseci",
   "stage_any": "Bebe i mala djeca",
@@ -82,8 +82,8 @@
    "description": "Stranica nije pronađena na hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: jedna mala vještina tjedno, od trudnoće do 5. godine",
-   "description": "Mirna i prijateljska pomoć za roditelje. 100 kratkih vještina za vježbanje od rođenja do 5. godine, 188 miljokaza s karticama za uspomenu, svaki tjedan trudnoće i {guide_count} vodiča „Je li ovo normalno?”. Besplatno."
+   "title": "Hoppo: jedna mala vještina tjedno, od trudnoće do 10 godina",
+   "description": "Mirna i prijateljska pomoć za roditelje. 200 kratkih vještina za vježbanje od rođenja do 10 godina, 214 miljokaza s karticama za uspomenu, svaki tjedan trudnoće i {guide_count} vodiča „Je li ovo normalno?”. Besplatno."
   },
   "guides.html": {
    "title": "{guide_count} vodiča „Je li ovo normalno?” za roditelje | Hoppo",
@@ -108,14 +108,18 @@
   "order-complete.html": {
    "title": "Hvala | Hoppo",
    "description": "Tvoja Hoppo narudžba je potvrđena."
+  },
+  "blog.html": {
+   "title": "Hoppo blog: iskreni odgovori za roditelje, od trudnoće do 10 godina",
+   "description": "Članci o spavanju bebe, troškovima prve godine, posjetima, adaptiranom mlijeku, igri, rutinama i školskim godinama. S izvorima i bez linkova na proizvode."
   }
  },
- "ld": "Besplatna aplikacija za roditelje od trudnoće do 5. godine: tjedne vještine za vježbanje, miljokazi s karticama za uspomenu, trudnoća tjedan po tjedan, vodiči „Je li ovo normalno?”, kalendar te dnevnici spavanja, hranjenja i rasta.",
+ "ld": "Besplatna aplikacija za roditelje od trudnoće do 10 godina: tjedne vještine za vježbanje, miljokazi s karticama za uspomenu, trudnoća tjedan po tjedan, vodiči „Je li ovo normalno?”, kalendar te dnevnici spavanja, hranjenja i rasta.",
  "units": {
   "index.html": {
    "0": "Hoppo, prijateljski ljubičasti nilski konj",
-   "2": "<strong>Mirna i prijateljska pomoć od trudnoće do 5. godine.</strong> 5 minuta igre tjedno koje gradi pravu vještinu i kartica za uspomenu za svaki miljokaz.",
-   "3": "Početni zaslon aplikacije Hoppo s misijom ovog tjedna, Podizanje u stojeći položaj, za dijete staro 9 mjeseci",
+   "2": "<strong>Mirna i prijateljska pomoć od trudnoće do 10 godina.</strong> 5 minuta igre tjedno koje gradi pravu vještinu i kartica za uspomenu za svaki miljokaz.",
+   "3": "Početni zaslon aplikacije Hoppo s misijom ovog tjedna, Bacanje iznad glave u cilj, za dijete staro 7 godina",
    "5": "Besplatno na iPhoneu i Androidu. Bez pretplate.",
    "6": "vještina za vježbanje",
    "7": "miljokaza",
@@ -123,7 +127,7 @@
    "9": "vodiča „Je li ovo normalno?”",
    "10": "Kako izgleda",
    "11": "Povuci za više",
-   "12": "Misija ovog tjedna za dijete staro 9 mjeseci, s idejom za vježbu od 5 minuta",
+   "12": "Misija ovog tjedna za dijete staro 7 godina, s idejom za vježbu od 5 minuta",
    "13": "1 misija tjedno",
    "14": "Kartica Uspomene s označenim miljokazima i datumima",
    "15": "Miljokazi i uspomene",
@@ -131,11 +135,11 @@
    "17": "Trudnoća tjedan po tjedan",
    "18": "Popis tjedana trudnoće sa slikom veličine bebe za svaki tjedan",
    "19": "Svaki tjedan od 4. do 40.",
-   "20": "Biblioteka vještina poredana po dobi, s oznakama započeto i savladano",
-   "21": "100 vještina po dobi",
-   "22": "Vodiči „Je li ovo normalno?” s pretraživanjem i filtrima za trudnoću, bebu i mališana",
+   "20": "Biblioteka vještina poredana po godinama dobi, s oznakom u tijeku",
+   "21": "200 vještina po dobi",
+   "22": "Vodiči „Je li ovo normalno?” s pretraživanjem i filtrima od trudnoće do školske dobi",
    "23": "Vodiči „Je li ovo normalno?”",
-   "24": "Vodič o povišenoj temperaturi, s onim što je uobičajeno i što može pomoći",
+   "24": "Vodič o zadaći, s onim što je uobičajeno i što može pomoći",
    "25": "Jasni sljedeći koraci",
    "26": "Grafikon težine s referentnim rasponom Svjetske zdravstvene organizacije",
    "27": "Rast s grafikonima SZO-a",
@@ -149,9 +153,9 @@
    "35": "Tvoje fotografije ostaju na tvom telefonu",
    "36": "Fotografije miljokaza nikad se ne prenose. Podaci tvog računa pohranjeni su u Europskoj uniji, a možeš ih sve izbrisati iz aplikacije u bilo koje vrijeme.",
    "37": "Što je unutra",
-   "38": "100 vještina, od rođenja do 5. godine",
+   "38": "200 vještina, od rođenja do 10 godina",
    "39": "Vrijeme na trbuščiću, prve riječi, točenje, gumbi, izmjenjivanje u igri. Svaka vještina ima jednostavne korake, greške koje treba izbjeći i druge načine vježbanja.",
-   "40": "188 miljokaza",
+   "40": "214 miljokaza",
    "41": "Označi prvi osmijeh, prve korake i prvi zubić. Dodaj fotografiju i podijeli karticu za uspomenu s obitelji.",
    "42": "Trudnoća tjedan po tjedan",
    "43": "Svaki tjedan od 4. do 40. jednostavnim riječima, s veličinom tvoje bebe kao svakodnevnog voća ili povrća, pitanjima za tvoju primalju i popisom za torbu za bolnicu.",
@@ -223,6 +227,11 @@
   "product.html": {
    "1": "Trgovina treba JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Hoppo blog",
+   "1": "Iskreni odgovori na pitanja koja roditelji najčešće postavljaju, od prvih tjedana do 10 godina. Stvarni rasponi, stvarni brojevi i nikakvi proizvodi za prodaju.",
+   "2": "Svaki članak navodi svoje izvore i provjeren je prema javnim zdravstvenim smjernicama, poput NHS-a, Svjetske zdravstvene organizacije (SZO) i Američke akademije za pedijatriju (AAP). To su opće informacije, a ne liječnički savjet."
+  }
  }
 }

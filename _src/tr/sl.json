@@ -12,7 +12,7 @@
   "guide_back": "Vsi vodniki",
   "guide_disclaimer": "Ta vodnik je splošna informacija, ne zdravniški nasvet. Zaupaj svojemu občutku. Če te kaj skrbi, se obrni na zdravnika, babico ali patronažno medicinsko sestro. Vodnik je preverjen glede na NHS, Svetovno zdravstveno organizacijo (SZO), American Academy of Pediatrics (AAP) in druge javne zdravstvene vire.",
   "guide_cta_title": "Ta vodnik je tudi v aplikaciji Hoppo",
-  "guide_cta_text": "Hoppo ima 100 kratkih veščin za vadenje od rojstva do 5. leta, spominske kartice za 188 mejnikov, vsak teden nosečnosti od 4 do 40 in koledar z dnevniki spanja, hranjenja in rasti. Brezplačno, brez naročnine.",
+  "guide_cta_text": "Hoppo ima 200 kratkih veščin za vadenje od rojstva do 10 let starosti, spominske kartice za 214 mejnikov, vsak teden nosečnosti od 4 do 40 in koledar z dnevniki spanja, hranjenja in rasti. Brezplačno, brez naročnine.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Dojenček, 0 do 12 mesecev",
   "stage_any": "Dojenčki in majhni otroci",
@@ -82,8 +82,8 @@
    "description": "Strani ni mogoče najti na hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: ena majhna veščina na teden, od nosečnosti do 5. leta",
-   "description": "Mirna, prijazna pomoč za starše. 100 kratkih veščin za vadenje od rojstva do 5. leta, 188 mejnikov s spominskimi karticami, vsak teden nosečnosti in {guide_count} vodnikov Je to normalno? Brezplačno."
+   "title": "Hoppo: ena majhna veščina na teden, od nosečnosti do 10 let starosti",
+   "description": "Mirna, prijazna pomoč za starše. 200 kratkih veščin za vadenje od rojstva do 10 let starosti, 214 mejnikov s spominskimi karticami, vsak teden nosečnosti in {guide_count} vodnikov Je to normalno? Brezplačno."
   },
   "guides.html": {
    "title": "{guide_count} vodnikov Je to normalno? za starše | Hoppo",
@@ -108,14 +108,18 @@
   "order-complete.html": {
    "title": "Hvala | Hoppo",
    "description": "Tvoje naročilo v trgovini Hoppo je potrjeno."
+  },
+  "blog.html": {
+   "title": "Blog Hoppo: iskreni odgovori za starše, od nosečnosti do 10 let",
+   "description": "Članki o spanju dojenčka, stroških prvega leta, obiskih, adaptiranem mleku, senzorni igri, rutinah, šolskih letih in družini. Z viri, brez povezav do izdelkov."
   }
  },
- "ld": "Brezplačna aplikacija za starše od nosečnosti do 5. leta: tedenske veščine za vadenje, mejniki s spominskimi karticami, nosečnost teden za tednom, vodniki Je to normalno?, koledar, dnevniki spanja, hranjenja in rasti.",
+ "ld": "Brezplačna aplikacija za starše od nosečnosti do 10 let starosti: tedenske veščine za vadenje, mejniki s spominskimi karticami, nosečnost teden za tednom, vodniki Je to normalno?, koledar, dnevniki spanja, hranjenja in rasti.",
  "units": {
   "index.html": {
    "0": "Hoppo, prijazni vijoličasti povodni konj",
-   "2": "<strong>Mirna, prijazna pomoč od nosečnosti do 5. leta.</strong> 5 minut igre na teden, ki gradi pravo veščino, in spominska kartica za vsak mejnik.",
-   "3": "Domači zaslon aplikacije Hoppo z nalogo tega tedna, Vstani ob opori, za 9 mesecev starega otroka",
+   "2": "<strong>Mirna, prijazna pomoč od nosečnosti do 10 let starosti.</strong> 5 minut igre na teden, ki gradi pravo veščino, in spominska kartica za vsak mejnik.",
+   "3": "Domači zaslon aplikacije Hoppo z nalogo tega tedna, Met od zgoraj v cilj, za 7 let starega otroka",
    "5": "Brezplačno na iPhonu in Androidu. Brez naročnine.",
    "6": "veščin za vadenje",
    "7": "mejnikov",
@@ -123,7 +127,7 @@
    "9": "vodnikov »Je to normalno?«",
    "10": "Kako izgleda",
    "11": "Podrsaj za več",
-   "12": "Naloga tega tedna za 9 mesecev starega otroka z idejo za 5 minut vadbe",
+   "12": "Naloga tega tedna za 7 let starega otroka z idejo za 5 minut vadbe",
    "13": "1 naloga na teden",
    "14": "Zavihek Spomini z obkljukanimi in datiranimi mejniki",
    "15": "Mejniki in spomini",
@@ -131,11 +135,11 @@
    "17": "Nosečnost teden za tednom",
    "18": "Seznam tednov nosečnosti s sliko velikosti dojenčka za vsak teden",
    "19": "Vsak teden od 4 do 40",
-   "20": "Knjižnica veščin, razvrščena po starosti, z oznakama začeto in osvojeno",
-   "21": "100 veščin po starosti",
-   "22": "Vodniki Je to normalno? z iskanjem in filtri za nosečnost, dojenčka in malčka",
+   "20": "Knjižnica veščin, razvrščena po letih starosti, z oznako začeto",
+   "21": "200 veščin po starosti",
+   "22": "Vodniki Je to normalno? z iskanjem in filtri od nosečnosti do šolarja",
    "23": "Vodniki »Je to normalno?«",
-   "24": "Vodnik o povišani temperaturi, s tem, kaj je pogosto in kaj lahko pomaga",
+   "24": "Vodnik o domači nalogi, s tem, kaj je pogosto in kaj lahko pomaga",
    "25": "Jasni naslednji koraki",
    "26": "Graf teže z referenčnim območjem Svetovne zdravstvene organizacije",
    "27": "Rast z grafi SZO",
@@ -149,9 +153,9 @@
    "35": "Tvoje fotografije ostanejo v telefonu",
    "36": "Fotografije mejnikov se nikoli ne naložijo. Podatki tvojega računa so shranjeni v Evropski uniji, vse pa lahko kadar koli izbrišeš iz aplikacije.",
    "37": "Kaj je notri",
-   "38": "100 veščin, od rojstva do 5. leta",
+   "38": "200 veščin, od rojstva do 10 let starosti",
    "39": "Ležanje na trebuščku, prve besede, zlivanje, gumbi, izmenjevanje. Vsaka veščina ima preproste korake, napake, ki se jim je dobro izogniti, in druge načine vadenja.",
-   "40": "188 mejnikov",
+   "40": "214 mejnikov",
    "41": "Obkljukaj prvi nasmeh, prve korake in prvi zob. Dodaj fotografijo in deli spominsko kartico z družino.",
    "42": "Nosečnost teden za tednom",
    "43": "Vsak teden od 4 do 40 v preprostih besedah, z velikostjo dojenčka kot vsakdanje sadje ali zelenjava, z vprašanji za babico in s seznamom za torbo za porodnišnico.",
@@ -223,6 +227,11 @@
   "product.html": {
    "1": "Trgovina potrebuje JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Blog Hoppo",
+   "1": "Iskreni odgovori na vprašanja, ki jih starši postavljajo najpogosteje, od prvih tednov do 10 let starosti. Resnični razponi, resnične številke in nobenih izdelkov za prodajo.",
+   "2": "Vsak članek navaja svoje vire in je preverjen glede na javne zdravstvene smernice, kot so NHS, Svetovna zdravstvena organizacija (SZO) in American Academy of Pediatrics (AAP). To so splošne informacije, ne zdravniški nasvet."
+  }
  }
 }

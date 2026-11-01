@@ -58,5 +58,45 @@
   "headline": "Rytm dnia malucha, który się wygina i nie łamie: 3 przykładowe dni dla wieku 1 do 5 lat i darmowa tabela do wydruku",
   "description": "Struktura bez sztywnego harmonogramu: 3 elastyczne przykładowe dni dla wieku 1 do 5 lat oparte na wytycznych WHO o śnie i zabawie, sztuczki na przejścia i darmowa tabela do wydruku.",
   "card": "3 elastyczne przykładowe dni dla wieku 1 do 5 lat, sztuczki na chwile napadów złości i darmowa tabela do wydruku."
+ },
+ "starting-school-homework": {
+  "headline": "Początek szkoły bez bitew: zasada 10 minut pracy domowej i co jest normalne w pierwszym semestrze",
+  "description": "Załamania po szkole są normalne. Gotowość do szkoły to kwestia korzystania z toalety, a nie czytania. Dowody na pożytek z pracy domowej w szkole podstawowej są słabe. Częsta wskazówka to około 10 minut wieczorem na każdą klasę w USA.",
+  "card": "Załamania po szkole, mity o gotowości i zasada 10 minut pracy domowej, sprawdzone na podstawie AAP, NHS i EEF."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "Od 9 do 12 godzin snu i 1 na 20 dzieci w wieku 10 lat nadal moczy się w nocy: co pomaga dzieciom w wieku od 5 do 10 lat",
+  "description": "Dzieci w wieku od 6 do 12 lat potrzebują od 9 do 12 godzin snu. Około 1 na 5 dzieci w wieku 5 lat i 1 na 20 w wieku 10 lat moczy się w nocy. Co według NICE, NHS i ERIC pomaga i kiedy iść do lekarza rodzinnego.",
+  "card": "Ile snu potrzebują dzieci, ekrany i lęki w nocy oraz dlaczego moczenie nocne w wieku od 5 do 10 lat jest częste i da się je leczyć"
+ },
+ "screen-time-first-phone": {
+  "headline": "Do 11. roku życia 91% brytyjskich dzieci ma telefon: co o ekranach w wieku od 5 do 10 lat mówią WHO, AAP i nowe badania",
+  "description": "WHO, AAP i RCPCH nie ustalają dziennego limitu ekranów po 5. roku życia. Korzystanie z urządzeń przed snem wiąże się z mniej więcej dwukrotnie wyższymi szansami na zbyt krótki sen. Do 11. roku życia 91% brytyjskich dzieci ma telefon.",
+  "card": "Limity ekranów, oznaczenia PEGI, zakazy telefonów w szkołach i pierwszy telefon, sprawdzone na podstawie WHO, AAP i Ofcom."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "Dojrzewanie może zacząć się w wieku 8 lat: jak rozmawiać o ciele, miesiączce i prywatności, zanim się zacznie",
+  "description": "Dojrzewanie może zacząć się w wieku 8 lat u dziewczynek i 9 lat u chłopców. Normalne przedziały wieku, kiedy iść do lekarza rodzinnego, 5 zasad bezpieczeństwa PANTS, podstawy o miesiączce i spokojne odpowiedzi na niezręczne pytania.",
+  "card": "Normalny wiek dojrzewania, sygnały ostrzegawcze dla lekarza rodzinnego, zasady bezpieczeństwa ciała PANTS i spokojne odpowiedzi dla dzieci w wieku od 7 do 10 lat."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 na 4 dzieci mają lęki. Jak odróżnić zwykłe zmartwienie od lęku, który wymaga pomocy",
+  "description": "3 na 4 dzieci w wieku od 4 do 12 lat zgłasza lęki. U 15,7% dzieci w wieku od 8 do 10 lat w Anglii występuje prawdopodobne zaburzenie psychiczne. Oznaki, unikanie szkoły i co pomaga.",
+  "card": "Zwykłe zmartwienie czy lęk? Oznaki, szkolne bóle brzucha, 8 narzędzi, które pomagają, i kiedy zapytać lekarza rodzinnego."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Wybredne jedzenie w wieku od 5 do 10 lat: wybredność zmniejsza się o połowę do 6. roku życia, a 15 spokojnych prób wygrywa z 1 walką przy stole",
+  "description": "Wybredność spada z 27,6% w wieku 3 lat do 13,2% w wieku 6 lat. Dlaczego 15 spokojnych prób wygrywa z naciskiem. Pomysły na drugie śniadanie, limity cukru i nowe zasady żywienia w szkołach od 2027 roku.",
+  "card": "Dlaczego wybredność zmniejsza się o połowę do 6. roku życia, dlaczego 15 spokojnych prób wygrywa z naciskiem i drugie śniadania z mniejszą ilością cukru."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Kłótnia czy przemoc rówieśnicza? W 4. klasie 15% dzieci zgłasza, że jest dręczonych mniej więcej co tydzień. 3 testy pozwalają to odróżnić",
+  "description": "Kłótnia czy przemoc rówieśnicza? 3 testy: powtarzalność, celowość, nierównowaga sił. W 4. klasie około 15% dzieci jest dręczonych mniej więcej co tydzień. Gotowe zdania, kroki w szkole, pomoc.",
+  "card": "3 testy, które odróżniają zwykłą kłótnię od przemocy rówieśniczej, plus słowa do użycia i kroki w szkole."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Do 8 kłótni rodzeństwa na godzinę: jak sprawiedliwie rozsądzać, ustalać zasady domowe oraz radzić sobie z kieszonkowym i kłamstwami",
+  "description": "Do 8 kłótni na godzinę w wieku od 4 do 8 lat, a 32% dzieci doświadcza agresji ze strony rodzeństwa w ciągu roku. Jak rozsądzać, rozpoznać przemoc, być sprawiedliwym i reagować na kłamstwa.",
+  "card": "Kłótnie rodzeństwa, sprawiedliwość, obowiązki domowe, kieszonkowe i kłamstwa: co mówią badania i co powiedzieć."
  }
 }

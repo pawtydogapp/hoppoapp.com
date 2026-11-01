@@ -42,7 +42,6 @@
   "Average length": "Durée moyenne",
   "Average per day": "Moyenne par jour",
   "Baby": "Bébé",
-  "Baby arrived": "Bébé est là",
   "Baby's name or nickname (optional)": "Prénom ou surnom du bébé (facultatif)",
   "Back": "Retour",
   "Bag": "Valise",
@@ -94,6 +93,7 @@
   "Demo mode": "Mode démo",
   "Demo mode: password reset emails work in the full app.": "Mode démo : les e-mails de réinitialisation du mot de passe fonctionnent dans l'appli complète.",
   "Dirty": "Sale",
+  "Dirty per day": "Sales par jour",
   "Does not repeat": "Ne pas répéter",
   "Done for this week.": "C'est fait pour cette semaine.",
   "Done, rate it": "Terminé, noter",
@@ -160,8 +160,9 @@
   "Hoppo says": "Le mot de Hoppo",
   "Hoppo tips": "Les conseils de Hoppo",
   "Hospital bag": "Valise de maternité",
+  "Hour": "Heure",
   "How did it go?": "Comment ça s'est passé ?",
-  "I agree to the terms and conditions. I explicitly consent to Hoppo storing pregnancy and child health details I add, such as due dates, growth, sleep and feeding, so the app can work.": "J'accepte les conditions générales. Je consens explicitement à ce que Hoppo conserve les données de grossesse et de santé de l'enfant que j'ajoute, comme les dates prévues d'accouchement, la croissance, le sommeil et l'alimentation, afin que l'appli puisse fonctionner.",
+  "I agree to the {terms} and the {privacy}.": "J'accepte les {terms} et la {privacy}.",
   "I already have an account. Log in": "J'ai déjà un compte. Se connecter",
   "I felt a movement": "J'ai senti un mouvement",
   "I have a family code": "J'ai un code famille",
@@ -173,6 +174,7 @@
   "Join": "Rejoindre",
   "Join a family": "Rejoindre une famille",
   "Join our family in Hoppo: open More, Family, and type the code {code}. It works for 48 hours.": "Rejoins notre famille sur Hoppo : ouvre Plus, puis Famille, et saisis le code {code}. Il est valable 48 heures.",
+  "Keep screen on": "Garder l'écran allumé",
   "Keepsake card": "Carte souvenir",
   "Kicks": "Mouvements",
   "Labour": "Travail",
@@ -192,6 +194,7 @@
   "Log in": "Se connecter",
   "Log out": "Se déconnecter",
   "Main menu": "Menu principal",
+  "Marks a must-have item.": "Signale un indispensable.",
   "Mastered": "Maîtrisée",
   "Maybe later": "Peut-être plus tard",
   "Meals": "Repas",
@@ -215,6 +218,7 @@
   "Name": "Nom",
   "Nap": "Sieste",
   "Nappies": "Couches",
+  "Nappies this week: {n}.": "Couches cette semaine : {n}.",
   "Naps": "Siestes",
   "New appointment": "Nouveau rendez-vous",
   "New password": "Nouveau mot de passe",
@@ -232,6 +236,7 @@
   "No consent form is available right now.": "Aucun formulaire de consentement n'est disponible pour le moment.",
   "No consent form is required for your region right now.": "Aucun formulaire de consentement n'est requis dans ta région pour le moment.",
   "No guide found. Try another word.": "Aucun guide trouvé. Essaie un autre mot.",
+  "No nappies logged this week.": "Aucune couche notée cette semaine.",
   "Non-personalised": "Non personnalisées",
   "Not now": "Pas maintenant",
   "Not today": "Pas aujourd'hui",
@@ -255,6 +260,7 @@
   "Password": "Mot de passe",
   "Password changed. Log in with the new one.": "Mot de passe modifié. Connecte-toi avec le nouveau.",
   "Password needs at least 6 characters.": "Le mot de passe doit contenir au moins 6 caractères.",
+  "Per day": "Par jour",
   "Permanently deletes your account, your children's profiles, logs and calendar. Photos on this phone are removed when you uninstall the app.": "Supprime définitivement ton compte, les profils de tes enfants, les journaux et le calendrier. Les photos de ce téléphone sont supprimées quand tu désinstalles l'appli.",
   "Phone notifications are off.": "Les notifications du téléphone sont désactivées.",
   "Phone notifications are on.": "Les notifications du téléphone sont activées.",
@@ -359,12 +365,13 @@
   "The current time is filled in for you. Leave the end empty if your child is still asleep.": "L'heure actuelle est déjà remplie. Laisse la fin vide si ton enfant dort encore.",
   "The date of birth cannot be in the future.": "La date de naissance ne peut pas être dans le futur.",
   "The due date is in the past. If your baby has arrived, choose \"Child\".": "La date prévue d'accouchement est passée. Si ton bébé est là, choisis « Enfant ».",
-  "The due date is in the past. If your baby has arrived, tap \"Baby arrived\" on Home.": "La date prévue d'accouchement est passée. Si ton bébé est là, appuie sur « Bébé est là » dans Accueil.",
+  "The due date is in the past. If your baby has arrived, tap \"Has your baby arrived?\" below.": "La date prévue d'accouchement est passée. Si ton bébé est né, touche « Ton bébé est-il là ? » ci-dessous.",
   "The end must be after the start.": "La fin doit être après le début.",
   "The guide for this week is being written. The size picture is already here.": "Le guide de cette semaine est en cours d'écriture. L'illustration de la taille est déjà là.",
   "The new password must be different from the current one.": "Le nouveau mot de passe doit être différent de l'actuel.",
   "The passwords do not match.": "Les mots de passe ne correspondent pas.",
   "The reference band is slightly different for girls and boys. To set your child's sex, open their profile in More. Until then, the girls' band is shown.": "La zone de référence est un peu différente pour les filles et les garçons. Pour indiquer le sexe de ton enfant, ouvre son profil dans Plus. En attendant, c'est la zone des filles qui s'affiche.",
+  "The screen stays on while Hoppo is open. During a timer it stays on anyway.": "L'écran reste allumé tant que Hoppo est ouvert. Quand un minuteur tourne, il reste allumé de toute façon.",
   "The start cannot be in the future.": "Le début ne peut pas être dans le futur.",
   "There is no set number of kicks. What matters is your own baby's usual pattern. Use this to get to know it.": "Il n'y a pas de nombre de mouvements à atteindre. Ce qui compte, c'est le rythme habituel de ton bébé. Utilise ce compteur pour apprendre à le connaître.",
   "This cannot be undone.": "Cette action est irréversible.",
@@ -408,6 +415,7 @@
   "Welcome to the world, {name}. Take your time and rest when you can. Hoppo now follows {name}'s first year.": "Bienvenue au monde, {name}. Prends ton temps et repose-toi dès que tu peux. Hoppo suit maintenant la première année de {name}.",
   "Wet": "Mouillée",
   "Wet and dirty": "Mouillée et sale",
+  "Wet per day": "Mouillées par jour",
   "What can help": "Ce qui peut aider",
   "What is common": "Ce qui est courant",
   "Where your data is stored": "Où sont stockées tes données",
@@ -443,7 +451,6 @@
   "to": "à",
   "today": "aujourd'hui",
   "tomorrow": "demain",
-  "{a} of {b} must-haves": "Indispensables : {a} sur {b}",
   "{a} wet · {b} dirty": "Mouillées : {a} · Sales : {b}",
   "{name} has mastered \"{skill}\". Well done, both of you. It is now ticked in Memories.": "{name} maîtrise maintenant « {skill} ». Bravo à vous deux. C'est désormais coché dans Souvenirs.",
   "{n} min after the one before": "{n} min après la précédente",
@@ -451,7 +458,12 @@
   "{n} ml from bottles": "{n} ml au biberon",
   "{n} ml pumped": "{n} ml tirés",
   "{n} weeks in a row. Well done.": "{n} semaines d'affilée. Bravo.",
-  "{what} chart with the reference range": "{what} : courbe avec la zone de référence"
+  "{what} chart with the reference range": "{what} : courbe avec la zone de référence",
+  "Earlier: {list}": "Avant : {list}",
+  "Hoppo covers children up to age 10.": "Hoppo accompagne les enfants jusqu'à 10 ans.",
+  "Last time: {date}": "Dernière séance : {date}",
+  "Made with {paw} in Slovenia": "Fait avec {paw} en Slovénie",
+  "Reference: World Health Organization (WHO) Child Growth Standards, and the WHO Growth Reference from 5 years.": "Référence : normes de croissance de l'enfant de l'Organisation mondiale de la santé (OMS) et, à partir de 5 ans, référence de croissance de l'OMS."
  },
  "plural": {
   "Averages use the {n} day with entries.|Averages use the {n} days with entries.": {
@@ -513,6 +525,11 @@
    "one": "{n} mouvement",
    "many": "{n} de mouvements",
    "other": "{n} mouvements"
+  },
+  "{n} session in total|{n} sessions in total": {
+   "one": "{n} séance au total",
+   "many": "{n} de séances au total",
+   "other": "{n} séances au total"
   }
  },
  "content": {
@@ -683,7 +700,11 @@
     }
    },
    "bike": {
-    "title": "Vélo sans petites roues"
+    "title": "Vélo sans petites roues",
+    "card": {
+     "h": "En avant",
+     "m": "{name} a fait du vélo sans petites roues. Équilibre, coup de pédale, et en avant."
+    }
    },
    "rollerblades": {
     "title": "Sortie en rollers"
@@ -695,7 +716,11 @@
     "title": "Sortie au ski"
    },
    "swims_alone": {
-    "title": "Nage sans brassards"
+    "title": "Nage sans brassards",
+    "card": {
+     "h": "Brassée après brassée",
+     "m": "{name} a nagé quelques mouvements sans brassards. Du courage et de la fierté."
+    }
    },
    "balance_line": {
     "title": "Marche sur une ligne",
@@ -962,7 +987,11 @@
     }
    },
    "joke": {
-    "title": "Première blague"
+    "title": "Première blague",
+    "card": {
+     "h": "L'heure de rire",
+     "m": "{name} a raconté sa première blague. On en rit encore."
+    }
    },
    "follows_toy": {
     "title": "Jouet suivi des yeux",
@@ -1203,7 +1232,11 @@
     }
    },
    "knife": {
-    "title": "Utilisation d'un couteau"
+    "title": "Utilisation d'un couteau",
+    "card": {
+     "h": "Graine de chef",
+     "m": "{name} a beurré sa tartine avec un couteau, sans aide. Le petit-déjeuner, c'est moi qui l'ai fait."
+    }
    },
    "cutlery": {
     "title": "Repas entier avec couteau et fourchette"
@@ -1480,6 +1513,188 @@
    },
    "kindergarten": {
     "title": "Premier jour à l'école maternelle"
+   },
+   "writes_name": {
+    "title": "Nom écrit en entier",
+    "card": {
+     "h": "Signé de ma main",
+     "m": "{name} a écrit son nom en entier aujourd'hui. Chaque lettre à sa place."
+    }
+   },
+   "packs_bag": {
+    "title": "Sac préparé sans aide",
+    "card": {
+     "h": "Sac bouclé",
+     "m": "{name} a préparé son sac sans aide. Tout est prêt pour la journée."
+    }
+   },
+   "jump_rope": {
+    "title": "Corde à sauter sans aide",
+    "card": {
+     "h": "Encore et encore",
+     "m": "{name} a sauté à la corde sans aide. Tourne, saute, tourne, saute."
+    }
+   },
+   "reads_book": {
+    "title": "Petit livre lu à voix haute",
+    "card": {
+     "h": "C'est moi qui lis",
+     "m": "{name} m'a lu un livre entier. J'ai adoré chaque page."
+    }
+   },
+   "ties_laces": {
+    "title": "Lacets noués sans aide",
+    "card": {
+     "h": "Une boucle, on tire",
+     "m": "{name} a noué ses lacets sans aide. 2 jolies boucles et c'est parti."
+    }
+   },
+   "makes_snack": {
+    "title": "Goûter préparé sans aide",
+    "card": {
+     "h": "Fait par moi",
+     "m": "{name} a préparé son goûter sans aide. Il n'en était que meilleur."
+    }
+   },
+   "swims_10m": {
+    "title": "10 mètres à la nage",
+    "card": {
+     "h": "10 mètres",
+     "m": "{name} a nagé 10 mètres. Des mouvements réguliers jusqu'au bout."
+    }
+   },
+   "writes_card": {
+    "title": "Carte écrite sans aide",
+    "card": {
+     "h": "Avec amour",
+     "m": "{name} a écrit une carte sans aide. Des mots gentils, de sa propre main."
+    }
+   },
+   "pays_shop": {
+    "title": "Paiement dans un magasin",
+    "card": {
+     "h": "Et voilà",
+     "m": "{name} a payé à la caisse. Les pièces comptées, et un merci en prime."
+    }
+   },
+   "road_ride": {
+    "title": "Vélo sur une route calme avec un adulte",
+    "card": {
+     "h": "Sur la route",
+     "m": "{name} a roulé sur une route calme avec moi. Casque sur la tête, regard devant."
+    }
+   },
+   "chapter_book": {
+    "title": "Lecture d'un roman à chapitres",
+    "card": {
+     "h": "Fin",
+     "m": "{name} a lu un roman à chapitres en entier. Un chapitre après l'autre."
+    }
+   },
+   "phone_call": {
+    "title": "Coup de téléphone passé sans aide",
+    "card": {
+     "h": "Allô, c'est moi",
+     "m": "{name} a passé un coup de téléphone sans aide. Des mots clairs et une voix aimable."
+    }
+   },
+   "saves_up": {
+    "title": "Économies pour un achat",
+    "card": {
+     "h": "Ça valait la peine d'attendre",
+     "m": "{name} a économisé et a acheté quelque chose de spécial. La patience a payé."
+    }
+   },
+   "swims_25m": {
+    "title": "25 mètres à la nage",
+    "card": {
+     "h": "Une longueur entière",
+     "m": "{name} a nagé 25 mètres. Mouvement après mouvement, jusqu'au bout."
+    }
+   },
+   "walks_alone": {
+    "title": "Trajet à pied jusque chez un ami, sans adulte",
+    "card": {
+     "h": "Par mes propres moyens",
+     "m": "{name} a marché jusque chez un ami, sans adulte. Nous avions répété le trajet, et le moment était venu."
+    }
+   },
+   "cooks_meal": {
+    "title": "Repas cuisiné pour la famille",
+    "card": {
+     "h": "À table",
+     "m": "{name} a cuisiné un repas pour la famille. Merci, chef."
+    }
+   },
+   "school": {
+    "title": "Premier jour d'école",
+    "card": {
+     "h": "Le temps de l'école",
+     "m": "{name} a commencé l'école aujourd'hui. Un grand pas et beaucoup de courage."
+    }
+   },
+   "school_trip": {
+    "title": "Première sortie scolaire",
+    "card": {
+     "h": "C'est parti",
+     "m": "{name} a participé à une sortie scolaire. Tant de choses à raconter à la maison."
+    }
+   },
+   "sleepover": {
+    "title": "Première nuit chez un ami",
+    "card": {
+     "h": "Soirée pyjama",
+     "m": "{name} a dormi chez un ami. Du courage, de la joie, puis le retour à la maison."
+    }
+   },
+   "sports_club": {
+    "title": "Inscription dans un club de sport",
+    "card": {
+     "h": "Esprit d'équipe",
+     "m": "{name} a rejoint un club de sport. De nouveaux amis et de nouveaux gestes."
+    }
+   },
+   "first_match": {
+    "title": "Premier match",
+    "card": {
+     "h": "Que le match commence",
+     "m": "{name} a joué un vrai match. Nous avons applaudi du début à la fin."
+    }
+   },
+   "music_lesson": {
+    "title": "Premier cours de musique",
+    "card": {
+     "h": "Premières notes",
+     "m": "{name} a pris son premier cours de musique. Le début de quelque chose de beau."
+    }
+   },
+   "on_stage": {
+    "title": "Représentation sur scène",
+    "card": {
+     "h": "Chapeau, l'artiste",
+     "m": "{name} a joué sur scène. Nous avons applaudi plus fort que tout le monde."
+    }
+   },
+   "library_card": {
+    "title": "Carte de bibliothèque personnelle",
+    "card": {
+     "h": "Ma carte de bibliothèque",
+     "m": "{name} a eu sa propre carte de bibliothèque. Tant de livres à choisir."
+    }
+   },
+   "pocket_money": {
+    "title": "Premier argent de poche",
+    "card": {
+     "h": "Mon propre argent",
+     "m": "{name} a reçu son premier argent de poche. Un peu à dépenser, un peu à garder."
+    }
+   },
+   "summer_camp": {
+    "title": "Première colonie de vacances",
+    "card": {
+     "h": "La vie en colo",
+     "m": "{name} a fait un séjour en colonie de vacances. De nouveaux amis et des histoires à raconter."
+    }
    }
   },
   "tips": {
@@ -2577,6 +2792,231 @@
    },
    "t365": {
     "text": "Coup de fatigue après l'école maternelle ? Saute la mission et joue à ce que ton enfant veut."
+   },
+   "s01": {
+    "text": "Bienvenue dans les années d'école. De nouvelles compétences dans Apprendre abordent la lecture, l'argent, la cuisine et bien plus."
+   },
+   "s02": {
+    "text": "Demande à ton enfant de choisir la compétence de la semaine dans Apprendre. Les enfants font plus d'efforts pour ce qu'ils ont choisi."
+   },
+   "s03": {
+    "text": "Commence par une compétence que ton enfant sait presque faire. Une réussite rapide donne confiance pour les plus difficiles."
+   },
+   "s04": {
+    "text": "Trouve un moment fixe pour les missions, comme le samedi matin ou après le dîner. Une routine aide à ne pas oublier."
+   },
+   "s05": {
+    "text": "Nouvelle étape de la vie, même principe. Fais court, garde le plaisir et arrête avant que quelqu'un s'ennuie."
+   },
+   "s06": {
+    "text": "Fatigue après l'école ? Un goûter et un moment calme d'abord. La mission peut attendre le week-end."
+   },
+   "s07": {
+    "text": "Certaines semaines sont remplies d'école, d'activités et de visites. Sauter une mission, ce n'est pas grave."
+   },
+   "s08": {
+    "text": "La mauvaise humeur après l'école est très fréquente. Beaucoup d'enfants se retiennent toute la journée et relâchent la pression à la maison."
+   },
+   "s09": {
+    "text": "Peu d'énergie ce soir ? Joue à 1 petit jeu de cartes. C'est quand même du temps bien passé."
+   },
+   "s10": {
+    "text": "Soirée difficile ? Un câlin et un coucher plus tôt peuvent faire plus que n'importe quelle leçon."
+   },
+   "s11": {
+    "text": "Marre de répéter la même chose chaque matin ? Affiche une liste en images près de la porte et laisse-la faire les rappels."
+   },
+   "s12": {
+    "text": "Les jours de maladie et les vacances cassent les routines. Reprends quand la vie est plus calme."
+   },
+   "s13": {
+    "text": "Inutile de remplir chaque après-midi. Les jours de repos font du bien aux enfants comme aux parents."
+   },
+   "s14": {
+    "text": "Exerce une nouvelle compétence un peu chaque jour. Des exercices courts marchent mieux qu'une longue séance."
+   },
+   "s15": {
+    "text": "Quand quelque chose est difficile, découpe-le en petites étapes. Exercez-vous sur 1 étape à la fois."
+   },
+   "s16": {
+    "text": "Ajoute le mot « encore » : « Je n'y arrive pas encore. » Ce petit mot donne envie de continuer d'essayer."
+   },
+   "s17": {
+    "text": "Laisse ton enfant vérifier son travail en premier. Repérer ses erreurs, c'est aussi une compétence."
+   },
+   "s18": {
+    "text": "Note les choses que ton enfant a apprises cette année. Relisez la liste ensemble quand quelque chose semble difficile."
+   },
+   "s19": {
+    "text": "Refais une mission que ton enfant a aimée. La refaire avec plus d'assurance, c'est un vrai progrès."
+   },
+   "s20": {
+    "text": "Prépare le cartable la veille au soir. Les matins calmes commencent la veille."
+   },
+   "s21": {
+    "text": "Place une horloge que ton enfant voit le matin. Cela l'aide à apprendre à être à l'heure."
+   },
+   "s22": {
+    "text": "Pose une question précise après l'école, comme « À côté de qui étais-tu à la cantine ? » Tu obtiendras plus qu'un « Bien »."
+   },
+   "s23": {
+    "text": "Certains enfants parlent de l'école au coucher, pas à la sortie. Laisse de la place pour les deux."
+   },
+   "s24": {
+    "text": "Installe un coin calme pour les devoirs, avec un crayon, du papier et une bonne lumière. Éloigne les écrans pendant le travail."
+   },
+   "s25": {
+    "text": "Aide aux devoirs en posant des questions, pas en donnant les réponses. Puis laisse ton enfant essayer."
+   },
+   "s26": {
+    "text": "Reste en contact avec l'enseignant. Une petite discussion aimable peut régler tôt les petits soucis."
+   },
+   "s27": {
+    "text": "Regardez ensemble le travail scolaire et trouvez 1 chose qui fait la fierté de ton enfant."
+   },
+   "s28": {
+    "text": "Continue à lire à voix haute, même quand ton enfant sait lire. Des histoires plus difficiles apportent de nouveaux mots."
+   },
+   "s29": {
+    "text": "Lisez chacun votre tour une page. Ton enfant en lit 1, tu lis la suivante."
+   },
+   "s30": {
+    "text": "Les BD, les livres de blagues et les documentaires sur les animaux, tout ça compte comme de la lecture."
+   },
+   "s31": {
+    "text": "Inscris ton enfant à la bibliothèque, avec sa propre carte. Choisir ses livres soi-même, c'est un truc de grands."
+   },
+   "s32": {
+    "text": "Parle de l'histoire, pas du contrôle : « Quel personnage aimerais-tu avoir comme ami ? »"
+   },
+   "s33": {
+    "text": "Laisse ton enfant te voir lire. Les enfants imitent ce qu'ils voient à la maison."
+   },
+   "s34": {
+    "text": "Si un mot est difficile, attends quelques secondes avant d'aider. Laisse à ton enfant le temps de le déchiffrer."
+   },
+   "s35": {
+    "text": "Jouez aux cartes ensemble. Compter, prévoir et se souvenir, c'est de l'exercice caché."
+   },
+   "s36": {
+    "text": "Garde au moins 1 après-midi par semaine sans activités ni programme. Les enfants ont besoin de temps pour se reposer et jouer à leur façon."
+   },
+   "s37": {
+    "text": "Construisez quelque chose de grand avec des cartons, des cubes ou des couvertures. Laisse ton enfant diriger le projet."
+   },
+   "s38": {
+    "text": "Jouez à un jeu de lettres au dîner, comme trouver des animaux de A à Z."
+   },
+   "s39": {
+    "text": "Quand ton enfant est contrarié, écoute d'abord et cherche des solutions ensuite. Se sentir entendu aide les émotions à se calmer."
+   },
+   "s40": {
+    "text": "Nomme parfois tes propres émotions : « J'ai un peu le trac pour demain. » Ton enfant apprend que c'est normal."
+   },
+   "s41": {
+    "text": "Certains soucis ne sortent qu'au coucher. Garde quelques minutes calmes pour discuter avant d'éteindre la lumière."
+   },
+   "s42": {
+    "text": "Raconte à ton enfant des erreurs que tu as faites enfant. Cela montre que tout le monde se trompe."
+   },
+   "s43": {
+    "text": "Après un moment difficile, demande « Qu'est-ce qu'on pourrait essayer la prochaine fois ? » Cherchez des idées ensemble."
+   },
+   "s44": {
+    "text": "Si une inquiétude dure plusieurs semaines ou gêne la vie quotidienne, parles-en à l'école ou au médecin de ton enfant."
+   },
+   "s45": {
+    "text": "Pose des questions sur les copains avec curiosité, sans inquiétude : « À quoi as-tu joué avec tes copains aujourd'hui ? »"
+   },
+   "s46": {
+    "text": "Les petites brouilles entre copains font partie de l'enfance. Écoute d'abord, puis aide ton enfant à trouver la suite."
+   },
+   "s47": {
+    "text": "Invite un camarade de classe à jouer à la maison. Le temps hors de l'école aide les amitiés à grandir."
+   },
+   "s48": {
+    "text": "Entraînez-vous à dire des phrases pour les moments délicats, comme « Je peux jouer avec vous ? » ou « Arrête, s'il te plaît, je n'aime pas ça. »"
+   },
+   "s49": {
+    "text": "Remarque les moments où ton enfant prend soin de ses amis. Dis-lui ce que tu as vu."
+   },
+   "s50": {
+    "text": "Les enfants de 6 à 12 ans ont besoin de 9 à 12 heures de sommeil par nuit. Un coucher régulier facilite les choses."
+   },
+   "s51": {
+    "text": "Garde la même heure de coucher les soirs d'école. Une routine calme, bain, livre et lit, aide le sommeil à venir."
+   },
+   "s52": {
+    "text": "Laisse téléphones, tablettes et télé hors de la chambre la nuit. Le sommeil vient plus facilement sans eux."
+   },
+   "s53": {
+    "text": "Fixez en famille les règles sur les écrans et écrivez-les. Des règles claires, c'est moins de disputes."
+   },
+   "s54": {
+    "text": "Garde certains moments sans écran pour tout le monde, comme les repas et le trajet de l'école."
+   },
+   "s55": {
+    "text": "Demande à ton enfant de te montrer son jeu ou sa vidéo préférée. Regarder ensemble ouvre de belles discussions."
+   },
+   "s56": {
+    "text": "Dis à ton enfant qu'il peut toujours venir te voir si quelque chose en ligne le met mal à l'aise. Il ne sera pas grondé pour en avoir parlé."
+   },
+   "s57": {
+    "text": "Utilise un minuteur pour le temps d'écran. Quand il sonne, c'est le minuteur qui dit stop, pas toi."
+   },
+   "s58": {
+    "text": "L'OMS conseille au moins 60 minutes par jour, en moyenne, d'activité qui fait respirer plus vite les enfants de 5 à 17 ans. Courir, faire du vélo et danser, tout compte."
+   },
+   "s59": {
+    "text": "Fais une partie du trajet de l'école à pied avec ton enfant si tu peux. Les trajets actifs s'additionnent."
+   },
+   "s60": {
+    "text": "Grimper, sauter et sautiller renforcent les muscles et les os. L'OMS conseille ce type de jeu au moins 3 jours par semaine."
+   },
+   "s61": {
+    "text": "Sortez par tous les temps avec les bons vêtements. Les flaques et le vent rendent la balade plus amusante."
+   },
+   "s62": {
+    "text": "Essayez un nouveau sport ou une nouvelle activité juste pour le plaisir. Essayer suffit, pas besoin d'exceller."
+   },
+   "s63": {
+    "text": "Coupe les longues périodes assises. Une petite danse dans la cuisine remet tout le monde en mouvement."
+   },
+   "s64": {
+    "text": "Confie à ton enfant 1 tâche régulière à la maison, comme nourrir un animal ou arroser les plantes."
+   },
+   "s65": {
+    "text": "Laisse ton enfant choisir ses vêtements pour l'école la veille au soir."
+   },
+   "s66": {
+    "text": "Accepte que les tâches ne soient pas parfaites. Un lit un peu de travers reste un lit fait."
+   },
+   "s67": {
+    "text": "Laisse ton enfant se servir à boire et débarrasser son assiette. Les petites tâches construisent l'autonomie."
+   },
+   "s68": {
+    "text": "Avant d'intervenir, demande « Qu'est-ce que tu pourrais essayer ? » Laisse ton enfant résoudre d'abord les petits problèmes."
+   },
+   "s69": {
+    "text": "Laisse ton enfant payer à la caisse pendant que tu restes à côté. De vraies pièces rendent le calcul concret."
+   },
+   "s70": {
+    "text": "Donne à ton enfant son mot à dire dans les petits projets de famille, comme le dîner du vendredi ou la balade du week-end."
+   },
+   "s71": {
+    "text": "Félicite ton enfant pour ce qu'il a fait : « Tu as continué même quand c'était dur. » Cela lui montre quoi refaire."
+   },
+   "s72": {
+    "text": "Les progrès sont souvent lents, puis soudains. Continue et prends patience."
+   },
+   "s73": {
+    "text": "Remercie ton enfant quand il aide sans qu'on le lui demande. Être remarqué, ça compte."
+   },
+   "s74": {
+    "text": "Garde un travail du début de l'année scolaire. Regardez-le ensemble en été."
+   },
+   "s75": {
+    "text": "Laisse ton enfant t'entendre dire quelque chose de gentil sur lui à quelqu'un d'autre."
    }
   },
   "focusAreas": {
@@ -2588,6 +3028,9 @@
    },
    "hands": {
     "name": "Mains et réflexion"
+   },
+   "life": {
+    "name": "Vie quotidienne"
    }
   },
   "years": {
@@ -2605,35 +3048,41 @@
    },
    "5": {
     "name": "5e année"
+   },
+   "6": {
+    "name": "6e année"
+   },
+   "7": {
+    "name": "7e année"
+   },
+   "8": {
+    "name": "8e année"
+   },
+   "9": {
+    "name": "9e année"
+   },
+   "10": {
+    "name": "10e année"
    }
   },
   "families": {
+   "family": {
+    "name": "Famille et amis"
+   },
+   "food": {
+    "name": "Repas"
+   },
    "move": {
     "name": "Mouvement"
    },
    "talk": {
-    "name": "Langage et mots"
+    "name": "Parole"
    },
    "creative": {
-    "name": "Mains et créativité"
-   },
-   "food": {
-    "name": "Alimentation"
-   },
-   "teeth": {
-    "name": "Dents"
-   },
-   "care": {
-    "name": "Autonomie"
-   },
-   "family": {
-    "name": "Famille et amis"
+    "name": "Créativité"
    },
    "travel": {
-    "name": "Sorties et voyages"
-   },
-   "firsts": {
-    "name": "Premières fois"
+    "name": "Voyages"
    }
   },
   "genericCard": {
@@ -2711,6 +3160,27 @@
    },
    {
     "name": "NHS, Santé du bébé et de l'enfant : fièvre, rhumes, érythème fessier, constipation"
+   },
+   {
+    "name": "American Academy of Pediatrics (AAP) HealthyChildren.org, enfants d'âge scolaire (5 à 12 ans)"
+   },
+   {
+    "name": "AAP HealthyChildren.org, bonnes habitudes de sommeil : combien d'heures de sommeil pour ton enfant ?"
+   },
+   {
+    "name": "Centers for Disease Control and Prevention (CDC), informations sur les jeunes enfants (4 à 11 ans)"
+   },
+   {
+    "name": "Lignes directrices de l'OMS sur l'activité physique et la sédentarité (enfants et adolescents de 5 à 17 ans)"
+   },
+   {
+    "name": "NHS, recommandations d'activité physique pour les enfants et les jeunes"
+   },
+   {
+    "name": "Raising Children Network : âge scolaire (5 à 8 ans)"
+   },
+   {
+    "name": "Organisation mondiale de la santé (OMS), données de référence de croissance de 5 à 19 ans"
    }
   ],
   "bag": {
@@ -5143,6 +5613,2328 @@
      "Une chanson de brossage de 2 minutes.",
      "Un autocollant pour chaque brossage du soir."
     ]
+   },
+   "skip": {
+    "name": "Avancer en sautillant",
+    "goal": "Avance en sautillant, avec un pas et un petit saut sur chaque pied.",
+    "why": "Sautiller développe le rythme, l'équilibre et la coordination entre les deux côtés du corps.",
+    "steps": [
+     "Trouve un espace dégagé et plat, comme une allée ou un couloir.",
+     "Montre le geste lentement : un pas, un saut, puis un pas, un saut sur l'autre pied.",
+     "Dites le rythme à voix haute ensemble : « Pas, saut, pas, saut. »",
+     "Donnez-vous la main et sautillez côte à côte sur quelques pas.",
+     "Laisse ton enfant essayer sans toi pendant que tu tapes le rythme dans tes mains.",
+     "Félicite l'essai, même s'il se transforme en galop."
+    ],
+    "avoid": [
+     "Les sols mouillés ou glissants.",
+     "Vouloir aller vite avant que le rythme soit facile.",
+     "Comparer ton enfant avec d'autres enfants."
+    ],
+    "success": "Ton enfant fait 4 pas sautillés d'affilée.",
+    "ways": [
+     "Sautiller jusqu'à la voiture ou au magasin.",
+     "Sautiller sur une chanson préférée.",
+     "Un jeu de « suivez le chef » en sautillant."
+    ]
+   },
+   "catch_small": {
+    "name": "Lancer et attraper une petite balle",
+    "goal": "Lance et attrape une petite balle avec les mains, pas contre la poitrine.",
+    "why": "Attraper une petite balle affine la coordination entre les mains et les yeux, utile dans le jeu et le sport.",
+    "steps": [
+     "Prends une balle souple, à peu près de la taille d'une orange.",
+     "Placez-vous à 2 mètres l'un de l'autre.",
+     "Montre comment tenir les deux mains prêtes, doigts ouverts.",
+     "Lance doucement par en dessous, vers les mains de ton enfant.",
+     "Dis « Regarde la balle » avant chaque lancer.",
+     "Recule un peu après 3 belles réceptions."
+    ],
+    "avoid": [
+     "Les balles dures qui font mal si on les rate.",
+     "Lancer vite ou haut.",
+     "Jouer près des fenêtres ou de la route."
+    ],
+    "success": "Ton enfant attrape la balle 3 fois avec les mains.",
+    "ways": [
+     "Lancer une balle contre un mur et la rattraper.",
+     "Une paire de chaussettes roulée en boule, à l'intérieur.",
+     "Compter ensemble les réceptions d'affilée."
+    ]
+   },
+   "bike_no_stab": {
+    "name": "Rouler sans petites roues",
+    "goal": "Garde l'équilibre et pédale à vélo sans petites roues.",
+    "why": "Faire du vélo développe l'équilibre, la force et la confiance en soi. Les enfants l'apprennent à des âges très différents.",
+    "steps": [
+     "Veille à ce que ton enfant mette un casque à chaque fois, et vérifie qu'il est bien ajusté.",
+     "Choisis un espace plat et dégagé, loin des routes, comme une allée de parc.",
+     "Baisse la selle pour que les deux pieds touchent le sol.",
+     "Laisse d'abord ton enfant avancer en poussant avec les pieds et glisser.",
+     "Quand glisser devient facile, passe aux pédales en marchant tout près.",
+     "Arrêtez tant que c'est encore amusant."
+    ],
+    "avoid": [
+     "Rouler sans casque.",
+     "Les routes, les pentes et les allées fréquentées.",
+     "Lâcher le vélo sans prévenir ton enfant d'abord."
+    ],
+    "success": "Ton enfant pédale 5 mètres sans aide et sans petites roues.",
+    "ways": [
+     "Glisser avec les pédales retirées.",
+     "Rouler entre 2 arbres au parc.",
+     "S'exercer à démarrer et à s'arrêter."
+    ]
+   },
+   "swim_strokes": {
+    "name": "Faire quelques mouvements de nage",
+    "goal": "Nage quelques mouvements sans brassards, avec un adulte juste à côté.",
+    "why": "Les premières notions de natation donnent confiance dans l'eau. Les cours et une surveillance de près assurent la sécurité des enfants.",
+    "steps": [
+     "Va dans une piscine surveillée, et reste dans l'eau avec ton enfant.",
+     "Reste à portée de bras tout le temps.",
+     "Entraînez-vous à battre des jambes pendant que ton enfant se tient au bord.",
+     "Soutiens doucement ton enfant sous le ventre et laisse-le avancer en bougeant les bras.",
+     "Lâche pour 2 ou 3 mouvements, puis rattrape ton enfant.",
+     "Félicite l'essai et arrête avant que ton enfant ait froid ou soit fatigué."
+    ],
+    "avoid": [
+     "Laisser ton enfant dans l'eau ou près de l'eau, même un instant.",
+     "Les eaux libres, comme les lacs, les rivières ou la mer.",
+     "Pousser un enfant qui a peur à aller plus loin."
+    ],
+    "success": "Ton enfant nage 3 mouvements jusqu'à toi sans brassards.",
+    "ways": [
+     "Des cours de natation avec un maître-nageur diplômé.",
+     "Nager du bord jusqu'à toi.",
+     "Des jeux de battements de jambes en tenant une planche."
+    ]
+   },
+   "rope_jump_low": {
+    "name": "Sauter par-dessus une corde basse",
+    "goal": "Saute par-dessus une corde basse, pieds joints.",
+    "why": "Sauter renforce les jambes, l'équilibre et le sens du rythme nécessaire plus tard pour les jeux de corde à sauter.",
+    "steps": [
+     "Pose une corde ou une écharpe à plat sur le sol, sur l'herbe ou un tapis.",
+     "Montre un saut pieds joints.",
+     "Laisse ton enfant sauter par-dessus vers l'avant.",
+     "Soulève la corde de quelques centimètres, tenue sans serrer pour qu'elle tombe si on la touche.",
+     "Essayez aussi de sauter par-dessus sur le côté."
+    ],
+    "avoid": [
+     "Attacher la corde à quoi que ce soit.",
+     "Les sols durs ou glissants.",
+     "Monter la corde trop haut trop tôt."
+    ],
+    "success": "Ton enfant saute 3 fois pieds joints par-dessus une corde basse.",
+    "ways": [
+     "Sauter par-dessus une « rivière » faite de 2 cordes.",
+     "Sauter par-dessus les fissures du trottoir.",
+     "Sauter dans des cerceaux et en sortir."
+    ]
+   },
+   "name_feeling": {
+    "name": "Nommer l'émotion",
+    "goal": "Utilise des mots pour nommer ses émotions, comme la joie, la tristesse, la colère ou l'inquiétude.",
+    "why": "Nommer une émotion aide les enfants à se calmer et à demander de l'aide. C'est un premier pas pour apprendre à gérer ses émotions.",
+    "steps": [
+     "Choisis un moment calme, pas une crise.",
+     "Devant un miroir, mimez ensemble la joie, la tristesse, la colère et la peur.",
+     "Demande à ton enfant de deviner chaque émotion.",
+     "Partage une de tes propres émotions de la journée.",
+     "Demande : « Qu'est-ce que tu as ressenti aujourd'hui ? »",
+     "Accepte toutes les réponses sans chercher à les corriger."
+    ],
+    "avoid": [
+     "Dire qu'une émotion est mauvaise ou ridicule.",
+     "Poser la question pendant une colère.",
+     "Trop de mots d'émotions à la fois."
+    ],
+    "success": "Ton enfant nomme 1 de ses propres émotions.",
+    "ways": [
+     "Parler de ce que ressent un personnage d'un livre.",
+     "Un petit point sur les émotions au coucher.",
+     "Dessiner un visage pour la journée."
+    ]
+   },
+   "wait_turn_talk": {
+    "name": "Attendre son tour pour parler",
+    "goal": "Attend une pause avant de parler, la plupart du temps.",
+    "why": "Attendre pour parler aide les conversations, les amitiés et les apprentissages en groupe.",
+    "steps": [
+     "Choisis un petit objet, comme une cuillère, qui sera la « cuillère qui parle ».",
+     "Explique : seule la personne qui la tient a la parole.",
+     "Racontez chacun votre tour une chose de votre journée.",
+     "Passe la cuillère quand tu as fini.",
+     "Félicite ton enfant d'avoir attendu, même si c'était court."
+    ],
+    "avoid": [
+     "Les tours de parole trop longs qui mettent la patience à rude épreuve.",
+     "Gronder ton enfant parce qu'il interrompt.",
+     "Interrompre toi-même ton enfant."
+    ],
+    "success": "Ton enfant attend son tour 2 fois.",
+    "ways": [
+     "La cuillère qui parle au dîner.",
+     "Une discussion en famille dans la voiture.",
+     "Parler chacun son tour avec un téléphone jouet."
+    ]
+   },
+   "say_sorry": {
+    "name": "Demander pardon et se réconcilier",
+    "goal": "Demande pardon et fait quelque chose de gentil pour se réconcilier après un souci.",
+    "why": "Se réconcilier apprend aux enfants à réparer une amitié et à se soucier de ce que ressentent les autres.",
+    "steps": [
+     "Attends que tout le monde soit calme.",
+     "Parlez de ce qui s'est passé et de ce que l'autre personne a ressenti.",
+     "Demande : « Qu'est-ce que tu pourrais dire ou faire pour arranger les choses ? »",
+     "Laisse ton enfant choisir ses mots, comme « Pardon, je n'aurais pas dû te pousser. »",
+     "Ajoute un geste gentil, comme prêter un jouet.",
+     "Montre aussi à ton enfant comment toi, tu demandes pardon."
+    ],
+    "avoid": [
+     "Forcer des excuses dans le feu de l'action.",
+     "Faire honte à ton enfant.",
+     "Les longs sermons."
+    ],
+    "success": "Ton enfant demande pardon et fait 1 geste gentil.",
+    "ways": [
+     "Se réconcilier après une dispute entre frères et sœurs.",
+     "S'exercer avec des jouets ou des marionnettes.",
+     "Faire un dessin pour demander pardon."
+    ]
+   },
+   "tell_joke": {
+    "name": "Raconter une blague",
+    "goal": "Raconte une blague simple et ménage la chute.",
+    "why": "Les blagues développent le langage, le sens du rythme et le plaisir de rire ensemble.",
+    "steps": [
+     "Raconte à ton enfant une blague simple et courte.",
+     "Explique pourquoi elle est drôle, si besoin.",
+     "Répétez-la ensemble, lentement.",
+     "Laisse ton enfant te la raconter.",
+     "Ris et dis merci."
+    ],
+    "avoid": [
+     "Les blagues qui se moquent des gens.",
+     "Corriger la blague pendant que ton enfant la raconte.",
+     "Les blagues longues, difficiles à retenir."
+    ],
+    "success": "Ton enfant raconte une blague du début à la fin.",
+    "ways": [
+     "Une blague au dîner.",
+     "Une devinette dans la voiture.",
+     "Inventer ensemble une blague rigolote."
+    ]
+   },
+   "retell_trip": {
+    "name": "Raconter une sortie dans l'ordre",
+    "goal": "Raconte dans le bon ordre ce qui s'est passé pendant une sortie.",
+    "why": "Remettre les événements dans l'ordre développe la mémoire, le langage et les premières compétences pour raconter une histoire.",
+    "steps": [
+     "Après une sortie, asseyez-vous pour une petite discussion.",
+     "Demande : « Qu'est-ce qu'on a fait en premier ? »",
+     "Puis demande : « Et ensuite, qu'est-ce qui s'est passé ? »",
+     "Termine par : « Qu'est-ce qu'on a fait à la fin ? »",
+     "Utilise les mots d'abord, ensuite et enfin.",
+     "Donne un petit indice si ton enfant bloque."
+    ],
+    "avoid": [
+     "Trop de questions à la suite.",
+     "Corriger les petits détails.",
+     "Poser les questions quand ton enfant est fatigué."
+    ],
+    "success": "Ton enfant raconte 3 moments de la sortie dans l'ordre.",
+    "ways": [
+     "Regarder les photos de la journée.",
+     "Raconter la sortie à un autre membre de la famille.",
+     "Faire 3 dessins dans l'ordre."
+    ]
+   },
+   "write_name": {
+    "name": "Écrire son prénom",
+    "goal": "Écrit son prénom avec des lettres lisibles.",
+    "why": "Écrire son prénom est un premier pas plein de fierté vers l'écriture, et aide à l'école.",
+    "steps": [
+     "Écris le prénom de ton enfant en grandes lettres.",
+     "Montre chaque lettre du doigt et dis-la.",
+     "Laisse ton enfant repasser dessus avec le doigt, puis avec un crayon.",
+     "Demande à ton enfant de le recopier en dessous.",
+     "Commence par une majuscule, puis des minuscules."
+    ],
+    "avoid": [
+     "Écrire toutes les lettres en majuscules.",
+     "Les longues séances d'exercice.",
+     "Relever chaque lettre tremblante."
+    ],
+    "success": "Ton enfant écrit son prénom sans modèle.",
+    "ways": [
+     "Écrire son prénom sur un dessin.",
+     "Écrire dans le sable ou avec le doigt sur une vitre embuée.",
+     "Mettre son prénom sur sa boîte à goûter."
+    ]
+   },
+   "count_20": {
+    "name": "Compter jusqu'à 20",
+    "goal": "Compte à voix haute de 1 à 20 dans l'ordre.",
+    "why": "Compter jusqu'à 20 pose les bases pour additionner, soustraire et comprendre les nombres plus grands.",
+    "steps": [
+     "Comptez d'abord ensemble jusqu'à 10.",
+     "Puis comptez lentement de 10 à 20.",
+     "Tapez dans vos mains ou sautez à chaque nombre.",
+     "Laisse ton enfant mener le comptage.",
+     "Aide pour les nombres difficiles, comme 13 et 15."
+    ],
+    "avoid": [
+     "Tester ou interroger.",
+     "Continuer quand ton enfant perd l'intérêt.",
+     "Corriger durement."
+    ],
+    "success": "Ton enfant compte jusqu'à 20 sans aide.",
+    "ways": [
+     "Compter les marches.",
+     "Compter en se lavant les mains.",
+     "Compter les sauts ou les pas en promenade."
+    ]
+   },
+   "add_objects": {
+    "name": "Additionner avec des objets",
+    "goal": "Réunit 2 petits groupes d'objets et dit combien il y en a en tout.",
+    "why": "Additionner avec de vrais objets donne du sens aux nombres avant de passer au papier.",
+    "steps": [
+     "Pose 2 petits groupes d'objets, comme 3 boutons et 2 boutons.",
+     "Comptez chaque groupe ensemble.",
+     "Rassemble les deux groupes.",
+     "Demande : « Combien il y en a maintenant ? »",
+     "Laisse ton enfant tout compter.",
+     "Essayez avec de nouveaux groupes."
+    ],
+    "avoid": [
+     "Les petits objets quand des frères et sœurs plus jeunes sont à côté.",
+     "Écrire des additions trop tôt.",
+     "Les grands nombres avant que les petits soient faciles."
+    ],
+    "success": "Ton enfant additionne correctement 2 groupes, jusqu'à 10.",
+    "ways": [
+     "Additionner les pommes dans le sac de courses.",
+     "Additionner des petites voitures.",
+     "Additionner les doigts des 2 mains."
+    ]
+   },
+   "cut_line": {
+    "name": "Découper le long d'un trait",
+    "goal": "Découpe le long d'un trait droit avec des ciseaux à bouts ronds.",
+    "why": "Découper développe la force et le contrôle de la main, ce qui aide aussi pour écrire.",
+    "steps": [
+     "Donne des ciseaux à bouts ronds et une bande de papier.",
+     "Trace dessus un trait droit et épais.",
+     "Montre la prise : le pouce au-dessus.",
+     "Laisse ton enfant découper lentement le long du trait.",
+     "Tourne le papier, pas les ciseaux, si besoin."
+    ],
+    "avoid": [
+     "Les ciseaux pointus d'adulte.",
+     "Marcher avec des ciseaux.",
+     "Le papier trop fin ou trop dur."
+    ],
+    "success": "Ton enfant découpe le long d'un trait de 10 centimètres.",
+    "ways": [
+     "Découper des images dans de vieux prospectus.",
+     "Découper une bande de papier en morceaux.",
+     "Découper de la pâte à modeler avec des ciseaux."
+    ]
+   },
+   "draw_shapes": {
+    "name": "Dessiner un carré et un triangle",
+    "goal": "Recopie un carré et un triangle avec des coins nets.",
+    "why": "Dessiner des formes améliore le contrôle du crayon et aide à former les lettres.",
+    "steps": [
+     "Dessine lentement un carré pendant que ton enfant regarde.",
+     "Comptez les côtés ensemble : 1, 2, 3, 4.",
+     "Laisse ton enfant le recopier.",
+     "Fais la même chose avec un triangle et ses 3 côtés.",
+     "Félicite pour les coins, même s'ils tremblent."
+    ],
+    "avoid": [
+     "Ne faire que repasser, sans jamais dessiner librement.",
+     "Trop de formes d'un coup.",
+     "Noter les dessins."
+    ],
+    "success": "Ton enfant dessine un carré et un triangle avec des coins.",
+    "ways": [
+     "Dessiner une maison avec un carré et un toit.",
+     "Chercher des carrés et des triangles dans la maison.",
+     "Dessiner des formes à la craie dehors."
+    ]
+   },
+   "left_right": {
+    "name": "La gauche et la droite",
+    "goal": "Reconnaît sa main gauche et sa main droite.",
+    "why": "Connaître la gauche et la droite aide à s'orienter, à écrire et à jouer. Il faut souvent du temps pour que ce soit acquis.",
+    "steps": [
+     "Levez les deux mains, toi et ton enfant.",
+     "Dis : « Ça, c'est ta main droite. » Serrez-vous la main.",
+     "Montre la main que ton enfant utilise pour faire coucou ou dessiner.",
+     "Jouez à un jeu : « Touche ton oreille gauche. »",
+     "Alterne lentement entre la gauche et la droite."
+    ],
+    "avoid": [
+     "Interroger rapidement.",
+     "S'attendre à ce que ton enfant connaisse ta gauche et ta droite.",
+     "Faire toute une histoire des confusions."
+    ],
+    "success": "Ton enfant montre sa main gauche et sa main droite quand on le demande.",
+    "ways": [
+     "Tourner à gauche ou à droite en promenade.",
+     "Mettre la chaussure gauche ou droite.",
+     "Un jeu dansé de gauche et de droite."
+    ]
+   },
+   "days_week": {
+    "name": "Les jours de la semaine",
+    "goal": "Dit les jours de la semaine dans l'ordre.",
+    "why": "Connaître les jours aide les enfants à comprendre le temps, les projets et les habitudes.",
+    "steps": [
+     "Dites lentement les 7 jours ensemble.",
+     "Chantez-les sur un air simple.",
+     "Parlez d'aujourd'hui : « Aujourd'hui, c'est lundi. »",
+     "Associe chaque jour à une chose que vous faites, comme la piscine ou la visite chez mamie.",
+     "Laisse ton enfant les dire sans aide."
+    ],
+    "avoid": [
+     "Tester sans avoir d'abord aidé.",
+     "Mélanger les mois en même temps.",
+     "Les longues séances."
+    ],
+    "success": "Ton enfant dit les 7 jours dans l'ordre.",
+    "ways": [
+     "Une chanson des jours de la semaine le matin.",
+     "Cocher les jours sur un calendrier.",
+     "Demander « Quel jour on sera demain ? » au petit déjeuner."
+    ]
+   },
+   "phone_address": {
+    "name": "Connaître son numéro de téléphone et son adresse",
+    "goal": "Dit le numéro de téléphone d'un parent et l'adresse de la maison.",
+    "why": "Si ton enfant se perd un jour, connaître ces informations aide un adulte de confiance à te contacter.",
+    "steps": [
+     "Dites ensemble votre rue et votre ville, lentement.",
+     "Puis dites ton numéro de téléphone par petits groupes de chiffres.",
+     "Transforme le numéro en petite chanson ou en rythme.",
+     "Entraînez-vous une fois par jour.",
+     "Explique à qui le dire : un policier, un enseignant ou un employé à la caisse d'un magasin."
+    ],
+    "avoid": [
+     "Donner ces informations à des inconnus en ligne.",
+     "S'exercer une seule fois et s'arrêter là.",
+     "Les histoires effrayantes d'enfants perdus."
+    ],
+    "success": "Ton enfant dit ton numéro de téléphone et ta rue.",
+    "ways": [
+     "Chanter le numéro sur le chemin du retour.",
+     "Écrire ensemble l'adresse sur une carte.",
+     "Un jeu de rôle : se perdre dans un magasin."
+    ]
+   },
+   "spread_knife": {
+    "name": "Tartiner avec un couteau",
+    "goal": "Tartine un aliment mou sur du pain avec un couteau à bout rond.",
+    "why": "Tartiner améliore le contrôle de la main et constitue un premier pas pour préparer à manger sans aide.",
+    "steps": [
+     "Donne un couteau à beurre à bout rond ou un couteau pour enfant.",
+     "Prends quelque chose de mou, comme du fromage à tartiner ou du beurre à température ambiante.",
+     "Montre comment en prendre un peu avec le bout.",
+     "Montre comment étaler du milieu vers les bords.",
+     "Laisse ton enfant essayer sur 1 tranche de pain."
+    ],
+    "avoid": [
+     "Les couteaux pointus et tranchants.",
+     "Le beurre dur qui sort du réfrigérateur.",
+     "S'inquiéter des miettes et du désordre."
+    ],
+    "success": "Ton enfant tartine 1 tranche de pain sans aide.",
+    "ways": [
+     "Tartiner des crackers au goûter.",
+     "Tartiner de la confiture au petit déjeuner.",
+     "Préparer une tartine grillée pour un membre de la famille, une fois que tu l'as fait griller."
+    ]
+   },
+   "pack_bag": {
+    "name": "Préparer son sac",
+    "goal": "Prépare son cartable ou son sac avec une liste en images.",
+    "why": "Préparer son sac développe la mémoire, l'organisation et le sens des responsabilités.",
+    "steps": [
+     "Fais une liste simple en images de ce qui va dans le sac.",
+     "Mets le sac et les affaires au même endroit la veille au soir.",
+     "Laisse ton enfant préparer le sac en regardant la liste.",
+     "Vérifiez la liste ensemble à la fin.",
+     "Remercie ton enfant d'avoir préparé son sac."
+    ],
+    "avoid": [
+     "Préparer le sac un matin où l'on est pressé.",
+     "Refaire le sac derrière ton enfant.",
+     "Une longue liste d'affaires."
+    ],
+    "success": "Ton enfant prépare son sac avec la liste, sans aide.",
+    "ways": [
+     "Préparer un sac pour le parc.",
+     "Préparer un sac de jouets pour une visite.",
+     "Préparer un sac de piscine."
+    ]
+   },
+   "jump_rope": {
+    "name": "Sauter à la corde sans aide",
+    "goal": "Fait tourner une corde à sauter et saute par-dessus sans aide.",
+    "why": "Sauter à la corde développe le sens du rythme, la forme physique et la coordination.",
+    "steps": [
+     "Vérifie la longueur de la corde : les poignées arrivent aux aisselles quand ton enfant se tient debout au milieu.",
+     "Trouve un espace plat, sans personne autour.",
+     "Entraînez-vous à sauter sur place sans la corde.",
+     "Laisse ton enfant faire passer la corde par-dessus sa tête et l'enjamber.",
+     "Puis essayez un tour de corde et un saut.",
+     "Comptez chaque saut ensemble."
+    ],
+    "avoid": [
+     "Les cordes trop longues qui font trébucher.",
+     "Jouer près des meubles ou d'autres enfants.",
+     "S'attendre à beaucoup de sauts au début."
+    ],
+    "success": "Ton enfant saute 3 fois d'affilée à la corde.",
+    "ways": [
+     "Une comptine de corde à sauter dans le jardin.",
+     "Compter les sauts chaque semaine.",
+     "Sauter à la corde avec un copain ou une copine."
+    ]
+   },
+   "dribble_pass": {
+    "name": "Dribbler et faire une passe",
+    "goal": "Fait avancer un ballon avec les pieds et le passe à quelqu'un.",
+    "why": "Dribbler et faire des passes développe le jeu de jambes, l'équilibre et l'esprit d'équipe.",
+    "steps": [
+     "Trouve un espace plat et dégagé, loin des routes.",
+     "Montre comment pousser doucement le ballon avec l'intérieur du pied.",
+     "Laisse ton enfant marcher en poussant le ballon.",
+     "Place-toi à 3 mètres et demande une passe.",
+     "Renvoie le ballon et recommencez."
+    ],
+    "avoid": [
+     "Tirer fort près des fenêtres.",
+     "Jouer près des routes ou des voitures.",
+     "En faire une compétition trop tôt."
+    ],
+    "success": "Ton enfant dribble sur 5 mètres et te fait une passe.",
+    "ways": [
+     "Dribbler entre 2 plots ou des chaussures.",
+     "Se faire 10 passes aller-retour.",
+     "Un petit match au parc."
+    ]
+   },
+   "hopscotch": {
+    "name": "La marelle",
+    "goal": "Joue à la marelle, à cloche-pied et en retombant sur les 2 pieds.",
+    "why": "La marelle développe l'équilibre, la force, le comptage et le fait de jouer chacun son tour.",
+    "steps": [
+     "Dessine une marelle à la craie, ou avec du ruban adhésif à l'intérieur.",
+     "Montre comment sauter à cloche-pied dans les cases simples.",
+     "Retombe sur les 2 pieds dans les cases doubles.",
+     "Fais demi-tour au bout et reviens à cloche-pied.",
+     "Ajoute un petit caillou à lancer quand ton enfant est prêt."
+    ],
+    "avoid": [
+     "Dessiner la marelle près d'une route.",
+     "Un sol glissant ou mouillé.",
+     "Les grands sauts entre les cases."
+    ],
+    "success": "Ton enfant fait l'aller-retour de la marelle.",
+    "ways": [
+     "Une marelle sur le trottoir devant la maison.",
+     "Une marelle en ruban adhésif dans le couloir.",
+     "Dire les nombres en sautant."
+    ]
+   },
+   "float_back": {
+    "name": "Faire la planche sur le dos",
+    "goal": "Flotte sur le dos, avec de l'aide à proximité.",
+    "why": "Faire la planche sur le dos est une compétence clé pour la sécurité dans l'eau. Elle permet à un enfant de se reposer et de respirer dans l'eau.",
+    "steps": [
+     "Va dans une piscine surveillée, et reste dans l'eau avec ton enfant.",
+     "Reste à portée de bras tout le temps.",
+     "Soutiens l'arrière de la tête et le bas du dos avec tes mains.",
+     "Demande à ton enfant de regarder en l'air, le ventre vers le haut, bras et jambes écartés comme une étoile.",
+     "Relâche doucement ton soutien pendant quelques secondes.",
+     "Aide ton enfant à se remettre debout."
+    ],
+    "avoid": [
+     "Laisser ton enfant dans l'eau sans toi, même un instant.",
+     "Les eaux libres, comme les lacs, les rivières ou la mer.",
+     "Brusquer un enfant qui a peur."
+    ],
+    "success": "Ton enfant flotte 5 secondes, tes mains juste en dessous.",
+    "ways": [
+     "Des cours de natation avec un maître-nageur diplômé.",
+     "Faire l'étoile de mer ensemble.",
+     "S'exercer avec une frite ou une planche sous la tête."
+    ]
+   },
+   "read_book": {
+    "name": "Me lire un petit livre",
+    "goal": "Lit à voix haute un petit livre simple à un adulte.",
+    "why": "Lire à voix haute rend la lecture plus fluide et donne confiance. La partager avec toi rend la lecture agréable.",
+    "steps": [
+     "Choisis un petit livre du bon niveau, comme un livre de l'école.",
+     "Asseyez-vous l'un contre l'autre dans un coin calme.",
+     "Laisse ton enfant tenir le livre et tourner les pages.",
+     "Aide pour un mot difficile seulement après une petite pause.",
+     "Parlez des images et de l'histoire à la fin."
+    ],
+    "avoid": [
+     "Les livres trop difficiles.",
+     "Corriger chaque petite erreur.",
+     "Lire quand ton enfant est très fatigué."
+    ],
+    "success": "Ton enfant lit un petit livre du début à la fin.",
+    "ways": [
+     "Lire à un petit frère ou une petite sœur.",
+     "Lire à son doudou ou à un jouet préféré.",
+     "Lire une page chacun son tour."
+    ]
+   },
+   "sound_out": {
+    "name": "Déchiffrer de nouveaux mots",
+    "goal": "Dit les sons d'un mot court et les assemble pour le lire.",
+    "why": "Déchiffrer permet aux enfants de lire des mots qu'ils n'ont jamais vus.",
+    "steps": [
+     "Écris un mot court, comme « mur ».",
+     "Montre chaque lettre et dis le son qu'elle fait : m, u, r.",
+     "Dis les sons plus vite pour les assembler : « mur ».",
+     "Laisse ton enfant faire le mot suivant.",
+     "Commence par des mots de 3 lettres."
+    ],
+    "avoid": [
+     "Le nom des lettres au lieu de leur son.",
+     "Les longues listes de mots.",
+     "Deviner seulement à partir des images."
+    ],
+    "success": "Ton enfant déchiffre et lit 3 nouveaux mots.",
+    "ways": [
+     "Lire les panneaux en promenade.",
+     "Des lettres magnétiques sur le réfrigérateur.",
+     "Lire les noms sur les emballages."
+    ]
+   },
+   "ask_play": {
+    "name": "Proposer à un copain de jouer",
+    "goal": "Propose à un autre enfant de jouer, et accepte un oui comme un non.",
+    "why": "Proposer de jouer développe les amitiés, la confiance en soi et les relations avec les autres.",
+    "steps": [
+     "Entraînez-vous à la maison, avec un jouet ou avec toi.",
+     "Donne des mots simples : « Tu veux jouer avec moi ? »",
+     "Entraînez-vous à ce qu'on peut dire si la réponse est non : « D'accord, peut-être plus tard. »",
+     "Au parc, reste à proximité pendant que ton enfant essaie.",
+     "Félicite le courage, quelle que soit la réponse."
+    ],
+    "avoid": [
+     "Pousser un enfant timide à y aller tout de suite.",
+     "Parler à la place de ton enfant.",
+     "Faire vivre un non comme un échec."
+    ],
+    "success": "Ton enfant propose à un autre enfant de jouer.",
+    "ways": [
+     "Proposer à un cousin ou une cousine lors d'une visite en famille.",
+     "Proposer à l'aire de jeux.",
+     "S'exercer avec des marionnettes."
+    ]
+   },
+   "lose_calmly": {
+    "name": "Perdre calmement",
+    "goal": "Perd à un jeu et garde à peu près son calme.",
+    "why": "Savoir perdre aide les enfants à profiter des jeux et à garder leurs amis.",
+    "steps": [
+     "Jouez à un jeu court où la chance compte, comme un jeu de dés.",
+     "Avant de commencer, mettez-vous d'accord sur ce qu'on dit à la fin : « Bien joué. »",
+     "Quand tu perds, montre l'exemple calmement : « Oh, j'ai perdu. C'était amusant. »",
+     "Si ton enfant perd, nomme l'émotion : « Ça t'énerve. »",
+     "Propose une autre partie."
+    ],
+    "avoid": [
+     "Laisser ton enfant gagner à chaque fois.",
+     "Gronder ton enfant parce qu'il est contrarié.",
+     "Les longues parties quand tout le monde est fatigué."
+    ],
+    "success": "Ton enfant dit « Bien joué » après avoir perdu.",
+    "ways": [
+     "Des jeux de cartes après le dîner.",
+     "Une course au parc.",
+     "Une soirée jeux en famille."
+    ]
+   },
+   "calm_breathing": {
+    "name": "Respirer pour se calmer",
+    "goal": "Respire lentement pour se calmer quand ça ne va pas.",
+    "why": "Respirer lentement aide le corps à se détendre. Cela donne aux enfants un outil qu'ils peuvent utiliser partout.",
+    "steps": [
+     "Entraînez-vous quand ton enfant est calme, pas contrarié.",
+     "Lève une main comme si c'était un « gâteau d'anniversaire ».",
+     "Sens les fleurs : inspire lentement par le nez.",
+     "Souffle les bougies : expire lentement par la bouche.",
+     "Faites-le 3 fois ensemble.",
+     "Rappelle-le à ton enfant la prochaine fois que quelque chose le contrarie."
+    ],
+    "avoid": [
+     "Le lui apprendre pendant une crise.",
+     "Les respirations rapides et profondes.",
+     "L'utiliser comme une punition."
+    ],
+    "success": "Ton enfant fait 3 respirations lentes avec toi.",
+    "ways": [
+     "Respirer au coucher.",
+     "Souffler des bulles de savon lentement.",
+     "Respirer comme un chien qui s'endort."
+    ]
+   },
+   "three_step": {
+    "name": "Suivre 3 consignes",
+    "goal": "Suit 3 consignes simples dans l'ordre.",
+    "why": "Suivre des consignes développe la mémoire et l'écoute, ce qui aide à l'école et à la maison.",
+    "steps": [
+     "Attire d'abord l'attention de ton enfant.",
+     "Donne 3 consignes simples : « Va chercher tes chaussures, mets-les près de la porte, puis lave-toi les mains. »",
+     "Demande à ton enfant de les répéter.",
+     "Laisse ton enfant les faire dans l'ordre.",
+     "Félicite chaque consigne réalisée."
+    ],
+    "avoid": [
+     "Donner des consignes pendant que ton enfant est occupé à autre chose.",
+     "Trop de mots.",
+     "Répéter les consignes encore et encore."
+    ],
+    "success": "Ton enfant fait 3 choses dans l'ordre.",
+    "ways": [
+     "Un jeu de rangement.",
+     "Jacques a dit avec 3 gestes.",
+     "Une chasse au trésor avec 3 indices."
+    ]
+   },
+   "school_day": {
+    "name": "Raconter sa journée d'école",
+    "goal": "Te raconte quelque chose qui s'est passé à l'école.",
+    "why": "Parler de la journée développe le langage et t'aide à savoir comment ton enfant se sent.",
+    "steps": [
+     "Attends que ton enfant ait pris son goûter et se soit reposé.",
+     "Pose une question précise : « Avec qui tu as joué aujourd'hui ? »",
+     "Raconte aussi quelque chose de ta journée.",
+     "Écoute sans corriger ni juger.",
+     "Pose une question de plus sur ce que ton enfant raconte."
+    ],
+    "avoid": [
+     "Demander seulement « Ça s'est bien passé à l'école ? »",
+     "Trop de questions à la fois.",
+     "Poser des questions dès la sortie de l'école."
+    ],
+    "success": "Ton enfant te raconte 1 chose de sa journée.",
+    "ways": [
+     "Discuter sur le chemin du retour.",
+     "Partager un bon et un moins bon moment au dîner.",
+     "Parler pendant le bain."
+    ]
+   },
+   "tie_laces": {
+    "name": "Faire ses lacets",
+    "goal": "Fait un nœud de lacets, lentement, sans aide.",
+    "why": "Faire ses lacets développe l'habileté des doigts et l'autonomie. Beaucoup d'enfants l'apprennent entre 6 et 8 ans.",
+    "steps": [
+     "Entraînez-vous avec la chaussure posée sur une table, pas au pied.",
+     "Prends 2 lacets de couleurs différentes, si possible.",
+     "Montre lentement le premier croisement et le passage dessous.",
+     "Fais 2 boucles comme des oreilles de lapin.",
+     "Croise les boucles, passe-en une dessous et tire.",
+     "Laisse ton enfant essayer chaque étape après toi."
+    ],
+    "avoid": [
+     "S'exercer un matin où l'on est pressé.",
+     "Les lacets courts ou glissants.",
+     "Prendre le relais quand ça prend du temps."
+    ],
+    "success": "Ton enfant fait un nœud sans aide.",
+    "ways": [
+     "Faire un nœud sur un cadeau.",
+     "Une carte à lacer ou une boîte à chaussures percée de trous.",
+     "Nouer un cordon de tablier."
+    ]
+   },
+   "time_hour": {
+    "name": "Lire l'heure pile",
+    "goal": "Lit les heures pile sur une horloge à aiguilles.",
+    "why": "Lire l'heure aide les enfants à comprendre les habitudes et les projets.",
+    "steps": [
+     "Utilise une horloge à aiguilles, ou dessines-en une sur une feuille.",
+     "Montre la petite aiguille pour les heures et la grande aiguille pour les minutes.",
+     "Place la grande aiguille sur le 12.",
+     "Déplace la petite aiguille et dis : « Il est 3 heures. »",
+     "Laisse ton enfant régler une heure et la lire."
+    ],
+    "avoid": [
+     "Commencer par les minutes.",
+     "Seulement les horloges numériques.",
+     "Les longs exercices."
+    ],
+    "success": "Ton enfant lit correctement 3 heures pile.",
+    "ways": [
+     "Lire l'horloge à l'heure du déjeuner.",
+     "Fabriquer une horloge avec une assiette en carton.",
+     "L'heure du coucher, 7 heures, sur l'horloge."
+    ]
+   },
+   "add_take_10": {
+    "name": "Additionner et soustraire jusqu'à 10",
+    "goal": "Additionne et soustrait de petits nombres jusqu'à 10.",
+    "why": "Additionner et soustraire développe le sens des nombres, utile tous les jours.",
+    "steps": [
+     "Pose 10 petits objets sur la table, comme des pâtes.",
+     "Fais un groupe de 6 et enlèves-en 2.",
+     "Demande : « Combien il en reste ? »",
+     "Puis ajoute-en 3 et demande : « Combien il y en a maintenant ? »",
+     "Laisse ton enfant te poser un calcul."
+    ],
+    "avoid": [
+     "Les calculs sur papier sans objets.",
+     "Chronométrer ton enfant.",
+     "Les nombres au-delà de 10 trop tôt."
+    ],
+    "success": "Ton enfant résout 3 calculs jusqu'à 10.",
+    "ways": [
+     "Ajouter et manger des grains de raisin au goûter.",
+     "Des calculs sur les doigts en promenade.",
+     "Retirer des jouets d'une boîte."
+    ]
+   },
+   "write_sentence": {
+    "name": "Écrire une petite phrase",
+    "goal": "Écrit une petite phrase avec une majuscule et un point.",
+    "why": "Écrire une phrase transforme les idées en mots. Cela développe l'orthographe et la confiance.",
+    "steps": [
+     "Demande d'abord à ton enfant de dire une phrase à voix haute, comme « J'aime les chats. »",
+     "Comptez les mots sur vos doigts.",
+     "Laisse ton enfant l'écrire, en déchiffrant chaque mot.",
+     "Rappelle-lui : une majuscule au début, un point à la fin.",
+     "Relisez-la ensemble."
+    ],
+    "avoid": [
+     "Corriger chaque faute d'orthographe.",
+     "Les longues phrases au début.",
+     "Seulement recopier, sans idées personnelles."
+    ],
+    "success": "Ton enfant écrit une phrase de 3 mots.",
+    "ways": [
+     "Écrire un mot à un grand-parent.",
+     "Écrire un article sur la liste de courses.",
+     "Une légende pour un dessin."
+    ]
+   },
+   "grow_plant": {
+    "name": "Faire pousser une plante",
+    "goal": "Plante une graine et s'en occupe.",
+    "why": "Faire pousser une plante apprend le soin, la patience et la façon dont les êtres vivants grandissent.",
+    "steps": [
+     "Choisis une graine qui pousse vite, comme du cresson ou un haricot.",
+     "Remplis un pot ou un gobelet de terre, ou utilise du coton humide.",
+     "Laisse ton enfant enfoncer la graine et la recouvrir.",
+     "Pose le pot près d'une fenêtre.",
+     "Regardez-la ensemble chaque jour et arrosez un peu quand c'est sec."
+    ],
+    "avoid": [
+     "Trop d'eau.",
+     "Les graines lentes qui mettent la patience à rude épreuve.",
+     "Les plantes qu'il est dangereux de toucher ou de manger."
+    ],
+    "success": "Ton enfant plante une graine et l'arrose pendant une semaine.",
+    "ways": [
+     "Faire pousser du cresson à manger dans un sandwich.",
+     "Un haricot dans un bocal pour voir les racines.",
+     "Dessiner la plante chaque semaine."
+    ]
+   },
+   "build_instructions": {
+    "name": "Construire avec une notice",
+    "goal": "Construit un modèle simple en suivant des étapes en images.",
+    "why": "Suivre des étapes en images développe la concentration, l'organisation et la résolution de problèmes.",
+    "steps": [
+     "Choisis un modèle simple avec peu d'étapes.",
+     "Triez les pièces avant de commencer.",
+     "Regardez l'étape 1 ensemble.",
+     "Laisse ton enfant trouver les pièces et construire.",
+     "Aide seulement quand on te le demande."
+    ],
+    "avoid": [
+     "Les toutes petites pièces près des bébés ou des tout-petits.",
+     "Les modèles avec trop d'étapes.",
+     "Corriger les erreurs à la place de ton enfant."
+    ],
+    "success": "Ton enfant construit 3 étapes sans aide.",
+    "ways": [
+     "Des jeux de construction à partir d'une carte modèle.",
+     "Plier un bateau en papier en suivant des étapes dessinées.",
+     "Reproduire une tour de cubes que tu as construite."
+    ]
+   },
+   "know_coins": {
+    "name": "Connaître les pièces",
+    "goal": "Nomme les pièces et sait lesquelles valent le plus.",
+    "why": "Connaître les pièces est un premier pas pour utiliser l'argent et économiser.",
+    "steps": [
+     "Pose quelques pièces différentes.",
+     "Regardez chacune et dites sa valeur.",
+     "Triez-les ensemble par couleur ou par taille.",
+     "Rangez-les dans l'ordre, de celle qui vaut le moins à celle qui vaut le plus.",
+     "Demande à ton enfant de trouver la pièce que tu nommes."
+    ],
+    "avoid": [
+     "Les pièces près des bébés ou des tout-petits, qui pourraient les avaler.",
+     "Utiliser trop de pièces à la fois.",
+     "Croire que les plus grosses pièces valent toujours plus."
+    ],
+    "success": "Ton enfant nomme 3 pièces et leur valeur.",
+    "ways": [
+     "Jouer à la marchande à la maison.",
+     "Trier les pièces d'une tirelire.",
+     "Repérer les pièces dans un porte-monnaie."
+    ]
+   },
+   "make_sandwich": {
+    "name": "Préparer un sandwich",
+    "goal": "Prépare un sandwich simple avec un peu d'aide.",
+    "why": "Préparer à manger développe l'autonomie et la fierté, et c'est un premier pas vers la cuisine.",
+    "steps": [
+     "Lavez-vous d'abord les mains ensemble.",
+     "Sors du pain, quelque chose de mou à tartiner et une garniture simple.",
+     "Laisse ton enfant tartiner le pain avec un couteau à bout rond.",
+     "Ajoutez la garniture et la tranche du dessus.",
+     "Coupe-le toi-même, ou laisse ton enfant le couper avec un couteau pour enfant.",
+     "Mangez-le ensemble en vous régalant."
+    ],
+    "avoid": [
+     "Les couteaux pointus et tranchants.",
+     "Les garnitures qui doivent être chauffées.",
+     "S'inquiéter du désordre."
+    ],
+    "success": "Ton enfant prépare un sandwich avec peu d'aide.",
+    "ways": [
+     "Préparer un sandwich pour la boîte à goûter.",
+     "Un pique-nique dans le jardin.",
+     "Préparer un sandwich pour un membre de la famille."
+    ]
+   },
+   "set_table": {
+    "name": "Mettre la table",
+    "goal": "Dispose les assiettes, les verres et les couverts pour un repas.",
+    "why": "Mettre la table développe le comptage, le sens de l'ordre et l'envie d'aider.",
+    "steps": [
+     "Comptez combien de personnes vont manger.",
+     "Donne à ton enfant des assiettes et des verres incassables.",
+     "Montre où vont la fourchette et le couteau.",
+     "Laisse ton enfant mettre un couvert, puis les autres.",
+     "Remercie ton enfant pendant le repas."
+    ],
+    "avoid": [
+     "Les assiettes en verre ou lourdes.",
+     "Les couteaux pointus et tranchants.",
+     "Rectifier chaque couvert après coup."
+    ],
+    "success": "Ton enfant met la table pour la famille.",
+    "ways": [
+     "Étendre une couverture de pique-nique.",
+     "Mettre la table pour les jouets.",
+     "Disposer les serviettes pour les invités."
+    ]
+   },
+   "swim_10m": {
+    "name": "Nager 10 mètres",
+    "goal": "Nage 10 mètres sans s'arrêter, dans une piscine surveillée.",
+    "why": "Nager une courte distance donne confiance dans l'eau. C'est une étape importante pour être plus en sécurité dans l'eau et autour.",
+    "steps": [
+     "Choisis une piscine surveillée par un maître-nageur, ou un cours de natation.",
+     "Entre dans l'eau et reste à portée de bras de ton enfant.",
+     "Commence par 3 mètres, de toi jusqu'au bord.",
+     "Recule un peu chaque fois que ton enfant t'atteint.",
+     "Comptez ensemble les mouvements et félicite chaque essai."
+    ],
+    "avoid": [
+     "S'exercer dans les lacs, les rivières ou la mer.",
+     "Regarder ton téléphone pendant que ton enfant est dans l'eau.",
+     "Continuer quand ton enfant a froid ou est fatigué."
+    ],
+    "success": "Ton enfant nage 10 mètres sans s'arrêter ni se mettre debout.",
+    "ways": [
+     "Nager une largeur de bassin pendant un cours.",
+     "Nager jusqu'à toi pendant que tu recules lentement.",
+     "Compter les mouvements d'un bord à l'autre."
+    ]
+   },
+   "throw_target": {
+    "name": "Lancer par-dessus l'épaule vers une cible",
+    "goal": "Lance une balle par-dessus l'épaule et touche une cible à quelques mètres.",
+    "why": "Un lancer par-dessus l'épaule fait travailler tout le corps. Il développe la coordination, la précision et des compétences utiles dans beaucoup de sports.",
+    "steps": [
+     "Installe une cible, comme un seau ou un cercle à la craie sur un mur.",
+     "Place ton enfant de profil, à environ 3 mètres.",
+     "Montre le lancer une fois : vise la cible du doigt, avance le pied opposé, lance.",
+     "Laisse ton enfant lancer 10 fois avec une balle souple.",
+     "Rapproche la cible si c'est trop difficile.",
+     "Félicite le bon geste, pas seulement les cibles touchées."
+    ],
+    "avoid": [
+     "Les balles dures à l'intérieur ou près des fenêtres.",
+     "Les cibles trop éloignées au début.",
+     "Corriger chaque lancer."
+    ],
+    "success": "Ton enfant touche la cible 3 fois sur 10 avec un lancer par-dessus l'épaule.",
+    "ways": [
+     "Lancer des chaussettes roulées en boule dans un panier à linge.",
+     "Faire tomber une tour de gobelets en plastique.",
+     "Lancer une balle à travers un cerceau au parc."
+    ]
+   },
+   "bike_brake_signal": {
+    "name": "Freiner et signaler à vélo",
+    "goal": "S'arrête à un endroit choisi et tend le bras pour signaler, loin des routes.",
+    "why": "Bien freiner et rouler d'une main sont les compétences dont un enfant a besoin avant de rouler près de la circulation.",
+    "steps": [
+     "Vérifie que le casque est bien ajusté et que les freins marchent avant chaque sortie.",
+     "Trouve un espace plat et dégagé, loin des routes, comme une allée de parc ou une cour de récréation vide.",
+     "Trace une ligne et demande à ton enfant de s'arrêter sur la ligne avec les deux freins.",
+     "Entraînez-vous à regarder par-dessus une épaule en roulant en ligne droite.",
+     "Entraînez-vous à lâcher une main un instant pour indiquer la gauche ou la droite.",
+     "Reste tout près et fais des essais courts."
+    ],
+    "avoid": [
+     "S'exercer sur la route ou dans les allées fréquentées.",
+     "Rouler sans casque.",
+     "Rouler longtemps d'une main avant que ton enfant soit bien stable."
+    ],
+    "success": "Ton enfant s'arrête sur la ligne et signale d'un bras sans zigzaguer.",
+    "ways": [
+     "Un jeu de stop et go, quand tu donnes le signal.",
+     "Faire une boucle et signaler à chaque virage.",
+     "S'arrêter sur une ligne à la craie en roulant doucement, puis un peu plus vite."
+    ]
+   },
+   "animal_yoga": {
+    "name": "Le yoga des animaux",
+    "goal": "Tient 4 postures de yoga des animaux et passe calmement de l'une à l'autre.",
+    "why": "Les postures de yoga développent l'équilibre, la force et la conscience du corps. Respirer lentement dans chaque posture peut aider un enfant à se sentir calme.",
+    "steps": [
+     "Dégage un espace au sol ou utilise un tapis moelleux.",
+     "Montre une posture à la fois : le chien, le chat, le cobra et le flamant rose sur une jambe.",
+     "Tenez chaque posture pendant 3 respirations lentes ensemble.",
+     "Laisse ton enfant choisir l'animal suivant.",
+     "Terminez par un petit temps de repos, sur le dos, sans bouger."
+    ],
+    "avoid": [
+     "Pousser ton enfant à étirer davantage.",
+     "S'exercer juste après un gros repas.",
+     "En faire une compétition."
+    ],
+    "success": "Ton enfant tient 4 postures pendant 3 respirations chacune.",
+    "ways": [
+     "Inventer une histoire avec chaque animal.",
+     "Faire le cri de chaque animal avant la posture.",
+     "Une petite séance calme avant le coucher."
+    ]
+   },
+   "read_expression": {
+    "name": "Lire à voix haute avec le ton",
+    "goal": "Lit un court passage à voix haute et change de voix selon l'histoire.",
+    "why": "Lire avec le ton montre que ton enfant comprend les mots. Cela donne aussi confiance pour parler devant les autres.",
+    "steps": [
+     "Choisis une page courte que ton enfant lit déjà bien.",
+     "Lis toi-même une ligne avec une voix joyeuse, apeurée ou fâchée.",
+     "Demande à ton enfant de lire la ligne suivante avec une voix qui convient.",
+     "Montre les points d'interrogation et les guillemets comme des indices.",
+     "Échangez et lisez chacun votre tour jusqu'en bas de la page."
+    ],
+    "avoid": [
+     "Les livres trop difficiles pour lire sans accrocher.",
+     "Corriger chaque petite erreur.",
+     "Rire d'une voix que ton enfant essaie."
+    ],
+    "success": "Ton enfant change de voix pour au moins 2 personnages ou émotions.",
+    "ways": [
+     "Lire une histoire du soir à un enfant plus jeune ou à un jouet.",
+     "Jouer une bande dessinée ensemble.",
+     "Enregistrer une page et la réécouter."
+    ]
+   },
+   "thank_you_card": {
+    "name": "Écrire une carte de remerciement",
+    "goal": "Écrit une petite carte de remerciement avec ses propres mots.",
+    "why": "Dire merci par écrit développe à la fois la gentillesse et l'écriture.",
+    "steps": [
+     "Pliez ensemble une feuille de papier pour en faire une carte.",
+     "Parlez de la personne à qui est destinée la carte et de ce qu'elle a fait.",
+     "Aide ton enfant à prévoir 2 phrases : merci pour, et pourquoi ça lui a plu.",
+     "Laisse ton enfant écrire, et épelle à voix haute les mots difficiles.",
+     "Ajoutez un dessin et son prénom à la fin."
+    ],
+    "avoid": [
+     "L'écrire à la place de ton enfant.",
+     "Exiger une orthographe parfaite.",
+     "Les longues cartes qui deviennent une corvée."
+    ],
+    "success": "Ton enfant écrit 2 phrases et signe de son prénom.",
+    "ways": [
+     "Une carte pour l'enseignant à la fin de l'année.",
+     "Un mot pour un grand-parent après une visite.",
+     "Un merci après un cadeau d'anniversaire."
+    ]
+   },
+   "talk_worries": {
+    "name": "Parler de ses soucis",
+    "goal": "Nomme un souci et en parle avec toi.",
+    "why": "Beaucoup d'enfants ont des soucis à cet âge. Dire un souci à voix haute le fait souvent paraître moins gros, et ton enfant apprend qu'il peut venir te voir.",
+    "steps": [
+     "Choisis un moment calme, comme une promenade ou le coucher.",
+     "Partage d'abord un de tes petits soucis.",
+     "Demande : est-ce que quelque chose te tracasse aujourd'hui ?",
+     "Écoute sans chercher à régler le problème tout de suite.",
+     "Demande ce qui pourrait aider, et faites un petit plan ensemble."
+    ],
+    "avoid": [
+     "Dire qu'il n'y a pas de quoi s'inquiéter.",
+     "Poser beaucoup de questions à la fois.",
+     "Parler des soucis seulement au coucher."
+    ],
+    "success": "Ton enfant nomme un souci et trouve 1 chose qui pourrait aider.",
+    "ways": [
+     "Une boîte à soucis, où ton enfant glisse des mots que vous lisez ensemble.",
+     "Dessiner le souci et parler du dessin.",
+     "Noter le souci de 1 à 5 avant et après en avoir parlé."
+    ]
+   },
+   "friend_problem": {
+    "name": "Régler un souci avec un copain",
+    "goal": "Trouve des idées pour régler un petit souci avec un copain ou une copine.",
+    "why": "Les amitiés comptent de plus en plus à cet âge. Régler les petits soucis aide ton enfant à garder ses amis et à se sentir capable.",
+    "steps": [
+     "Demande à ton enfant de te raconter un petit souci récent avec un copain ou une copine.",
+     "Aide ton enfant à dire ce qui s'est passé et ce que chacun a ressenti.",
+     "Trouvez ensemble 3 idées pour arranger les choses.",
+     "Laisse ton enfant choisir l'idée qu'il préfère.",
+     "Entraînez-vous à ce qu'il pourrait dire, toi dans le rôle du copain."
+    ],
+    "avoid": [
+     "Régler le problème à la place de ton enfant.",
+     "Rejeter la faute sur l'autre enfant.",
+     "Choisir un gros problème ou un problème très bouleversant pour s'exercer."
+    ],
+    "success": "Ton enfant trouve 1 idée et s'exerce à ce qu'il va dire.",
+    "ways": [
+     "Utiliser 2 jouets pour jouer la scène.",
+     "Parler d'un problème dans un livre d'histoires.",
+     "Faire le point après l'école sur la façon dont l'idée a marché."
+    ]
+   },
+   "explain_rules": {
+    "name": "Expliquer les règles d'un jeu",
+    "goal": "Explique un jeu simple assez clairement pour que quelqu'un d'autre puisse y jouer.",
+    "why": "Expliquer des règles développe une parole claire, le sens de l'ordre et la capacité à penser à ce que l'autre a besoin de savoir.",
+    "steps": [
+     "Choisis un jeu que ton enfant connaît bien.",
+     "Demande-lui de te l'apprendre comme si tu n'y avais jamais joué.",
+     "Demande : comment on commence, qu'est-ce qu'on fait à son tour, comment on gagne ?",
+     "Suis les règles exactement comme ton enfant les dit.",
+     "Faites une petite partie pour tester les règles."
+    ],
+    "avoid": [
+     "Aider avant que ton enfant ait essayé.",
+     "Les jeux avec beaucoup de règles compliquées.",
+     "Corriger des petits détails sans importance."
+    ],
+    "success": "Ton enfant explique comment commencer, jouer un tour et gagner.",
+    "ways": [
+     "Apprendre un jeu à un grand-parent ou à un copain.",
+     "Inventer un nouveau jeu et l'expliquer.",
+     "Expliquer un jeu de la cour de récréation au dîner."
+    ]
+   },
+   "say_why": {
+    "name": "Dire ce qu'on pense et pourquoi",
+    "goal": "Donne son avis et ajoute une raison avec le mot parce que.",
+    "why": "Donner des raisons développe la réflexion et l'expression orale. Cela aide aussi ton enfant à partager son point de vue avec assurance.",
+    "steps": [
+     "Pose une question amusante, comme quelle est la meilleure saison.",
+     "Donne ta propre réponse avec une raison : j'aime l'hiver parce que.",
+     "Demande à ton enfant sa réponse et une raison.",
+     "Demande : est-ce que tu vois une autre raison ?",
+     "Remercie ton enfant d'avoir partagé, même si tu penses autrement."
+    ],
+    "avoid": [
+     "Dire qu'un avis est faux.",
+     "Les questions avec une bonne ou une mauvaise réponse.",
+     "Presser ton enfant de répondre."
+    ],
+    "success": "Ton enfant donne son avis avec 1 raison claire.",
+    "ways": [
+     "Parler du meilleur et du pire moment d'un film.",
+     "Choisir un repas et dire pourquoi.",
+     "Voter pour un programme du week-end, raisons à l'appui."
+    ]
+   },
+   "times_2_5_10": {
+    "name": "Tables de 2, 5 et 10",
+    "goal": "Compte de 2 en 2, de 5 en 5 et de 10 en 10, et connaît quelques résultats de ces tables.",
+    "why": "Ces 3 tables sont la base des autres tables de multiplication. Elles aident aussi pour l'argent et pour lire l'heure.",
+    "steps": [
+     "Commencez par compter de 10 en 10 ensemble en tapant dans vos mains.",
+     "Comptez de 5 en 5 et de 2 en 2 de la même façon.",
+     "Utilise de vrais objets, comme des paires de chaussettes pour les 2 ou les doigts pour les 5.",
+     "Pose quelques questions rapides, comme 3 fois 5.",
+     "Félicite chaque réponse et donne doucement la bonne si besoin."
+    ],
+    "avoid": [
+     "Les longues récitations qui ressemblent à un contrôle.",
+     "Passer à la suite avant que compter par bonds soit facile.",
+     "Comparer avec d'autres enfants."
+    ],
+    "success": "Ton enfant compte de 2 en 2, de 5 en 5 et de 10 en 10, et répond à 3 questions.",
+    "ways": [
+     "Compter de 2 en 2 à chaque marche.",
+     "Compter des pièces de 5 en 5 et de 10 en 10.",
+     "Chanter les tables sur un air que vous connaissez tous les deux."
+    ]
+   },
+   "half_quarter": {
+    "name": "L'heure et quart, l'heure et demie",
+    "goal": "Lit « et demie » et « et quart » sur une horloge à aiguilles.",
+    "why": "Lire l'heure aide ton enfant à comprendre le déroulement de la journée et développe le sens des nombres.",
+    "steps": [
+     "Utilise une horloge à aiguilles, ou dessines-en une sur une feuille.",
+     "Vérifie d'abord que ton enfant sait lire les heures pile.",
+     "Montre que la grande aiguille sur le 6 veut dire « et demie ».",
+     "Montre que la grande aiguille sur le 3 veut dire « et quart ».",
+     "Règle quelques heures et laisse ton enfant les lire."
+    ],
+    "avoid": [
+     "N'utiliser que des horloges numériques.",
+     "Ajouter « moins le quart » avant que « et demie » soit facile.",
+     "Les longues séances qui fatiguent ton enfant."
+    ],
+    "success": "Ton enfant lit correctement 3 heures, avec « et demie » et « et quart ».",
+    "ways": [
+     "Regarder l'horloge à de vrais moments, comme l'heure du bain.",
+     "Fabriquer ensemble une horloge avec une assiette en carton.",
+     "Régler chacun son tour une heure que l'autre doit lire."
+    ]
+   },
+   "read_calendar": {
+    "name": "Lire un calendrier",
+    "goal": "Trouve la date du jour et compte les jours jusqu'à un événement sur un calendrier.",
+    "why": "Un calendrier aide ton enfant à comprendre les semaines et les mois. Il rend aussi l'attente d'un événement plus facile.",
+    "steps": [
+     "Utilise un calendrier papier ou dessine un mois sur une feuille.",
+     "Trouvez ensemble le jour d'aujourd'hui et dites le jour, la date et le mois.",
+     "Marque un événement que ton enfant attend avec impatience.",
+     "Comptez ensemble les jours jusqu'à l'événement.",
+     "Barrez chaque jour qui passe."
+    ],
+    "avoid": [
+     "Trop d'événements marqués en même temps.",
+     "Les calendriers écrits tout petit.",
+     "Interroger ton enfant sur tous les mois à la fois."
+    ],
+    "success": "Ton enfant trouve le jour d'aujourd'hui et compte les jours jusqu'à un événement.",
+    "ways": [
+     "Marquer les anniversaires de la famille.",
+     "Compter les semaines jusqu'aux vacances.",
+     "Noter le temps qu'il fait chaque jour."
+    ]
+   },
+   "measure_ruler": {
+    "name": "Mesurer avec une règle",
+    "goal": "Mesure un petit objet avec une règle, au centimètre près.",
+    "why": "Mesurer développe le sens des nombres et la précision de la main. C'est aussi utile pour le bricolage et la cuisine.",
+    "steps": [
+     "Montre où se trouve le 0 sur la règle, car il n'est pas toujours tout au bord.",
+     "Aligne le 0 avec un bout d'un objet, comme un crayon.",
+     "Lisez ensemble le nombre à l'autre bout.",
+     "Laisse ton enfant mesurer 3 autres objets sans aide.",
+     "Notez les longueurs et trouvez la plus grande."
+    ],
+    "avoid": [
+     "Partir du bord de la règle au lieu du 0.",
+     "Les objets plus longs que la règle au début.",
+     "Corriger avant que ton enfant ait vérifié une deuxième fois."
+    ],
+    "success": "Ton enfant mesure 3 objets au centimètre près.",
+    "ways": [
+     "Mesurer les doigts et les pieds de la famille.",
+     "Mesurer des feuilles trouvées en promenade.",
+     "Tracer un trait d'une longueur donnée."
+    ]
+   },
+   "spot_pattern": {
+    "name": "Trouver la suite logique",
+    "goal": "Trouve ce qui vient ensuite dans une suite de formes ou de nombres.",
+    "why": "Repérer des suites logiques développe la réflexion qui sert en maths, en lecture et pour résoudre des problèmes.",
+    "steps": [
+     "Fais une suite simple avec des objets, comme cuillère, fourchette, cuillère, fourchette.",
+     "Demande ce qui vient ensuite.",
+     "Essaie une suite plus difficile, comme rouge, rouge, bleu, rouge, rouge.",
+     "Essaie une suite de nombres, comme 2, 4, 6.",
+     "Laisse ton enfant créer une suite que tu dois résoudre."
+    ],
+    "avoid": [
+     "Les suites trop longues au début.",
+     "Donner la réponse trop vite.",
+     "Donner l'impression d'un contrôle."
+    ],
+    "success": "Ton enfant continue 2 suites et en invente 1.",
+    "ways": [
+     "Enfiler des perles en suivant une suite.",
+     "Chercher des motifs sur le carrelage et les clôtures.",
+     "Taper un rythme dans les mains et le reproduire."
+    ]
+   },
+   "pay_shop": {
+    "name": "Payer dans un magasin",
+    "goal": "Paie un petit article à la caisse d'un magasin, avec toi à côté.",
+    "why": "Payer donne confiance, développe le sens de l'argent et apprend à parler poliment aux adultes.",
+    "steps": [
+     "Choisis un petit article et un magasin calme.",
+     "Donne à ton enfant la somme exacte ou un peu plus.",
+     "Entraînez-vous à ce qu'il faut dire avant d'entrer.",
+     "Reste à côté de ton enfant pendant qu'il paie.",
+     "Rappelle-lui d'attendre la monnaie et de dire merci."
+    ],
+    "avoid": [
+     "Les heures d'affluence avec de longues files d'attente.",
+     "Parler à la place de ton enfant à la caisse.",
+     "Les grosses sommes d'argent."
+    ],
+    "success": "Ton enfant donne l'argent, attend la monnaie et dit merci.",
+    "ways": [
+     "Acheter du pain à la boulangerie du quartier.",
+     "Payer une petite douceur sur un stand du marché.",
+     "S'exercer d'abord en jouant à la marchande à la maison."
+    ]
+   },
+   "count_change": {
+    "name": "Compter la monnaie",
+    "goal": "Calcule la monnaie à rendre sur de petites sommes, avec des pièces.",
+    "why": "Compter la monnaie développe le sens des nombres et aide ton enfant à comprendre qu'on dépense de l'argent et qu'une partie peut revenir.",
+    "steps": [
+     "Installe un petit magasin pour jouer, avec quelques articles et des étiquettes de prix.",
+     "Utilise de vraies pièces et garde des prix bas.",
+     "Laisse ton enfant acheter un article et payer avec une plus grosse pièce.",
+     "Comptez ensemble à partir du prix jusqu'à la pièce donnée.",
+     "Échangez les rôles pour que ton enfant te rende la monnaie."
+    ],
+    "avoid": [
+     "Les prix qui demandent beaucoup de pièces au début.",
+     "S'exercer d'abord dans un vrai magasin plein de monde.",
+     "Faire les calculs à la place de ton enfant."
+    ],
+    "success": "Ton enfant calcule correctement la monnaie pour 2 petits achats.",
+    "ways": [
+     "Vérifier ensemble la monnaie après de vraies courses.",
+     "Un jeu de café avec une carte et des prix.",
+     "Trier des pièces et compter jusqu'à une somme donnée."
+    ]
+   },
+   "follow_recipe": {
+    "name": "Suivre une recette simple",
+    "goal": "Suit étape par étape une recette courte, sans cuisson.",
+    "why": "Suivre une recette développe la lecture, la mesure et l'organisation. Les enfants goûtent aussi plus volontiers ce qu'ils ont préparé.",
+    "steps": [
+     "Choisis une recette sans cuisson, comme une salade de fruits ou des verrines de yaourt.",
+     "Lavez-vous d'abord les mains ensemble.",
+     "Lisez chaque étape à voix haute ensemble avant de la faire.",
+     "Laisse ton enfant réunir, mesurer et mélanger les ingrédients.",
+     "Utilise un couteau pour enfant pour les fruits tendres, avec toi à côté.",
+     "Rangez ensemble à la fin."
+    ],
+    "avoid": [
+     "Confier à ton enfant des couteaux tranchants ou ce qui est chaud.",
+     "Les longues recettes avec beaucoup d'étapes.",
+     "Corriger des petites erreurs sans importance."
+    ],
+    "success": "Ton enfant suit chaque étape de la recette dans l'ordre.",
+    "ways": [
+     "Faire un smoothie, toi aux commandes du mixeur.",
+     "Composer une assiette de fruits et de fromage d'après une image.",
+     "Préparer des flocons d'avoine trempés la veille pour le petit déjeuner."
+    ]
+   },
+   "sew_button": {
+    "name": "Coudre un bouton",
+    "goal": "Coud un gros bouton sur un tissu avec ton aide.",
+    "why": "Coudre développe la précision des doigts, la patience et une compétence utile dans la vie.",
+    "steps": [
+     "Prends un gros bouton, de la feutrine et une grosse aiguille à bout rond.",
+     "Enfile l'aiguille et fais un nœud au bout du fil pour ton enfant.",
+     "Montre comment faire remonter l'aiguille par un trou et la faire redescendre par l'autre.",
+     "Laisse ton enfant recommencer 4 ou 5 fois.",
+     "Aide à arrêter le fil au dos.",
+     "Range tout de suite l'aiguille dans une pelote à épingles ou une boîte."
+    ],
+    "avoid": [
+     "Les aiguilles fines et pointues.",
+     "Laisser traîner des aiguilles sur la table ou par terre.",
+     "Le tissu fin qui fronce et décourage."
+    ],
+    "success": "Ton enfant coud un bouton avec au moins 4 points.",
+    "ways": [
+     "Coudre un bouton comme œil sur une marionnette en feutrine.",
+     "S'exercer sur une vieille chemise.",
+     "Coudre 2 boutons pour faire un visage."
+    ]
+   },
+   "fold_laundry": {
+    "name": "Plier et ranger le linge",
+    "goal": "Plie des vêtements simples et les range dans le bon tiroir.",
+    "why": "Aider pour le linge développe le sens des responsabilités et donne à ton enfant un vrai rôle dans la vie de famille.",
+    "steps": [
+     "Commence par des choses faciles, comme les serviettes et les tee-shirts.",
+     "Montre un pliage lentement, étape par étape.",
+     "Laisse ton enfant plier le suivant sans aide.",
+     "Assortissez les chaussettes par paires ensemble.",
+     "Demande à ton enfant de ranger ses propres vêtements dans les bons tiroirs."
+    ],
+    "avoid": [
+     "Replier son travail devant ton enfant.",
+     "Les grosses piles qui semblent sans fin.",
+     "Attendre des pliages parfaits comme en magasin."
+    ],
+    "success": "Ton enfant plie 5 vêtements et les range.",
+    "ways": [
+     "Plier les torchons de la cuisine.",
+     "Une course contre une chanson préférée.",
+     "Trier le linge propre par membre de la famille."
+    ]
+   },
+   "tread_water": {
+    "name": "Flotter, nager sur place et sortir de l'eau",
+    "goal": "Flotte sur le dos, nage sur place un court moment et sort de l'eau par le bord, dans une piscine surveillée.",
+    "why": "Flotter et nager sur place aident un enfant à rester calme et à garder la tête hors de l'eau. Ce sont des compétences clés pour la sécurité dans l'eau.",
+    "steps": [
+     "Exercez-vous seulement dans une piscine surveillée ou pendant un cours, avec toi dans l'eau.",
+     "Aide ton enfant à s'allonger sur le dos en étoile, les oreilles dans l'eau, en respirant lentement.",
+     "Ensuite, en se tenant au bord, ton enfant fait de petits cercles avec les mains et bat doucement des jambes.",
+     "Ton enfant lâche le bord le temps de compter jusqu'à 10, pendant que tu restes à portée de bras, puis se tient de nouveau au bord.",
+     "Montre comment sortir : les mains sur le bord, se hisser, poser le coude puis le genou sur le bord."
+    ],
+    "avoid": [
+     "S'exercer dans les lacs, les rivières ou la mer.",
+     "Les jeux où l'on pousse ou maintient quelqu'un sous l'eau.",
+     "Continuer quand ton enfant a froid, est fatigué ou a peur."
+    ],
+    "success": "Ton enfant flotte 10 secondes, nage sur place 10 secondes et sort de l'eau par le bord.",
+    "ways": [
+     "Un concours d'étoile de mer pour voir qui reste calme le plus longtemps.",
+     "Nager sur place en comptant jusqu'à 10 à voix haute.",
+     "S'exercer pendant un cours, puis te montrer ce qui a été appris."
+    ]
+   },
+   "sport_move": {
+    "name": "Apprendre un geste sportif",
+    "goal": "Travaille un geste d'un sport jusqu'à ce qu'il devienne fluide.",
+    "why": "Apprendre un geste sportif développe la coordination et la confiance en soi. Les jeux actifs aident les enfants à atteindre au moins 60 minutes d'activité par jour.",
+    "steps": [
+     "Laisse ton enfant choisir un sport qui lui plaît.",
+     "Choisis un geste, comme une passe de l'intérieur du pied.",
+     "Découpe-le en 2 ou 3 petites parties et montre chacune.",
+     "Entraînez-vous lentement 10 fois, puis un peu plus vite.",
+     "Félicite une chose qui s'est améliorée."
+    ],
+    "avoid": [
+     "Tout corriger à la fois.",
+     "Les balles dures près des fenêtres ou des routes.",
+     "Comparer avec des enfants plus âgés ou des coéquipiers."
+    ],
+    "success": "Ton enfant fait le geste 5 fois d'affilée avec une bonne technique.",
+    "ways": [
+     "Se faire des passes au parc.",
+     "Des passes à rebond contre un mur.",
+     "Frapper une balle souple avec une raquette par-dessus une ligne."
+    ]
+   },
+   "road_ride": {
+    "name": "Rouler sur une route calme avec un adulte",
+    "goal": "Roule sur une courte portion de route calme, avec un adulte à vélo juste derrière.",
+    "why": "Rouler avec un adulte sur une route calme apprend la circulation pas à pas. Les enfants apprennent lentement, sur plusieurs années, à évaluer la circulation.",
+    "steps": [
+     "Ne commence que lorsque ton enfant sait freiner, signaler et regarder derrière avec assurance, dans un espace loin des routes.",
+     "Vérifie le casque, les freins et les pneus avant de partir.",
+     "Choisis une route très calme, de jour, et respecte les règles locales.",
+     "Roule juste derrière ton enfant et donne des consignes courtes et claires.",
+     "Entraînez-vous à démarrer, à rouler bien droit et à vous arrêter quand tu le dis.",
+     "Fais une première sortie courte et termine sur un bon moment."
+    ],
+    "avoid": [
+     "Les routes fréquentées et les carrefours.",
+     "Rouler sans casque.",
+     "Rouler dans le noir, sous la pluie ou dans le brouillard."
+    ],
+    "success": "Ton enfant roule bien droit sur une courte portion de route calme et s'arrête quand on le lui demande.",
+    "ways": [
+     "Faire une petite boucle près de la maison un matin calme.",
+     "S'exercer à s'arrêter près d'une voiture garée et à regarder derrière.",
+     "S'inscrire à une formation locale à la sécurité à vélo pour enfants."
+    ]
+   },
+   "skip_20": {
+    "name": "Sauter 20 fois d'affilée à la corde",
+    "goal": "Fait tourner une corde et saute 20 fois sans s'arrêter.",
+    "why": "Sauter à la corde développe le sens du rythme, l'endurance et la coordination. C'est un moyen rapide de bouger n'importe où.",
+    "steps": [
+     "Vérifie la longueur de la corde : les poignées arrivent aux aisselles quand ton enfant se tient debout au milieu.",
+     "Trouve un espace plat dehors, ou une pièce avec un haut plafond.",
+     "Entraînez-vous à faire de petits sauts sur la pointe des pieds.",
+     "Comptez chaque saut ensemble à voix haute.",
+     "Faites une pause après chaque essai, et encourage ton enfant à battre son propre record."
+    ],
+    "avoid": [
+     "Les sols durs ou glissants.",
+     "Les cordes trop longues ou trop courtes.",
+     "Insister quand ton enfant est fatigué."
+    ],
+    "success": "Ton enfant saute 20 fois d'affilée à la corde.",
+    "ways": [
+     "Sauter sur une comptine de corde à sauter.",
+     "Sauter pendant que tu comptes de 2 en 2.",
+     "Sauter chacun son tour et s'encourager."
+    ]
+   },
+   "chapter_book": {
+    "name": "Lire un roman à chapitres",
+    "goal": "Lit sans aide un petit roman à chapitres, un chapitre à la fois.",
+    "why": "Lire des livres plus longs développe la concentration, l'imagination et le goût des histoires. Cela enrichit aussi vite le vocabulaire.",
+    "steps": [
+     "Laisse ton enfant choisir un petit roman à chapitres qui lui fait envie.",
+     "Lisez le premier chapitre ensemble pour démarrer.",
+     "Laisse ton enfant lire le chapitre suivant sans aide.",
+     "Demande ce qui s'est passé et ce qui pourrait arriver ensuite.",
+     "Garde un marque-page pour montrer le chemin parcouru."
+    ],
+    "avoid": [
+     "Les livres beaucoup trop difficiles.",
+     "Faire de la lecture un contrôle.",
+     "Arrêter complètement de lire à voix haute à ton enfant."
+    ],
+    "success": "Ton enfant lit 1 chapitre sans aide et te raconte ce qui s'est passé.",
+    "ways": [
+     "Lire une page chacun son tour au coucher.",
+     "Aller à la bibliothèque choisir le prochain livre.",
+     "Écouter le livre audio en suivant le texte."
+    ]
+   },
+   "write_story": {
+    "name": "Écrire une petite histoire",
+    "goal": "Écrit une petite histoire avec un début, un milieu et une fin.",
+    "why": "Écrire des histoires développe l'imagination, l'orthographe et la capacité à mettre ses idées dans l'ordre.",
+    "steps": [
+     "Choisissez ensemble un personnage et un lieu.",
+     "Demande : quel problème arrive, et comment est-il résolu ?",
+     "Aide ton enfant à prévoir 3 parties : le début, le milieu et la fin.",
+     "Laisse ton enfant écrire 1 ou 2 phrases pour chaque partie.",
+     "Demande à ton enfant de te la lire et félicite une idée."
+    ],
+    "avoid": [
+     "Corriger l'orthographe pendant que ton enfant écrit.",
+     "Demander une longue histoire.",
+     "Remplacer ses idées par les tiennes."
+    ],
+    "success": "Ton enfant écrit une histoire avec un début, un milieu et une fin bien clairs.",
+    "ways": [
+     "Écrire une histoire sur un animal de la famille ou un jouet.",
+     "Faire une bande dessinée en 3 cases.",
+     "Terminer une histoire que tu commences."
+    ]
+   },
+   "share_online": {
+    "name": "Ce qu'on partage en ligne",
+    "goal": "Sait quelles informations garder privées en ligne et prévient un adulte si quelque chose semble anormal.",
+    "why": "Beaucoup d'enfants commencent à aller en ligne à cet âge. Savoir ce qu'il faut garder privé et à qui en parler aide à les protéger.",
+    "steps": [
+     "Asseyez-vous ensemble devant l'appareil que ton enfant utilise.",
+     "Explique que le nom complet, l'adresse, l'école, le numéro de téléphone et les photos restent privés.",
+     "Faites un petit jeu : partager ou garder privé, avec quelques exemples.",
+     "Mettez-vous d'accord : ton enfant te prévient si quelque chose en ligne semble anormal ou bizarre.",
+     "Promets d'écouter calmement et de ne pas te fâcher."
+    ],
+    "avoid": [
+     "Les histoires qui font peur à ton enfant.",
+     "Se mettre en colère quand ton enfant te parle d'un problème.",
+     "Laisser ton enfant utiliser de nouvelles applis avant de les avoir configurées ensemble."
+    ],
+    "success": "Ton enfant nomme 3 choses à garder privées et la personne à prévenir.",
+    "ways": [
+     "Écrire ensemble une liste de règles en ligne pour la famille.",
+     "Vérifier ensemble les paramètres de confidentialité d'un jeu.",
+     "En reparler chaque fois que ton enfant commence une nouvelle appli."
+    ]
+   },
+   "disagree_politely": {
+    "name": "Ne pas être d'accord, poliment",
+    "goal": "Dit voir les choses autrement, calmement et avec une raison.",
+    "why": "Exprimer un désaccord poliment aide ton enfant à défendre son point de vue tout en gardant ses amis.",
+    "steps": [
+     "Choisis un sujet léger, comme la meilleure garniture de pizza.",
+     "Montre une phrase polie : je vois les choses autrement, parce que.",
+     "Donnez chacun votre tour des avis opposés.",
+     "Entraînez-vous à écouter jusqu'au bout avant de répondre.",
+     "Félicite les mots calmes et une raison claire."
+    ],
+    "avoid": [
+     "S'exercer pendant une vraie dispute.",
+     "Toujours laisser ton enfant gagner.",
+     "Se moquer de son avis."
+    ],
+    "success": "Ton enfant exprime une fois son désaccord d'une voix calme et avec une raison.",
+    "ways": [
+     "Parler d'un film que vous n'avez pas aimé de la même façon.",
+     "S'exercer avec un petit débat en famille au dîner.",
+     "Jouer la scène avec des jouets."
+    ]
+   },
+   "phone_call": {
+    "name": "Passer un coup de fil",
+    "goal": "Appelle un membre de la famille, dit qui appelle et transmet un petit message.",
+    "why": "Téléphoner donne confiance et apprend à parler clairement. Savoir appeler quelqu'un est aussi une compétence importante pour la sécurité.",
+    "steps": [
+     "Choisis un proche bienveillant et préviens-le qu'un appel va arriver.",
+     "Préparez ce qu'il faut dire : bonjour, qui appelle, le message, au revoir.",
+     "Aide ton enfant à trouver le numéro et à appeler.",
+     "Reste à proximité et laisse ton enfant parler.",
+     "Parlez ensuite de comment ça s'est passé."
+    ],
+    "avoid": [
+     "Appeler des personnes que ton enfant ne connaît pas.",
+     "Prendre l'appel en main.",
+     "Appeler le 112 pour s'exercer."
+    ],
+    "success": "Ton enfant passe un appel, dit qui appelle et transmet un message.",
+    "ways": [
+     "Appeler un grand-parent pour lui dire bonne nuit.",
+     "S'exercer d'abord avec un téléphone jouet.",
+     "Parler de ce qu'il faudrait dire au 112, sans composer le numéro."
+    ]
+   },
+   "keep_promise": {
+    "name": "Tenir une promesse",
+    "goal": "Fait une petite promesse et la tient.",
+    "why": "Tenir ses promesses développe la confiance et le sens des responsabilités. Cela aide ton enfant à ressentir de la fierté et à être digne de confiance.",
+    "steps": [
+     "Parlez de ce qu'est une promesse et de pourquoi c'est important.",
+     "Aide ton enfant à choisir une petite promesse, comme nourrir l'animal de la maison ce soir.",
+     "Écrivez-la ou dessinez-la.",
+     "Faites le point plus tard dans la journée.",
+     "Félicite ton enfant quand la promesse est tenue."
+    ],
+    "avoid": [
+     "Les grandes promesses que ton enfant ne peut pas tenir.",
+     "Faire honte à ton enfant en cas d'oubli.",
+     "Ne pas tenir tes propres promesses envers ton enfant."
+    ],
+    "success": "Ton enfant tient 1 petite promesse.",
+    "ways": [
+     "Promettre d'aider un frère ou une sœur pour une tâche.",
+     "Promettre de rendre un jouet emprunté.",
+     "Parler d'une promesse que tu as tenue."
+    ]
+   },
+   "help_younger": {
+    "name": "Aider un enfant plus jeune",
+    "goal": "Aide un enfant plus jeune pour une tâche simple, avec douceur et patience.",
+    "why": "Aider les autres développe la gentillesse et la confiance en soi. Cela montre aussi à ton enfant tout ce qu'il a appris.",
+    "steps": [
+     "Choisis une tâche simple, comme construire une tour ou lire un album.",
+     "Parlez de la façon d'aider : montrer, attendre et féliciter.",
+     "Laisse ton enfant aider l'enfant plus jeune.",
+     "Reste à proximité au cas où l'un des enfants aurait besoin de toi.",
+     "Remercie ton enfant pour sa gentillesse."
+    ],
+    "avoid": [
+     "Laisser les enfants sans surveillance.",
+     "Demander à ton enfant d'être responsable longtemps.",
+     "Les tâches trop difficiles pour l'enfant plus jeune."
+    ],
+    "success": "Ton enfant aide un enfant plus jeune à finir une tâche.",
+    "ways": [
+     "Aider un cousin ou une cousine à faire un puzzle.",
+     "Lire une histoire à un petit frère ou une petite sœur.",
+     "Montrer à un petit enfant comment jouer à un jeu."
+    ]
+   },
+   "times_tables": {
+    "name": "Les tables jusqu'à 10",
+    "goal": "Connaît la plupart des résultats des tables de multiplication jusqu'à 10 fois 10.",
+    "why": "Connaître ses tables par cœur facilite beaucoup de calculs. Cela donne de la rapidité et de l'assurance avec les nombres.",
+    "steps": [
+     "Choisis une table à travailler cette semaine, comme la table de 3.",
+     "Commencez par compter ensemble par bonds.",
+     "Pose 5 questions rapides, dans le désordre.",
+     "Appuie-toi sur ce que ton enfant sait déjà, comme doubler la table de 2 pour trouver celle de 4.",
+     "Félicite les efforts et note les résultats qui progressent."
+    ],
+    "avoid": [
+     "Les longues récitations chronométrées.",
+     "Travailler plusieurs tables à la fois.",
+     "Comparer avec d'autres enfants."
+    ],
+    "success": "Ton enfant répond correctement à 5 questions dans le désordre sur une même table.",
+    "ways": [
+     "Poser une question à chaque feu rouge ou à chaque arrêt.",
+     "Fabriquer ensemble des cartes mémoire.",
+     "Jouer aux dés et multiplier les nombres obtenus."
+    ]
+   },
+   "clock_minute": {
+    "name": "Lire l'heure à la minute près",
+    "goal": "Lit l'heure à la minute près sur une horloge à aiguilles.",
+    "why": "Lire l'heure aide ton enfant à organiser sa journée et à gagner en autonomie.",
+    "steps": [
+     "Utilise une horloge à aiguilles, ou dessines-en une.",
+     "Vérifie que ton enfant connaît « et demie », « et quart » et « moins le quart ».",
+     "Comptez ensemble les minutes de 5 en 5 en faisant le tour du cadran.",
+     "Montre comment compter minute par minute après le multiple de 5.",
+     "Règle 3 heures que ton enfant doit lire."
+    ],
+    "avoid": [
+     "N'utiliser que des horloges numériques.",
+     "Passer trop vite aux minutes avant que les bonds de 5 minutes soient faciles.",
+     "Les longues séances."
+    ],
+    "success": "Ton enfant lit 3 heures à la minute près.",
+    "ways": [
+     "Demander l'heure à de vrais moments de la journée.",
+     "Faire correspondre une horloge à aiguilles et une horloge numérique.",
+     "Prévoir une petite activité qui commence à une heure précise."
+    ]
+   },
+   "halves_quarters": {
+    "name": "Moitiés et quarts",
+    "goal": "Trouve la moitié et le quart de formes et de petites quantités.",
+    "why": "Les fractions font partie de la vie de tous les jours, du partage des repas à la lecture de l'heure.",
+    "steps": [
+     "Plie une feuille de papier en deux, puis en quatre.",
+     "Montre que les moitiés et les quarts sont des parts égales.",
+     "Partage 8 petits objets en 2 groupes égaux, puis en 4.",
+     "Demande : quelle est la moitié de 8, et le quart de 8 ?",
+     "Laisse ton enfant essayer avec 12 objets."
+    ],
+    "avoid": [
+     "Appeler moitiés des parts inégales.",
+     "Les nombres qui ne se partagent pas de façon égale.",
+     "Passer à la suite avant que les moitiés soient claires."
+    ],
+    "success": "Ton enfant trouve la moitié et le quart de 2 quantités.",
+    "ways": [
+     "Couper un sandwich ou une pizza en quatre ; c'est toi qui coupes avec un couteau tranchant.",
+     "Partager équitablement des bonbons entre plusieurs personnes.",
+     "Plier et colorier des formes en papier."
+    ]
+   },
+   "use_map": {
+    "name": "Utiliser un plan",
+    "goal": "Suit un plan simple pour trouver un lieu ou un objet.",
+    "why": "Les plans développent le repérage dans l'espace et aident ton enfant à comprendre où il se trouve.",
+    "steps": [
+     "Dessinez ensemble un plan simple d'une pièce.",
+     "Cache un petit objet et marque sa place d'une croix.",
+     "Laisse ton enfant utiliser le plan pour le trouver.",
+     "Regardez ensemble un plan de votre quartier.",
+     "Trouvez votre maison et un endroit familier."
+    ],
+    "avoid": [
+     "Les plans détaillés au début.",
+     "Lire le plan à la place de ton enfant.",
+     "Laisser ton enfant suivre un plan dehors sans adulte."
+    ],
+    "success": "Ton enfant trouve un objet caché grâce à un plan.",
+    "ways": [
+     "Suivre ensemble le plan d'un parc pendant une promenade.",
+     "Faire une carte au trésor pour un copain ou une copine.",
+     "Tracer un itinéraire sur une carte avant un voyage."
+    ]
+   },
+   "pocket_money": {
+    "name": "Économiser et dépenser son argent de poche",
+    "goal": "Partage son argent entre économies et dépenses, et économise pour quelque chose qui lui fait envie.",
+    "why": "Gérer une petite somme d'argent apprend la patience, les choix et la valeur de l'épargne.",
+    "steps": [
+     "Prépare 2 pots : un pour économiser, un pour dépenser.",
+     "Décidez ensemble comment partager l'argent.",
+     "Aide ton enfant à choisir un objectif d'épargne et à noter son prix.",
+     "Comptez les économies ensemble chaque semaine.",
+     "Laisse ton enfant faire ses propres choix de dépenses, même avec de petites erreurs."
+    ],
+    "avoid": [
+     "Remettre de l'argent quand il n'y en a plus.",
+     "Choisir l'objectif à la place de ton enfant.",
+     "Les objectifs si lointains que ton enfant s'en désintéresse."
+    ],
+    "success": "Ton enfant met de côté une partie de son argent 3 semaines de suite.",
+    "ways": [
+     "Dessiner un tableau qui se remplit au fil des économies.",
+     "Ajouter un troisième pot pour donner.",
+     "Comparer les prix avant d'acheter."
+    ]
+   },
+   "cook_simple": {
+    "name": "Cuisiner un repas simple avec un adulte",
+    "goal": "Aide à préparer un repas chaud simple ; c'est toi qui t'occupes de tout ce qui est chaud ou tranchant.",
+    "why": "Cuisiner ensemble développe la confiance en soi, le calcul et de bonnes habitudes alimentaires. C'est une compétence qui servira à ton enfant toute sa vie.",
+    "steps": [
+     "Choisis un repas simple, comme des œufs brouillés sur une tartine grillée.",
+     "Lavez-vous les mains et lisez les étapes ensemble.",
+     "Laisse ton enfant casser les œufs, fouetter et mesurer, puis lavez-vous de nouveau les mains après avoir touché l'œuf cru.",
+     "Toi, tu t'occupes des plaques de cuisson, des casseroles chaudes et des couteaux tranchants.",
+     "Laisse ton enfant remuer avec une longue cuillère seulement quand tu sens qu'il est prêt, avec toi à côté.",
+     "Servez et mangez ensemble."
+    ],
+    "avoid": [
+     "Laisser ton enfant sans surveillance près des plaques de cuisson.",
+     "Les manches de casserole qui dépassent du bord.",
+     "Se presser quand tout le monde a faim."
+    ],
+    "success": "Ton enfant fait au moins 3 étapes d'un repas chaud simple.",
+    "ways": [
+     "Préparer ensemble des pâtes avec une sauce simple.",
+     "Faire une omelette aux légumes.",
+     "Réchauffer une soupe et préparer des tartines grillées pour l'accompagner."
+    ]
+   },
+   "pack_trip": {
+    "name": "Faire sa valise",
+    "goal": "Prépare son propre sac pour un petit voyage à l'aide d'une liste.",
+    "why": "Faire sa valise développe l'organisation, l'autonomie et le sens des responsabilités envers ses affaires.",
+    "steps": [
+     "Écrivez ou dessinez ensemble une liste d'affaires à emporter.",
+     "Laisse ton enfant rassembler les affaires de la liste.",
+     "Montre comment rouler les vêtements pour gagner de la place.",
+     "Demande à ton enfant de cocher chaque affaire.",
+     "Vérifiez le sac ensemble à la fin."
+    ],
+    "avoid": [
+     "Faire le sac à la place de ton enfant.",
+     "Les longues listes avec trop d'affaires.",
+     "Attendre la dernière minute."
+    ],
+    "success": "Ton enfant met dans le sac toutes les affaires de la liste.",
+    "ways": [
+     "Préparer son sac pour une nuit chez un grand-parent.",
+     "Préparer un sac pour une journée à la plage.",
+     "Préparer un sac de sport pour un club."
+    ]
+   },
+   "homework_plan": {
+    "name": "Organiser le temps des devoirs",
+    "goal": "Choisit un moment et un endroit pour les devoirs, et s'y met sans aide.",
+    "why": "Une routine simple pour les devoirs développe la concentration et l'autonomie. Cela fait aussi moins de disputes à la maison.",
+    "steps": [
+     "Parlez du meilleur moment pour les devoirs, par exemple après le goûter.",
+     "Choisissez un endroit calme avec tout le matériel nécessaire.",
+     "Aide ton enfant à faire la liste des tâches du jour.",
+     "Découpe les grosses tâches en petites parties.",
+     "Utilise un minuteur pour la concentration et pour une petite pause."
+    ],
+    "avoid": [
+     "Faire les devoirs à la place de ton enfant.",
+     "Les écrans et le bruit à proximité.",
+     "Commencer quand ton enfant est très fatigué."
+    ],
+    "success": "Ton enfant commence ses devoirs à l'heure prévue, sans qu'on le lui rappelle.",
+    "ways": [
+     "Faire un tableau des devoirs de la semaine.",
+     "Cocher les tâches sur une liste.",
+     "Prévoir un moment de lecture chaque soir."
+    ]
+   },
+   "tidy_room": {
+    "name": "La routine du rangement de la chambre",
+    "goal": "Range sa chambre grâce à une petite routine quotidienne.",
+    "why": "Une routine de rangement développe le sens des responsabilités et permet de retrouver plus facilement ses affaires.",
+    "steps": [
+     "Donne à chaque chose une place bien définie, comme des boîtes ou des tiroirs étiquetés.",
+     "Choisis 3 petites tâches, comme ranger les vêtements, mettre les jouets dans les boîtes et faire le lit.",
+     "Règle un minuteur sur 5 minutes.",
+     "Aide au début, puis mets-toi en retrait.",
+     "Félicite l'effort et profitez ensemble de la chambre rangée."
+    ],
+    "avoid": [
+     "Ranger la chambre à la place de ton enfant.",
+     "Attendre la perfection.",
+     "Utiliser le rangement comme une punition."
+    ],
+    "success": "Ton enfant fait les 3 tâches en 5 minutes.",
+    "ways": [
+     "Ranger sur une chanson préférée.",
+     "Faire une liste en images sur la porte.",
+     "Ranger ensemble un matin de week-end."
+    ]
+   },
+   "swim_25m": {
+    "name": "Nager 25 mètres",
+    "goal": "Nage 25 mètres sans s'arrêter, dans une piscine surveillée.",
+    "why": "Nager une plus longue distance développe l'endurance, la confiance dans l'eau et une compétence importante pour la sécurité.",
+    "steps": [
+     "Va dans une piscine surveillée ou à un cours de natation.",
+     "Reste dans l'eau avec ton enfant, ou juste au bord du bassin s'il nage avec aisance, et surveille-le tout le temps.",
+     "Commence par 1 largeur, puis une pause au bord.",
+     "Ajoute un peu de distance à chaque fois.",
+     "Comptez ensemble les longueurs et félicite une respiration régulière."
+    ],
+    "avoid": [
+     "Les lacs, les rivières ou la mer pour s'exercer.",
+     "Laisser ton enfant nager sans qu'un adulte surveille.",
+     "Insister quand ton enfant a froid ou est fatigué."
+    ],
+    "success": "Ton enfant nage 1 longueur complète d'un bassin de 25 mètres.",
+    "ways": [
+     "Un cours de natation avec un maître-nageur.",
+     "Nager à côté d'un parent sur toute la longueur.",
+     "Une demi-longueur, une pause, puis l'autre moitié."
+    ]
+   },
+   "team_game": {
+    "name": "Passer et se démarquer en équipe",
+    "goal": "Fait une passe et se déplace vers un espace libre pendant un jeu d'équipe simple.",
+    "why": "Les jeux d'équipe développent la forme physique, l'esprit d'équipe et l'habitude de penser aux autres.",
+    "steps": [
+     "Trouve un parc ou un jardin, avec un ballon souple.",
+     "Jouez à 2 contre 1 avec un membre de la famille ou un copain.",
+     "Montre comment faire une passe, puis aller vers un espace libre.",
+     "Dis « passe et bouge » pour le rappeler.",
+     "Félicite chaque bonne passe, pas seulement les buts."
+    ],
+    "avoid": [
+     "Les ballons durs près des fenêtres ou des routes.",
+     "Compter les points d'une façon qui contrarie quelqu'un.",
+     "Les longues parties qui finissent en disputes parce que tout le monde est fatigué."
+    ],
+    "success": "Ton enfant fait une passe puis se déplace vers un nouvel espace 3 fois.",
+    "ways": [
+     "Un match de foot au parc.",
+     "Se passer un ballon à la main, comme au handball.",
+     "Une partie de passe à dix."
+    ]
+   },
+   "warm_up": {
+    "name": "S'échauffer et s'étirer",
+    "goal": "Fait un petit échauffement avant l'activité et des étirements doux après.",
+    "why": "S'échauffer prépare le corps à bouger. C'est une bonne habitude pour le sport et le jeu.",
+    "steps": [
+     "Commence par 1 minute de marche ou de course sur place.",
+     "Ajoute des moulinets de bras, vers l'avant et vers l'arrière.",
+     "Fais 5 montées de genou douces de chaque côté.",
+     "Après le jeu, tenez 3 étirements faciles en comptant lentement jusqu'à 10.",
+     "La prochaine fois, laisse ton enfant mener l'échauffement."
+    ],
+    "avoid": [
+     "Faire des à-coups ou forcer un étirement.",
+     "S'étirer malgré la douleur.",
+     "Sauter l'échauffement quand on est pressé."
+    ],
+    "success": "Ton enfant mène sans aide un échauffement de 3 mouvements.",
+    "ways": [
+     "Un échauffement avant une promenade en famille.",
+     "Une chanson d'échauffement avec des gestes.",
+     "S'étirer ensemble après une sortie à vélo."
+    ]
+   },
+   "short_route": {
+    "name": "Faire un petit trajet à vélo avec un adulte",
+    "goal": "Fait à vélo un petit trajet connu avec un adulte, en respectant les règles locales.",
+    "why": "Faire ensemble un trajet connu développe le sens de la route, l'organisation et la confiance en soi, pas à pas.",
+    "steps": [
+     "Vérifie que le casque est bien ajusté et attache-le à chaque fois.",
+     "Choisis un petit trajet calme que vous connaissez tous les deux.",
+     "Faites-le d'abord ensemble à pied ou à vélo et montre les carrefours.",
+     "Roule derrière ou à côté de ton enfant, en respectant les règles locales.",
+     "Arrêtez-vous à la fin et parlez de ce qui s'est bien passé.",
+     "C'est toi qui décides quand ton enfant peut aller plus loin."
+    ],
+    "avoid": [
+     "Les routes fréquentées ou rouler dans le noir.",
+     "Rouler sans casque.",
+     "Laisser ton enfant faire le trajet sans adulte avant que tu estimes que c'est possible."
+    ],
+    "success": "Ton enfant fait le petit trajet avec toi et s'arrête à chaque carrefour.",
+    "ways": [
+     "Un trajet à vélo jusqu'au parc.",
+     "Un trajet jusque chez un copain par des rues calmes.",
+     "Un tour du pâté de maisons."
+    ]
+   },
+   "mend_friendship": {
+    "name": "Réparer une amitié",
+    "goal": "Trouve un moyen de se réconcilier avec un copain ou une copine après une brouille.",
+    "why": "Les amitiés comptent davantage à cet âge. Apprendre à les réparer développe la gentillesse et la confiance en soi.",
+    "steps": [
+     "Écoute ton enfant te raconter ce qui s'est passé.",
+     "Demande ce que ton enfant ressent et ce que l'autre enfant pourrait ressentir.",
+     "Trouvez ensemble 2 façons de se réconcilier.",
+     "Entraînez-vous aux mots, comme « Pardon. On fait la paix ? »",
+     "Laisse ton enfant choisir un moment calme pour essayer."
+    ],
+    "avoid": [
+     "Prendre parti tout de suite.",
+     "Contacter l'autre enfant ou ses parents à la place de ton enfant.",
+     "Forcer des excuses rapides."
+    ],
+    "success": "Ton enfant prévoit ce qu'il va dire pour se réconcilier.",
+    "ways": [
+     "Un jeu de rôle avec un jouet ou un parent.",
+     "Écrire un petit mot.",
+     "Inviter l'autre enfant à jouer."
+    ]
+   },
+   "say_no_pressure": {
+    "name": "Dire non à la pression",
+    "goal": "Dit non calmement quand des copains le poussent à faire quelque chose qui ne lui semble pas bien.",
+    "why": "Les enfants ressentent plus la pression des copains en grandissant. Une réponse préparée à l'avance rend le non plus facile à dire.",
+    "steps": [
+     "Parlez d'une fois où quelqu'un voulait que ton enfant fasse une chose dont il n'avait pas envie.",
+     "Entraînez-vous à une réponse courte et ferme : « Non merci, je n'ai pas envie. »",
+     "Montre comment se redresser et regarder la personne en face.",
+     "Entraînez-vous à partir ou à changer de sujet.",
+     "Rappelle à ton enfant qu'il peut toujours t'en parler."
+    ],
+    "avoid": [
+     "Rendre l'exercice effrayant.",
+     "Se fâcher si ton enfant te parle d'une erreur.",
+     "Les longs sermons."
+    ],
+    "success": "Ton enfant dit non et s'en va, dans un jeu de rôle.",
+    "ways": [
+     "Un faux défi lancé par un parent.",
+     "Choisir un mot secret pour demander qu'on vienne le chercher.",
+     "Parler d'un personnage de livre ou de film."
+    ]
+   },
+   "present_topic": {
+    "name": "Présenter un sujet à la famille",
+    "goal": "Parle 2 minutes devant la famille d'un sujet qui lui plaît.",
+    "why": "Parler devant un groupe donne confiance et aide pour les exposés à l'école.",
+    "steps": [
+     "Laisse ton enfant choisir un sujet qui le passionne.",
+     "Aide ton enfant à écrire 3 points clés sur une fiche.",
+     "Répétez une fois ensemble, à voix haute.",
+     "Réunis la famille et écoutez sans interrompre.",
+     "Pose 1 question bienveillante à la fin et applaudissez."
+    ],
+    "avoid": [
+     "Corriger les erreurs pendant l'exposé.",
+     "Choisir le sujet à la place de ton enfant.",
+     "Faire un exposé trop long."
+    ],
+    "success": "Ton enfant parle 2 minutes de son sujet.",
+    "ways": [
+     "Un exposé sur un animal préféré.",
+     "Un dessin ou un objet à montrer.",
+     "Un exposé pour les grands-parents en appel vidéo."
+    ]
+   },
+   "kind_online": {
+    "name": "Des messages gentils en ligne",
+    "goal": "Écrit en ligne des messages gentils et clairs, et sait quoi faire si un message fait de la peine.",
+    "why": "Les mots en ligne peuvent blesser autant que les mots en face. De bonnes habitudes dès maintenant protègent ton enfant et les autres.",
+    "steps": [
+     "Asseyez-vous ensemble et regardez la messagerie familiale ou un chat de jeu que tu surveilles.",
+     "Demande : « Est-ce que je le dirais en face ? »",
+     "Écrivez ensemble un message gentil.",
+     "Parlez de ce qu'il faut faire si un message semble méchant : arrêter, ne pas répondre, prévenir un adulte.",
+     "Mettez-vous d'accord : aucune information personnelle dans les messages."
+    ],
+    "avoid": [
+     "Les applis de messagerie ou les jeux sans qu'un parent jette un œil régulièrement.",
+     "Partager son nom, son école ou son adresse.",
+     "Répondre aux messages méchants."
+    ],
+    "success": "Ton enfant écrit un message gentil et dit quoi faire si un message lui fait de la peine.",
+    "ways": [
+     "Un message à un grand-parent.",
+     "Lire des exemples de messages et repérer les gentils.",
+     "Une carte des règles de la famille près de l'ordinateur."
+    ]
+   },
+   "ask_help": {
+    "name": "Demander de l'aide à un adulte",
+    "goal": "Sait à quels adultes demander de l'aide et comment le demander clairement.",
+    "why": "Savoir à qui s'adresser et quoi dire aide ton enfant à se sentir en sécurité quand quelque chose ne va pas.",
+    "steps": [
+     "Parlez des adultes de confiance, comme les enseignants et la famille.",
+     "Parlez des personnes sûres à qui s'adresser dehors, comme un employé de magasin ou un parent avec des enfants.",
+     "Entraînez-vous à une demande claire : « J'ai perdu mon chemin. Vous pouvez m'aider à appeler mes parents ? »",
+     "Faites un jeu de rôle une fois à la maison.",
+     "Vérifie que ton enfant connaît ton numéro de téléphone."
+    ],
+    "avoid": [
+     "Aller où que ce soit avec quelqu'un qu'on ne connaît pas.",
+     "Rendre l'exercice effrayant.",
+     "Oublier de vérifier le numéro de téléphone."
+    ],
+    "success": "Ton enfant nomme 3 adultes de confiance et demande clairement de l'aide dans un jeu de rôle.",
+    "ways": [
+     "Demander un livre à la bibliothèque.",
+     "Demander à un employé de magasin où se trouve un article.",
+     "Convenir d'un point de rendez-vous dans les endroits très fréquentés."
+    ]
+   },
+   "mental_maths": {
+    "name": "Le calcul mental",
+    "goal": "Additionne, soustrait et multiplie de tête des nombres simples.",
+    "why": "Un calcul mental rapide aide tous les jours pour les courses, l'heure et le travail scolaire.",
+    "steps": [
+     "Choisis un moment calme, comme une promenade ou un trajet en voiture.",
+     "Commence par une question facile, comme 20 plus 30.",
+     "Laisse-lui le temps de réfléchir avant de l'aider.",
+     "Demande comment ton enfant a trouvé.",
+     "Rends la question suivante un peu plus difficile."
+    ],
+    "avoid": [
+     "Chronométrer ton enfant.",
+     "Comparer avec les frères et sœurs ou les camarades de classe.",
+     "Trop de questions à la suite."
+    ],
+    "success": "Ton enfant répond de tête à 5 questions.",
+    "ways": [
+     "Additionner les prix dans un magasin.",
+     "Compter combien de minutes il reste avant le dîner.",
+     "Un jeu de nombres dans la voiture."
+    ]
+   },
+   "write_email": {
+    "name": "Écrire un e-mail",
+    "goal": "Écrit un court e-mail avec une formule d'appel, un message et une formule de fin.",
+    "why": "Écrire un e-mail est une compétence de la vie réelle qui développe une écriture claire et la frappe au clavier.",
+    "steps": [
+     "Asseyez-vous ensemble devant un ordinateur ou une tablette, ta messagerie ouverte.",
+     "Choisis une personne que ton enfant connaît, comme un grand-parent.",
+     "Montre les parties : l'objet, la formule d'appel, le message, la formule de fin.",
+     "Laisse ton enfant taper 3 phrases courtes.",
+     "Relisez ensemble, puis laisse ton enfant appuyer sur « Envoyer »."
+    ],
+    "avoid": [
+     "Écrire à des personnes que ton enfant ne connaît pas.",
+     "Ajouter des informations personnelles comme ton adresse.",
+     "Corriger chaque faute d'orthographe à sa place."
+    ],
+    "success": "Ton enfant écrit et envoie un e-mail avec les 4 parties.",
+    "ways": [
+     "Un e-mail de remerciement à un proche.",
+     "Un e-mail à un parent au travail.",
+     "Un petit e-mail pour raconter le week-end."
+    ]
+   },
+   "look_up_safely": {
+    "name": "Chercher une réponse en ligne en sécurité",
+    "goal": "Cherche une réponse en ligne avec un adulte et vérifie si un site est fiable.",
+    "why": "Trouver de bonnes réponses en ligne est une compétence clé pour l'école. Le faire ensemble assure la sécurité.",
+    "steps": [
+     "Choisissez ensemble une question, comme la taille d'une girafe.",
+     "Utilise un réglage de recherche adapté aux enfants, avec toi à côté.",
+     "Aide ton enfant à choisir des mots de recherche simples.",
+     "Regardez 2 résultats et demande lequel semble fiable.",
+     "Mettez-vous d'accord pour fermer tout ce qui semble anormal et t'en parler."
+    ],
+    "avoid": [
+     "Chercher sans parent à proximité.",
+     "Cliquer sur les publicités ou les fenêtres qui s'ouvrent.",
+     "Taper des informations personnelles."
+    ],
+    "success": "Ton enfant trouve une réponse sur un site fiable, avec toi.",
+    "ways": [
+     "Vérifier une information pour les devoirs.",
+     "Se renseigner sur un animal.",
+     "Chercher la météo de demain."
+    ]
+   },
+   "cross_road": {
+    "name": "Traverser la route sans adulte",
+    "goal": "Traverse une route calme en sécurité, après beaucoup d'entraînement ensemble.",
+    "why": "Le sens de la route met des années à se construire. S'entraîner ensemble t'aide à décider quand ton enfant est prêt.",
+    "steps": [
+     "Traversez d'abord ensemble de nombreuses fois, à un endroit sûr pour traverser.",
+     "Laisse ton enfant mener : s'arrêter au bord du trottoir, regarder et écouter des deux côtés.",
+     "Attendre que la route soit libre, puis traverser tout droit en marchant, en regardant et en écoutant jusqu'au bout.",
+     "Regarde de tout près pendant que ton enfant traverse sans toi.",
+     "Parlez de ce que ton enfant a remarqué.",
+     "C'est toi qui décides quand ton enfant est prêt, en respectant les règles locales."
+    ],
+    "avoid": [
+     "Traverser entre des voitures garées ou près des virages.",
+     "Utiliser un téléphone ou un casque audio en traversant.",
+     "Les routes fréquentées ou traverser dans le noir au début."
+    ],
+    "success": "Ton enfant traverse une route calme en sécurité pendant que tu regardes.",
+    "ways": [
+     "Utiliser ensemble un passage piéton.",
+     "Repérer en promenade les endroits sûrs pour traverser.",
+     "Te dire quand on peut y aller sans danger."
+    ]
+   },
+   "walk_friend": {
+    "name": "Aller à pied chez un copain sans adulte",
+    "goal": "Fait à pied un petit trajet connu jusque chez un copain ou une copine, une fois que tu estimes que c'est possible.",
+    "why": "Un premier petit trajet sans adulte développe l'autonomie et la confiance. L'entraînement ensemble vient d'abord.",
+    "steps": [
+     "Faites d'abord le trajet ensemble de nombreuses fois.",
+     "Laisse ton enfant ouvrir la marche et repérer les endroits sûrs pour traverser.",
+     "Mettez-vous d'accord sur le trajet exact et une heure d'arrivée.",
+     "Demande au parent de l'autre enfant d'appeler ou d'envoyer un message quand ton enfant arrive.",
+     "Au début, suis à quelque distance derrière, si tu le souhaites.",
+     "C'est toi qui décides quand ton enfant est prêt, en respectant les règles locales."
+    ],
+    "avoid": [
+     "Les trajets nouveaux ou longs.",
+     "Marcher sans adulte dans le noir.",
+     "Changer de programme sans te prévenir."
+    ],
+    "success": "Ton enfant mène tout le trajet pendant que tu marches derrière.",
+    "ways": [
+     "Aller à pied chez un voisin.",
+     "Venir te retrouver au coin de la rue.",
+     "Un petit trajet à pied jusqu'à un magasin avec un copain."
+    ]
+   },
+   "shop_budget": {
+    "name": "Faire les courses avec un budget",
+    "goal": "Achète quelques articles sans dépasser une somme fixée.",
+    "why": "Faire les courses avec un budget apprend à s'organiser, à faire des choix et la valeur de l'argent.",
+    "steps": [
+     "Écrivez ensemble une petite liste de 3 articles.",
+     "Donne une somme d'argent fixée.",
+     "Dans le magasin, laisse ton enfant vérifier les prix.",
+     "Aide ton enfant à calculer le total avant de payer.",
+     "Laisse ton enfant payer et vérifier la monnaie."
+    ],
+    "avoid": [
+     "Se presser aux heures d'affluence.",
+     "Payer la différence en cas de dépassement.",
+     "Choisir les articles à sa place."
+    ],
+    "success": "Ton enfant achète 3 articles sans dépasser le budget.",
+    "ways": [
+     "Acheter des en-cas pour un pique-nique.",
+     "Choisir les fruits de la semaine.",
+     "Prévoir un petit cadeau d'anniversaire."
+    ]
+   },
+   "cook_family": {
+    "name": "Cuisiner un repas pour la famille",
+    "goal": "Prépare un repas simple pour la famille, avec un adulte tout près.",
+    "why": "Cuisiner pour les autres développe la fierté, les compétences en cuisine et de bonnes habitudes alimentaires.",
+    "steps": [
+     "Choisissez ensemble un repas facile, comme des pâtes à la sauce.",
+     "Lavez-vous les mains et lisez la recette en entier.",
+     "Laisse ton enfant mesurer, remuer et servir.",
+     "Occupe-toi de tout ce qui est chaud ou tranchant jusqu'à ce que ton enfant soit clairement prêt.",
+     "Mettez-vous à table ensemble et remerciez le cuisinier ou la cuisinière."
+    ],
+    "avoid": [
+     "Laisser ton enfant sans surveillance près des plaques de cuisson ou du four.",
+     "Les couteaux tranchants sans un adulte tout près.",
+     "Les repas avec beaucoup d'étapes au début."
+    ],
+    "success": "Ton enfant prépare un repas avec toi à proximité et le sert.",
+    "ways": [
+     "Un repas froid, comme une salade.",
+     "Le petit déjeuner pour la famille le week-end.",
+     "Faire une pizza avec des garnitures prêtes."
+    ]
+   },
+   "timetable": {
+    "name": "Lire des horaires de bus ou de train",
+    "goal": "Trouve un horaire sur une fiche horaire de bus ou de train.",
+    "why": "Lire des horaires fait appel à la lecture de l'heure et aide ton enfant à organiser ses trajets.",
+    "steps": [
+     "Regardez ensemble des horaires imprimés ou en ligne.",
+     "Trouvez votre arrêt et l'endroit où vous voulez aller.",
+     "Demande à ton enfant de trouver le prochain bus ou train.",
+     "Calculez combien de temps dure le trajet.",
+     "Vérifiez la réponse ensemble lors d'un vrai trajet."
+    ],
+    "avoid": [
+     "Les fiches horaires avec trop de lignes au début.",
+     "Se presser sur le chemin pour attraper un bus.",
+     "Lire les horaires à la place de ton enfant."
+    ],
+    "success": "Ton enfant trouve l'horaire du prochain bus ou train.",
+    "ways": [
+     "Préparer un trajet jusqu'à la bibliothèque.",
+     "Consulter les horaires à l'arrêt.",
+     "Préparer un trajet imaginaire."
+    ]
+   },
+   "plan_day_out": {
+    "name": "Organiser une sortie",
+    "goal": "Aide à organiser une sortie en famille : où, quand et quoi emporter.",
+    "why": "Organiser développe la réflexion, la capacité à choisir et le sentiment que ses idées comptent.",
+    "steps": [
+     "Propose 2 ou 3 endroits au choix.",
+     "Demande à ton enfant de vérifier les horaires d'ouverture avec toi.",
+     "Aide ton enfant à prévoir comment aller et revenir.",
+     "Faites une petite liste de choses à emporter.",
+     "Le jour venu, laisse ton enfant mener le programme."
+    ],
+    "avoid": [
+     "Trop de choix.",
+     "Les projets qui coûtent plus que ce que tu veux dépenser.",
+     "Changer tout le programme sans demander à ton enfant."
+    ],
+    "success": "Ton enfant fait un plan simple avec un lieu, une heure et une liste d'affaires.",
+    "ways": [
+     "Un pique-nique au parc.",
+     "Une visite au musée.",
+     "Une promenade en forêt."
+    ]
+   },
+   "first_aid": {
+    "name": "Les premiers secours de base",
+    "goal": "Sait nettoyer une petite coupure et quand aller chercher un adulte ou appeler à l'aide.",
+    "why": "Les premiers secours de base aident les enfants à rester calmes et à savoir quoi faire en cas d'urgence.",
+    "steps": [
+     "Montre où se trouve la trousse de secours.",
+     "Entraînez-vous à nettoyer une fausse coupure et à mettre un pansement.",
+     "Parlez des situations où il faut aller chercher un adulte tout de suite.",
+     "Entraînez-vous à dire le numéro d'urgence, le 112, et votre adresse.",
+     "Faites le jeu de rôle d'un court appel, sans composer le numéro."
+    ],
+    "avoid": [
+     "Composer le 112 pour s'exercer.",
+     "Prendre des médicaments sans adulte.",
+     "Les histoires effrayantes."
+    ],
+    "success": "Ton enfant met un pansement et dit le numéro d'urgence, le 112, et votre adresse.",
+    "ways": [
+     "Un jeu de premiers secours avec un nounours.",
+     "Vérifier ensemble la trousse de secours.",
+     "Regarder ensemble une vidéo de premiers secours pour enfants."
+    ]
+   },
+   "washing_machine": {
+    "name": "Utiliser la machine à laver avec de l'aide",
+    "goal": "Trie le linge et lance la machine à laver avec un adulte.",
+    "why": "Aider pour le linge développe l'autonomie et montre comment fonctionne une maison.",
+    "steps": [
+     "Triez ensemble les vêtements clairs et foncés.",
+     "Vérifiez les poches : mouchoirs, pièces de monnaie.",
+     "Remplissez la machine et fermez le hublot.",
+     "Mets toi-même la lessive, puis montre le programme à choisir.",
+     "Laisse ton enfant appuyer sur le bouton de démarrage."
+    ],
+    "avoid": [
+     "Laisser ton enfant manipuler la lessive sans toi.",
+     "Ouvrir le hublot pendant un lavage.",
+     "Grimper sur la machine."
+    ],
+    "success": "Ton enfant trie, remplit la machine et lance un lavage avec toi.",
+    "ways": [
+     "Étendre le linge.",
+     "Assortir les chaussettes qui sortent de la machine.",
+     "Plier les serviettes."
+    ]
    }
   },
   "guides": {
@@ -6170,6 +8962,381 @@
     "urgent": [
      "Tu penses à te faire du mal ou à faire du mal à ton bébé. Demande de l'aide tout de suite : appelle le 112 ou une ligne d'écoute d'urgence, ou va aux urgences les plus proches."
     ]
+   },
+   "starting_school": {
+    "title": "Mon enfant entre à l'école",
+    "intro": "L'entrée à l'école est un grand changement pour toute la famille. La plupart des enfants s'adaptent en quelques semaines, surtout avec un début en douceur et beaucoup de repos.",
+    "common": [
+     "Beaucoup d'enfants ressentent à la fois de l'excitation et de la nervosité.",
+     "Les enfants sont souvent très fatigués les premières semaines. Certains sont grognons, pleurent facilement ou ne te lâchent plus à la maison, après s'être retenus toute la journée.",
+     "Certains enfants racontent peu leur journée. C'est normal et cela ne veut pas dire que quelque chose ne va pas.",
+     "Les rhumes et les gastros sont plus fréquents pendant la première année d'école."
+    ],
+    "helps": [
+     "Parle de l'école de façon positive. Lisez des livres sur la rentrée et visitez l'école ensemble si c'est possible.",
+     "Exercez les gestes du quotidien : s'habiller, aller aux toilettes sans aide, se laver les mains, ouvrir sa boîte à goûter et mettre ses chaussures.",
+     "Marque les vêtements et les sacs, et garde une routine du matin simple et identique chaque jour.",
+     "Dis au revoir brièvement et avec le sourire, et dis à ton enfant qui viendra le chercher.",
+     "Propose un goûter et un moment calme après l'école, et garde un coucher tôt.",
+     "Pose de petites questions, comme « À côté de qui étais-tu à la cantine ? », plutôt que « Comment s'est passée ta journée ? »"
+    ],
+    "help": [
+     "Ton enfant est encore très bouleversé par l'école après les 6 premières semaines.",
+     "Ton enfant refuse souvent d'y aller, ou se plaint de maux de ventre ou de tête les jours d'école.",
+     "Ton enfant ne mange plus ou ne dort plus bien, ou semble malheureux la plupart du temps. Parles-en d'abord à l'enseignant."
+    ],
+    "urgent": []
+   },
+   "homework": {
+    "title": "Des devoirs sans bataille",
+    "intro": "Les devoirs des premières années d'école sont en général courts. Une routine calme compte plus que d'avoir toutes les bonnes réponses.",
+    "common": [
+     "Les jeunes enfants ont souvent un peu de lecture, d'orthographe ou de calcul à faire à la maison.",
+     "La fatigue, la faim et les écrans sont des raisons fréquentes qui transforment les devoirs en bataille.",
+     "Beaucoup d'enfants ont besoin d'aide pour démarrer, puis peuvent travailler seuls un petit moment."
+    ],
+    "helps": [
+     "Choisis un moment fixe, après un goûter et une petite pause, et garde-le chaque jour.",
+     "Trouve un coin calme, bien éclairé, avec ce dont ton enfant a besoin. Éloigne les écrans et les jouets.",
+     "Aide ton enfant à comprendre la consigne, puis mets-toi en retrait. Ne fais pas le travail à sa place.",
+     "Découpe les tâches plus longues en petites parties, avec une courte pause pour bouger entre les deux.",
+     "Félicite les efforts et les bonnes habitudes, pas seulement les bonnes réponses.",
+     "Si ton enfant est fatigué et contrarié, arrête et réessaie plus tard. Une séance courte et calme vaut mieux qu'une longue séance dans les larmes."
+    ],
+    "help": [
+     "Les devoirs prennent beaucoup plus de temps que l'enseignant ne le prévoit, ou finissent souvent en larmes.",
+     "Ton enfant semble trouver la lecture, l'écriture ou le calcul bien plus difficiles que le reste. Parles-en à l'enseignant.",
+     "Tu ne sais pas jusqu'où aider. Demande à l'école ce qu'elle attend."
+    ],
+    "urgent": []
+   },
+   "reading": {
+    "title": "Comment aider mon enfant à lire ?",
+    "intro": "Les enfants apprennent à lire à des rythmes différents. Lire ensemble chaque jour, même 10 minutes, est l'une des meilleures choses à faire.",
+    "common": [
+     "Beaucoup d'enfants apprennent à lire en déchiffrant les lettres et en assemblant les sons pour former des mots. Demande à l'école quelle méthode elle utilise.",
+     "Confondre des lettres comme b et d est fréquent pendant les premières années d'école.",
+     "Les progrès arrivent souvent par paliers, avec des semaines plus lentes entre les deux.",
+     "Les enfants qui entendent des histoires à la maison apprennent de nouveaux mots, même quand ils ne savent pas encore les lire."
+    ],
+    "helps": [
+     "Continue à lire à voix haute à ton enfant, même quand il sait lire sans aide.",
+     "Laisse ton enfant choisir ce qu'il lit : BD, blagues, documentaires sur les animaux ou recettes, tout compte.",
+     "Quand ton enfant bloque, attends quelques secondes. Puis aide-le à déchiffrer le mot.",
+     "Parlez de l'histoire : « À ton avis, que va-t-il se passer ensuite ? »",
+     "Allez à la bibliothèque ensemble et laisse ton enfant choisir des livres.",
+     "Fais court et garde le plaisir. Arrête avant que ton enfant se fatigue.",
+     "Laisse aussi ton enfant te voir lire."
+    ],
+    "help": [
+     "Ton enfant trouve toujours la lecture très difficile malgré un soutien supplémentaire à l'école. Certains enfants sont dyslexiques, et une aide précoce est utile.",
+     "Ton enfant se frotte les yeux, tient les livres très près ou a mal à la tête en lisant. Prends rendez-vous pour un examen de la vue.",
+     "L'audition ou le langage de ton enfant t'inquiète."
+    ],
+    "urgent": []
+   },
+   "bedwetting": {
+    "title": "Mon enfant fait encore pipi au lit",
+    "intro": "Le pipi au lit est fréquent chez les enfants d'âge scolaire et c'est souvent familial. Ce n'est pas la faute de ton enfant, et la plupart des enfants arrêtent en grandissant.",
+    "common": [
+     "Beaucoup d'enfants font encore pipi au lit à 5 ans, et certains à 7 ans ou plus.",
+     "Les raisons fréquentes sont un sommeil profond, une forte production d'urine la nuit et une vessie qui grandit encore.",
+     "La constipation peut aggraver le pipi au lit.",
+     "Un stress, comme l'entrée à l'école ou l'arrivée d'un bébé, peut le faire revenir pendant un temps."
+    ],
+    "helps": [
+     "Garde ton calme et ta douceur. Ne punis jamais ton enfant et ne te moque jamais de lui pour un pipi au lit.",
+     "Propose à boire régulièrement dans la journée, environ 6 à 8 fois, et moins dans l'heure avant le coucher.",
+     "Évite les boissons gazeuses, le cola, le thé et le café, surtout le soir.",
+     "Encourage ton enfant à aller aux toilettes régulièrement dans la journée et juste avant le coucher.",
+     "Rends les toilettes faciles d'accès la nuit, avec une veilleuse.",
+     "Utilise une alèse imperméable et garde des draps de rechange à portée de main.",
+     "Félicite les étapes convenues ensemble, comme aller aux toilettes avant de se coucher, pas les nuits sans pipi au lit."
+    ],
+    "help": [
+     "Ton enfant a plus de 5 ans et le pipi au lit le contrarie, ou pèse sur la famille.",
+     "Ton enfant a recommencé à faire pipi au lit après avoir été propre la nuit pendant 6 mois ou plus.",
+     "Ton enfant a aussi des fuites dans la journée, a mal en faisant pipi ou est constipé.",
+     "Les conseils à la maison n'ont pas aidé. Ton médecin, l'infirmier ou l'infirmière scolaire peut te parler d'un système d'alarme ou d'un médicament."
+    ],
+    "urgent": [
+     "Ton enfant refait soudain pipi au lit et a aussi très soif, fait beaucoup plus pipi, est très fatigué ou perd du poids. Demande un avis médical le jour même."
+    ]
+   },
+   "head_lice": {
+    "title": "Mon enfant a des poux",
+    "intro": "Les poux sont très fréquents chez les enfants d'âge scolaire. Ils ne sont pas un signe de cheveux sales et ne transmettent pas de maladie.",
+    "common": [
+     "Les poux se transmettent par contact de tête à tête. Ils ne sautent pas et ne volent pas.",
+     "Les démangeaisons du cuir chevelu sont fréquentes, mais certains enfants ne sentent rien.",
+     "Les lentes sont les coques d'œufs vides. Elles sont blanches ou brunes et collent aux cheveux.",
+     "La seule façon d'en avoir la certitude est de trouver un pou vivant."
+    ],
+    "helps": [
+     "Vérifie avec un peigne fin anti-poux sur cheveux mouillés, avec beaucoup d'après-shampooing. Peigne des racines jusqu'aux pointes, mèche par mèche.",
+     "Passe le peigne sur cheveux mouillés les jours 1, 5, 9 et 13 pour attraper les poux nouvellement éclos. Vérifie encore le jour 17.",
+     "Si tu préfères, utilise une lotion ou un spray anti-poux de la pharmacie. Suis exactement la notice. Certains produits demandent un second traitement après une semaine.",
+     "Vérifie toutes les personnes de la maison et traite uniquement celles qui ont des poux vivants, toutes le même jour.",
+     "Ton enfant peut continuer à aller à l'école.",
+     "Inutile de laver à haute température ou de nettoyer spécialement la maison.",
+     "N'utilise pas de traitement anti-poux en prévention. Ils ne fonctionnent pas ainsi et peuvent irriter le cuir chevelu."
+    ],
+    "help": [
+     "Tu trouves encore des poux vivants après 2 traitements complets. Demande d'autres solutions en pharmacie.",
+     "Le cuir chevelu de ton enfant semble rouge, douloureux ou infecté.",
+     "Ton enfant a moins de 2 ans, de l'asthme ou des allergies, ou une maladie de peau. Demande conseil en pharmacie avant d'utiliser une lotion."
+    ],
+    "urgent": []
+   },
+   "sleep_school": {
+    "title": "De combien de sommeil mon enfant d'âge scolaire a-t-il besoin ?",
+    "intro": "Les enfants de 6 à 12 ans ont besoin d'environ 9 à 12 heures de sommeil par nuit. Bien dormir aide à apprendre, à garder une bonne humeur et à grandir.",
+    "common": [
+     "Les enfants de 3 à 5 ans ont besoin d'environ 10 à 13 heures par jour.",
+     "Certains enfants ont besoin de plus de sommeil que d'autres. Un enfant qui se réveille facilement et n'est pas fatigué dans la journée dort en général assez.",
+     "Les peurs au coucher, les soucis liés à l'école et les écrans sont des raisons fréquentes de mauvais sommeil.",
+     "La fatigue peut ressembler à de la mauvaise humeur, à des difficultés de concentration ou à de l'agitation."
+    ],
+    "helps": [
+     "Garde la même heure de coucher et de lever chaque jour, week-end compris, autant que possible.",
+     "Prévois une routine calme avant le coucher : bain ou toilette, dents, une histoire ou une discussion tranquille.",
+     "Éteins les écrans au moins 1 heure avant le coucher, et laisse-les hors de la chambre la nuit.",
+     "Garde la chambre calme, sombre et fraîche.",
+     "Prévois du temps pour jouer activement dehors pendant la journée.",
+     "Évite la caféine, par exemple le cola et les boissons énergisantes.",
+     "Si ton enfant s'inquiète au coucher, garde quelques minutes plus tôt dans la soirée pour parler de ses soucis."
+    ],
+    "help": [
+     "Ton enfant ronfle fort la plupart des nuits, ou semble arrêter de respirer quelques instants pendant son sommeil.",
+     "Ton enfant est souvent très fatigué dans la journée, même après une nuit complète.",
+     "Les réveils nocturnes, les cauchemars ou le somnambulisme sont fréquents et pèsent sur la famille."
+    ],
+    "urgent": []
+   },
+   "screens_school": {
+    "title": "Écrans, jeux vidéo et premier téléphone",
+    "intro": "Il n'existe pas une seule bonne durée d'écran pour les enfants d'âge scolaire. Le plus important est que les écrans ne prennent pas la place du sommeil, de l'activité physique, des devoirs et des moments ensemble.",
+    "common": [
+     "Les spécialistes conseillent des limites familiales claires plutôt qu'un nombre d'heures identique pour tous les enfants.",
+     "Les jeux, les vidéos et les applis sont conçus pour retenir les enfants. S'arrêter est difficile, et c'est normal.",
+     "Il n'y a pas de bon âge pour un premier téléphone. Cela dépend de ton enfant, de ta famille et de la raison pour laquelle il en a besoin."
+    ],
+    "helps": [
+     "Établissez ensemble un plan familial pour les écrans : quand, où et combien de temps.",
+     "Pas d'écrans pendant les repas ni dans l'heure avant le coucher. Recharge les appareils hors de la chambre la nuit.",
+     "Vérifie l'âge conseillé des jeux et des applis avant que ton enfant les utilise.",
+     "Jouez ou regardez ensemble de temps en temps, et demande à ton enfant de te montrer son jeu préféré.",
+     "Préviens 5 minutes avant la fin du temps d'écran.",
+     "Si tu choisis un premier téléphone, commence par un modèle simple ou avec des fonctions limitées, active le contrôle parental et fixez les règles avant de le lui donner.",
+     "Montre les habitudes que tu veux voir. Range ton propre téléphone pendant les repas et les moments en famille."
+    ],
+    "help": [
+     "Les écrans provoquent beaucoup de conflits à la maison.",
+     "Ton enfant semble incapable d'arrêter, est très contrarié sans écrans, ou renonce à ses amis, à son sommeil ou à ses activités pour eux.",
+     "L'humeur, le sommeil ou le travail scolaire de ton enfant t'inquiète."
+    ],
+    "urgent": []
+   },
+   "online_safety": {
+    "title": "Comment protéger mon enfant en ligne ?",
+    "intro": "Internet peut être un super endroit pour apprendre et jouer. Les enfants ont besoin d'un adulte à proximité et de règles simples pendant qu'ils apprennent à l'utiliser en sécurité.",
+    "common": [
+     "Les enfants peuvent tomber par hasard sur des contenus choquants, même sur des sites qui leur sont destinés.",
+     "La plupart des réseaux sociaux ne sont pas faits pour les enfants de moins de 13 ans, et certains pays fixent un âge minimum plus élevé.",
+     "Les enfants ne parlent souvent pas aux adultes d'un problème en ligne, de peur qu'on leur retire leur appareil."
+    ],
+    "helps": [
+     "Garde les appareils dans les pièces communes, pas dans la chambre.",
+     "Configurez ensemble le contrôle parental, la recherche adaptée aux enfants et les paramètres de confidentialité.",
+     "Fixez des règles simples : ne jamais donner son nom complet, son adresse, son école, son numéro de téléphone ou des photos à des inconnus.",
+     "Explique que les gens en ligne ne sont pas toujours ceux qu'ils prétendent être.",
+     "Dis à ton enfant qu'il peut toujours venir te voir si quelque chose le met mal à l'aise, et qu'il ne sera pas grondé.",
+     "Reste calme s'il te raconte quelque chose. Remercie-le de t'en avoir parlé.",
+     "Parlez de la gentillesse en ligne, et demande-lui souvent ce qu'il y fait."
+    ],
+    "help": [
+     "Ton enfant a vu quelque chose qui l'a bouleversé et qui continue de le tracasser.",
+     "Ton enfant reçoit des messages méchants en ligne, ou est contrarié après avoir utilisé un appareil. Consulte le guide sur les problèmes d'amitié et le harcèlement.",
+     "Ton enfant devient très discret sur ce qu'il fait avec un appareil ou sur ses amis en ligne."
+    ],
+    "urgent": [
+     "Une personne rencontrée en ligne demande à rencontrer ton enfant en vrai, lui demande des photos ou lui demande de garder un secret. Garde les messages, ne réponds pas et contacte la police."
+    ]
+   },
+   "friends_bullying": {
+    "title": "Problèmes d'amitié et harcèlement",
+    "intro": "Se fâcher avec des copains fait partie de l'enfance. Le harcèlement est différent : c'est un comportement méchant qui se répète encore et encore et qui vise à faire du mal.",
+    "common": [
+     "Les amitiés changent souvent pendant les années d'école. Les enfants peuvent être meilleurs amis une semaine et fâchés la suivante.",
+     "Le harcèlement peut prendre la forme de coups ou de bousculades, de moqueries et d'insultes, de mise à l'écart, de rumeurs ou de messages méchants en ligne.",
+     "Les enfants harcelés n'en parlent pas toujours. Les signes peuvent être : ne pas vouloir aller à l'école, des maux de ventre, un mauvais sommeil, des affaires perdues ou abîmées, ou un repli sur soi."
+    ],
+    "helps": [
+     "Écoute calmement et laisse ton enfant raconter toute l'histoire. Remercie-le de t'en avoir parlé.",
+     "Dis à ton enfant que ce n'est pas sa faute.",
+     "Aide-le à s'entraîner à dire et à faire : dire « Stop » d'une voix claire, s'éloigner et prévenir un adulte.",
+     "Ne dis pas à ton enfant de rendre les coups.",
+     "Note ce qui s'est passé, quand et qui était impliqué. Garde des captures d'écran des messages en ligne.",
+     "Parle à l'enseignant et demande ce que l'école va faire. Convenez d'un moment pour faire le point.",
+     "Aide ton enfant à se faire des amis en dehors de l'école, grâce aux activités, au sport ou aux invitations à jouer."
+    ],
+    "help": [
+     "Le harcèlement continue après que tu en as parlé à l'école.",
+     "Ton enfant semble triste, anxieux ou replié sur lui-même depuis plus de quelques semaines, ou ne veut pas aller à l'école.",
+     "Tu découvres que ton enfant harcèle d'autres enfants. Parles-en calmement avec ton enfant et avec l'école."
+    ],
+    "urgent": [
+     "Ton enfant a été blessé ou menacé. Assure-toi qu'il est en sécurité et demande de l'aide tout de suite.",
+     "Ton enfant parle de se faire du mal ou de ne plus vouloir vivre. Demande de l'aide tout de suite : appelle le 112 ou une ligne d'écoute pour enfants comme le 116 111, ou va aux urgences les plus proches."
+    ]
+   },
+   "worries": {
+    "title": "Mon enfant s'inquiète beaucoup",
+    "intro": "Tous les enfants s'inquiètent parfois. L'inquiétude est une réaction normale qui monte puis redescend, et les enfants peuvent apprendre à y faire face.",
+    "common": [
+     "Les enfants d'âge scolaire s'inquiètent souvent des contrôles, des copains, de quelque chose de nouveau ou d'un malheur qui pourrait arriver à la famille.",
+     "L'inquiétude peut se manifester par des maux de ventre, des maux de tête, un mauvais sommeil, des cauchemars, un besoin de rester collé à toi ou des crises de colère.",
+     "Certains enfants évitent ce qui les inquiète, comme l'école, les fêtes ou les nuits chez des copains."
+    ],
+    "helps": [
+     "Écoute attentivement et demande quelle est l'inquiétude. Ne la minimise pas et n'essaie pas de deviner.",
+     "Explique que l'inquiétude est comme une vague. Elle paraît énorme, puis elle diminue.",
+     "Entraînez-vous ensemble à respirer lentement : inspirer sur 3 temps, expirer sur 3 temps, et recommencer 3 fois.",
+     "Faites ensemble un plan pour la situation qui inquiète, et avancez vers elle à petits pas.",
+     "Essayez une boîte à soucis : ton enfant écrit ou dessine un souci et le met dans la boîte pour en parler plus tard.",
+     "Garde des routines quotidiennes stables, et prépare ton enfant aux changements à l'avance.",
+     "Essaie de ne pas surprotéger ton enfant. Éviter tout ce qui l'inquiète peut faire grandir l'inquiétude."
+    ],
+    "help": [
+     "L'inquiétude est forte, dure plusieurs semaines, ou empêche ton enfant de faire des choses du quotidien comme aller à l'école ou voir ses amis.",
+     "Ton enfant a souvent mal au ventre ou à la tête sans autre cause.",
+     "Tu sens que tu as besoin de soutien. Parles-en à ton médecin, à l'école, ou à l'infirmier ou l'infirmière scolaire."
+    ],
+    "urgent": [
+     "Ton enfant parle de se faire du mal ou de ne plus vouloir vivre. Demande de l'aide tout de suite : appelle le 112 ou une ligne d'écoute pour enfants comme le 116 111, ou va aux urgences les plus proches."
+    ]
+   },
+   "lying": {
+    "title": "Mon enfant ment",
+    "intro": "Presque tous les enfants mentent parfois. Cela fait partie de l'enfance, et c'est auprès d'adultes calmes et patients que les enfants apprennent le mieux l'honnêteté.",
+    "common": [
+     "Les enfants mentent souvent pour éviter les ennuis, pour obtenir quelque chose qu'ils veulent ou pour ménager les sentiments de quelqu'un.",
+     "Certains mensonges sont en fait des souhaits ou des histoires inventées, surtout chez les plus jeunes.",
+     "Les mensonges deviennent en général moins fréquents quand les enfants comprennent leur effet sur la confiance."
+    ],
+    "helps": [
+     "Reste calme. Parle du mensonge et du comportement, sans dire que ton enfant est méchant.",
+     "Rends la vérité facile à dire. Si tu sais déjà ce qui s'est passé, dis-le au lieu de demander « C'est toi qui as fait ça ? »",
+     "Félicite l'honnêteté, surtout quand la vérité est difficile à dire.",
+     "Donne une conséquence plus légère quand ton enfant avoue.",
+     "Explique pourquoi l'honnêteté compte : « Quand tu me dis la vérité, je peux te faire confiance. »",
+     "Montre l'exemple de l'honnêteté, même dans les petites choses, par exemple en ne demandant pas à ton enfant de dire que tu n'es pas là."
+    ],
+    "help": [
+     "Ton enfant ment très souvent, même pour de petites choses.",
+     "Les mensonges s'accompagnent d'autres soucis, comme prendre des objets, faire du mal aux autres ou des problèmes à l'école.",
+     "Tu penses que ton enfant ment peut-être pour cacher quelque chose qui le fait souffrir."
+    ],
+    "urgent": []
+   },
+   "pocket_money_guide": {
+    "title": "Faut-il donner de l'argent de poche à mon enfant ?",
+    "intro": "L'argent de poche est un moyen simple pour les enfants d'apprendre à gérer l'argent. Beaucoup de familles commencent vers 5 ou 6 ans, quand l'enfant comprend que l'argent permet d'acheter des choses.",
+    "common": [
+     "Il n'y a pas de bon montant. Cela dépend de ton budget, de l'âge de ton enfant et de l'usage prévu.",
+     "Certaines familles lient l'argent de poche aux tâches ménagères, d'autres non. Les deux peuvent fonctionner.",
+     "Au début, les enfants dépensent souvent tout leur argent. Les petites erreurs font partie de l'apprentissage."
+    ],
+    "helps": [
+     "Fixez le montant et le jour où il est donné, et tenez-vous-y.",
+     "Décidez ensemble à quoi sert l'argent, comme de petits plaisirs ou des économies pour un jouet.",
+     "Utilise un bocal transparent pour les économies, pour que ton enfant voie l'argent s'accumuler.",
+     "Aide ton enfant à se fixer un petit objectif d'épargne et comptez l'argent ensemble chaque semaine.",
+     "Laisse ton enfant faire ses propres choix, et parlez ensuite de la façon dont ça s'est passé.",
+     "Évite de donner de l'argent en plus quand il n'y en a plus. Attendre fait partie de la leçon."
+    ],
+    "help": [
+     "L'argent provoque souvent des disputes à la maison.",
+     "Ton enfant prend de l'argent ou des objets qui ne lui appartiennent pas. Parles-en d'abord calmement avec ton enfant."
+    ],
+    "urgent": []
+   },
+   "lunchbox": {
+    "title": "Boîte à repas et goûters",
+    "intro": "Une bonne boîte à repas n'a pas besoin d'être sophistiquée. Un mélange de quelques aliments simples donne à ton enfant de l'énergie pour l'après-midi.",
+    "common": [
+     "Un repas équilibré comprend un féculent, un aliment riche en protéines, des fruits ou des légumes, et un produit laitier ou un équivalent.",
+     "Beaucoup d'enfants mangent peu à l'école parce qu'ils sont occupés, excités ou manquent de temps.",
+     "Beaucoup d'écoles ont des règles sur la nourriture, par exemple pas de fruits à coque, à cause des enfants allergiques."
+    ],
+    "helps": [
+     "Commence par un féculent, comme un sandwich au pain complet, un wrap, des pâtes ou du riz.",
+     "Ajoute un aliment riche en protéines, comme un œuf, des haricots, du poisson, du poulet ou du fromage.",
+     "Ajoute un fruit et des légumes, comme du concombre, des bâtonnets de carotte ou des tomates cerises. Coupe les petits aliments ronds en quatre pour les plus jeunes.",
+     "Donne de l'eau ou du lait à boire. Évite les boissons gazeuses et sucrées.",
+     "Garde les bonbons, les chips et les gâteaux pour de temps en temps, pas tous les jours.",
+     "Utilise un sac isotherme ou un pain de glace pour garder les aliments frais.",
+     "Laisse ton enfant aider à choisir et à préparer son repas. Il aura plus de chances de le manger.",
+     "Vérifie les règles de l'école sur la nourriture avant de préparer la boîte."
+    ],
+    "help": [
+     "Ton enfant a souvent très faim en rentrant, ou rapporte son repas intact.",
+     "Ton enfant ne mange qu'un très petit nombre d'aliments.",
+     "Le poids, la croissance ou une allergie alimentaire de ton enfant t'inquiète."
+    ],
+    "urgent": [
+     "Gonflement des lèvres ou du visage, ou difficultés à respirer, après avoir mangé. Appelle le 112."
+    ]
+   },
+   "active": {
+    "title": "Combien d'activité physique pour mon enfant ?",
+    "intro": "L'Organisation mondiale de la santé (OMS) recommande que les enfants de 5 à 17 ans soient actifs au moins 60 minutes par jour en moyenne, à un niveau qui les fait respirer plus vite.",
+    "common": [
+     "Les 60 minutes peuvent être réparties sur la journée. Chaque moment de mouvement compte.",
+     "Au moins 3 jours par semaine, les enfants devraient faire des activités qui les essoufflent et renforcent les muscles et les os, comme courir, sauter ou grimper.",
+     "Beaucoup d'enfants en font moins, surtout en grandissant.",
+     "Mieux vaut garder courtes les longues périodes assises, surtout devant les écrans."
+    ],
+    "helps": [
+     "Allez à l'école ou faire les courses ensemble à pied, en trottinette ou à vélo quand c'est possible. Le casque se met à chaque fois pour le vélo et la trottinette.",
+     "Jouez dehors ensemble : chat, jeux de ballon, marelle ou corde à sauter.",
+     "Laisse ton enfant essayer différents sports et activités pour trouver ce qui lui plaît.",
+     "Coupe le temps d'écran par des pauses pour bouger.",
+     "Bougez en famille le week-end : une balade, une sortie à vélo ou un tour au parc.",
+     "Fais-en un plaisir, pas une corvée. Félicite les efforts, pas la victoire."
+    ],
+    "help": [
+     "Ton enfant s'essouffle, se fatigue ou a mal bien plus tôt que les autres enfants du même âge.",
+     "Ton enfant évite toute activité physique, ou semble maladroit par rapport aux autres du même âge.",
+     "Le poids ou la croissance de ton enfant t'inquiète."
+    ],
+    "urgent": [
+     "Ton enfant s'évanouit, a mal à la poitrine ou a du mal à respirer pendant un effort. Arrête l'activité et demande une aide médicale tout de suite."
+    ]
+   },
+   "puberty": {
+    "title": "Mon enfant commence-t-il sa puberté ?",
+    "intro": "La puberté, c'est le moment où le corps d'un enfant commence à changer peu à peu pour devenir adulte. Elle commence en général entre environ 8 et 13 ans chez les filles et entre environ 9 et 14 ans chez les garçons.",
+    "common": [
+     "Chaque enfant commence à son propre rythme. C'est souvent familial.",
+     "Les premiers signes peuvent être une poussée de croissance, une odeur corporelle plus forte, une peau et des cheveux plus gras, et des changements de silhouette.",
+     "Les changements d'humeur et le besoin de plus d'intimité sont fréquents aussi.",
+     "La puberté dure en général quelques années entre les premiers signes et la fin."
+    ],
+    "helps": [
+     "Parles-en tôt et ouvertement, de façon calme et simple, adaptée à l'âge de ton enfant. De petites discussions régulières marchent mieux qu'une seule grande conversation.",
+     "Réponds honnêtement aux questions. Si tu ne connais pas la réponse, dis-le et cherchez ensemble.",
+     "Cherche à la bibliothèque des livres pour enfants sur le fait de grandir.",
+     "Aide ton enfant à prendre de nouvelles habitudes, comme se laver chaque jour et mettre des vêtements propres.",
+     "Respecte son intimité. Frappe avant d'entrer, et laisse-le choisir ce qu'il partage.",
+     "Dis à ton enfant que ces changements sont normaux et que chaque corps grandit à son propre rythme."
+    ],
+    "help": [
+     "Des signes de puberté apparaissent avant 8 ans chez une fille ou avant 9 ans chez un garçon.",
+     "Toujours aucun signe de puberté à 13 ans environ chez une fille ou à 14 ans environ chez un garçon.",
+     "Ton enfant est très inquiet ou bouleversé par les changements de son corps."
+    ],
+    "urgent": []
    }
   },
   "guideStages": {
@@ -6184,6 +9351,9 @@
    },
    "parent": {
     "name": "Pour toi"
+   },
+   "school": {
+    "name": "Âge scolaire"
    }
   },
   "weeks": {

@@ -58,5 +58,45 @@
   "headline": "Malčkova rutina, ki se upogne, ne da bi se zlomila: 3 vzorčni dnevi za starost od 1 do 5 let in brezplačna tabela za tisk",
   "description": "Struktura brez toge ure za uro: 3 prilagodljivi vzorčni dnevi za starost od 1 do 5 let na podlagi smernic SZO o spanju in igri, triki za prehode in brezplačna tabela za tisk.",
   "card": "3 prilagodljivi vzorčni dnevi za starost od 1 do 5 let, triki za trenutke izbruhov in brezplačna tabela za tisk."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "9 do 12 ur spanja, pri 10 letih pa jih še vedno 1 od 20 moči posteljo: kaj otrokom od 5 do 10 let pomaga ponoči",
+  "description": "Otroci, stari od 6 do 12 let, potrebujejo 9 do 12 ur spanja. Okoli 1 od 5 jih pri 5 letih moči posteljo, pri 10 letih pa 1 od 20. Kaj po navedbah NICE, NHS in ERIC pomaga in kdaj k osebnemu zdravniku.",
+  "card": "Koliko spanja potrebujejo otroci, zasloni in strahovi ponoči ter zakaj je močenje postelje med 5 in 10 let pogosto in ozdravljivo"
+ },
+ "starting-school-homework": {
+  "headline": "Začetek šole brez prepirov: pravilo 10 minut za domačo nalogo in kaj je normalno v prvem šolskem obdobju",
+  "description": "Čustveni zlomi po šoli so običajni, pripravljenost za šolo ni v branju, ampak v samostojnem hodenju na stranišče, dokazi za domačo nalogo v osnovni šoli pa so šibki. Okvirno pravilo je približno 10 minut na večer za vsak razred v ZDA.",
+  "card": "Čustveni zlomi, miti o pripravljenosti in pravilo 10 minut za domačo nalogo, preverjeno glede na AAP, NHS in EEF."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "Puberteta se lahko začne pri 8 letih: kako se pogovarjati o telesu, menstruaciji in zasebnosti, preden se začne",
+  "description": "Puberteta se lahko začne pri 8 letih pri deklicah in pri 9 letih pri dečkih. Običajna starostna območja, kdaj k osebnemu zdravniku, 5 varnostnih pravil PANTS, osnove o menstruaciji in mirni odgovori na neprijetna vprašanja.",
+  "card": "Običajna starost pubertete, opozorilni znaki za osebnega zdravnika, pravila telesne varnosti PANTS in mirni odgovori za otroke, stare od 7 do 10 let."
+ },
+ "screen-time-first-phone": {
+  "headline": "Do 11. leta ima telefon 91 % otrok v Združenem kraljestvu: kaj o zaslonih od 5 do 10 let pravijo SZO, AAP in nove raziskave",
+  "description": "SZO, AAP in RCPCH po 5. letu ne določajo dnevne omejitve zaslonov, uporaba naprav pred spanjem je povezana s približno dvakrat večjimi možnostmi za prekratko spanje, do 11. leta pa ima telefon 91 % otrok v Združenem kraljestvu.",
+  "card": "Omejitve zaslonov, ocene PEGI, prepovedi telefonov v šolah in prvi telefon, preverjeno glede na SZO, AAP in Ofcom."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Izbirčnost pri hrani od 5 do 10 let: izbirčnost se do starosti 6 let prepolovi, 15 mirnih poskusov pa je boljših od 1 bitke za mizo",
+  "description": "Izbirčnost pri hrani pade z 27,6 % pri 3 letih na 13,2 % pri 6. Zakaj je 15 mirnih poskusov boljših od pritiska, ideje za malico, omejitve sladkorja in nova pravila za šolsko prehrano iz leta 2027.",
+  "card": "Zakaj se izbirčnost do starosti 6 let prepolovi, zakaj je 15 mirnih poskusov boljših od pritiska in malice z manj sladkorja."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 od 4 otrok ima strahove. Kako ločiti vsakdanjo skrb od tesnobe, ki potrebuje pomoč",
+  "description": "3 od 4 otrok, starih 4 do 12 let, poroča o strahovih, 15,7 % otrok, starih 8 do 10 let, v Angliji pa ima verjetno duševno motnjo. Znaki, zavračanje šole in kaj pomaga.",
+  "card": "Običajna skrb ali tesnoba? Znaki, bolečine v trebuhu zaradi šole, 8 orodij, ki pomagajo, in kdaj vprašati osebnega zdravnika (GP)."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Do 8 prepirov med sorojenci na uro: kako pošteno razsojati, postaviti hišna pravila in ravnati z žepnino in lažmi",
+  "description": "Do 8 prepirov na uro pri starosti od 4 do 8 let, 32 % otrok pa se v letu dni sooči z agresijo sorojenca. Kako razsojati, prepoznati nasilje, ostati pošten in ravnati z lažmi.",
+  "card": "Prepiri med sorojenci, pravičnost, hišna opravila, žepnina in laganje: kaj pravi raziskava in kaj reči."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Razprtija ali medvrstniško nasilje? V 4. razredu 15 % otrok poroča o nasilju približno vsak teden. 3 preizkusi ju ločijo",
+  "description": "Razprtija ali medvrstniško nasilje? 3 preizkusi: ponavljanje, namen, neravnovesje moči. V 4. razredu je približno vsak teden žrtev nasilja 15 % otrok. Besede za pogovor, koraki v šoli, pomoč.",
+  "card": "3 preizkusi, ki ločijo običajno razprtijo od medvrstniškega nasilja, ter besede za pogovor in koraki v šoli."
  }
 }

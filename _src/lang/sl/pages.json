@@ -4,9 +4,9 @@
   "description": "Strani ni mogoče najti na hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: ena majhna veščina na teden, od nosečnosti do 5. leta",
-  "description": "Mirna, prijazna pomoč za starše. 100 kratkih veščin za vadenje od rojstva do 5. leta, 188 mejnikov s spominskimi karticami, vsak teden nosečnosti in {guide_count} vodnikov Je to normalno? Brezplačno.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Brezplačna aplikacija za starše od nosečnosti do 5. leta: tedenske veščine za vadenje, mejniki s spominskimi karticami, nosečnost teden za tednom, vodniki Je to normalno?, koledar, dnevniki spanja, hranjenja in rasti.\",\"url\":\"https://hoppoapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
+  "title": "Hoppo: ena majhna veščina na teden, od nosečnosti do 10 let starosti",
+  "description": "Mirna, prijazna pomoč za starše. 200 kratkih veščin za vadenje od rojstva do 10 let starosti, 214 mejnikov s spominskimi karticami, vsak teden nosečnosti in {guide_count} vodnikov Je to normalno? Brezplačno.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Brezplačna aplikacija za starše od nosečnosti do 10 let starosti: tedenske veščine za vadenje, mejniki s spominskimi karticami, nosečnost teden za tednom, vodniki Je to normalno?, koledar, dnevniki spanja, hranjenja in rasti.\",\"url\":\"https://hoppoapp.com/sl/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"sl\"}"
  },
  "guides.html": {
   "title": "{guide_count} vodnikov Je to normalno? za starše | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Postani partner Hoppo | Hoppo",
-  "description": "Doseži starše od nosečnosti do 5. leta starosti prek Trgovine Hoppo. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
+  "description": "Doseži starše od nosečnosti do 10 let starosti prek Trgovine Hoppo. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
+ },
+ "blog.html": {
+  "title": "Blog Hoppo: iskreni odgovori za starše, od nosečnosti do 10 let",
+  "description": "Članki o spanju dojenčka, stroških prvega leta, obiskih, adaptiranem mleku, senzorni igri, rutinah, šolskih letih in družini. Z viri, brez povezav do izdelkov."
  }
 }

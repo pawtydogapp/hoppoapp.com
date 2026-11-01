@@ -13,7 +13,7 @@
   "guide_back": "Tous les guides",
   "guide_disclaimer": "Ce guide donne des informations générales. Il ne remplace pas un avis médical. Fais confiance à ton instinct. Si tu es inquiet ou inquiète, contacte ton médecin, ta sage-femme ou ta puéricultrice. Ce guide est vérifié avec le NHS, l'Organisation mondiale de la santé (OMS), l'American Academy of Pediatrics (AAP) et d'autres sources de santé publique.",
   "guide_cta_title": "Ce guide est aussi dans l'app Hoppo",
-  "guide_cta_text": "Hoppo propose 100 petites compétences à pratiquer de la naissance à 5 ans, des cartes souvenirs pour 188 grandes étapes, chaque semaine de grossesse de 4 à 40, et un calendrier avec des journaux de sommeil, d'alimentation et de croissance. Gratuit, sans abonnement.",
+  "guide_cta_text": "Hoppo propose 200 petites compétences à pratiquer de la naissance à 10 ans, des cartes souvenirs pour 214 grandes étapes, chaque semaine de grossesse de 4 à 40, et un calendrier avec des journaux de sommeil, d'alimentation et de croissance. Gratuit, sans abonnement.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Bébé, de 0 à 12 mois",
   "stage_any": "Bébés et jeunes enfants",
@@ -83,8 +83,8 @@
    "description": "Page introuvable sur hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo : une petite compétence par semaine, de la grossesse à 5 ans",
-   "description": "Une aide douce et bienveillante pour les parents. 100 petites compétences de la naissance à 5 ans, 188 grandes étapes avec cartes souvenirs, chaque semaine de grossesse et {guide_count} guides « Est-ce normal ? » Gratuit."
+   "title": "Hoppo : une petite compétence par semaine, de la grossesse à 10 ans",
+   "description": "Une aide douce et bienveillante pour les parents. 200 petites compétences de la naissance à 10 ans, 214 grandes étapes avec cartes souvenirs, chaque semaine de grossesse et {guide_count} guides « Est-ce normal ? » Gratuit."
   },
   "guides.html": {
    "title": "{guide_count} guides « Est-ce normal ? » pour les parents | Hoppo",
@@ -109,14 +109,18 @@
   "order-complete.html": {
    "title": "Merci | Hoppo",
    "description": "Ta commande Hoppo est confirmée."
+  },
+  "blog.html": {
+   "title": "Blog Hoppo : des réponses honnêtes, de la grossesse à 10 ans",
+   "description": "Sommeil de bébé, budget de la première année, visites, lait infantile, jeu sensoriel, routines, école et vie de famille. Des articles sourcés, sans liens produits."
   }
  },
- "ld": "App gratuite pour les parents, de la grossesse à 5 ans : compétences à pratiquer chaque semaine, grandes étapes avec cartes souvenirs, grossesse semaine par semaine, guides « Est-ce normal ? », calendrier, journaux de sommeil, d'alimentation et de croissance.",
+ "ld": "App gratuite pour les parents, de la grossesse à 10 ans : compétences à pratiquer chaque semaine, grandes étapes avec cartes souvenirs, grossesse semaine par semaine, guides « Est-ce normal ? », calendrier, journaux de sommeil, d'alimentation et de croissance.",
  "units": {
   "index.html": {
    "0": "Hoppo, un hippopotame violet et sympathique",
-   "2": "<strong>Une aide douce et bienveillante, de la grossesse à 5 ans.</strong> 5 minutes de jeu par semaine pour développer une vraie compétence, et une carte souvenir pour chaque grande étape.",
-   "3": "L'écran d'accueil de Hoppo avec la mission de la semaine, Se mettre debout en s'agrippant, pour un bébé de 9 mois",
+   "2": "<strong>Une aide douce et bienveillante, de la grossesse à 10 ans.</strong> 5 minutes de jeu par semaine pour développer une vraie compétence, et une carte souvenir pour chaque grande étape.",
+   "3": "L'écran d'accueil de Hoppo avec la mission de la semaine, Lancer par-dessus l'épaule vers une cible, pour un enfant de 7 ans",
    "5": "Gratuit sur iPhone et Android. Sans abonnement.",
    "6": "compétences à pratiquer",
    "7": "grandes étapes",
@@ -124,7 +128,7 @@
    "9": "guides « Est-ce normal ? »",
    "10": "À quoi ça ressemble",
    "11": "Fais glisser pour en voir plus",
-   "12": "Mission de la semaine pour un bébé de 9 mois, avec une idée de pratique de 5 minutes",
+   "12": "Mission de la semaine pour un enfant de 7 ans, avec une idée de pratique de 5 minutes",
    "13": "1 mission par semaine",
    "14": "L'onglet Souvenirs avec des grandes étapes cochées et datées",
    "15": "Grandes étapes et souvenirs",
@@ -132,11 +136,11 @@
    "17": "La grossesse semaine par semaine",
    "18": "La liste des semaines de grossesse avec une image de la taille du bébé pour chaque semaine",
    "19": "Chaque semaine de 4 à 40",
-   "20": "La bibliothèque de compétences classée par âge, avec les étiquettes commencée et maîtrisée",
-   "21": "100 compétences par âge",
-   "22": "Les guides « Est-ce normal ? » avec recherche et filtres pour la grossesse, le bébé et le tout-petit",
+   "20": "La bibliothèque de compétences classée par année d'âge, avec l'étiquette en cours",
+   "21": "200 compétences par âge",
+   "22": "Les guides « Est-ce normal ? » avec recherche et filtres de la grossesse à l'âge scolaire",
    "23": "Guides « Est-ce normal ? »",
-   "24": "Le guide sur la forte fièvre, avec ce qui est courant et ce qui peut aider",
+   "24": "Le guide Des devoirs sans bataille, avec ce qui est courant et ce qui peut aider",
    "25": "Des étapes claires",
    "26": "Une courbe de poids avec la plage de référence de l'Organisation mondiale de la santé",
    "27": "La croissance avec les courbes de l'OMS",
@@ -150,9 +154,9 @@
    "35": "Tes photos restent sur ton téléphone",
    "36": "Les photos des grandes étapes ne sont jamais envoyées. Les données de ton compte sont stockées dans l'Union européenne, et tu peux tout supprimer depuis l'app à tout moment.",
    "37": "Ce qu'il y a dedans",
-   "38": "100 compétences, de la naissance à 5 ans",
+   "38": "200 compétences, de la naissance à 10 ans",
    "39": "Temps sur le ventre, premiers mots, verser, boutons, attendre son tour. Chaque compétence a des étapes simples, des erreurs à éviter et d'autres façons de pratiquer.",
-   "40": "188 grandes étapes",
+   "40": "214 grandes étapes",
    "41": "Coche le premier sourire, les premiers pas et la première dent. Ajoute une photo et partage une carte souvenir avec la famille.",
    "42": "La grossesse semaine par semaine",
    "43": "Chaque semaine de 4 à 40 en mots simples, avec la taille de ton bébé comparée à un fruit ou un légume du quotidien, des questions à poser à ta sage-femme et une liste pour la valise de maternité.",
@@ -224,6 +228,11 @@
   "product.html": {
    "1": "La boutique a besoin de JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "Le blog Hoppo",
+   "1": "Des réponses honnêtes aux questions que les parents posent le plus, des premières semaines à 10 ans. De vraies fourchettes, de vrais chiffres, et aucun produit à vendre.",
+   "2": "Chaque article cite ses sources et est vérifié avec des recommandations de santé publique, comme celles du NHS, de l'Organisation mondiale de la santé (OMS) et de l'American Academy of Pediatrics (AAP). Ce sont des informations générales, pas des conseils médicaux."
+  }
  }
 }

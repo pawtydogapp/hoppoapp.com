@@ -58,5 +58,45 @@
   "headline": "Der Kleinkind-Tagesablauf, der sich biegt, ohne zu brechen: 3 Beispieltage für das Alter von 1 bis 5 und eine kostenlose Druckvorlage",
   "description": "Struktur ohne starren Zeitplan: 3 flexible Beispieltage für das Alter von 1 bis 5, basierend auf den WHO-Empfehlungen zu Schlaf und Bewegung, Tricks für Übergänge und eine kostenlose Druckvorlage.",
   "card": "3 flexible Beispieltage für das Alter von 1 bis 5, Tricks für Wutanfall-Momente und eine kostenlose Tabelle zum Drucken."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "9 bis 12 Stunden Schlaf, und 1 von 20 macht mit 10 noch ins Bett: Was Kindern von 5 bis 10 nachts hilft",
+  "description": "Kinder von 6 bis 12 Jahren brauchen 9 bis 12 Stunden Schlaf. Etwa 1 von 5 macht mit 5 noch ins Bett und 1 von 20 mit 10. Was NICE, NHS und ERIC als hilfreich nennen und wann du zur Hausärztin oder zum Hausarzt gehen solltest.",
+  "card": "Wie viel Schlaf Kinder brauchen, Bildschirme und nächtliche Ängste, und warum Bettnässen mit 5 bis 10 häufig und behandelbar ist"
+ },
+ "starting-school-homework": {
+  "headline": "Schulstart ohne Kämpfe: die 10-Minuten-Regel für Hausaufgaben und was in den ersten Schulmonaten normal ist",
+  "description": "Zusammenbrüche nach der Schule sind normal, Schulreife hat mit dem Toilettengang zu tun und nicht mit dem Lesen, und die Belege für Hausaufgaben in der Grundschule sind schwach: Etwa 10 Minuten pro Abend und US-Klassenstufe sind ein gängiger Richtwert.",
+  "card": "Zusammenbrüche, Mythen zur Schulreife und die 10-Minuten-Regel für Hausaufgaben, abgeglichen mit AAP, NHS und EEF."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "Die Pubertät kann mit 8 beginnen: Wie du über Körper, Periode und Privatsphäre sprichst, bevor sie anfängt",
+  "description": "Die Pubertät kann bei Mädchen mit 8 und bei Jungen mit 9 beginnen. Normale Altersbereiche, wann du zur Hausärztin oder zum Hausarzt gehen solltest, die 5 PANTS-Sicherheitsregeln, Grundlagen zur Periode und ruhige Antworten auf peinliche Fragen.",
+  "card": "Normales Alter für die Pubertät, Warnzeichen für die Hausarztpraxis, PANTS-Regeln zur Körpersicherheit und ruhige Antworten für das Alter von 7 bis 10 Jahren."
+ },
+ "screen-time-first-phone": {
+  "headline": "Mit 11 Jahren haben 91 % der Kinder in Großbritannien ein Handy: Was WHO, AAP und neue Forschung zu Bildschirmen bei Kindern von 5 bis 10 sagen",
+  "description": "WHO, AAP und RCPCH legen für Kinder ab 5 Jahren keine tägliche Bildschirmgrenze fest. Geräte zur Schlafenszeit gehen mit etwa doppelt so hohen Odds für zu wenig Schlaf einher, und 91 % der Kinder in Großbritannien besitzen mit 11 ein Handy.",
+  "card": "Bildschirmgrenzen, PEGI-Einstufungen, Handyverbote an Schulen und das erste Handy, abgeglichen mit WHO, AAP und Ofcom."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 von 4 Kindern haben Ängste. So erkennst du den Unterschied zwischen alltäglicher Sorge und Angst, die Hilfe braucht",
+  "description": "3 von 4 Kindern im Alter von 4 bis 12 berichten von Ängsten, und 15,7 % der 8- bis 10-Jährigen in England haben wahrscheinlich eine psychische Störung. Anzeichen, Schulverweigerung und was hilft.",
+  "card": "Normale Sorge oder Angst? Anzeichen, Bauchweh vor der Schule, 8 Werkzeuge, die helfen, und wann du deine Hausärztin oder deinen Hausarzt fragst."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Wählerisches Essen mit 5 bis 10: Das Wählerischsein halbiert sich bis zum Alter von 6, und 15 ruhige Versuche schlagen 1 Kampf am Tisch",
+  "description": "Der Anteil wählerischer Esser sinkt von 27,6 % mit 3 Jahren auf 13,2 % mit 6. Warum 15 ruhige Versuche besser sind als Druck, Ideen für die Brotdose, Zuckergrenzen und die neuen Regeln für das Schulessen 2027.",
+  "card": "Warum sich das Wählerischsein bis zum Alter von 6 halbiert, warum 15 ruhige Versuche besser sind als Druck, und Brotdosen mit weniger Zucker."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Bis zu 8 Geschwisterstreitigkeiten pro Stunde: Wie du fair vermittelst, Hausregeln aufstellst und mit Taschengeld und Lügen umgehst",
+  "description": "Bis zu 8 Streitigkeiten pro Stunde bei Kindern von 4 bis 8, und 32 % der Kinder erleben in einem Jahr Aggression unter Geschwistern. Wie du vermittelst, Mobbing erkennst, für Fairness sorgst und mit Lügen umgehst.",
+  "card": "Geschwisterstreit, Fairness, Aufgaben im Haushalt, Taschengeld und Lügen: Was die Forschung sagt und was du sagen kannst."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Streit oder Mobbing? Im 4. Schuljahr berichten 15 % der Kinder von etwa wöchentlichem Mobbing. 3 Tests helfen beim Unterscheiden",
+  "description": "Streit oder Mobbing? 3 Tests: wiederholt, absichtlich, Machtungleichgewicht. Im 4. Schuljahr werden 15 % etwa wöchentlich gemobbt. Formulierungen, Schritte in der Schule, Hilfe.",
+  "card": "3 Tests, die normalen Streit von Mobbing unterscheiden, dazu Worte, die du nutzen kannst, und Schritte mit der Schule."
  }
 }

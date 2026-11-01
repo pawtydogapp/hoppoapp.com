@@ -4,9 +4,9 @@
   "description": "Page introuvable sur hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo : une petite compétence par semaine, de la grossesse à 5 ans",
-  "description": "Une aide douce et bienveillante pour les parents. 100 petites compétences de la naissance à 5 ans, 188 grandes étapes avec cartes souvenirs, chaque semaine de grossesse et {guide_count} guides « Est-ce normal ? » Gratuit.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuite pour les parents, de la grossesse à 5 ans : compétences à pratiquer chaque semaine, grandes étapes avec cartes souvenirs, grossesse semaine par semaine, guides « Est-ce normal ? », calendrier, journaux de sommeil, d'alimentation et de croissance.\",\"url\":\"https://hoppoapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
+  "title": "Hoppo : une petite compétence par semaine, de la grossesse à 10 ans",
+  "description": "Une aide douce et bienveillante pour les parents. 200 petites compétences de la naissance à 10 ans, 214 grandes étapes avec cartes souvenirs, chaque semaine de grossesse et {guide_count} guides « Est-ce normal ? » Gratuit.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuite pour les parents, de la grossesse à 10 ans : compétences à pratiquer chaque semaine, grandes étapes avec cartes souvenirs, grossesse semaine par semaine, guides « Est-ce normal ? », calendrier, journaux de sommeil, d'alimentation et de croissance.\",\"url\":\"https://hoppoapp.com/fr/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"fr\"}"
  },
  "guides.html": {
   "title": "{guide_count} guides « Est-ce normal ? » pour les parents | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Devenir partenaire de Hoppo | Hoppo",
-  "description": "Touche les parents de la grossesse à 5 ans grâce à la Boutique Hoppo. Liens affiliés via Awin ou codes promo, affichés dans l'appli et sur ce site."
+  "description": "Touche les parents de la grossesse à 10 ans grâce à la Boutique Hoppo. Liens affiliés via Awin ou codes promo, affichés dans l'appli et sur ce site."
+ },
+ "blog.html": {
+  "title": "Blog Hoppo : des réponses honnêtes, de la grossesse à 10 ans",
+  "description": "Sommeil de bébé, budget de la première année, visites, lait infantile, jeu sensoriel, routines, école et vie de famille. Des articles sourcés, sans liens produits."
  }
 }

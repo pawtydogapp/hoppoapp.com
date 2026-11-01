@@ -2301,6 +2301,2328 @@
           "A 2-minute brushing song.",
           "A sticker for each evening brush."
         ]
+      },
+      "skip": {
+        "name": "Skip along",
+        "goal": "Skips forward with a step and a little hop on each foot.",
+        "why": "Skipping builds rhythm, balance and coordination between both sides of the body.",
+        "steps": [
+          "Find a clear, flat space, such as a path or a hallway.",
+          "Show it slowly: step, hop, then step, hop on the other foot.",
+          "Say the rhythm out loud together: \"Step, hop, step, hop.\"",
+          "Hold hands and skip side by side for a few steps.",
+          "Let your child try alone while you clap the beat.",
+          "Praise the try, even if it turns into a gallop."
+        ],
+        "avoid": [
+          "Wet or slippery floors.",
+          "Rushing to go fast before the rhythm feels easy.",
+          "Comparing your child with other children."
+        ],
+        "success": "Your child skips 4 steps in a row.",
+        "ways": [
+          "Skipping to the car or the shop.",
+          "Skipping to a favourite song.",
+          "A skipping game of follow the leader."
+        ]
+      },
+      "catch_small": {
+        "name": "Throw and catch a small ball",
+        "goal": "Throws and catches a small ball with the hands, not the chest.",
+        "why": "Catching a small ball sharpens hand and eye skills used in play and sport.",
+        "steps": [
+          "Use a soft ball about the size of an orange.",
+          "Stand 2 metres apart.",
+          "Show how to hold both hands ready, fingers open.",
+          "Throw gently underarm, to your child's hands.",
+          "Say \"Watch the ball\" before each throw.",
+          "Step back a little after 3 good catches."
+        ],
+        "avoid": [
+          "Hard balls that hurt if missed.",
+          "Throwing fast or high.",
+          "Playing near windows or roads."
+        ],
+        "success": "Your child catches the ball 3 times with their hands.",
+        "ways": [
+          "Throwing a ball against a wall and catching it.",
+          "A rolled-up pair of socks indoors.",
+          "Counting catches in a row together."
+        ]
+      },
+      "bike_no_stab": {
+        "name": "Ride without stabilisers",
+        "goal": "Balances and pedals a bike without stabilisers.",
+        "why": "Riding a bike builds balance, strength and confidence. Children learn this at very different ages.",
+        "steps": [
+          "Put on a helmet every time, and check it fits.",
+          "Choose a flat, open space away from roads, such as a park path.",
+          "Lower the seat so both feet can touch the ground.",
+          "Let your child push along with their feet and glide first.",
+          "When gliding feels easy, add the pedals while you walk close by.",
+          "Stop while it is still fun."
+        ],
+        "avoid": [
+          "Riding without a helmet.",
+          "Roads, slopes and busy paths.",
+          "Letting go without telling your child first."
+        ],
+        "success": "Your child pedals 5 metres alone without stabilisers.",
+        "ways": [
+          "Gliding with the pedals taken off.",
+          "Riding between 2 trees in the park.",
+          "Practising starting and stopping."
+        ]
+      },
+      "swim_strokes": {
+        "name": "Swim a few strokes",
+        "goal": "Swims a few strokes without armbands, with an adult right beside them.",
+        "why": "Early swimming skills build confidence in water. Lessons and close supervision keep children safe.",
+        "steps": [
+          "Go to a supervised pool, and stay in the water with your child.",
+          "Stand within arm's reach the whole time.",
+          "Practise kicking while your child holds the side.",
+          "Hold your child gently under the tummy and let them paddle.",
+          "Let go for 2 or 3 strokes, then catch your child.",
+          "Praise the try and stop before your child gets cold or tired."
+        ],
+        "avoid": [
+          "Leaving your child in or near water, even for a moment.",
+          "Open water, such as lakes, rivers or the sea.",
+          "Pushing a frightened child to go further."
+        ],
+        "success": "Your child swims 3 strokes to you without armbands.",
+        "ways": [
+          "Swimming lessons with a qualified teacher.",
+          "Swimming from the wall to you.",
+          "Kicking games while holding a float."
+        ]
+      },
+      "rope_jump_low": {
+        "name": "Jump over a low rope",
+        "goal": "Jumps over a low rope with both feet together.",
+        "why": "Jumping builds leg strength, balance and the timing needed for later skipping games.",
+        "steps": [
+          "Lay a rope or a scarf flat on the ground, on grass or carpet.",
+          "Show a jump with both feet together.",
+          "Let your child jump over it forwards.",
+          "Lift the rope a few centimetres, held loosely so it drops if touched.",
+          "Try jumping sideways over it too."
+        ],
+        "avoid": [
+          "Tying the rope to anything.",
+          "Hard or slippery floors.",
+          "Raising the rope too high too soon."
+        ],
+        "success": "Your child jumps over a low rope 3 times with feet together.",
+        "ways": [
+          "Jumping over a \"river\" made of 2 ropes.",
+          "Jumping over cracks in the pavement.",
+          "Jumping in and out of hoops."
+        ]
+      },
+      "name_feeling": {
+        "name": "Name the feeling",
+        "goal": "Uses words to name feelings, such as happy, sad, angry or worried.",
+        "why": "Naming a feeling helps children calm down and ask for help. It is a first step in managing emotions.",
+        "steps": [
+          "Pick a calm moment, not a meltdown.",
+          "Make faces in a mirror together: happy, sad, angry, scared.",
+          "Ask your child to guess each feeling.",
+          "Share one of your own feelings from today.",
+          "Ask: \"How did you feel today?\"",
+          "Accept any answer without fixing it."
+        ],
+        "avoid": [
+          "Saying a feeling is wrong or silly.",
+          "Asking during a tantrum.",
+          "Too many feeling words at once."
+        ],
+        "success": "Your child names 1 feeling of their own.",
+        "ways": [
+          "Talking about how a character in a book feels.",
+          "A feelings check at bedtime.",
+          "Drawing a face for today."
+        ]
+      },
+      "wait_turn_talk": {
+        "name": "Wait for your turn to talk",
+        "goal": "Waits for a pause before speaking, most of the time.",
+        "why": "Waiting to talk helps conversations, friendships and learning in a group.",
+        "steps": [
+          "Choose a small object, such as a spoon, as the \"talking spoon\".",
+          "Explain: only the person holding it talks.",
+          "Take turns telling one thing about your day.",
+          "Pass it over when you finish.",
+          "Praise your child for waiting, even if it was short."
+        ],
+        "avoid": [
+          "Long turns that test patience.",
+          "Telling your child off for interrupting.",
+          "Interrupting your child yourself."
+        ],
+        "success": "Your child waits for their turn 2 times.",
+        "ways": [
+          "The talking spoon at dinner.",
+          "A family chat in the car.",
+          "Taking turns with a toy phone."
+        ]
+      },
+      "say_sorry": {
+        "name": "Say sorry and make up",
+        "goal": "Says sorry and does something kind to make up after a problem.",
+        "why": "Making up teaches children to repair friendships and to care how others feel.",
+        "steps": [
+          "Wait until everyone is calm.",
+          "Talk about what happened and how the other person felt.",
+          "Ask: \"What could you say or do to help?\"",
+          "Let your child choose the words, such as \"I am sorry I pushed you.\"",
+          "Add a kind act, such as sharing a toy.",
+          "Show your child how you say sorry too."
+        ],
+        "avoid": [
+          "Forcing a sorry in the heat of the moment.",
+          "Shaming your child.",
+          "Long lectures."
+        ],
+        "success": "Your child says sorry and does 1 kind thing.",
+        "ways": [
+          "Making up after a sibling squabble.",
+          "Practising with toys or puppets.",
+          "Drawing a sorry picture."
+        ]
+      },
+      "tell_joke": {
+        "name": "Tell a joke",
+        "goal": "Tells a simple joke and waits for the punchline.",
+        "why": "Jokes build language, timing and the fun of sharing a laugh.",
+        "steps": [
+          "Tell your child a simple, short joke.",
+          "Explain why it is funny, if needed.",
+          "Practise it together, slowly.",
+          "Let your child tell it to you.",
+          "Laugh and say thank you."
+        ],
+        "avoid": [
+          "Jokes that make fun of people.",
+          "Correcting the joke while they tell it.",
+          "Long jokes that are hard to remember."
+        ],
+        "success": "Your child tells a joke from start to end.",
+        "ways": [
+          "A joke at dinner.",
+          "A knock-knock joke in the car.",
+          "Making up a silly joke together."
+        ]
+      },
+      "retell_trip": {
+        "name": "Retell a trip in order",
+        "goal": "Tells what happened on an outing in the right order.",
+        "why": "Putting events in order builds memory, language and early story skills.",
+        "steps": [
+          "After an outing, sit together for a short chat.",
+          "Ask: \"What did we do first?\"",
+          "Then ask: \"What happened next?\"",
+          "Finish with: \"What did we do at the end?\"",
+          "Use the words first, next and last.",
+          "Help with a small clue if your child gets stuck."
+        ],
+        "avoid": [
+          "Too many questions in a row.",
+          "Correcting small details.",
+          "Asking when your child is tired."
+        ],
+        "success": "Your child tells 3 parts of the trip in order.",
+        "ways": [
+          "Looking at photos from the day.",
+          "Telling another family member about the trip.",
+          "Drawing 3 pictures in order."
+        ]
+      },
+      "write_name": {
+        "name": "Write your name",
+        "goal": "Writes their first name with readable letters.",
+        "why": "Writing their name is a proud first step in writing and helps at school.",
+        "steps": [
+          "Write your child's name in large letters.",
+          "Point to each letter and say it.",
+          "Let your child trace over it with a finger, then a pencil.",
+          "Ask your child to copy it underneath.",
+          "Start with a capital letter, then small letters."
+        ],
+        "avoid": [
+          "Writing all the letters in capitals.",
+          "Long practice sessions.",
+          "Pointing out every wobbly letter."
+        ],
+        "success": "Your child writes their first name without copying.",
+        "ways": [
+          "Writing a name on a drawing.",
+          "Writing in sand or with a finger on a misty window.",
+          "Labelling a lunchbox."
+        ]
+      },
+      "count_20": {
+        "name": "Count to 20",
+        "goal": "Counts out loud from 1 to 20 in order.",
+        "why": "Counting to 20 builds the base for adding, taking away and understanding bigger numbers.",
+        "steps": [
+          "Count to 10 together first.",
+          "Then count slowly from 10 to 20.",
+          "Clap or jump on each number.",
+          "Let your child lead the counting.",
+          "Help with tricky numbers, such as 13 and 15."
+        ],
+        "avoid": [
+          "Testing or quizzing.",
+          "Going on when your child loses interest.",
+          "Correcting harshly."
+        ],
+        "success": "Your child counts to 20 without help.",
+        "ways": [
+          "Counting stairs.",
+          "Counting while washing hands.",
+          "Counting jumps or steps on a walk."
+        ]
+      },
+      "add_objects": {
+        "name": "Add with objects",
+        "goal": "Adds 2 small groups of objects and says how many in all.",
+        "why": "Adding with real objects helps numbers make sense before working on paper.",
+        "steps": [
+          "Put out 2 small groups of objects, such as 3 buttons and 2 buttons.",
+          "Count each group together.",
+          "Push the groups together.",
+          "Ask: \"How many now?\"",
+          "Let your child count them all.",
+          "Try a new pair of groups."
+        ],
+        "avoid": [
+          "Small objects with younger siblings nearby.",
+          "Writing sums too early.",
+          "Big numbers before small ones feel easy."
+        ],
+        "success": "Your child adds 2 groups up to 10 correctly.",
+        "ways": [
+          "Adding apples in the shopping bag.",
+          "Adding toy cars.",
+          "Adding fingers on 2 hands."
+        ]
+      },
+      "cut_line": {
+        "name": "Cut along a line",
+        "goal": "Cuts along a straight line with child-safe scissors.",
+        "why": "Cutting builds hand strength and control, which also helps with writing.",
+        "steps": [
+          "Give child-safe scissors and a strip of paper.",
+          "Draw a thick straight line on it.",
+          "Show the grip: thumb on top.",
+          "Let your child cut slowly along the line.",
+          "Turn the paper, not the scissors, if needed."
+        ],
+        "avoid": [
+          "Sharp adult scissors.",
+          "Walking with scissors.",
+          "Thin or hard paper."
+        ],
+        "success": "Your child cuts along a 10 centimetre line.",
+        "ways": [
+          "Cutting out pictures from old leaflets.",
+          "Cutting a paper strip into pieces.",
+          "Cutting playdough with scissors."
+        ]
+      },
+      "draw_shapes": {
+        "name": "Draw a square and a triangle",
+        "goal": "Copies a square and a triangle with clear corners.",
+        "why": "Drawing shapes builds pencil control and helps with forming letters.",
+        "steps": [
+          "Draw a square slowly while your child watches.",
+          "Count the sides together: 1, 2, 3, 4.",
+          "Let your child copy it.",
+          "Do the same with a triangle and 3 sides.",
+          "Praise the corners, even if they are wobbly."
+        ],
+        "avoid": [
+          "Tracing only, with no free drawing.",
+          "Too many shapes in one go.",
+          "Marking the drawings."
+        ],
+        "success": "Your child draws a square and a triangle with corners.",
+        "ways": [
+          "Drawing a house with a square and a roof.",
+          "Finding squares and triangles in the home.",
+          "Drawing shapes with chalk outside."
+        ]
+      },
+      "left_right": {
+        "name": "Left and right",
+        "goal": "Knows their own left and right hand.",
+        "why": "Knowing left and right helps with directions, writing and games. It often takes time to settle.",
+        "steps": [
+          "Hold up both hands with your child.",
+          "Say: \"This is your right hand.\" Shake it.",
+          "Point out the hand your child uses to wave or draw.",
+          "Play a game: \"Touch your left ear.\"",
+          "Swap between left and right slowly."
+        ],
+        "avoid": [
+          "Quizzing fast.",
+          "Expecting your child to know your left and right.",
+          "Making a fuss over mix-ups."
+        ],
+        "success": "Your child shows their left and right hand when asked.",
+        "ways": [
+          "Turning left or right on a walk.",
+          "Putting on the left or right shoe.",
+          "A left and right dance game."
+        ]
+      },
+      "days_week": {
+        "name": "Days of the week",
+        "goal": "Says the days of the week in order.",
+        "why": "Knowing the days helps children understand time, plans and routines.",
+        "steps": [
+          "Say the 7 days slowly together.",
+          "Sing them to a simple tune.",
+          "Talk about today: \"Today is Monday.\"",
+          "Link each day to one thing you do, such as swimming or visiting grandma.",
+          "Let your child say them alone."
+        ],
+        "avoid": [
+          "Testing without help first.",
+          "Mixing in months at the same time.",
+          "Long sessions."
+        ],
+        "success": "Your child says the 7 days in order.",
+        "ways": [
+          "A days of the week song in the morning.",
+          "Ticking off days on a calendar.",
+          "Asking \"What day is it tomorrow?\" at breakfast."
+        ]
+      },
+      "phone_address": {
+        "name": "Know your phone number and address",
+        "goal": "Says a parent's phone number and their home address.",
+        "why": "If your child ever gets lost, knowing these details helps a safe adult contact you.",
+        "steps": [
+          "Say your street and town together, slowly.",
+          "Then say your phone number in small groups of digits.",
+          "Turn the number into a little song or rhythm.",
+          "Practise it once a day.",
+          "Explain who to tell: a police officer, a teacher or a shop worker at the till."
+        ],
+        "avoid": [
+          "Sharing these details with strangers online.",
+          "Practising only once and stopping.",
+          "Scary stories about getting lost."
+        ],
+        "success": "Your child says your phone number and street.",
+        "ways": [
+          "Singing the number on the way home.",
+          "Writing the address on a card together.",
+          "Pretend play: lost in a shop."
+        ]
+      },
+      "spread_knife": {
+        "name": "Spread with a knife",
+        "goal": "Spreads soft food on bread with a blunt knife.",
+        "why": "Spreading builds hand control and is a first step towards making food alone.",
+        "steps": [
+          "Give a blunt butter knife or a child-safe knife.",
+          "Use something soft, such as soft cheese or butter at room temperature.",
+          "Show how to scoop a little with the tip.",
+          "Show how to spread from the middle to the edges.",
+          "Let your child try on 1 slice of bread."
+        ],
+        "avoid": [
+          "Sharp knives.",
+          "Hard butter straight from the fridge.",
+          "Worrying about crumbs and mess."
+        ],
+        "success": "Your child spreads 1 slice of bread alone.",
+        "ways": [
+          "Spreading on crackers at snack time.",
+          "Spreading jam at breakfast.",
+          "Making toast for a family member, after you toast it."
+        ]
+      },
+      "pack_bag": {
+        "name": "Pack your bag",
+        "goal": "Packs their own school or nursery bag with a picture list.",
+        "why": "Packing a bag builds memory, planning and responsibility.",
+        "steps": [
+          "Make a simple picture list of what goes in the bag.",
+          "Put the bag and items in one place the night before.",
+          "Let your child pack while looking at the list.",
+          "Check the list together at the end.",
+          "Thank your child for packing."
+        ],
+        "avoid": [
+          "Packing on a rushed morning.",
+          "Repacking the bag after your child.",
+          "A long list of items."
+        ],
+        "success": "Your child packs their bag with the list, without help.",
+        "ways": [
+          "Packing a bag for the park.",
+          "Packing a toy bag for a visit.",
+          "Packing a swimming bag."
+        ]
+      },
+      "jump_rope": {
+        "name": "Skip with a rope alone",
+        "goal": "Turns a skipping rope and jumps over it alone.",
+        "why": "Skipping with a rope builds timing, fitness and coordination.",
+        "steps": [
+          "Check the rope length: the handles reach the armpits when your child stands on the middle.",
+          "Find a flat space with no one nearby.",
+          "Practise jumping on the spot without the rope.",
+          "Let your child swing the rope over and step over it.",
+          "Then try a swing and a jump.",
+          "Count each jump together."
+        ],
+        "avoid": [
+          "Long ropes that can trip.",
+          "Playing near furniture or other children.",
+          "Expecting many jumps at first."
+        ],
+        "success": "Your child jumps the rope 3 times in a row.",
+        "ways": [
+          "A skipping song in the garden.",
+          "Counting jumps each week.",
+          "Skipping with a friend."
+        ]
+      },
+      "dribble_pass": {
+        "name": "Pass and dribble a ball",
+        "goal": "Moves a ball along with the feet and passes it to someone.",
+        "why": "Dribbling and passing build footwork, balance and team skills.",
+        "steps": [
+          "Find a flat, open space away from roads.",
+          "Show how to tap the ball gently with the inside of the foot.",
+          "Let your child walk while tapping the ball.",
+          "Stand 3 metres away and ask for a pass.",
+          "Pass it back and repeat."
+        ],
+        "avoid": [
+          "Kicking hard near windows.",
+          "Playing near roads or cars.",
+          "Turning it into a competition too soon."
+        ],
+        "success": "Your child dribbles 5 metres and passes to you.",
+        "ways": [
+          "Dribbling between 2 cones or shoes.",
+          "Passing back and forth 10 times.",
+          "A short game in the park."
+        ]
+      },
+      "hopscotch": {
+        "name": "Hopscotch",
+        "goal": "Plays hopscotch, hopping on one foot and landing on 2.",
+        "why": "Hopscotch builds balance, strength, counting and turn-taking.",
+        "steps": [
+          "Draw a hopscotch grid with chalk, or use tape indoors.",
+          "Show how to hop on one foot in single squares.",
+          "Land on 2 feet in the double squares.",
+          "Turn at the end and hop back.",
+          "Add a small stone to throw once your child is ready."
+        ],
+        "avoid": [
+          "Drawing the grid near a road.",
+          "Slippery or wet ground.",
+          "Big jumps between squares."
+        ],
+        "success": "Your child hops the grid there and back.",
+        "ways": [
+          "Hopscotch on the pavement outside home.",
+          "A tape grid in the hallway.",
+          "Saying the numbers as you hop."
+        ]
+      },
+      "float_back": {
+        "name": "Float on your back",
+        "goal": "Floats on their back with support nearby.",
+        "why": "Floating on the back is a key water safety skill. It lets a child rest and breathe in water.",
+        "steps": [
+          "Go to a supervised pool, and stay in the water with your child.",
+          "Stand within arm's reach the whole time.",
+          "Support the back of the head and the lower back with your hands.",
+          "Ask your child to look up, tummy up, arms and legs out like a star.",
+          "Slowly ease your support for a few seconds.",
+          "Help your child stand up again."
+        ],
+        "avoid": [
+          "Leaving your child in the water alone, even for a moment.",
+          "Open water, such as lakes, rivers or the sea.",
+          "Rushing a nervous child."
+        ],
+        "success": "Your child floats for 5 seconds with your hands just below.",
+        "ways": [
+          "Swimming lessons with a qualified teacher.",
+          "Floating like a starfish together.",
+          "Practising with a float under the head."
+        ]
+      },
+      "read_book": {
+        "name": "Read a short book to me",
+        "goal": "Reads a short, simple book aloud to an adult.",
+        "why": "Reading aloud builds fluency and confidence. Sharing it with you makes reading feel good.",
+        "steps": [
+          "Choose a short book at the right level, such as one from school.",
+          "Sit close together in a quiet spot.",
+          "Let your child hold the book and turn the pages.",
+          "Help with a tricky word only after a short pause.",
+          "Talk about the pictures and story at the end."
+        ],
+        "avoid": [
+          "Books that are too hard.",
+          "Correcting every small mistake.",
+          "Reading when your child is very tired."
+        ],
+        "success": "Your child reads a short book from start to end.",
+        "ways": [
+          "Reading to a younger sibling.",
+          "Reading to a favourite toy.",
+          "Reading a page each in turn."
+        ]
+      },
+      "sound_out": {
+        "name": "Sound out new words",
+        "goal": "Says the sounds in a short word and blends them to read it.",
+        "why": "Sounding out lets children read words they have never seen before.",
+        "steps": [
+          "Write a short word, such as \"cat\".",
+          "Point to each letter and say its sound: c, a, t.",
+          "Say the sounds faster to blend them: \"cat\".",
+          "Let your child do the next word.",
+          "Use words with 3 letters first."
+        ],
+        "avoid": [
+          "Letter names instead of sounds.",
+          "Long lists of words.",
+          "Guessing from pictures only."
+        ],
+        "success": "Your child sounds out and reads 3 new words.",
+        "ways": [
+          "Reading signs on a walk.",
+          "Magnetic letters on the fridge.",
+          "Reading the names on food packets."
+        ]
+      },
+      "ask_play": {
+        "name": "Ask a friend to play",
+        "goal": "Asks another child to play, and copes with a yes or a no.",
+        "why": "Asking to play builds friendships, confidence and social skills.",
+        "steps": [
+          "Practise at home with a toy or with you.",
+          "Give simple words: \"Do you want to play with me?\"",
+          "Practise what to say if the answer is no: \"Okay, maybe later.\"",
+          "At the park, stay nearby while your child tries.",
+          "Praise the courage, whatever the answer."
+        ],
+        "avoid": [
+          "Pushing a shy child to go now.",
+          "Speaking for your child.",
+          "Making a no feel like a failure."
+        ],
+        "success": "Your child asks another child to play.",
+        "ways": [
+          "Asking a cousin at a family visit.",
+          "Asking at the playground.",
+          "Practising with puppets."
+        ]
+      },
+      "lose_calmly": {
+        "name": "Lose a game calmly",
+        "goal": "Loses a game and stays fairly calm.",
+        "why": "Coping with losing helps children enjoy games and keep friends.",
+        "steps": [
+          "Play a short game with luck in it, such as a dice game.",
+          "Before you start, agree what to say at the end: \"Good game.\"",
+          "When you lose, show it calmly: \"Oh, I lost. That was fun.\"",
+          "If your child loses, name the feeling: \"You feel cross.\"",
+          "Offer another go."
+        ],
+        "avoid": [
+          "Letting your child win every time.",
+          "Telling your child off for being upset.",
+          "Long games when tired."
+        ],
+        "success": "Your child says \"Good game\" after losing.",
+        "ways": [
+          "Card games after dinner.",
+          "A race in the park.",
+          "Family games night."
+        ]
+      },
+      "calm_breathing": {
+        "name": "Calm-down breathing",
+        "goal": "Uses slow breaths to calm down when upset.",
+        "why": "Slow breathing helps the body relax. It gives children a tool they can use anywhere.",
+        "steps": [
+          "Practise when your child is calm, not upset.",
+          "Hold up a hand as a \"birthday cake\".",
+          "Smell the flowers: breathe in slowly through the nose.",
+          "Blow out the candles: breathe out slowly through the mouth.",
+          "Do it 3 times together.",
+          "Remind your child of it next time they feel upset."
+        ],
+        "avoid": [
+          "Teaching it during a meltdown.",
+          "Fast, deep breaths.",
+          "Using it as a punishment."
+        ],
+        "success": "Your child does 3 slow breaths with you.",
+        "ways": [
+          "Breathing at bedtime.",
+          "Blowing bubbles slowly.",
+          "Breathing like a sleepy dog."
+        ]
+      },
+      "three_step": {
+        "name": "Follow 3-step instructions",
+        "goal": "Follows 3 simple instructions in order.",
+        "why": "Following steps builds memory and listening, which helps at school and home.",
+        "steps": [
+          "Get your child's attention first.",
+          "Give 3 simple steps: \"Get your shoes, put them by the door, then wash your hands.\"",
+          "Ask your child to say them back.",
+          "Let your child do them in order.",
+          "Praise each step done."
+        ],
+        "avoid": [
+          "Giving steps while your child is busy.",
+          "Too many words.",
+          "Repeating the steps again and again."
+        ],
+        "success": "Your child does 3 steps in order.",
+        "ways": [
+          "A tidy-up game.",
+          "Simon says with 3 moves.",
+          "A treasure hunt with 3 clues."
+        ]
+      },
+      "school_day": {
+        "name": "Talk about your school day",
+        "goal": "Tells you about something that happened at school.",
+        "why": "Talking about the day builds language and helps you know how your child feels.",
+        "steps": [
+          "Wait until your child has had a snack and a rest.",
+          "Ask a specific question: \"Who did you play with today?\"",
+          "Share something from your own day too.",
+          "Listen without fixing or judging.",
+          "Ask one more question about what they say."
+        ],
+        "avoid": [
+          "Asking \"How was school?\" only.",
+          "Too many questions at once.",
+          "Asking straight after pick-up."
+        ],
+        "success": "Your child tells you 1 thing about their day.",
+        "ways": [
+          "Chatting on the walk home.",
+          "Sharing a happy and a sad part at dinner.",
+          "Talking at bath time."
+        ]
+      },
+      "tie_laces": {
+        "name": "Tie your shoelaces",
+        "goal": "Ties a shoelace bow, slowly, without help.",
+        "why": "Tying laces builds finger skills and independence. Many children learn this between 6 and 8.",
+        "steps": [
+          "Practise with the shoe on a table, not on the foot.",
+          "Use 2 laces of different colours, if you can.",
+          "Show the first cross and tuck slowly.",
+          "Make 2 loops like bunny ears.",
+          "Cross the loops, tuck one under and pull.",
+          "Let your child try each step after you."
+        ],
+        "avoid": [
+          "Practising on a busy morning.",
+          "Short or slippery laces.",
+          "Taking over when it is slow."
+        ],
+        "success": "Your child ties a bow without help.",
+        "ways": [
+          "Tying a bow on a gift.",
+          "A lacing card or shoebox with holes.",
+          "Tying an apron string."
+        ]
+      },
+      "time_hour": {
+        "name": "Tell the time to the hour",
+        "goal": "Reads o'clock times on a clock with hands.",
+        "why": "Telling the time helps children understand routines and plans.",
+        "steps": [
+          "Use a clock with hands, or draw one on paper.",
+          "Show the short hand for hours and the long hand for minutes.",
+          "Point the long hand at 12.",
+          "Move the short hand and say: \"It is 3 o'clock.\"",
+          "Let your child set and read a time."
+        ],
+        "avoid": [
+          "Starting with minutes.",
+          "Digital clocks only.",
+          "Long practice."
+        ],
+        "success": "Your child reads 3 o'clock times correctly.",
+        "ways": [
+          "Reading the clock at lunch time.",
+          "Making a paper plate clock.",
+          "Bedtime at 7 o'clock on the clock."
+        ]
+      },
+      "add_take_10": {
+        "name": "Add and take away to 10",
+        "goal": "Adds and takes away small numbers within 10.",
+        "why": "Adding and taking away build number sense used every day.",
+        "steps": [
+          "Put 10 small objects on the table, such as pasta pieces.",
+          "Make a group of 6 and take 2 away.",
+          "Ask: \"How many are left?\"",
+          "Then add 3 and ask: \"How many now?\"",
+          "Let your child make a sum for you."
+        ],
+        "avoid": [
+          "Paper sums without objects.",
+          "Timing your child.",
+          "Numbers over 10 too soon."
+        ],
+        "success": "Your child solves 3 sums within 10.",
+        "ways": [
+          "Adding and eating grapes at snack time.",
+          "Finger sums on a walk.",
+          "Taking away toys from a box."
+        ]
+      },
+      "write_sentence": {
+        "name": "Write a short sentence",
+        "goal": "Writes a short sentence with a capital letter and a full stop.",
+        "why": "Writing a sentence turns ideas into words. It builds spelling and confidence.",
+        "steps": [
+          "Ask your child to say a sentence out loud first, such as \"I like cats.\"",
+          "Count the words on your fingers.",
+          "Let your child write it, sounding out each word.",
+          "Remind them: a capital letter at the start, a full stop at the end.",
+          "Read it back together."
+        ],
+        "avoid": [
+          "Correcting every spelling.",
+          "Long sentences at first.",
+          "Copying only, with no own ideas."
+        ],
+        "success": "Your child writes a 3-word sentence.",
+        "ways": [
+          "Writing a note to a grandparent.",
+          "Writing a shopping list item.",
+          "A caption for a drawing."
+        ]
+      },
+      "grow_plant": {
+        "name": "Grow a plant",
+        "goal": "Plants a seed and looks after it.",
+        "why": "Growing a plant teaches care, patience and how living things grow.",
+        "steps": [
+          "Choose a fast seed, such as cress or a bean.",
+          "Fill a pot or cup with soil, or use damp cotton wool.",
+          "Let your child push in the seed and cover it.",
+          "Place it by a window.",
+          "Check it together each day and water a little when dry."
+        ],
+        "avoid": [
+          "Too much water.",
+          "Slow seeds that test patience.",
+          "Plants that are not safe to touch or eat."
+        ],
+        "success": "Your child plants a seed and waters it for a week.",
+        "ways": [
+          "Growing cress to eat in a sandwich.",
+          "A bean in a jar to watch the roots.",
+          "Drawing the plant each week."
+        ]
+      },
+      "build_instructions": {
+        "name": "Build from instructions",
+        "goal": "Builds a simple model by following picture steps.",
+        "why": "Following picture steps builds focus, planning and problem solving.",
+        "steps": [
+          "Choose a simple model with few steps.",
+          "Sort the pieces before you start.",
+          "Look at step 1 together.",
+          "Let your child find the pieces and build.",
+          "Help only when asked."
+        ],
+        "avoid": [
+          "Tiny parts near babies or toddlers.",
+          "Models with too many steps.",
+          "Fixing mistakes for your child."
+        ],
+        "success": "Your child builds 3 steps alone.",
+        "ways": [
+          "Building blocks from a picture card.",
+          "Folding a paper boat from drawn steps.",
+          "Copying a block tower you built."
+        ]
+      },
+      "know_coins": {
+        "name": "Know the coins",
+        "goal": "Names the coins and knows which are worth more.",
+        "why": "Knowing coins is a first step to using money and saving.",
+        "steps": [
+          "Put out a few different coins.",
+          "Look at each one and say its value.",
+          "Sort them by colour or size together.",
+          "Put them in order from least to most.",
+          "Ask your child to find a coin you name."
+        ],
+        "avoid": [
+          "Coins near babies or toddlers, who might swallow them.",
+          "Using too many coins at once.",
+          "Thinking bigger coins are always worth more."
+        ],
+        "success": "Your child names 3 coins and their value.",
+        "ways": [
+          "Playing shop at home.",
+          "Sorting coins in a money box.",
+          "Spotting coins in a purse."
+        ]
+      },
+      "make_sandwich": {
+        "name": "Make a sandwich",
+        "goal": "Makes a simple sandwich with a little help.",
+        "why": "Making food builds independence and pride, and is a first step to cooking.",
+        "steps": [
+          "Wash hands together first.",
+          "Put out bread, a soft spread and a simple filling.",
+          "Let your child spread the bread with a blunt knife.",
+          "Add the filling and the top slice.",
+          "Cut it yourself, or let your child cut with a child-safe knife.",
+          "Enjoy eating it together."
+        ],
+        "avoid": [
+          "Sharp knives.",
+          "Fillings that need heat.",
+          "Worrying about mess."
+        ],
+        "success": "Your child makes a sandwich with little help.",
+        "ways": [
+          "Making a lunchbox sandwich.",
+          "A picnic in the garden.",
+          "Making a sandwich for a family member."
+        ]
+      },
+      "set_table": {
+        "name": "Set the table",
+        "goal": "Puts plates, cups and cutlery out for a meal.",
+        "why": "Setting the table builds counting, order and helpfulness.",
+        "steps": [
+          "Count how many people are eating.",
+          "Give your child unbreakable plates and cups.",
+          "Show where the fork and the knife go.",
+          "Let your child set one place, then the rest.",
+          "Thank your child at the meal."
+        ],
+        "avoid": [
+          "Glass or heavy plates.",
+          "Sharp knives.",
+          "Fixing every place afterwards."
+        ],
+        "success": "Your child sets the table for the family.",
+        "ways": [
+          "Laying a picnic blanket.",
+          "Setting a table for toys.",
+          "Putting out napkins for guests."
+        ]
+      },
+      "swim_10m": {
+        "name": "Swim 10 metres",
+        "goal": "Swims 10 metres without stopping, in a supervised pool.",
+        "why": "Swimming a short distance builds water confidence. It is an important step towards being safer in and near water.",
+        "steps": [
+          "Choose a supervised pool with a lifeguard, or a swimming lesson.",
+          "Get in the water and stay within arm's reach of your child.",
+          "Start with 3 metres from you to the wall.",
+          "Step back a little each time your child reaches you.",
+          "Count the strokes together and praise each try."
+        ],
+        "avoid": [
+          "Practising in lakes, rivers or the sea.",
+          "Looking at your phone while your child is in the water.",
+          "Carrying on when your child is cold or tired."
+        ],
+        "success": "Your child swims 10 metres without stopping or standing up.",
+        "ways": [
+          "Swim a width of the pool in a lesson.",
+          "Swim to you as you walk slowly backwards.",
+          "Count strokes from one side to the other."
+        ]
+      },
+      "throw_target": {
+        "name": "Throw overarm at a target",
+        "goal": "Throws a ball overarm and hits a target a few metres away.",
+        "why": "An overarm throw uses the whole body. It builds coordination, aim and the skills needed for many sports.",
+        "steps": [
+          "Set up a target, such as a bucket or a chalk circle on a wall.",
+          "Stand your child side on, about 3 metres away.",
+          "Show the throw once: point at the target, step with the opposite foot, throw.",
+          "Let your child throw 10 times with a soft ball.",
+          "Move the target closer if it is too hard.",
+          "Praise good form, not only the hits."
+        ],
+        "avoid": [
+          "Hard balls indoors or near windows.",
+          "Targets too far away at the start.",
+          "Correcting every single throw."
+        ],
+        "success": "Your child hits the target 3 times out of 10 with an overarm throw.",
+        "ways": [
+          "Throw rolled-up socks into a laundry basket.",
+          "Knock down a tower of plastic cups.",
+          "Throw a ball through a hoop in the park."
+        ]
+      },
+      "bike_brake_signal": {
+        "name": "Brake and signal on a bike",
+        "goal": "Stops on a chosen spot and holds out an arm to signal, away from roads.",
+        "why": "Braking well and riding with one hand are the skills a child needs before riding near traffic.",
+        "steps": [
+          "Check the helmet fits and the brakes work before every ride.",
+          "Find a flat, open space away from roads, such as a park path or empty playground.",
+          "Mark a line and ask your child to stop with both brakes at the line.",
+          "Practise looking over one shoulder while riding in a straight line.",
+          "Practise taking one hand off for a moment to point left or right.",
+          "Stay close and keep each try short."
+        ],
+        "avoid": [
+          "Practising on roads or busy paths.",
+          "Riding without a helmet.",
+          "Long stretches of one-handed riding before your child is steady."
+        ],
+        "success": "Your child stops at the line and signals with one arm without wobbling.",
+        "ways": [
+          "A game of stop and go with a call from you.",
+          "Ride a loop and signal at each corner.",
+          "Stop on a chalk line from a slow, then a faster, speed."
+        ]
+      },
+      "animal_yoga": {
+        "name": "Animal yoga",
+        "goal": "Holds 4 animal yoga poses and moves calmly between them.",
+        "why": "Yoga poses build balance, strength and body awareness. Slow breathing in each pose can help a child feel calm.",
+        "steps": [
+          "Clear a space on the floor or use a soft mat.",
+          "Show one pose at a time: dog, cat, cobra and flamingo on one leg.",
+          "Hold each pose for 3 slow breaths together.",
+          "Let your child choose the next animal.",
+          "End lying still for a short rest."
+        ],
+        "avoid": [
+          "Pushing your child further into a stretch.",
+          "Practising straight after a big meal.",
+          "Turning it into a contest."
+        ],
+        "success": "Your child holds 4 poses for 3 breaths each.",
+        "ways": [
+          "Make up a story that uses each animal.",
+          "Make the sound of each animal before the pose.",
+          "A short calm session before bed."
+        ]
+      },
+      "read_expression": {
+        "name": "Read aloud with expression",
+        "goal": "Reads a short passage aloud and changes their voice to match the story.",
+        "why": "Reading with expression shows your child understands the words. It also builds confidence when speaking to others.",
+        "steps": [
+          "Choose a short page your child can already read well.",
+          "Read one line yourself with a happy, scared or cross voice.",
+          "Ask your child to read the next line in a voice that fits.",
+          "Point out question marks and speech marks as clues.",
+          "Swap and take turns to the end of the page."
+        ],
+        "avoid": [
+          "Books that are too hard to read smoothly.",
+          "Correcting every small mistake.",
+          "Laughing at a voice your child tries."
+        ],
+        "success": "Your child changes their voice for at least 2 characters or feelings.",
+        "ways": [
+          "Read a bedtime story to a younger child or a toy.",
+          "Act out a comic strip together.",
+          "Record a page and listen back."
+        ]
+      },
+      "thank_you_card": {
+        "name": "Write a thank-you card",
+        "goal": "Writes a short thank-you card in their own words.",
+        "why": "Saying thank you in writing builds kindness and writing skills at the same time.",
+        "steps": [
+          "Fold a sheet of paper into a card together.",
+          "Talk about who the card is for and what they did.",
+          "Help your child plan 2 sentences: thank you for, and why they liked it.",
+          "Let your child write, with you spelling hard words aloud.",
+          "Add a drawing and their name at the end."
+        ],
+        "avoid": [
+          "Writing it for your child.",
+          "Asking for perfect spelling.",
+          "Long cards that turn into a chore."
+        ],
+        "success": "Your child writes 2 sentences and signs their name.",
+        "ways": [
+          "A card for a teacher at the end of term.",
+          "A note for a grandparent after a visit.",
+          "A thank-you after a birthday gift."
+        ]
+      },
+      "talk_worries": {
+        "name": "Talk about worries",
+        "goal": "Names a worry and talks about it with you.",
+        "why": "Many children worry at this age. Saying a worry out loud often makes it feel smaller, and your child learns they can come to you.",
+        "steps": [
+          "Choose a calm moment, such as a walk or bedtime.",
+          "Share a small worry of your own first.",
+          "Ask: is anything on your mind today?",
+          "Listen without fixing it straight away.",
+          "Ask what might help, and make a small plan together."
+        ],
+        "avoid": [
+          "Saying there is nothing to worry about.",
+          "Asking lots of questions at once.",
+          "Talking about worries only at bedtime."
+        ],
+        "success": "Your child names a worry and thinks of 1 thing that might help.",
+        "ways": [
+          "A worry box with notes your child posts and you read together.",
+          "Draw the worry and talk about the picture.",
+          "Rate the worry from 1 to 5 before and after talking."
+        ]
+      },
+      "friend_problem": {
+        "name": "Solve a friend problem",
+        "goal": "Thinks of ideas to fix a small problem with a friend.",
+        "why": "Friendships matter more and more at this age. Solving small problems helps your child keep friends and feel capable.",
+        "steps": [
+          "Ask your child to tell you about a recent small problem with a friend.",
+          "Help them say what happened and how each person felt.",
+          "Think of 3 ideas together to make it better.",
+          "Let your child choose the idea they like best.",
+          "Practise what they could say, with you as the friend."
+        ],
+        "avoid": [
+          "Solving the problem for your child.",
+          "Blaming the friend.",
+          "Choosing a big or very upsetting problem to practise with."
+        ],
+        "success": "Your child thinks of 1 idea and practises what to say.",
+        "ways": [
+          "Use 2 toys to act out a problem.",
+          "Talk about a problem in a story book.",
+          "Check in after school on how the idea went."
+        ]
+      },
+      "explain_rules": {
+        "name": "Explain the rules of a game",
+        "goal": "Explains a simple game clearly enough for someone else to play.",
+        "why": "Explaining rules builds clear speaking, sequencing and thinking about what another person needs to know.",
+        "steps": [
+          "Choose a game your child knows well.",
+          "Ask them to teach it to you as if you have never played.",
+          "Ask: how do you start, what do you do on a turn, how do you win?",
+          "Follow the rules exactly as they say them.",
+          "Play a short round to test the rules."
+        ],
+        "avoid": [
+          "Helping before your child has tried.",
+          "Games with many complicated rules.",
+          "Correcting small details that do not matter."
+        ],
+        "success": "Your child explains how to start, play a turn and win.",
+        "ways": [
+          "Teach a game to a grandparent or friend.",
+          "Make up a new game and explain it.",
+          "Explain a playground game at dinner."
+        ]
+      },
+      "say_why": {
+        "name": "Say what you think and why",
+        "goal": "Gives an opinion and adds a reason using the word because.",
+        "why": "Giving reasons builds thinking and speaking skills. It also helps your child share their views with confidence.",
+        "steps": [
+          "Ask a fun question, such as which is the best season.",
+          "Give your own answer with a reason: I like winter because.",
+          "Ask your child for their answer and a reason.",
+          "Ask: can you think of another reason?",
+          "Thank them for sharing, even if you think differently."
+        ],
+        "avoid": [
+          "Saying an opinion is wrong.",
+          "Questions with a right or wrong answer.",
+          "Rushing your child to answer."
+        ],
+        "success": "Your child gives an opinion with 1 clear reason.",
+        "ways": [
+          "Talk about the best and worst part of a film.",
+          "Choose a dinner and say why.",
+          "Vote on a weekend plan with reasons."
+        ]
+      },
+      "times_2_5_10": {
+        "name": "Times tables 2, 5 and 10",
+        "goal": "Counts in 2s, 5s and 10s and knows some facts from these tables.",
+        "why": "These 3 tables are the base for the other times tables. They also help with money and telling the time.",
+        "steps": [
+          "Start by counting in 10s together while you clap.",
+          "Count in 5s and 2s the same way.",
+          "Use real things, such as pairs of socks for 2s or fingers for 5s.",
+          "Ask a few quick questions, such as 3 lots of 5.",
+          "Praise each answer and give the right one gently if needed."
+        ],
+        "avoid": [
+          "Long drills that feel like a test.",
+          "Moving on before counting in steps is easy.",
+          "Comparing with other children."
+        ],
+        "success": "Your child counts in 2s, 5s and 10s and answers 3 questions.",
+        "ways": [
+          "Count in 2s on each stair.",
+          "Count coins in 5s and 10s.",
+          "Sing the tables to a tune you both know."
+        ]
+      },
+      "half_quarter": {
+        "name": "Half past and quarter past",
+        "goal": "Reads half past and quarter past on a clock with hands.",
+        "why": "Reading the clock helps your child understand the day and builds number skills.",
+        "steps": [
+          "Use a clock with hands, or draw one on paper.",
+          "Check your child can read times on the hour first.",
+          "Show that the long hand on the 6 means half past.",
+          "Show that the long hand on the 3 means quarter past.",
+          "Set a few times and let your child read them."
+        ],
+        "avoid": [
+          "Using only digital clocks.",
+          "Adding quarter to before half past is easy.",
+          "Long sessions that tire your child."
+        ],
+        "success": "Your child reads 3 times correctly, using half past and quarter past.",
+        "ways": [
+          "Check the clock at real moments, such as bath time.",
+          "Make a paper plate clock together.",
+          "Take turns setting a time for the other to read."
+        ]
+      },
+      "read_calendar": {
+        "name": "Read a calendar",
+        "goal": "Finds today's date and counts the days to an event on a calendar.",
+        "why": "A calendar helps your child understand weeks and months. It also makes waiting for events easier.",
+        "steps": [
+          "Use a paper calendar or draw one month on paper.",
+          "Find today together and say the day, date and month.",
+          "Mark an event your child looks forward to.",
+          "Count the days to the event together.",
+          "Cross off each day as it passes."
+        ],
+        "avoid": [
+          "Too many events marked at once.",
+          "Calendars with tiny writing.",
+          "Testing your child on all the months at once."
+        ],
+        "success": "Your child finds today and counts the days to an event.",
+        "ways": [
+          "Mark family birthdays.",
+          "Count the weeks to a holiday.",
+          "Fill in the weather each day."
+        ]
+      },
+      "measure_ruler": {
+        "name": "Measure with a ruler",
+        "goal": "Measures a short object with a ruler to the nearest centimetre.",
+        "why": "Measuring builds number sense and careful hand control. It is also useful in craft and cooking.",
+        "steps": [
+          "Show where 0 is on the ruler, as it is not always at the very end.",
+          "Line up 0 with one end of an object, such as a pencil.",
+          "Read the number at the other end together.",
+          "Let your child measure 3 more objects alone.",
+          "Write the lengths down and find the longest."
+        ],
+        "avoid": [
+          "Starting from the edge of the ruler instead of 0.",
+          "Objects longer than the ruler at first.",
+          "Correcting before your child has checked again."
+        ],
+        "success": "Your child measures 3 objects to the nearest centimetre.",
+        "ways": [
+          "Measure fingers and feet in the family.",
+          "Measure leaves found on a walk.",
+          "Draw a line of a set length."
+        ]
+      },
+      "spot_pattern": {
+        "name": "Spot the pattern",
+        "goal": "Finds what comes next in a shape or number pattern.",
+        "why": "Spotting patterns builds the thinking skills behind maths, reading and problem solving.",
+        "steps": [
+          "Make a simple pattern with objects, such as spoon, fork, spoon, fork.",
+          "Ask what comes next.",
+          "Try a harder pattern, such as red, red, blue, red, red.",
+          "Try a number pattern, such as 2, 4, 6.",
+          "Let your child make a pattern for you to solve."
+        ],
+        "avoid": [
+          "Patterns that are too long at first.",
+          "Giving the answer too quickly.",
+          "Making it feel like a test."
+        ],
+        "success": "Your child continues 2 patterns and makes 1 of their own.",
+        "ways": [
+          "Thread beads in a pattern.",
+          "Look for patterns on tiles and fences.",
+          "Clap a rhythm and copy it."
+        ]
+      },
+      "pay_shop": {
+        "name": "Pay in a shop",
+        "goal": "Pays for a small item at a shop counter with you beside them.",
+        "why": "Paying builds confidence, money sense and the skill of talking to adults politely.",
+        "steps": [
+          "Choose a small item and a quiet shop.",
+          "Give your child the right money or a little more.",
+          "Practise what to say before you go in.",
+          "Stand beside your child while they pay.",
+          "Remind them to wait for change and say thank you."
+        ],
+        "avoid": [
+          "Busy times with long queues.",
+          "Speaking for your child at the counter.",
+          "Large amounts of money."
+        ],
+        "success": "Your child hands over the money, waits for change and says thank you.",
+        "ways": [
+          "Buy bread at a local shop.",
+          "Pay for a treat at a market stall.",
+          "Practise first with a pretend shop at home."
+        ]
+      },
+      "count_change": {
+        "name": "Count the change",
+        "goal": "Works out simple change from small amounts using coins.",
+        "why": "Counting change builds number skills and helps your child understand that money is spent and some comes back.",
+        "steps": [
+          "Set up a pretend shop with a few items and price labels.",
+          "Use real coins and keep prices small.",
+          "Let your child buy an item and pay with a larger coin.",
+          "Count up together from the price to the coin paid.",
+          "Swap roles so your child gives you change."
+        ],
+        "avoid": [
+          "Prices with many coins at the start.",
+          "Practising in a busy real shop first.",
+          "Doing the sums for your child."
+        ],
+        "success": "Your child works out the change correctly for 2 small buys.",
+        "ways": [
+          "Check the change together after a real shop.",
+          "A café game with a menu and prices.",
+          "Sort coins and count to a set amount."
+        ]
+      },
+      "follow_recipe": {
+        "name": "Follow a simple recipe",
+        "goal": "Follows a short, no-cook recipe step by step.",
+        "why": "Following a recipe builds reading, measuring and planning. Children are also more likely to try food they made.",
+        "steps": [
+          "Choose a no-cook recipe, such as fruit salad or yoghurt pots.",
+          "Wash hands together first.",
+          "Read each step aloud together before doing it.",
+          "Let your child gather, measure and mix the ingredients.",
+          "Use a child-safe knife for soft fruit, with you beside them.",
+          "Tidy up together at the end."
+        ],
+        "avoid": [
+          "Sharp knives or hot parts for your child.",
+          "Long recipes with many steps.",
+          "Fixing small mistakes that do not matter."
+        ],
+        "success": "Your child follows each step of the recipe in order.",
+        "ways": [
+          "Make a smoothie, with you using the blender.",
+          "Build a fruit and cheese plate from a picture.",
+          "Mix overnight oats for breakfast."
+        ]
+      },
+      "sew_button": {
+        "name": "Sew on a button",
+        "goal": "Sews a large button onto fabric with your help.",
+        "why": "Sewing builds fine finger control, patience and a useful life skill.",
+        "steps": [
+          "Use a large button, felt and a large needle with a blunt tip.",
+          "Thread the needle and tie a knot at the end for your child.",
+          "Show how to push the needle up through one hole and down through the other.",
+          "Let your child repeat this 4 or 5 times.",
+          "Help tie off the thread at the back.",
+          "Put the needle in a pincushion or box straight away."
+        ],
+        "avoid": [
+          "Sharp, thin needles.",
+          "Leaving needles on the table or floor.",
+          "Thin fabric that puckers and frustrates."
+        ],
+        "success": "Your child sews a button on with at least 4 stitches.",
+        "ways": [
+          "Sew a button eye onto a felt puppet.",
+          "Practise on an old shirt.",
+          "Sew 2 buttons to make a face."
+        ]
+      },
+      "fold_laundry": {
+        "name": "Fold and put away laundry",
+        "goal": "Folds simple clothes and puts them in the right drawer.",
+        "why": "Helping with laundry builds responsibility and gives your child a real part in family life.",
+        "steps": [
+          "Start with easy items, such as towels and T-shirts.",
+          "Show one fold slowly, step by step.",
+          "Let your child fold the next one alone.",
+          "Match socks into pairs together.",
+          "Ask your child to put their own clothes in the right drawers."
+        ],
+        "avoid": [
+          "Refolding their work in front of them.",
+          "Large piles that feel endless.",
+          "Expecting shop-perfect folds."
+        ],
+        "success": "Your child folds 5 items and puts them away.",
+        "ways": [
+          "Fold tea towels for the kitchen.",
+          "A race against a favourite song.",
+          "Sort clean washing by family member."
+        ]
+      },
+      "tread_water": {
+        "name": "Float, tread water and get out",
+        "goal": "Floats on their back, treads water for a short time and gets out at the side, in a supervised pool.",
+        "why": "Floating and treading water help a child stay calm and keep their head up. These are key water safety skills.",
+        "steps": [
+          "Practise only in a supervised pool or lesson, with you in the water.",
+          "Help your child lie back in a star shape, ears in the water, breathing slowly.",
+          "Next, hold the side and move hands in small circles and legs in a gentle kick.",
+          "Let go for a count of 10, with you within arm's reach, then hold the side again.",
+          "Show how to get out: hands on the edge, push up, elbow then knee onto the side."
+        ],
+        "avoid": [
+          "Practising in lakes, rivers or the sea.",
+          "Games that push or hold anyone under the water.",
+          "Carrying on when your child is cold, tired or scared."
+        ],
+        "success": "Your child floats for 10 seconds, treads water for 10 seconds and climbs out at the side.",
+        "ways": [
+          "A star float contest to see who stays calm longest.",
+          "Tread water while counting to 10 out loud.",
+          "Practise in a lesson, then show you what they learned."
+        ]
+      },
+      "sport_move": {
+        "name": "Learn a sport move",
+        "goal": "Practises one move from a sport until it feels smooth.",
+        "why": "Learning a sport move builds coordination and confidence. Active play helps children reach at least 60 minutes of activity a day.",
+        "steps": [
+          "Let your child choose a sport they enjoy.",
+          "Pick one move, such as a pass with the inside of the foot.",
+          "Break it into 2 or 3 small parts and show each one.",
+          "Practise slowly 10 times, then a little faster.",
+          "Praise one thing that improved."
+        ],
+        "avoid": [
+          "Correcting everything at once.",
+          "Hard balls near windows or roads.",
+          "Comparing with older children or team mates."
+        ],
+        "success": "Your child does the move 5 times in a row with good form.",
+        "ways": [
+          "Pass a ball to each other in the park.",
+          "Bounce pass against a wall.",
+          "Hit a soft ball with a racket over a line."
+        ]
+      },
+      "road_ride": {
+        "name": "Ride on a quiet road with an adult",
+        "goal": "Rides a short stretch of a quiet road with an adult riding just behind.",
+        "why": "Riding with an adult on a quiet road builds traffic awareness step by step. Children learn to judge traffic slowly, over several years.",
+        "steps": [
+          "Start only when your child can brake, signal and look behind confidently in a space away from roads.",
+          "Check the helmet, brakes and tyres before you set off.",
+          "Choose a very quiet road in daylight and follow local rules.",
+          "Ride just behind your child and give short, clear instructions.",
+          "Practise starting, riding in a steady line and stopping when you say.",
+          "Keep the first ride short and end on a good moment."
+        ],
+        "avoid": [
+          "Busy roads and junctions.",
+          "Riding without a helmet.",
+          "Riding in the dark, rain or fog."
+        ],
+        "success": "Your child rides a short stretch of quiet road in a steady line and stops when asked.",
+        "ways": [
+          "Ride a short loop near home on a quiet morning.",
+          "Practise stopping by a parked car and looking behind.",
+          "Join a local cycle training course for children."
+        ]
+      },
+      "skip_20": {
+        "name": "Skip 20 times in a row",
+        "goal": "Turns a rope and jumps 20 times without stopping.",
+        "why": "Skipping builds timing, stamina and coordination. It is a quick way to be active anywhere.",
+        "steps": [
+          "Check the rope length: the handles reach the armpits when your child stands on the middle.",
+          "Find a flat space outside or with high ceilings.",
+          "Practise small jumps on the balls of the feet.",
+          "Count each jump out loud together.",
+          "Rest after each try and try to beat their own best."
+        ],
+        "avoid": [
+          "Hard or slippery floors.",
+          "Ropes that are too long or too short.",
+          "Pushing on when your child is tired."
+        ],
+        "success": "Your child skips 20 times in a row.",
+        "ways": [
+          "Skip to a skipping rhyme.",
+          "Skip while you count in 2s.",
+          "Take turns and cheer each other on."
+        ]
+      },
+      "chapter_book": {
+        "name": "Read a chapter book",
+        "goal": "Reads a short chapter book alone, a chapter at a time.",
+        "why": "Reading longer books builds focus, imagination and a love of stories. It also grows vocabulary fast.",
+        "steps": [
+          "Let your child choose a short chapter book they are excited about.",
+          "Read the first chapter together to get started.",
+          "Let your child read the next chapter alone.",
+          "Ask what happened and what might happen next.",
+          "Keep a bookmark to show how far they have come."
+        ],
+        "avoid": [
+          "Books that are much too hard.",
+          "Turning reading into a test.",
+          "Stopping reading aloud to your child altogether."
+        ],
+        "success": "Your child reads 1 chapter alone and tells you what happened.",
+        "ways": [
+          "Take turns reading pages at bedtime.",
+          "Visit the library to choose the next book.",
+          "Listen to the audiobook and follow the words."
+        ]
+      },
+      "write_story": {
+        "name": "Write a short story",
+        "goal": "Writes a short story with a beginning, a middle and an end.",
+        "why": "Writing stories builds imagination, spelling and the skill of putting ideas in order.",
+        "steps": [
+          "Choose a character and a place together.",
+          "Ask: what problem happens, and how is it solved?",
+          "Help your child plan 3 parts: beginning, middle and end.",
+          "Let your child write 1 or 2 sentences for each part.",
+          "Ask them to read it to you and praise one idea."
+        ],
+        "avoid": [
+          "Correcting spelling while they write.",
+          "Asking for a long story.",
+          "Changing their ideas to your own."
+        ],
+        "success": "Your child writes a story with a clear beginning, middle and end.",
+        "ways": [
+          "Write a story about a family pet or toy.",
+          "Make a comic strip with 3 boxes.",
+          "Finish a story you start."
+        ]
+      },
+      "share_online": {
+        "name": "What to share online",
+        "goal": "Knows which details to keep private online and tells an adult if something feels wrong.",
+        "why": "Many children start going online at this age. Knowing what to keep private and who to tell helps keep them safe.",
+        "steps": [
+          "Sit together at the device your child uses.",
+          "Explain that full name, address, school, phone number and photos stay private.",
+          "Play a quick game: share or keep private for a few examples.",
+          "Agree that your child tells you if anything online feels wrong or strange.",
+          "Promise to listen calmly and not to be cross."
+        ],
+        "avoid": [
+          "Scary stories that frighten your child.",
+          "Getting angry when your child tells you about a problem.",
+          "Letting your child use new apps before you set them up together."
+        ],
+        "success": "Your child names 3 things to keep private and who to tell.",
+        "ways": [
+          "Make a family list of online rules together.",
+          "Check privacy settings on a game together.",
+          "Talk about it again whenever your child starts a new app."
+        ]
+      },
+      "disagree_politely": {
+        "name": "Disagree politely",
+        "goal": "Says they see things differently, calmly and with a reason.",
+        "why": "Disagreeing politely helps your child stand up for their views and still keep friendships.",
+        "steps": [
+          "Choose a light topic, such as the best pizza topping.",
+          "Show a polite phrase: I see it differently, because.",
+          "Take turns giving opposite views.",
+          "Practise listening to the end before answering.",
+          "Praise calm words and a clear reason."
+        ],
+        "avoid": [
+          "Practising during a real argument.",
+          "Always letting your child win.",
+          "Making fun of their view."
+        ],
+        "success": "Your child disagrees once with a calm voice and a reason.",
+        "ways": [
+          "Talk about a film you liked differently.",
+          "Practise with a family debate at dinner.",
+          "Act it out with toys."
+        ]
+      },
+      "phone_call": {
+        "name": "Make a phone call",
+        "goal": "Calls a family member, says who they are and passes on a short message.",
+        "why": "Phone calls build confidence and clear speaking. Knowing how to call someone is also an important safety skill.",
+        "steps": [
+          "Choose a friendly relative and tell them a call is coming.",
+          "Plan what to say: hello, who is calling, the message, goodbye.",
+          "Help your child find the number and make the call.",
+          "Stay nearby and let them speak.",
+          "Talk about how it went afterwards."
+        ],
+        "avoid": [
+          "Calling people your child does not know.",
+          "Taking over the call.",
+          "Calling your emergency number to practise."
+        ],
+        "success": "Your child makes a call, says who they are and passes on a message.",
+        "ways": [
+          "Call a grandparent to say good night.",
+          "Practise with a pretend phone first.",
+          "Talk through what to say to your emergency number, without dialling."
+        ]
+      },
+      "keep_promise": {
+        "name": "Keep a promise",
+        "goal": "Makes a small promise and keeps it.",
+        "why": "Keeping promises builds trust and responsibility. It helps your child feel proud and reliable.",
+        "steps": [
+          "Talk about what a promise is and why it matters.",
+          "Help your child choose a small promise, such as feeding a pet tonight.",
+          "Write it down or draw it.",
+          "Check in later that day.",
+          "Praise them when they keep it."
+        ],
+        "avoid": [
+          "Big promises your child cannot keep.",
+          "Shaming your child if they forget.",
+          "Breaking your own promises to them."
+        ],
+        "success": "Your child keeps 1 small promise.",
+        "ways": [
+          "Promise to help a sibling with a task.",
+          "Promise to return a borrowed toy.",
+          "Talk about a promise you kept."
+        ]
+      },
+      "help_younger": {
+        "name": "Help a younger child",
+        "goal": "Helps a younger child with a simple task, gently and patiently.",
+        "why": "Helping others builds kindness and confidence. It also shows your child how much they have learned.",
+        "steps": [
+          "Choose a simple task, such as building a tower or reading a picture book.",
+          "Talk about how to help: show, wait and praise.",
+          "Let your child help the younger child.",
+          "Stay close in case either child needs you.",
+          "Thank your child for being kind."
+        ],
+        "avoid": [
+          "Leaving the children alone.",
+          "Asking your child to be in charge for long.",
+          "Tasks too hard for the younger child."
+        ],
+        "success": "Your child helps a younger child finish a task.",
+        "ways": [
+          "Help a cousin with a puzzle.",
+          "Read a story to a younger sibling.",
+          "Show a small child how to play a game."
+        ]
+      },
+      "times_tables": {
+        "name": "Times tables to 10",
+        "goal": "Knows most times table facts up to 10 times 10.",
+        "why": "Quick times tables make many maths tasks easier. They build speed and confidence with numbers.",
+        "steps": [
+          "Choose one table to practise this week, such as 3s.",
+          "Count in steps together first.",
+          "Ask 5 quick questions, mixed up.",
+          "Use known facts to help, such as double the 2s for the 4s.",
+          "Praise effort and note the facts that are improving."
+        ],
+        "avoid": [
+          "Long, timed drills.",
+          "Practising many tables at once.",
+          "Comparing with other children."
+        ],
+        "success": "Your child answers 5 mixed questions from one table correctly.",
+        "ways": [
+          "Ask a question at each red light or stop.",
+          "Make flashcards together.",
+          "Play a dice game and multiply the numbers."
+        ]
+      },
+      "clock_minute": {
+        "name": "Read the clock to the minute",
+        "goal": "Reads the time to the minute on a clock with hands.",
+        "why": "Telling the time helps your child plan their day and be more independent.",
+        "steps": [
+          "Use a clock with hands, or draw one.",
+          "Check your child knows half past, quarter past and quarter to.",
+          "Count round the minutes in 5s together.",
+          "Show how to count on single minutes after the 5.",
+          "Set 3 times for your child to read."
+        ],
+        "avoid": [
+          "Only using digital clocks.",
+          "Rushing to minutes before 5-minute steps are easy.",
+          "Long sessions."
+        ],
+        "success": "Your child reads 3 times to the minute.",
+        "ways": [
+          "Ask the time at real moments in the day.",
+          "Match a clock with hands to a digital clock.",
+          "Plan a short activity to start at an exact time."
+        ]
+      },
+      "halves_quarters": {
+        "name": "Halves and quarters",
+        "goal": "Finds a half and a quarter of shapes and small amounts.",
+        "why": "Fractions are part of everyday life, from sharing food to telling the time.",
+        "steps": [
+          "Fold a sheet of paper in half, then in quarters.",
+          "Show that halves and quarters are equal parts.",
+          "Share 8 small objects into 2 equal groups, then 4.",
+          "Ask: what is half of 8, and a quarter of 8?",
+          "Let your child try with 12 objects."
+        ],
+        "avoid": [
+          "Unequal parts called halves.",
+          "Numbers that do not share equally.",
+          "Moving on before halves are clear."
+        ],
+        "success": "Your child finds a half and a quarter of 2 amounts.",
+        "ways": [
+          "Cut a sandwich or pizza into quarters, with you doing any sharp cutting.",
+          "Share sweets fairly between people.",
+          "Fold and colour paper shapes."
+        ]
+      },
+      "use_map": {
+        "name": "Use a map",
+        "goal": "Follows a simple map to find a place or object.",
+        "why": "Maps build spatial thinking and help your child understand where they are.",
+        "steps": [
+          "Draw a simple map of one room together.",
+          "Hide a small object and mark it with an X.",
+          "Let your child use the map to find it.",
+          "Look at a map of your local area together.",
+          "Find your home and one familiar place."
+        ],
+        "avoid": [
+          "Detailed maps at the start.",
+          "Doing the reading for your child.",
+          "Letting your child follow a map alone outside."
+        ],
+        "success": "Your child finds a hidden object using a map.",
+        "ways": [
+          "Follow a park map on a walk together.",
+          "Make a treasure map for a friend.",
+          "Trace a route on a map before a trip."
+        ]
+      },
+      "pocket_money": {
+        "name": "Save and spend pocket money",
+        "goal": "Splits money into saving and spending and saves for something they want.",
+        "why": "Managing a small amount of money teaches patience, choices and the value of saving.",
+        "steps": [
+          "Set up 2 jars: one for saving, one for spending.",
+          "Agree together how to split the money.",
+          "Help your child choose a saving goal and write down its price.",
+          "Count the savings together each week.",
+          "Let your child make their own spending choices, even small mistakes."
+        ],
+        "avoid": [
+          "Topping up when the money runs out.",
+          "Choosing the goal for your child.",
+          "Goals so far away that they lose interest."
+        ],
+        "success": "Your child saves part of their money for 3 weeks in a row.",
+        "ways": [
+          "Draw a chart that fills up as savings grow.",
+          "Add a third jar for giving.",
+          "Compare prices before buying."
+        ]
+      },
+      "cook_simple": {
+        "name": "Cook a simple meal with an adult",
+        "goal": "Helps cook a simple hot meal, with you doing the hot and sharp parts.",
+        "why": "Cooking together builds confidence, maths and healthy habits. It is a skill your child will use all their life.",
+        "steps": [
+          "Choose a simple meal, such as scrambled eggs on toast.",
+          "Wash hands and read the steps together.",
+          "Let your child crack, whisk and measure, then wash hands again after touching raw egg.",
+          "You handle the hob, hot pans and sharp knives.",
+          "Let your child stir with a long spoon only when you feel they are ready, with you beside them.",
+          "Serve and eat together."
+        ],
+        "avoid": [
+          "Leaving your child alone near the hob.",
+          "Pan handles sticking out over the edge.",
+          "Rushing when everyone is hungry."
+        ],
+        "success": "Your child does at least 3 steps of a simple hot meal.",
+        "ways": [
+          "Make pasta with a simple sauce together.",
+          "Make a vegetable omelette.",
+          "Heat soup and make toast to go with it."
+        ]
+      },
+      "pack_trip": {
+        "name": "Pack for a trip",
+        "goal": "Packs their own bag for a short trip using a list.",
+        "why": "Packing builds planning, independence and responsibility for their own things.",
+        "steps": [
+          "Write or draw a packing list together.",
+          "Let your child gather the items on the list.",
+          "Show how to roll clothes to save space.",
+          "Ask your child to tick off each item.",
+          "Check the bag together at the end."
+        ],
+        "avoid": [
+          "Packing the bag for your child.",
+          "Long lists with too many items.",
+          "Leaving it to the last minute."
+        ],
+        "success": "Your child packs every item on the list.",
+        "ways": [
+          "Pack for a night at a grandparent's home.",
+          "Pack a bag for a day at the beach.",
+          "Pack a sports bag for a club."
+        ]
+      },
+      "homework_plan": {
+        "name": "Plan homework time",
+        "goal": "Chooses a time and place for homework and starts on their own.",
+        "why": "A simple homework routine builds focus and independence. It also means fewer battles at home.",
+        "steps": [
+          "Talk about the best time for homework, such as after a snack.",
+          "Choose a quiet place with the things they need.",
+          "Help your child list today's tasks.",
+          "Split big tasks into small parts.",
+          "Use a timer for focus and a short break."
+        ],
+        "avoid": [
+          "Doing the homework for your child.",
+          "Screens and noise nearby.",
+          "Starting when your child is very tired."
+        ],
+        "success": "Your child starts homework at the planned time without reminders.",
+        "ways": [
+          "Make a weekly homework chart.",
+          "Tick off tasks on a list.",
+          "Plan reading time each evening."
+        ]
+      },
+      "tidy_room": {
+        "name": "Tidy your room routine",
+        "goal": "Tidies their room in a short daily routine.",
+        "why": "A tidy routine builds responsibility and makes it easier to find things.",
+        "steps": [
+          "Give everything a clear home, such as boxes or labelled drawers.",
+          "Choose 3 small jobs, such as clothes away, toys in boxes, bed made.",
+          "Set a timer for 5 minutes.",
+          "Help at the start, then step back.",
+          "Praise the effort and enjoy the tidy room together."
+        ],
+        "avoid": [
+          "Tidying the room for your child.",
+          "Expecting perfection.",
+          "Using tidying as a punishment."
+        ],
+        "success": "Your child does the 3 jobs in 5 minutes.",
+        "ways": [
+          "Tidy to a favourite song.",
+          "Make a picture checklist on the door.",
+          "Tidy together on a weekend morning."
+        ]
+      },
+      "swim_25m": {
+        "name": "Swim 25 metres",
+        "goal": "Swims 25 metres without stopping, in a supervised pool.",
+        "why": "Swimming a longer distance builds stamina, water confidence and an important safety skill.",
+        "steps": [
+          "Go to a supervised pool or a swimming lesson.",
+          "Stay in the water with your child, or right at the poolside if they are a confident swimmer, and watch them the whole time.",
+          "Start with 1 width, then rest at the side.",
+          "Add a little more distance each visit.",
+          "Count the lengths together and praise steady breathing."
+        ],
+        "avoid": [
+          "Lakes, rivers or the sea for practice.",
+          "Leaving your child to swim without an adult watching.",
+          "Pushing on when your child is cold or tired."
+        ],
+        "success": "Your child swims 1 full length of a 25-metre pool.",
+        "ways": [
+          "A swimming lesson with a teacher.",
+          "Swimming beside a parent along the length.",
+          "Half a length, a rest, then the other half."
+        ]
+      },
+      "team_game": {
+        "name": "Pass and move in a team game",
+        "goal": "Passes the ball and moves into space during a simple team game.",
+        "why": "Team games build fitness, teamwork and the habit of thinking about others.",
+        "steps": [
+          "Find a park or garden with a soft ball.",
+          "Play 2 against 1 with a family member or friend.",
+          "Show how to pass, then move to a free space.",
+          "Call out \"pass and move\" as a reminder.",
+          "Praise every good pass, not only goals."
+        ],
+        "avoid": [
+          "Hard balls near windows or roads.",
+          "Keeping score in a way that upsets anyone.",
+          "Long games that end in tired arguments."
+        ],
+        "success": "Your child passes and then moves to a new space 3 times.",
+        "ways": [
+          "Football in the park.",
+          "Passing a ball with hands, like netball.",
+          "A game of piggy in the middle."
+        ]
+      },
+      "warm_up": {
+        "name": "Warm up and stretch",
+        "goal": "Does a short warm-up before activity and gentle stretches after.",
+        "why": "Warming up gets the body ready to move. It is a good habit for sport and play.",
+        "steps": [
+          "Start with 1 minute of marching or jogging on the spot.",
+          "Add arm circles, forwards and backwards.",
+          "Do 5 gentle knee lifts on each leg.",
+          "After play, hold 3 easy stretches for a slow count of 10.",
+          "Let your child lead the routine next time."
+        ],
+        "avoid": [
+          "Bouncing or forcing a stretch.",
+          "Stretching through pain.",
+          "Skipping the warm-up when in a hurry."
+        ],
+        "success": "Your child leads a 3-move warm-up alone.",
+        "ways": [
+          "A warm-up before a family walk.",
+          "A warm-up song with moves.",
+          "Stretching together after a bike ride."
+        ]
+      },
+      "short_route": {
+        "name": "Ride a short route with an adult",
+        "goal": "Rides a short, familiar route with an adult, following local rules.",
+        "why": "Riding a known route together builds road sense, planning and confidence, step by step.",
+        "steps": [
+          "Check the helmet fits and do it up every time.",
+          "Choose a short, quiet route you both know.",
+          "Walk or ride it together first and point out junctions.",
+          "Ride behind or beside your child, following local rules.",
+          "Stop at the end and talk about what went well.",
+          "You decide when your child is ready for more."
+        ],
+        "avoid": [
+          "Busy roads or riding in the dark.",
+          "Riding without a helmet.",
+          "Letting your child ride the route alone before you agree it is ready."
+        ],
+        "success": "Your child rides the short route with you and stops at every junction.",
+        "ways": [
+          "A ride to the park.",
+          "A ride to a friend's house on quiet streets.",
+          "A loop around your block."
+        ]
+      },
+      "mend_friendship": {
+        "name": "Mend a friendship",
+        "goal": "Finds a way to make up with a friend after a falling-out.",
+        "why": "Friendships matter more at this age. Learning to repair them builds kindness and confidence.",
+        "steps": [
+          "Listen while your child tells you what happened.",
+          "Ask how they feel and how the friend might feel.",
+          "Think of 2 ways to make up together.",
+          "Practise the words, such as \"I am sorry. Can we be friends again?\"",
+          "Let your child choose a calm moment to try."
+        ],
+        "avoid": [
+          "Taking sides straight away.",
+          "Contacting the friend or their parent for your child.",
+          "Forcing a quick apology."
+        ],
+        "success": "Your child plans what to say to make up.",
+        "ways": [
+          "Role play with a toy or a parent.",
+          "Writing a short note.",
+          "Inviting the friend to play."
+        ]
+      },
+      "say_no_pressure": {
+        "name": "Say no to pressure",
+        "goal": "Says no calmly when friends push them to do something that feels wrong.",
+        "why": "Children feel more peer pressure as they grow. A practised answer makes saying no easier.",
+        "steps": [
+          "Talk about a time someone wanted them to do something they did not want to do.",
+          "Practise a short, firm answer: \"No thanks, I do not want to.\"",
+          "Show how to stand tall and look at the person.",
+          "Practise walking away or changing the subject.",
+          "Remind your child they can always tell you."
+        ],
+        "avoid": [
+          "Making the practice scary.",
+          "Getting cross if your child tells you about a mistake.",
+          "Long lectures."
+        ],
+        "success": "Your child says no and walks away in a role play.",
+        "ways": [
+          "A pretend dare from a parent.",
+          "Choosing a code word to ask for a lift home.",
+          "Talking about a character in a book or film."
+        ]
+      },
+      "present_topic": {
+        "name": "Present a topic to the family",
+        "goal": "Talks to the family for 2 minutes about a topic they like.",
+        "why": "Speaking to a group builds confidence and helps with school talks.",
+        "steps": [
+          "Let your child choose a topic they love.",
+          "Help them write 3 key points on a card.",
+          "Practise once, out loud, together.",
+          "Gather the family and listen without interrupting.",
+          "Ask 1 friendly question at the end and clap."
+        ],
+        "avoid": [
+          "Correcting mistakes during the talk.",
+          "Picking the topic for your child.",
+          "Making the talk too long."
+        ],
+        "success": "Your child talks for 2 minutes about their topic.",
+        "ways": [
+          "A talk about a favourite animal.",
+          "A drawing or object to show.",
+          "A talk to grandparents on a video call."
+        ]
+      },
+      "kind_online": {
+        "name": "Kind messages online",
+        "goal": "Writes kind, clear messages online and knows what to do if a message upsets them.",
+        "why": "Words online can hurt as much as words in person. Kind habits now protect your child and others.",
+        "steps": [
+          "Sit together and look at a family message or game chat you supervise.",
+          "Ask: \"Would I say this to their face?\"",
+          "Write a kind message together.",
+          "Talk about what to do if a message feels unkind: stop, do not reply, tell an adult.",
+          "Agree that no personal details go in messages."
+        ],
+        "avoid": [
+          "Chat apps or games without a parent checking in.",
+          "Sharing names, school or address.",
+          "Replying to unkind messages."
+        ],
+        "success": "Your child writes a kind message and says what to do if a message upsets them.",
+        "ways": [
+          "A message to a grandparent.",
+          "Reading example messages and spotting the kind ones.",
+          "A family rule card by the computer."
+        ]
+      },
+      "ask_help": {
+        "name": "Ask an adult for help",
+        "goal": "Knows which adults to ask for help and how to ask clearly.",
+        "why": "Knowing who to ask and what to say helps your child feel safe when things go wrong.",
+        "steps": [
+          "Talk about trusted adults, such as teachers and family.",
+          "Talk about safe people to ask when out, such as a shop worker or a parent with children.",
+          "Practise a clear request: \"I am lost. Can you help me call my mum?\"",
+          "Role play once at home.",
+          "Check your child knows your phone number."
+        ],
+        "avoid": [
+          "Going anywhere with someone they do not know.",
+          "Making the practice frightening.",
+          "Skipping the phone number check."
+        ],
+        "success": "Your child names 3 trusted adults and asks clearly for help in a role play.",
+        "ways": [
+          "Asking a librarian for a book.",
+          "Asking a shop worker where something is.",
+          "Agreeing a meeting point in busy places."
+        ]
+      },
+      "mental_maths": {
+        "name": "Maths in your head",
+        "goal": "Adds, takes away and multiplies simple numbers in their head.",
+        "why": "Quick mental maths helps with shopping, time and schoolwork every day.",
+        "steps": [
+          "Pick a calm moment, such as a walk or a car ride.",
+          "Start with an easy question, such as 20 plus 30.",
+          "Give time to think before helping.",
+          "Ask how they worked it out.",
+          "Make the next question a little harder."
+        ],
+        "avoid": [
+          "Timing your child against a clock.",
+          "Comparing with siblings or classmates.",
+          "Too many questions in a row."
+        ],
+        "success": "Your child answers 5 questions in their head.",
+        "ways": [
+          "Adding up prices in a shop.",
+          "Counting how many minutes until dinner.",
+          "A number game in the car."
+        ]
+      },
+      "write_email": {
+        "name": "Write an email",
+        "goal": "Writes a short email with a greeting, a message and a sign-off.",
+        "why": "Writing an email is a real-life skill that builds clear writing and typing.",
+        "steps": [
+          "Sit together at a computer or tablet with your email open.",
+          "Choose someone your child knows, such as a grandparent.",
+          "Show the parts: subject, greeting, message, sign-off.",
+          "Let your child type 3 short sentences.",
+          "Read it together, then let your child press send."
+        ],
+        "avoid": [
+          "Emailing people your child does not know.",
+          "Adding personal details like your address.",
+          "Fixing every spelling mistake for them."
+        ],
+        "success": "Your child writes and sends an email with all 4 parts.",
+        "ways": [
+          "A thank-you email to a relative.",
+          "An email to a parent at work.",
+          "A short news email about the weekend."
+        ]
+      },
+      "look_up_safely": {
+        "name": "Look up a question safely",
+        "goal": "Searches online for an answer with an adult and checks if a site can be trusted.",
+        "why": "Finding good answers online is a key skill for school. Doing it together keeps it safe.",
+        "steps": [
+          "Choose a question together, such as how tall a giraffe is.",
+          "Use a child-friendly search setting with you beside them.",
+          "Help your child pick simple search words.",
+          "Look at 2 results and ask which one seems trusted.",
+          "Agree to close anything that feels wrong and tell you."
+        ],
+        "avoid": [
+          "Searching alone without a parent nearby.",
+          "Clicking adverts or pop-ups.",
+          "Typing in personal details."
+        ],
+        "success": "Your child finds an answer on a trusted site with you.",
+        "ways": [
+          "Checking a fact for homework.",
+          "Finding out about an animal.",
+          "Looking up the weather for tomorrow."
+        ]
+      },
+      "cross_road": {
+        "name": "Cross the road alone",
+        "goal": "Crosses a quiet road safely, after lots of practice together.",
+        "why": "Road sense takes years to build. Practising together helps you decide when your child is ready.",
+        "steps": [
+          "Cross together many times first, at a safe crossing place.",
+          "Let your child lead: stop at the kerb, look and listen both ways.",
+          "Wait until the road is clear, then walk straight across, looking and listening all the way.",
+          "Watch from close by while your child crosses alone.",
+          "Talk about what they noticed.",
+          "You decide when your child is ready, following local rules."
+        ],
+        "avoid": [
+          "Crossing between parked cars or near bends.",
+          "Using a phone or headphones while crossing.",
+          "Busy roads or crossing in the dark at first."
+        ],
+        "success": "Your child crosses a quiet road safely while you watch.",
+        "ways": [
+          "Using a pedestrian crossing together.",
+          "Spotting safe places to cross on a walk.",
+          "Telling you when it is safe to go."
+        ]
+      },
+      "walk_friend": {
+        "name": "Walk to a friend's house alone",
+        "goal": "Walks a short, familiar route to a friend's house, once you agree it is ready.",
+        "why": "A first small walk alone builds independence and trust. Practice together comes first.",
+        "steps": [
+          "Walk the route together many times first.",
+          "Let your child lead the way and spot the safe crossing places.",
+          "Agree the exact route and a time to arrive.",
+          "Ask the friend's parent to call or message when your child arrives.",
+          "Start by following a little way behind, if you like.",
+          "You decide when your child is ready, following local rules."
+        ],
+        "avoid": [
+          "New or long routes.",
+          "Walking alone in the dark.",
+          "Changing the plan without telling you."
+        ],
+        "success": "Your child leads the whole route while you walk behind.",
+        "ways": [
+          "A walk to a neighbour's house.",
+          "A walk to meet you at the corner.",
+          "A short walk to a shop with a friend."
+        ]
+      },
+      "shop_budget": {
+        "name": "Shop with a budget",
+        "goal": "Buys a few items while keeping to a set amount of money.",
+        "why": "Shopping with a budget teaches planning, choices and the value of money.",
+        "steps": [
+          "Write a short list of 3 items together.",
+          "Give a set amount of money.",
+          "In the shop, let your child check the prices.",
+          "Help them add up the total before paying.",
+          "Let them pay and check the change."
+        ],
+        "avoid": [
+          "Rushing at a busy time.",
+          "Paying the difference if they go over.",
+          "Choosing the items for them."
+        ],
+        "success": "Your child buys 3 items and stays within the budget.",
+        "ways": [
+          "Buying snacks for a picnic.",
+          "Choosing fruit for the week.",
+          "Planning a small birthday gift."
+        ]
+      },
+      "cook_family": {
+        "name": "Cook a meal for the family",
+        "goal": "Prepares a simple meal for the family, with an adult close by.",
+        "why": "Cooking for others builds pride, kitchen skills and healthy habits.",
+        "steps": [
+          "Choose an easy meal together, such as pasta with sauce.",
+          "Wash hands and read the recipe through.",
+          "Let your child measure, stir and serve.",
+          "Do the hot and sharp parts yourself until your child is clearly ready.",
+          "Sit down together and thank the cook."
+        ],
+        "avoid": [
+          "Leaving your child alone near the hob or oven.",
+          "Sharp knives without close help.",
+          "Meals with many steps at first."
+        ],
+        "success": "Your child prepares a meal with you nearby and serves it.",
+        "ways": [
+          "A cold meal, such as a salad.",
+          "Breakfast for the family at the weekend.",
+          "Making a pizza with ready toppings."
+        ]
+      },
+      "timetable": {
+        "name": "Read a bus or train timetable",
+        "goal": "Finds a time on a bus or train timetable.",
+        "why": "Reading a timetable uses time skills and helps your child plan trips.",
+        "steps": [
+          "Look at a printed or online timetable together.",
+          "Find your stop and where you want to go.",
+          "Ask your child to find the next bus or train.",
+          "Work out how long the trip takes.",
+          "Check the answer together on a real trip."
+        ],
+        "avoid": [
+          "Timetables with too many lines at first.",
+          "Rushing on the way to catch a bus.",
+          "Doing the reading for them."
+        ],
+        "success": "Your child finds the next bus or train time.",
+        "ways": [
+          "Planning a trip to the library.",
+          "Checking a timetable at the stop.",
+          "Planning a pretend trip."
+        ]
+      },
+      "plan_day_out": {
+        "name": "Plan a day out",
+        "goal": "Helps plan a family day out, including where, when and what to bring.",
+        "why": "Planning builds thinking, choices and a sense that their ideas matter.",
+        "steps": [
+          "Give 2 or 3 places to choose from.",
+          "Ask your child to check opening times with you.",
+          "Help them plan how to get there and back.",
+          "Make a short list of what to pack.",
+          "Let them lead the plan on the day."
+        ],
+        "avoid": [
+          "Too many choices.",
+          "Plans that cost more than you want to spend.",
+          "Changing the whole plan without asking them."
+        ],
+        "success": "Your child makes a simple plan with a place, a time and a packing list.",
+        "ways": [
+          "A picnic in the park.",
+          "A trip to a museum.",
+          "A walk in the woods."
+        ]
+      },
+      "first_aid": {
+        "name": "Basic first aid",
+        "goal": "Knows how to clean a small cut and when to get an adult or call for help.",
+        "why": "Basic first aid helps children stay calm and know what to do in an emergency.",
+        "steps": [
+          "Show where the first aid box is kept.",
+          "Practise cleaning a pretend cut and putting on a plaster.",
+          "Talk about when to get an adult straight away.",
+          "Practise saying your emergency number and your address.",
+          "Role play a short call, without dialling."
+        ],
+        "avoid": [
+          "Dialling the emergency number to practise.",
+          "Medicines without an adult.",
+          "Frightening stories."
+        ],
+        "success": "Your child puts on a plaster and says your emergency number and address.",
+        "ways": [
+          "A first aid game with a teddy.",
+          "Checking the first aid box together.",
+          "Watching a first aid video for children together."
+        ]
+      },
+      "washing_machine": {
+        "name": "Use the washing machine with help",
+        "goal": "Sorts laundry and starts the washing machine with an adult.",
+        "why": "Helping with laundry builds independence and shows how a home runs.",
+        "steps": [
+          "Sort clothes together into light and dark.",
+          "Check the pockets for tissues and coins.",
+          "Load the machine and close the door.",
+          "Add the detergent yourself, then show the setting to choose.",
+          "Let your child press start."
+        ],
+        "avoid": [
+          "Letting your child handle detergent alone.",
+          "Opening the door during a wash.",
+          "Climbing on the machine."
+        ],
+        "success": "Your child sorts, loads and starts a wash with you.",
+        "ways": [
+          "Hanging out the washing.",
+          "Matching socks from the wash.",
+          "Folding towels."
+        ]
       }
     },
     "focusAreas": {
@@ -2312,6 +4634,9 @@
       },
       "hands": {
         "name": "Hands and thinking"
+      },
+      "life": {
+        "name": "Everyday life"
       }
     },
     "years": {
@@ -2329,6 +4654,21 @@
       },
       "5": {
         "name": "Year 5"
+      },
+      "6": {
+        "name": "Year 6"
+      },
+      "7": {
+        "name": "Year 7"
+      },
+      "8": {
+        "name": "Year 8"
+      },
+      "9": {
+        "name": "Year 9"
+      },
+      "10": {
+        "name": "Year 10"
       }
     },
     "milestones": {
@@ -2498,7 +4838,11 @@
         }
       },
       "bike": {
-        "title": "Rode a bike without stabilisers"
+        "title": "Rode a bike without stabilisers",
+        "card": {
+          "h": "Off they go",
+          "m": "{name} rode a bike without stabilisers. Balance, pedal and away."
+        }
       },
       "rollerblades": {
         "title": "Went rollerblading"
@@ -2510,7 +4854,11 @@
         "title": "Went skiing"
       },
       "swims_alone": {
-        "title": "Swam without armbands"
+        "title": "Swam without armbands",
+        "card": {
+          "h": "Stroke by stroke",
+          "m": "{name} swam a few strokes without armbands. Brave and proud."
+        }
       },
       "balance_line": {
         "title": "Walked along a line",
@@ -2777,7 +5125,11 @@
         }
       },
       "joke": {
-        "title": "Told their first joke"
+        "title": "Told their first joke",
+        "card": {
+          "h": "Comedy hour",
+          "m": "{name} told their first joke. We are still laughing."
+        }
       },
       "follows_toy": {
         "title": "Followed a toy with their eyes",
@@ -3018,7 +5370,11 @@
         }
       },
       "knife": {
-        "title": "Used a knife"
+        "title": "Used a knife",
+        "card": {
+          "h": "Little chef",
+          "m": "{name} spread their own toast with a knife. Breakfast by me."
+        }
       },
       "cutlery": {
         "title": "Ate a whole meal with a knife and fork"
@@ -3295,35 +5651,208 @@
       },
       "kindergarten": {
         "title": "First day at kindergarten"
+      },
+      "writes_name": {
+        "title": "Wrote their whole name",
+        "card": {
+          "h": "Signed by me",
+          "m": "{name} wrote their whole name today. Every letter in its place."
+        }
+      },
+      "packs_bag": {
+        "title": "Packed their own bag",
+        "card": {
+          "h": "All packed",
+          "m": "{name} packed their own bag. Ready for the day ahead."
+        }
+      },
+      "jump_rope": {
+        "title": "Skipped with a rope by themselves",
+        "card": {
+          "h": "Over and over",
+          "m": "{name} jumped the rope alone. Turn, jump, turn, jump."
+        }
+      },
+      "reads_book": {
+        "title": "Read a short book to me",
+        "card": {
+          "h": "Story by me",
+          "m": "{name} read a whole book to me. I loved every page."
+        }
+      },
+      "ties_laces": {
+        "title": "Tied their shoelaces",
+        "card": {
+          "h": "Loop and pull",
+          "m": "{name} tied their own shoelaces. 2 neat bows and off we go."
+        }
+      },
+      "makes_snack": {
+        "title": "Made their own snack",
+        "card": {
+          "h": "Made by me",
+          "m": "{name} made their own snack. It tasted extra good."
+        }
+      },
+      "swims_10m": {
+        "title": "Swam 10 metres",
+        "card": {
+          "h": "10 metres",
+          "m": "{name} swam 10 metres. Steady strokes all the way."
+        }
+      },
+      "writes_card": {
+        "title": "Wrote a card by themselves",
+        "card": {
+          "h": "With love",
+          "m": "{name} wrote a card all alone. Kind words in their own hand."
+        }
+      },
+      "pays_shop": {
+        "title": "Paid in a shop",
+        "card": {
+          "h": "Here you go",
+          "m": "{name} paid at the shop counter. Coins counted, thank you said."
+        }
+      },
+      "road_ride": {
+        "title": "Rode on a quiet road with an adult",
+        "card": {
+          "h": "On the road",
+          "m": "{name} rode on a quiet road with me. Helmet on, eyes ahead."
+        }
+      },
+      "chapter_book": {
+        "title": "Read a chapter book",
+        "card": {
+          "h": "The end",
+          "m": "{name} read a whole chapter book. One chapter at a time."
+        }
+      },
+      "phone_call": {
+        "title": "Made a phone call",
+        "card": {
+          "h": "Hello, it is me",
+          "m": "{name} made a phone call alone. Clear words and a friendly voice."
+        }
+      },
+      "saves_up": {
+        "title": "Saved up for something",
+        "card": {
+          "h": "Worth the wait",
+          "m": "{name} saved up and bought something special. Patience paid off."
+        }
+      },
+      "swims_25m": {
+        "title": "Swam 25 metres",
+        "card": {
+          "h": "A whole length",
+          "m": "{name} swam 25 metres. Stroke after stroke, all the way."
+        }
+      },
+      "walks_alone": {
+        "title": "Walked to a friend's house alone",
+        "card": {
+          "h": "On my own",
+          "m": "{name} walked to a friend's house alone. We practised, and they were ready."
+        }
+      },
+      "cooks_meal": {
+        "title": "Cooked a meal for the family",
+        "card": {
+          "h": "Dinner is served",
+          "m": "{name} cooked a meal for the family. Thank you, chef."
+        }
+      },
+      "school": {
+        "title": "First day at school",
+        "card": {
+          "h": "School days",
+          "m": "{name} started school today. A big step and a brave heart."
+        }
+      },
+      "school_trip": {
+        "title": "First school trip",
+        "card": {
+          "h": "Off we go",
+          "m": "{name} went on a school trip. So much to tell at home."
+        }
+      },
+      "sleepover": {
+        "title": "First sleepover at a friend's house",
+        "card": {
+          "h": "Sleepover",
+          "m": "{name} slept over at a friend's house. Brave, happy and home again."
+        }
+      },
+      "sports_club": {
+        "title": "Joined a sports club",
+        "card": {
+          "h": "Team player",
+          "m": "{name} joined a sports club. New friends and new moves."
+        }
+      },
+      "first_match": {
+        "title": "Played their first match",
+        "card": {
+          "h": "Game on",
+          "m": "{name} played in a real match. We cheered all the way."
+        }
+      },
+      "music_lesson": {
+        "title": "First music lesson",
+        "card": {
+          "h": "First notes",
+          "m": "{name} had their first music lesson. The start of something lovely."
+        }
+      },
+      "on_stage": {
+        "title": "Performed on stage",
+        "card": {
+          "h": "Take a bow",
+          "m": "{name} performed on stage. We clapped the loudest."
+        }
+      },
+      "library_card": {
+        "title": "Got their own library card",
+        "card": {
+          "h": "My library card",
+          "m": "{name} got their own library card. So many books to choose from."
+        }
+      },
+      "pocket_money": {
+        "title": "First pocket money",
+        "card": {
+          "h": "My own money",
+          "m": "{name} got their first pocket money. Spend a little, save a little."
+        }
+      },
+      "summer_camp": {
+        "title": "First summer camp",
+        "card": {
+          "h": "Camp days",
+          "m": "{name} went to summer camp. New friends and stories to share."
+        }
       }
     },
     "families": {
+      "family": {
+        "name": "Family & friends"
+      },
+      "food": {
+        "name": "Food"
+      },
       "move": {
         "name": "Movement"
       },
       "talk": {
-        "name": "Speech and words"
+        "name": "Speech"
       },
       "creative": {
-        "name": "Hands and creativity"
-      },
-      "food": {
-        "name": "Eating"
-      },
-      "teeth": {
-        "name": "Teeth"
-      },
-      "care": {
-        "name": "Self-care"
-      },
-      "family": {
-        "name": "Family and friends"
+        "name": "Creativity"
       },
       "travel": {
-        "name": "Places and travel"
-      },
-      "firsts": {
-        "name": "Firsts"
+        "name": "Travel"
       }
     },
     "genericCard": {
@@ -4998,6 +7527,231 @@
       },
       "t365": {
         "text": "Tired after kindergarten? Skip the mission and play what your child wants."
+      },
+      "s01": {
+        "text": "Welcome to the school years. New skills in Learn cover reading, money, cooking and more."
+      },
+      "s02": {
+        "text": "Ask your child to pick this week's skill from Learn. Children try harder at things they chose."
+      },
+      "s03": {
+        "text": "Start with a skill your child can almost do. A quick win builds confidence for harder ones."
+      },
+      "s04": {
+        "text": "Find a regular slot for missions, like Saturday morning or after dinner. A routine makes it easy to remember."
+      },
+      "s05": {
+        "text": "New stage, same idea. Keep it short, keep it fun and stop before anyone gets bored."
+      },
+      "s06": {
+        "text": "Tired after school? A snack and some quiet time come first. The mission can wait until the weekend."
+      },
+      "s07": {
+        "text": "Some weeks are full of school, clubs and visits. Skipping a mission is fine."
+      },
+      "s08": {
+        "text": "Grumpy after school is very common. Many children hold it together all day and let go at home."
+      },
+      "s09": {
+        "text": "Low on energy tonight? Play 1 short card game. That is still time well spent."
+      },
+      "s10": {
+        "text": "Hard evening? A hug and an early night can do more than any lesson."
+      },
+      "s11": {
+        "text": "Tired of saying the same thing every morning? Make a picture list by the door and let it do the reminding."
+      },
+      "s12": {
+        "text": "Sick days and holidays break routines. Pick up again when life is calmer."
+      },
+      "s13": {
+        "text": "You do not need to fill every afternoon. Rest days help children and parents."
+      },
+      "s14": {
+        "text": "Practise a new skill a little each day. Short practice works better than one long session."
+      },
+      "s15": {
+        "text": "When something is tricky, break it into small steps. Practise 1 step at a time."
+      },
+      "s16": {
+        "text": "Add the word \"yet\": \"I cannot do it yet.\" That small word keeps trying alive."
+      },
+      "s17": {
+        "text": "Let your child check their own work first. Spotting mistakes is a skill too."
+      },
+      "s18": {
+        "text": "Keep a list of things your child learned this year. Read it together when something feels hard."
+      },
+      "s19": {
+        "text": "Repeat a mission your child enjoyed. Doing it again with more confidence is real progress."
+      },
+      "s20": {
+        "text": "Pack the school bag the evening before. Calm mornings start the night before."
+      },
+      "s21": {
+        "text": "Put a clock where your child can see it in the morning. It helps them learn to keep time."
+      },
+      "s22": {
+        "text": "Ask a specific question after school, like \"Who did you sit with at lunch?\" It gets more than \"Fine\"."
+      },
+      "s23": {
+        "text": "Some children talk about school at bedtime, not at the gate. Leave room for both."
+      },
+      "s24": {
+        "text": "Set up a quiet homework spot with a pencil, paper and good light. Keep screens away while they work."
+      },
+      "s25": {
+        "text": "Help with homework by asking questions, not by giving answers. Then let your child try."
+      },
+      "s26": {
+        "text": "Keep in touch with the teacher. A short, friendly chat can solve small worries early."
+      },
+      "s27": {
+        "text": "Look at school work together and find 1 thing your child is proud of."
+      },
+      "s28": {
+        "text": "Keep reading aloud, even when your child can read alone. Harder stories bring new words."
+      },
+      "s29": {
+        "text": "Take turns reading pages. Your child reads 1, you read the next."
+      },
+      "s30": {
+        "text": "Comics, joke books and animal fact books all count as reading."
+      },
+      "s31": {
+        "text": "Get your child their own library card. Choosing books alone feels grown up."
+      },
+      "s32": {
+        "text": "Ask about the story, not the test: \"Which character would you like as a friend?\""
+      },
+      "s33": {
+        "text": "Let your child see you reading. Children copy what they see at home."
+      },
+      "s34": {
+        "text": "If a word is hard, wait a few seconds before you help. Give your child time to sound it out."
+      },
+      "s35": {
+        "text": "Play card games together. Counting, planning and remembering are all hidden practice."
+      },
+      "s36": {
+        "text": "Leave at least 1 afternoon a week free of clubs and plans. Children need time to rest and play their own way."
+      },
+      "s37": {
+        "text": "Build something big from boxes, blocks or blankets. Let your child be the boss of the plan."
+      },
+      "s38": {
+        "text": "Play a word game at dinner, like naming animals from A to Z."
+      },
+      "s39": {
+        "text": "When your child is upset, listen first and fix later. Being heard helps feelings settle."
+      },
+      "s40": {
+        "text": "Name your own feelings sometimes: \"I feel nervous about tomorrow.\" Your child learns that it is normal."
+      },
+      "s41": {
+        "text": "Some worries only come out at bedtime. Keep a few calm minutes for a chat before lights out."
+      },
+      "s42": {
+        "text": "Tell your child about mistakes you made as a child. It shows that everyone gets things wrong."
+      },
+      "s43": {
+        "text": "After a hard moment, ask \"What could we try next time?\" Look for ideas together."
+      },
+      "s44": {
+        "text": "If a worry lasts for weeks or gets in the way of daily life, talk to the school or your child's doctor."
+      },
+      "s45": {
+        "text": "Ask about friends with curiosity, not worry: \"What did you and your friends play today?\""
+      },
+      "s46": {
+        "text": "Small fallouts with friends are a normal part of growing up. Listen first, then help your child think of a next step."
+      },
+      "s47": {
+        "text": "Invite a classmate over to play. Time outside school helps friendships grow."
+      },
+      "s48": {
+        "text": "Practise words for tricky moments, like \"Can I join?\" or \"Please stop, I do not like that.\""
+      },
+      "s49": {
+        "text": "Notice when your child is a good friend. Tell them what you saw."
+      },
+      "s50": {
+        "text": "Children aged 6 to 12 need 9 to 12 hours of sleep a night. A regular bedtime makes it easier."
+      },
+      "s51": {
+        "text": "Keep the same bedtime on school nights. A calm routine of bath, book and bed helps sleep come."
+      },
+      "s52": {
+        "text": "Keep phones, tablets and the TV out of the bedroom at night. Sleep comes more easily without them."
+      },
+      "s53": {
+        "text": "Agree on screen rules as a family and write them down. Clear rules mean fewer arguments."
+      },
+      "s54": {
+        "text": "Keep some times screen-free for everyone, like meals and the trip to school."
+      },
+      "s55": {
+        "text": "Ask your child to show you their favourite game or video. Watching together opens up good chats."
+      },
+      "s56": {
+        "text": "Tell your child they can always come to you if something online feels wrong. They will not be in trouble for telling."
+      },
+      "s57": {
+        "text": "Use a timer for screen time. When it rings, the timer says stop, not you."
+      },
+      "s58": {
+        "text": "WHO advises at least 60 minutes a day, on average, of activity that makes children aged 5 to 17 breathe faster. Running, biking and dancing all count."
+      },
+      "s59": {
+        "text": "Walk part of the way to school together if you can. Active trips add up."
+      },
+      "s60": {
+        "text": "Climbing, jumping and skipping make muscles and bones strong. WHO suggests this kind of play on at least 3 days a week."
+      },
+      "s61": {
+        "text": "Go out in all weathers with the right clothes. Puddles and wind make a walk more fun."
+      },
+      "s62": {
+        "text": "Try a new sport or activity just for fun. Trying is enough, there is no need to be good at it."
+      },
+      "s63": {
+        "text": "Break up long sitting times. A quick dance in the kitchen gets bodies moving."
+      },
+      "s64": {
+        "text": "Give your child 1 regular job at home, like feeding a pet or watering plants."
+      },
+      "s65": {
+        "text": "Let your child choose their clothes for school the evening before."
+      },
+      "s66": {
+        "text": "Let jobs be done imperfectly. A slightly crooked bed is still a made bed."
+      },
+      "s67": {
+        "text": "Let your child pour their own drink and clear their own plate. Small jobs build independence."
+      },
+      "s68": {
+        "text": "Before you step in, ask \"What could you try?\" Let your child solve small problems first."
+      },
+      "s69": {
+        "text": "Let your child pay at the shop counter while you stand close. Real coins make maths real."
+      },
+      "s70": {
+        "text": "Give your child a say in small family plans, like Friday dinner or the weekend walk."
+      },
+      "s71": {
+        "text": "Praise what your child did: \"You kept going when it was hard.\" It tells them what to do again."
+      },
+      "s72": {
+        "text": "Progress is often slow, then sudden. Keep going and stay patient."
+      },
+      "s73": {
+        "text": "Thank your child when they help without being asked. Being noticed matters."
+      },
+      "s74": {
+        "text": "Keep a piece of work from the start of the school year. Look back at it together in summer."
+      },
+      "s75": {
+        "text": "Let your child hear you say something kind about them to someone else."
       }
     },
     "shopCats": {
@@ -5071,6 +7825,27 @@
       },
       {
         "name": "NHS, Baby and child health: fever, colds, nappy rash, constipation"
+      },
+      {
+        "name": "American Academy of Pediatrics (AAP) HealthyChildren.org, Gradeschool (5 to 12 years)"
+      },
+      {
+        "name": "AAP HealthyChildren.org, Healthy Sleep Habits: How Many Hours Does Your Child Need?"
+      },
+      {
+        "name": "Centers for Disease Control and Prevention (CDC), Information About Young Children (Ages 4 to 11)"
+      },
+      {
+        "name": "WHO guidelines on physical activity and sedentary behaviour (children and adolescents 5 to 17)"
+      },
+      {
+        "name": "NHS, Physical activity guidelines for children and young people"
+      },
+      {
+        "name": "Raising Children Network: School Age (5 to 8 years)"
+      },
+      {
+        "name": "World Health Organization (WHO), Growth reference data for 5 to 19 years"
       }
     ],
     "guides": {
@@ -6098,6 +8873,381 @@
         "urgent": [
           "You have thoughts of harming yourself or your baby. Get help now: call your emergency number or a crisis line, or go to the nearest emergency department."
         ]
+      },
+      "starting_school": {
+        "title": "My child is starting school",
+        "intro": "Starting school is a big change for the whole family. Most children settle within a few weeks, especially with a calm start and plenty of rest.",
+        "common": [
+          "Many children feel excited and nervous at the same time.",
+          "Children are often very tired in the first weeks. Some are grumpy, teary or clingy at home after holding it together all day.",
+          "Some children say little about their day. That is normal and does not mean something is wrong.",
+          "More colds and tummy bugs are common in the first year of school."
+        ],
+        "helps": [
+          "Talk about school in a positive way. Read books about starting school and visit the school together if you can.",
+          "Practise the everyday skills: dressing, going to the toilet alone, washing hands, opening a lunchbox and putting on shoes.",
+          "Label clothes and bags, and keep the morning routine simple and the same each day.",
+          "Say a short, cheerful goodbye and tell your child who will pick them up.",
+          "Offer a snack and quiet time after school, and keep bedtime early.",
+          "Ask small questions, such as \"Who did you sit with at lunch?\", instead of \"How was your day?\""
+        ],
+        "help": [
+          "Your child is still very upset about school after the first 6 weeks.",
+          "Your child often refuses to go, or complains of tummy aches or headaches on school days.",
+          "Your child stops eating or sleeping well, or seems unhappy most of the time. Talk to the teacher first."
+        ],
+        "urgent": []
+      },
+      "homework": {
+        "title": "Homework without battles",
+        "intro": "Homework in the early school years is usually short. A calm routine matters more than getting every answer right.",
+        "common": [
+          "Young children often get a little reading, spelling or maths practice to do at home.",
+          "Tiredness, hunger and screens are common reasons homework turns into a battle.",
+          "Many children need help to get started but can then work on their own for a short time."
+        ],
+        "helps": [
+          "Choose a regular time, after a snack and a short break, and keep it the same each day.",
+          "Find a quiet spot with good light and the things your child needs. Keep screens and toys away.",
+          "Help your child understand the task, then step back. Do not do it for them.",
+          "Break bigger tasks into small parts, with a short movement break in between.",
+          "Praise effort and good habits, not just correct answers.",
+          "If your child is tired and upset, stop and try again later. A short calm session is better than a long tearful one."
+        ],
+        "help": [
+          "Homework takes much longer than the teacher expects, or often ends in tears.",
+          "Your child seems to find reading, writing or maths much harder than other tasks. Talk to the teacher.",
+          "You are not sure how much help to give. Ask the school what they expect."
+        ],
+        "urgent": []
+      },
+      "reading": {
+        "title": "How can I help my child read?",
+        "intro": "Children learn to read at different speeds. Reading together every day, even for 10 minutes, is one of the best things you can do.",
+        "common": [
+          "Many children learn to read by sounding out letters and blending the sounds into words. Ask the school which method they use.",
+          "Mixing up letters such as b and d is common in the early school years.",
+          "Progress often comes in jumps, with slow weeks in between.",
+          "Children who hear stories at home learn new words, even when they cannot yet read them."
+        ],
+        "helps": [
+          "Keep reading aloud to your child, even after they can read on their own.",
+          "Let your child choose what to read: comics, jokes, facts about animals or recipes all count.",
+          "When your child gets stuck, wait a few seconds. Then help them sound out the word.",
+          "Talk about the story: \"What do you think will happen next?\"",
+          "Visit the library together and let your child pick books.",
+          "Keep it fun and short. Stop before your child gets tired.",
+          "Let your child see you read too."
+        ],
+        "help": [
+          "Your child still finds reading very hard after extra help at school. Some children have dyslexia, and early support helps.",
+          "Your child rubs their eyes, holds books very close or gets headaches when reading. Book an eye test.",
+          "You are worried about your child's hearing or speech."
+        ],
+        "urgent": []
+      },
+      "bedwetting": {
+        "title": "My child still wets the bed",
+        "intro": "Bedwetting is common in school-age children and often runs in families. It is not your child's fault, and most children grow out of it.",
+        "common": [
+          "Many children still wet the bed at 5, and some at 7 or older.",
+          "Common reasons include sleeping deeply, making a lot of urine at night and a bladder that is still growing.",
+          "Constipation can make bedwetting worse.",
+          "Stress, such as starting school or a new baby, can bring it back for a while."
+        ],
+        "helps": [
+          "Stay calm and kind. Never punish or tease your child for wetting.",
+          "Offer drinks regularly during the day, about 6 to 8, and fewer in the hour before bed.",
+          "Avoid fizzy drinks, cola, tea and coffee, especially in the evening.",
+          "Encourage your child to use the toilet regularly during the day and just before bed.",
+          "Make the toilet easy to reach at night, with a night light.",
+          "Use a waterproof mattress cover and keep spare sheets ready.",
+          "Praise agreed steps, such as using the toilet before bed, not dry nights."
+        ],
+        "help": [
+          "Your child is over 5 and the wetting upsets them or the family.",
+          "Your child started wetting again after being dry for 6 months or more.",
+          "Your child also wets in the day, has pain when weeing, or is constipated.",
+          "Home tips have not helped. Your doctor or school nurse can talk about an alarm or medicine."
+        ],
+        "urgent": [
+          "Your child is suddenly wetting again and is also very thirsty, weeing much more, very tired or losing weight. Get medical advice the same day."
+        ]
+      },
+      "head_lice": {
+        "title": "My child has head lice",
+        "intro": "Head lice are very common in school-age children. They are not a sign of dirty hair, and they do not spread illness.",
+        "common": [
+          "Head lice spread by head-to-head contact. They cannot jump or fly.",
+          "An itchy head is common, but some children feel nothing.",
+          "Nits are the empty egg cases. They look white or brown and stick to the hair.",
+          "The only way to be sure is to find a live louse."
+        ],
+        "helps": [
+          "Check with a fine-toothed detection comb on wet hair with plenty of conditioner. Comb from the roots to the ends, section by section.",
+          "Wet comb on days 1, 5, 9 and 13 to catch newly hatched lice. Check again on day 17.",
+          "If you prefer, use a head lice lotion or spray from a pharmacy. Follow the pack exactly. Some need a second treatment after a week.",
+          "Check everyone in the home and treat only those with live lice, all on the same day.",
+          "Your child does not need to stay off school.",
+          "There is no need for hot washes or special cleaning of the home.",
+          "Do not use lice treatments to prevent lice. They do not work that way and can irritate the scalp."
+        ],
+        "help": [
+          "You still find live lice after 2 full rounds of treatment. Ask a pharmacist about other options.",
+          "Your child's scalp looks red, sore or infected.",
+          "Your child is under 2, has asthma or allergies, or has a skin condition. Ask a pharmacist before using a lotion."
+        ],
+        "urgent": []
+      },
+      "sleep_school": {
+        "title": "How much sleep does my school-age child need?",
+        "intro": "Children aged 6 to 12 need about 9 to 12 hours of sleep a night. Good sleep helps with learning, mood and growing.",
+        "common": [
+          "Children aged 3 to 5 need about 10 to 13 hours a day.",
+          "Some children need more sleep than others. A child who wakes easily and is not tired in the day is usually getting enough.",
+          "Bedtime fears, worries about school and screens are common reasons for poor sleep.",
+          "Tiredness can look like grumpiness, trouble concentrating or being overactive."
+        ],
+        "helps": [
+          "Keep the same bedtime and wake-up time every day, including weekends, as far as you can.",
+          "Have a calm routine before bed: bath or wash, teeth, a story or quiet chat.",
+          "Turn off screens at least 1 hour before bed, and keep them out of the bedroom at night.",
+          "Keep the bedroom quiet, dark and cool.",
+          "Make time for active play outdoors during the day.",
+          "Avoid caffeine, such as cola and energy drinks.",
+          "If your child worries at bedtime, set aside a few minutes earlier in the evening to talk about worries."
+        ],
+        "help": [
+          "Your child snores loudly most nights, or seems to stop breathing for short moments while asleep.",
+          "Your child is often very tired in the day, even after a full night.",
+          "Night waking, nightmares or sleepwalking are frequent and affecting the family."
+        ],
+        "urgent": []
+      },
+      "screens_school": {
+        "title": "Screens, games and a first phone",
+        "intro": "There is no single right amount of screen time for school-age children. What matters most is that screens do not push out sleep, activity, homework and time together.",
+        "common": [
+          "Experts suggest clear family limits rather than one number of hours for every child.",
+          "Games, videos and apps are designed to keep children watching. Stopping is hard, and that is normal.",
+          "There is no right age for a first phone. It depends on your child, your family and why the phone is needed."
+        ],
+        "helps": [
+          "Make a family media plan together: when, where and how long screens are used.",
+          "Keep screens out of meals and the hour before bed. Charge devices outside the bedroom at night.",
+          "Check the age rating of games and apps before your child uses them.",
+          "Play or watch together sometimes, and ask your child to show you their favourite game.",
+          "Give a 5 minute warning before screen time ends.",
+          "If you choose a first phone, start with a simple phone or limited features, use parental controls and agree the rules before you hand it over.",
+          "Show the habits you want to see. Put your own phone away at meals and family time."
+        ],
+        "help": [
+          "Screens are causing a lot of conflict at home.",
+          "Your child seems unable to stop, gets very upset without screens, or gives up friends, sleep or activities for them.",
+          "You are worried about your child's mood, sleep or schoolwork."
+        ],
+        "urgent": []
+      },
+      "online_safety": {
+        "title": "How do I keep my child safe online?",
+        "intro": "The internet can be a great place to learn and play. Children need an adult close by and simple rules while they learn to use it safely.",
+        "common": [
+          "Children can come across upsetting content by accident, even on sites meant for them.",
+          "Most social media apps are not meant for children under 13, and some places have higher age limits.",
+          "Children often do not tell adults about a problem online because they fear losing their device."
+        ],
+        "helps": [
+          "Keep devices in shared family spaces, not in the bedroom.",
+          "Set up parental controls, child-safe search and privacy settings together.",
+          "Agree simple rules: never share your full name, address, school, phone number or photos with people you do not know.",
+          "Explain that people online are not always who they say they are.",
+          "Tell your child they can always come to you if something feels wrong, and that they will not be in trouble.",
+          "Stay calm if they tell you something. Thank them for telling you.",
+          "Talk about being kind online, and check in often about what they are doing."
+        ],
+        "help": [
+          "Your child has seen something that upset them and it keeps bothering them.",
+          "Your child is getting unkind messages online, or is upset after using a device. See the guide on friendship problems and bullying.",
+          "Your child becomes secretive about a device or online friends."
+        ],
+        "urgent": [
+          "Someone your child met online asks to meet in person, asks for photos or asks them to keep a secret. Keep the messages, do not reply, and contact the police."
+        ]
+      },
+      "friends_bullying": {
+        "title": "Friendship problems and bullying",
+        "intro": "Falling out with friends is a normal part of growing up. Bullying is different: it is unkind behaviour that happens again and again and is meant to hurt.",
+        "common": [
+          "Friendships often change in the school years. Children can be best friends one week and fall out the next.",
+          "Bullying can be hitting or pushing, name-calling, leaving someone out, spreading stories or unkind messages online.",
+          "Children who are bullied may not say so. Signs include not wanting to go to school, tummy aches, poor sleep, lost or damaged things, or seeming withdrawn."
+        ],
+        "helps": [
+          "Listen calmly and let your child tell the whole story. Thank them for telling you.",
+          "Tell your child it is not their fault.",
+          "Help them practise what to say and do: say \"Stop\" in a clear voice, walk away and tell an adult.",
+          "Do not tell your child to hit back.",
+          "Write down what happened, when and who was involved. Keep screenshots of online messages.",
+          "Talk to the teacher and ask what the school will do. Agree a time to check back.",
+          "Help your child build friendships outside school, through clubs, sport or play dates."
+        ],
+        "help": [
+          "The bullying continues after you have talked to the school.",
+          "Your child seems sad, anxious or withdrawn for more than a few weeks, or does not want to go to school.",
+          "You find out your child is bullying others. Talk calmly with your child and the school."
+        ],
+        "urgent": [
+          "Your child has been hurt or threatened. Make sure they are safe and get help now.",
+          "Your child talks about hurting themselves or not wanting to be alive. Get help now: call your emergency number or a child helpline such as 116 111, or go to the nearest emergency department."
+        ]
+      },
+      "worries": {
+        "title": "My child worries a lot",
+        "intro": "All children worry sometimes. Worry is a normal reaction that rises and then settles, and children can learn ways to cope with it.",
+        "common": [
+          "School-age children often worry about tests, friends, starting something new or something bad happening to the family.",
+          "Worry can show up as tummy aches, headaches, poor sleep, bad dreams, clinginess or angry outbursts.",
+          "Some children avoid things that worry them, such as school, parties or sleepovers."
+        ],
+        "helps": [
+          "Listen carefully and ask what the worry is. Do not dismiss it or guess.",
+          "Explain that worry is like a wave. It feels big, then it gets smaller.",
+          "Practise slow breathing together: breathe in for 3, out for 3, and repeat 3 times.",
+          "Make a plan together for the worrying situation, and take small steps towards it.",
+          "Try a worry box: your child writes or draws a worry and puts it in the box to talk about later.",
+          "Keep daily routines steady, and prepare your child for changes ahead of time.",
+          "Try not to become overprotective. Avoiding everything that worries your child can make worry grow."
+        ],
+        "help": [
+          "Worry is strong, lasts for weeks, or stops your child doing everyday things like going to school or seeing friends.",
+          "Your child has frequent tummy aches or headaches with no other cause.",
+          "You feel you need support. Talk to your doctor, the school or the school nurse."
+        ],
+        "urgent": [
+          "Your child talks about hurting themselves or not wanting to be alive. Get help now: call your emergency number or a child helpline such as 116 111, or go to the nearest emergency department."
+        ]
+      },
+      "lying": {
+        "title": "My child tells lies",
+        "intro": "Almost all children tell lies sometimes. It is a normal part of growing up, and children learn honesty best from calm, patient adults.",
+        "common": [
+          "Children often lie to avoid getting into trouble, to get something they want or to protect someone's feelings.",
+          "Some lies are really wishes or stories, especially in younger children.",
+          "Lying usually becomes less common as children understand how it affects trust."
+        ],
+        "helps": [
+          "Stay calm. Talk about the lie and the behaviour, not about your child being bad.",
+          "Make telling the truth easy. If you already know what happened, say so instead of asking \"Did you do this?\"",
+          "Praise honesty, especially when the truth is hard to tell.",
+          "Give a smaller consequence when your child owns up.",
+          "Talk about why honesty matters: \"When you tell me the truth, I can trust you.\"",
+          "Show honesty yourself, including small things, such as not asking your child to say you are not home."
+        ],
+        "help": [
+          "Your child lies very often, even about small things.",
+          "Lying comes with other worries, such as taking things, hurting others or problems at school.",
+          "You think your child may be lying to hide something that is upsetting them."
+        ],
+        "urgent": []
+      },
+      "pocket_money_guide": {
+        "title": "Should my child get pocket money?",
+        "intro": "Pocket money is a simple way for children to learn about money. Many families start when a child is about 5 or 6 and understands that money buys things.",
+        "common": [
+          "There is no right amount. It depends on your budget, your child's age and what the money is for.",
+          "Some families link pocket money to chores, and some do not. Both can work.",
+          "Children often spend all their money at first. Small mistakes are part of learning."
+        ],
+        "helps": [
+          "Agree the amount and the day it is paid, and stick to it.",
+          "Agree what the money is for, such as small treats or saving for a toy.",
+          "Use a clear jar for saving, so your child can see the money grow.",
+          "Help your child set a small saving goal and count the money together each week.",
+          "Let your child make their own choices, and talk about how it went afterwards.",
+          "Avoid giving extra money when it runs out. Waiting is part of the lesson."
+        ],
+        "help": [
+          "Money is often causing arguments at home.",
+          "Your child is taking money or things that are not theirs. Talk calmly with your child first."
+        ],
+        "urgent": []
+      },
+      "lunchbox": {
+        "title": "Lunchbox and snacks",
+        "intro": "A good lunchbox does not need to be fancy. A mix of a few simple foods gives your child energy for the afternoon.",
+        "common": [
+          "A balanced lunch has a starchy food, a protein food, fruit or vegetables, and a dairy food or alternative.",
+          "Many children eat little at school because they are busy, excited or short of time.",
+          "Many schools have food rules, such as no nuts, because of children with allergies."
+        ],
+        "helps": [
+          "Start with a starchy food, such as a wholegrain sandwich, wrap, pasta or rice.",
+          "Add a protein food, such as egg, beans, fish, chicken or cheese.",
+          "Add a piece of fruit and some vegetables, such as cucumber, carrot sticks or cherry tomatoes. Cut small round foods into quarters for younger children.",
+          "Give water or milk to drink. Avoid fizzy and sugary drinks.",
+          "Keep sweets, crisps and cakes for now and then, not every day.",
+          "Use a cool bag or ice pack to keep food fresh.",
+          "Let your child help choose and pack their lunch. They are more likely to eat it.",
+          "Check the school food rules before you pack."
+        ],
+        "help": [
+          "Your child often comes home very hungry or with their lunch untouched.",
+          "Your child eats only a very small number of foods.",
+          "You are worried about your child's weight, growth or a food allergy."
+        ],
+        "urgent": [
+          "Swelling of the lips or face, or trouble breathing, after eating. Call your emergency number."
+        ]
+      },
+      "active": {
+        "title": "How active should my child be?",
+        "intro": "The World Health Organization (WHO) recommends that children aged 5 to 17 are active for at least 60 minutes a day on average, at a level that makes them breathe faster.",
+        "common": [
+          "The 60 minutes can be spread over the day. Every bit of movement counts.",
+          "On at least 3 days a week, children should do activities that make them breathe hard and make muscles and bones stronger, such as running, jumping or climbing.",
+          "Many children do less than this, especially as they get older.",
+          "Long spells of sitting, especially with screens, are best kept short."
+        ],
+        "helps": [
+          "Walk, scoot or cycle to school or the shops together when you can. A helmet goes on every time for bikes and scooters.",
+          "Play outside together: tag, ball games, hopscotch or skipping.",
+          "Let your child try different sports and clubs to find something they enjoy.",
+          "Break up screen time with movement breaks.",
+          "Be active as a family at weekends: a walk, a bike ride or a trip to the park.",
+          "Make it fun, not a chore. Praise effort, not winning."
+        ],
+        "help": [
+          "Your child gets breathless, tired or has pain much sooner than other children of the same age.",
+          "Your child avoids all physical activity, or seems clumsy compared with others of the same age.",
+          "You are worried about your child's weight or growth."
+        ],
+        "urgent": [
+          "Your child faints, has chest pain or has trouble breathing during exercise. Stop and get medical help now."
+        ]
+      },
+      "puberty": {
+        "title": "Is my child starting puberty?",
+        "intro": "Puberty is when a child's body slowly starts to change as they grow into an adult. It usually starts between about 8 and 13 in girls and between about 9 and 14 in boys.",
+        "common": [
+          "Every child starts at their own time. It often runs in families.",
+          "Early signs can include a growth spurt, stronger body odour, oilier skin and hair, and changes in body shape.",
+          "Mood changes and wanting more privacy are common too.",
+          "Puberty usually takes a few years from the first signs to the end."
+        ],
+        "helps": [
+          "Talk early and openly, in a calm and simple way that suits your child's age. Short, regular chats work better than one big talk.",
+          "Answer questions honestly. If you do not know the answer, say so and find out together.",
+          "Look for books for children about growing up at your library.",
+          "Help your child with new routines, such as a daily wash and clean clothes.",
+          "Respect their privacy. Knock before entering, and let them choose what they share.",
+          "Tell your child that changes are normal and that every body grows at its own speed."
+        ],
+        "help": [
+          "Signs of puberty appear before 8 in a girl or before 9 in a boy.",
+          "There are no signs of puberty by about 13 in a girl or about 14 in a boy.",
+          "Your child is very worried or upset about the changes in their body."
+        ],
+        "urgent": []
       }
     },
     "guideStages": {
@@ -6109,6 +9259,9 @@
       },
       "toddler": {
         "name": "Toddler / preschool"
+      },
+      "school": {
+        "name": "School age"
       },
       "parent": {
         "name": "For you"

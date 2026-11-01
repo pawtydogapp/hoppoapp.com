@@ -21,8 +21,8 @@ from seg import units, apply
 SRC = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EN = SRC + '/lang/en/'
 TR = os.environ.get('HOPPO_TR', SRC + '/tr')
-PAGES = ['index.html', 'guides.html', 'support.html', '404.html', 'shop.html', 'cart.html', 'product.html', 'order-complete.html']
-META_PAGES = ['404.html', 'index.html', 'guides.html', 'support.html', 'shop.html', 'cart.html', 'product.html', 'order-complete.html']
+PAGES = ['index.html', 'guides.html', 'support.html', '404.html', 'shop.html', 'cart.html', 'product.html', 'order-complete.html', 'blog.html']
+META_PAGES = ['404.html', 'index.html', 'guides.html', 'support.html', 'shop.html', 'cart.html', 'product.html', 'order-complete.html', 'blog.html']
 PLACEHOLDER = re.compile(r'\{[a-z_]+\}|\{\{[a-z_]+\}\}')
 BAD = re.compile('[–—!;]')           # en dash, em dash, exclamation mark, semicolon
 

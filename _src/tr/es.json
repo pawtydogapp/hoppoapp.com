@@ -12,7 +12,7 @@
   "guide_back": "Todas las guías",
   "guide_disclaimer": "Esta guía es información general, no un consejo médico. Confía en tu instinto. Si estás preocupado o preocupada, contacta con tu médico, tu matrona o el servicio de salud infantil. Esta guía está contrastada con el NHS, la Organización Mundial de la Salud (OMS), la Academia Americana de Pediatría (AAP) y otras fuentes de salud pública.",
   "guide_cta_title": "Esta guía también está en la app Hoppo",
-  "guide_cta_text": "Hoppo tiene 100 habilidades cortas para practicar desde el nacimiento hasta los 5 años, tarjetas de recuerdo para 188 hitos, todas las semanas del embarazo de la 4 a la 40, y un calendario con registros de sueño, alimentación y crecimiento. Gratis, sin suscripción.",
+  "guide_cta_text": "Hoppo tiene 200 habilidades cortas para practicar desde el nacimiento hasta los 10 años, tarjetas de recuerdo para 214 hitos, todas las semanas del embarazo de la 4 a la 40, y un calendario con registros de sueño, alimentación y crecimiento. Gratis, sin suscripción.",
   "title_suffix": " | Hoppo",
   "stage_baby": "Bebé, de 0 a 12 meses",
   "stage_any": "Bebés y niños pequeños",
@@ -82,8 +82,8 @@
    "description": "Página no encontrada en hoppoapp.com."
   },
   "index.html": {
-   "title": "Hoppo: una pequeña habilidad a la semana, del embarazo a los 5 años",
-   "description": "Ayuda cercana y tranquila para familias. 100 habilidades cortas para practicar desde el nacimiento hasta los 5 años, 188 hitos con tarjetas de recuerdo, cada semana del embarazo y {guide_count} guías ¿Es normal? Gratis."
+   "title": "Hoppo: una pequeña habilidad a la semana, del embarazo a los 10 años",
+   "description": "Ayuda cercana y tranquila para familias. 200 habilidades cortas para practicar desde el nacimiento hasta los 10 años, 214 hitos con tarjetas de recuerdo, cada semana del embarazo y {guide_count} guías ¿Es normal? Gratis."
   },
   "guides.html": {
    "title": "{guide_count} guías ¿Es normal? para familias | Hoppo",
@@ -108,14 +108,18 @@
   "order-complete.html": {
    "title": "Gracias | Hoppo",
    "description": "Tu pedido de Hoppo está confirmado."
+  },
+  "blog.html": {
+   "title": "Blog de Hoppo: respuestas sinceras, del embarazo a los 10 años",
+   "description": "Artículos sobre sueño, gastos del primer año, visitas al bebé, leche de fórmula, juego sensorial y rutinas. Con fuentes, internacionales y sin enlaces a productos."
   }
  },
- "ld": "App gratuita para familias desde el embarazo hasta los 5 años: habilidades semanales para practicar, hitos con tarjetas de recuerdo, embarazo semana a semana, guías ¿Es normal?, calendario y registros de sueño, alimentación y crecimiento.",
+ "ld": "App gratuita para familias desde el embarazo hasta los 10 años: habilidades semanales para practicar, hitos con tarjetas de recuerdo, embarazo semana a semana, guías ¿Es normal?, calendario y registros de sueño, alimentación y crecimiento.",
  "units": {
   "index.html": {
    "0": "Hoppo, un simpático hipopótamo morado",
-   "2": "<strong>Ayuda cercana y tranquila desde el embarazo hasta los 5 años.</strong> 5 minutos de juego a la semana que desarrollan una habilidad real, y una tarjeta de recuerdo para cada hito.",
-   "3": "La pantalla de Inicio de Hoppo con la misión de esta semana, Ponerse de pie, para un bebé de 9 meses",
+   "2": "<strong>Ayuda cercana y tranquila desde el embarazo hasta los 10 años.</strong> 5 minutos de juego a la semana que desarrollan una habilidad real, y una tarjeta de recuerdo para cada hito.",
+   "3": "La pantalla de Inicio de Hoppo con la misión de esta semana, Lanzar por arriba a un objetivo, para un peque de 7 años",
    "5": "Gratis en iPhone y Android. Sin suscripción.",
    "6": "habilidades para practicar",
    "7": "hitos",
@@ -123,7 +127,7 @@
    "9": "Guías \"¿Es normal?\"",
    "10": "Así es por dentro",
    "11": "Desliza para ver más",
-   "12": "La misión de esta semana para un bebé de 9 meses, con una idea de práctica de 5 minutos",
+   "12": "La misión de esta semana para un peque de 7 años, con una idea de práctica de 5 minutos",
    "13": "1 misión a la semana",
    "14": "La pestaña Recuerdos con hitos marcados y con fecha",
    "15": "Hitos y recuerdos",
@@ -131,11 +135,11 @@
    "17": "Embarazo semana a semana",
    "18": "La lista de semanas de embarazo con una imagen del tamaño del bebé en cada semana",
    "19": "Cada semana de la 4 a la 40",
-   "20": "La biblioteca de habilidades ordenada por edad, con etiquetas de iniciada y dominada",
-   "21": "100 habilidades por edad",
-   "22": "Las guías ¿Es normal? con búsqueda y filtros para embarazo, bebé y niños pequeños",
+   "20": "La biblioteca de habilidades ordenada por años de edad, con una etiqueta de en curso",
+   "21": "200 habilidades por edad",
+   "22": "Las guías ¿Es normal? con búsqueda y filtros desde el embarazo hasta la edad escolar",
    "23": "Guías \"¿Es normal?\"",
-   "24": "La guía sobre fiebre, con lo que es habitual y lo que puede ayudar",
+   "24": "La guía sobre los deberes, con lo que es habitual y lo que puede ayudar",
    "25": "Próximos pasos claros",
    "26": "Una gráfica de peso con el rango de referencia de la Organización Mundial de la Salud",
    "27": "Crecimiento con gráficas de la OMS",
@@ -149,9 +153,9 @@
    "35": "Tus fotos se quedan en tu móvil",
    "36": "Las fotos de los hitos nunca se suben. Los datos de tu cuenta se guardan en la Unión Europea, y puedes borrarlos todos desde la app en cualquier momento.",
    "37": "Qué incluye",
-   "38": "100 habilidades, del nacimiento a los 5 años",
+   "38": "200 habilidades, del nacimiento a los 10 años",
    "39": "Tiempo boca abajo, primeras palabras, verter, abrochar botones, esperar el turno. Cada habilidad tiene pasos sencillos, errores que evitar y otras formas de practicar.",
-   "40": "188 hitos",
+   "40": "214 hitos",
    "41": "Marca la primera sonrisa, los primeros pasos y el primer diente. Añade una foto y comparte una tarjeta de recuerdo con la familia.",
    "42": "Embarazo semana a semana",
    "43": "Cada semana de la 4 a la 40 en palabras sencillas, con el tamaño de tu bebé como una fruta o verdura cotidiana, preguntas para tu matrona y una lista para la bolsa del hospital.",
@@ -223,6 +227,11 @@
   "product.html": {
    "1": "La tienda necesita JavaScript."
   },
-  "order-complete.html": {}
+  "order-complete.html": {},
+  "blog.html": {
+   "0": "El blog de Hoppo",
+   "1": "Respuestas sinceras a las preguntas que más se hacen las familias, desde las primeras semanas hasta los 10 años. Rangos reales, cifras reales y nada que vender.",
+   "2": "Cada artículo nombra sus fuentes y se contrasta con guías de salud pública como el NHS, la Organización Mundial de la Salud (OMS) y la Academia Americana de Pediatría (AAP). Es información general, no consejo médico."
+  }
  }
 }

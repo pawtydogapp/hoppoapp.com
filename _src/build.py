@@ -60,7 +60,7 @@ NATIVE = {l[0]: l[1] for l in cfg['languages']}
 LOCALE = {l[0]: l[2] for l in cfg['languages']}
 BLOG = json.load(open(os.path.join(SRC, 'lang', 'en', 'blog.json'), encoding='utf-8')) if os.path.exists(os.path.join(SRC, 'lang', 'en', 'blog.json')) else []
 BLOG_LIVE = [b for b in BLOG if os.path.exists(os.path.join(SRC, 'lang', 'en', 'pages', 'blog', b['slug'] + '.html'))]
-GROUPS = [('Pregnancy and newborn', 'blog_group_1'), ('Baby', 'blog_group_2'), ('Toddler and preschool', 'blog_group_3'), ('Family life', 'blog_group_4')]
+GROUPS = [('Pregnancy and newborn', 'blog_group_1'), ('Baby', 'blog_group_2'), ('Toddler and preschool', 'blog_group_3'), ('School age', 'blog_group_5'), ('Family life', 'blog_group_4')]
 SELLER = cfg.get('seller', {})
 SELLER_READY = all(SELLER.get(k) for k in ('name', 'address', 'country'))
 PAGES = [p for p in cfg['pages'] if p.get('when') != 'seller' or SELLER_READY] + ([{'path': 'blog.html', 'kind': 'page', 'lastmod': max(b['date'] for b in BLOG_LIVE), 'priority': '0.8'}] if BLOG_LIVE else []) + [
@@ -193,11 +193,11 @@ def build_lang(lang):
         t = gtext.get(g['id'], {})
         return render(T['guide-card'], {'slug': g['slug'], 'n': esc(gapp[g['id']]['title']),
             'card': esc(t.get('card') or first_sentence(gapp[g['id']]['intro']))}, 'card')
-    groups = {st: ''.join(card_of(g) for g in gshared if g['stage'] == st) for st in ['pregnancy', 'baby', 'any', 'toddler', 'parent']}
+    groups = {st: ''.join(card_of(g) for g in gshared if g['stage'] == st) for st in ['pregnancy', 'baby', 'any', 'toddler', 'school', 'parent']}
     bmeta = {b['slug']: b for b in posts}
     def post_card(b):
         return f'<div class="postcard"><a href="/blog/{b["slug"]}.html"><h3>{esc(b["headline"])}</h3></a><p>{esc(b["card"])}</p></div>\n'
-    blog_cards = ''.join(f'<h2 class="blogcat">{esc(chrome[key])}</h2>\n' + ''.join(post_card(b) for b in posts if b['group'] == g)
+    blog_cards = ''.join(f'<h2 class="blogcat">{esc(chrome.get(key) or stages['school']['name'])}</h2>\n' + ''.join(post_card(b) for b in posts if b['group'] == g)
                          for g, key in GROUPS if any(b['group'] == g for b in posts))
     latest = sorted(posts, key=lambda b: (b['date'], b.get('order', 0)), reverse=True)[:3]
     home_blog = ''
@@ -219,6 +219,7 @@ def build_lang(lang):
     seller_vars['seller_vat_line'] = LS['vat_line'].replace('{vat}', esc(SELLER['vat_id'])) if SELLER.get('vat_id') else ''
     seller_vars['shop_terms_sentence'] = LS['shop_terms_sentence'] if SELLER_READY else ''
     seller_vars.update({k: esc(v) for k, v in chrome.items() if k.startswith('stage_')})
+    for _k, _v in stages.items(): seller_vars.setdefault('stage_' + _k, esc(_v['name']))     # stages the app names but the page shell does not (school): the app's own translation
     page_vars = dict(stores=stores, stores_hero=stores_hero, guide_count=str(len(gshared)), blog_cards=blog_cards, home_blog=home_blog,
                      shop_boot=shop_boot, **seller_vars, **{'guide_cards_' + k: v for k, v in groups.items()})
     gby = {'guides/' + g['slug'] + '.html': g for g in gshared}
@@ -232,7 +233,7 @@ def build_lang(lang):
             help_block = f'<div class="warn"><h2>{chrome["guide_help"]}</h2>\n<ul>\n{li(b["help"])}</ul></div>\n\n' if b.get('help') else ''
             urgent_block = (f'<div class="urgent"><h2>{chrome["guide_urgent"]}</h2>\n<ul>\n{li(b["urgent"])}</ul>\n'
                             f'<p class="note">{chrome["guide_urgent_note"]}</p></div>\n\n') if b.get('urgent') else ''
-            stage_name = chrome['stage_' + g['stage']]
+            stage_name = chrome.get('stage_' + g['stage']) or esc(stages[g['stage']]['name'])
             v = dict(chrome, n=esc(b['title']), intro=esc(b['intro']), common=li(b['common']), helps=li(b['helps']),
                      help_block=help_block, urgent_block=urgent_block, stage_name=stage_name, stores=stores)
             main = render(T['guide'], v, path)

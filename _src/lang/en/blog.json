@@ -106,5 +106,77 @@
   "group": "Family life",
   "date": "2026-10-19",
   "order": 12
+ },
+ {
+  "slug": "starting-school-homework",
+  "headline": "Starting school without battles: the 10-minute homework rule and what is normal in the first term",
+  "description": "After-school meltdowns are normal, readiness is about toileting not reading, and the evidence for primary homework is weak: about 10 minutes a night per US school grade is a common guide.",
+  "card": "Meltdowns, readiness myths and the 10-minute homework rule, checked against AAP, NHS and EEF.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 13
+ },
+ {
+  "slug": "friendships-fall-outs-bullying",
+  "headline": "Falling out or bullying? In their 4th year of school, 15% of children report bullying about weekly. 3 tests tell them apart",
+  "description": "Fall-out or bullying? 3 tests: repeated, on purpose, power imbalance. In the 4th year of school, 15% are bullied about weekly. Scripts, school steps, help.",
+  "card": "3 tests that separate a normal fall-out from bullying, plus words to use and school steps.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 16
+ },
+ {
+  "slug": "school-age-sleep-bedwetting",
+  "headline": "9 to 12 hours of sleep, and 1 in 20 still wet the bed at 10: what helps children from 5 to 10 at night",
+  "description": "Children aged 6 to 12 need 9 to 12 hours of sleep. About 1 in 5 wet the bed at 5 and 1 in 20 at 10. What NICE, NHS and ERIC say helps, and when to see the GP.",
+  "card": "How much sleep children need, screens and night fears, and why bedwetting at 5 to 10 is common and treatable",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 17
+ },
+ {
+  "slug": "puberty-body-talk-ages-8-to-10",
+  "headline": "Puberty can start at 8: how to talk about bodies, periods and privacy before it begins",
+  "description": "Puberty can start at 8 in girls and 9 in boys. Normal ranges, when to see a GP, the 5 PANTS safety rules, period basics and calm answers to awkward questions.",
+  "card": "Normal puberty ages, GP warning signs, PANTS body safety rules and calm answers for ages 7 to 10.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 18
+ },
+ {
+  "slug": "siblings-fights-fair-rules",
+  "headline": "Up to 8 sibling fights an hour: how to referee fairly, set house rules and handle pocket money and lies",
+  "description": "Up to 8 fights an hour at ages 4 to 8, and 32% of children face sibling aggression in a year. How to referee, spot bullying, keep it fair and handle lies.",
+  "card": "Sibling fights, fairness, chores, pocket money and lying: what research says and what to say.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 20
+ },
+ {
+  "slug": "picky-eating-lunchbox-family-meals",
+  "headline": "Picky eating at 5 to 10: fussiness halves by age 6, and 15 calm tries beat 1 mealtime battle",
+  "description": "Fussy eating falls from 27.6% at age 3 to 13.2% at 6. Why 15 calm tries beat pressure, lunchbox ideas, sugar limits and the new 2027 school food rules.",
+  "card": "Why fussiness halves by age 6, why 15 calm tries beat pressure, and lunchboxes with less sugar.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 19
+ },
+ {
+  "slug": "school-age-anxiety-big-feelings",
+  "headline": "3 in 4 children have fears. How to tell everyday worry from anxiety that needs help",
+  "description": "3 in 4 children aged 4 to 12 report fears, and 15.7% of 8 to 10 year olds in England have a probable mental disorder. Signs, school refusal and what helps.",
+  "card": "Normal worry or anxiety? Signs, school tummy aches, 8 tools that help and when to ask your GP.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 15
+ },
+ {
+  "slug": "screen-time-first-phone",
+  "headline": "By 11, 91% of UK children own a phone: what WHO, the AAP and new research say about screens from 5 to 10",
+  "description": "WHO, the AAP and the RCPCH set no daily screen limit after age 5, bedtime devices are linked with about double the odds of short sleep, and 91% of UK children own a phone by 11.",
+  "card": "Screen limits, PEGI ratings, school phone bans and the first phone, checked against WHO, AAP and Ofcom.",
+  "group": "School age",
+  "date": "2026-11-01",
+  "order": 14
  }
 ]

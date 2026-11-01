@@ -79,7 +79,7 @@
     "3": "1. Quiénes somos",
     "4": "Hoppo está gestionado por Matej Mesko, Eslovenia. Contacto: <a href=\"mailto:info@hoppoapp.com\">info@hoppoapp.com</a>.",
     "5": "2. Qué es Hoppo",
-    "6": "Hoppo es una app para madres, padres y personas cuidadoras, desde el embarazo hasta los 5 años. Ofrece habilidades semanales para practicar, hitos y tarjetas de recuerdo, información del embarazo semana a semana, guías de \"¿Es normal?\", un calendario y registros de sueño, alimentación y crecimiento. Es gratis y se financia con publicidad y comisiones de afiliados.",
+    "6": "Hoppo es una app para madres, padres y personas cuidadoras, desde el embarazo hasta los 10 años. Ofrece habilidades semanales para practicar, hitos y tarjetas de recuerdo, información del embarazo semana a semana, guías de \"¿Es normal?\", un calendario y registros de sueño, alimentación y crecimiento. Es gratis y se financia con publicidad y comisiones de afiliados.",
     "7": "3. Edad",
     "8": "Debes tener 18 años o más para crear una cuenta.",
     "9": "4. Tu cuenta",
@@ -145,10 +145,10 @@
   },
   "partners.html": {
    "title": "Colabora con Hoppo | Hoppo",
-   "description": "Llega a madres y padres desde el embarazo hasta los 5 años a través de la Tienda de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web.",
+   "description": "Llega a madres y padres desde el embarazo hasta los 10 años a través de la Tienda de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web.",
    "units": {
     "0": "Colabora con Hoppo",
-    "1": "Hoppo llega a madres y padres mientras planifican, se preparan y se instalan: desde el embarazo hasta los 5 años. Nuestra Tienda pone tu oferta delante de ellos, dentro de la app y en este sitio web.",
+    "1": "Hoppo llega a madres y padres mientras planifican, se preparan y se instalan: desde el embarazo hasta los 10 años. Nuestra Tienda pone tu oferta delante de ellos, dentro de la app y en este sitio web.",
     "2": "La audiencia",
     "3": "Futuras madres y padres, y madres y padres de bebés y niños pequeños de la Unión Europea, que usan la app en 11 idiomas. La abren cada semana para una habilidad, una guía o un hito.",
     "4": "La ubicación",

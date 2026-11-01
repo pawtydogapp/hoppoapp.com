@@ -4,9 +4,9 @@
   "description": "Pagina nu a fost găsită pe hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: o abilitate mică pe săptămână, de la sarcină la 5 ani",
-  "description": "Ajutor calm și prietenos pentru părinți. 100 de abilități scurte de exersat de la naștere până la 5 ani, 188 de repere cu carduri-amintire, fiecare săptămână de sarcină și {guide_count} de ghiduri „E normal?”. Gratuit.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplicație gratuită pentru părinți, de la sarcină la 5 ani: abilități de exersat în fiecare săptămână, repere cu carduri-amintire, sarcina săptămână cu săptămână, ghiduri „E normal?”, calendar, jurnale de somn, hrănire și creștere.\",\"url\":\"https://hoppoapp.com/ro/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"ro\"}"
+  "title": "Hoppo: o abilitate mică pe săptămână, de la sarcină până la 10 ani",
+  "description": "Ajutor calm și prietenos pentru părinți. 200 de abilități scurte de exersat de la naștere până la 10 ani, 214 repere cu carduri-amintire, fiecare săptămână de sarcină și {guide_count} de ghiduri „E normal?”. Gratuit.",
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Aplicație gratuită pentru părinți, de la sarcină până la 10 ani: abilități de exersat în fiecare săptămână, repere cu carduri-amintire, sarcina săptămână cu săptămână, ghiduri „E normal?”, calendar, jurnale de somn, hrănire și creștere.\",\"url\":\"https://hoppoapp.com/ro/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"ro\"}"
  },
  "guides.html": {
   "title": "{guide_count} de ghiduri „E normal?” pentru părinți | Hoppo",
@@ -46,6 +46,10 @@
  },
  "partners.html": {
   "title": "Devino partener Hoppo | Hoppo",
-  "description": "Ajungi la părinți, de la sarcină până la vârsta de 5 ani, prin Magazinul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
+  "description": "Ajungi la părinți, de la sarcină până la 10 ani, prin Magazinul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
+ },
+ "blog.html": {
+  "title": "Blogul Hoppo: răspunsuri sincere, de la sarcină până la 10 ani",
+  "description": "Somnul bebelușului, costurile primului an, vizitele la nou-născut, formula, jocul senzorial, școala și familia. Cu surse, internațional, fără linkuri către produse."
  }
 }

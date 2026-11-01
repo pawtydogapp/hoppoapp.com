@@ -58,5 +58,45 @@
   "headline": "La rutina para peques que se dobla sin romperse: 3 días de ejemplo para las edades de 1 a 5 años y una tabla gratis para imprimir",
   "description": "Estructura sin un horario rígido: 3 días de ejemplo flexibles para las edades de 1 a 5 años basados en las directrices de sueño y juego de la OMS, trucos para las transiciones y una tabla gratis para imprimir.",
   "card": "3 días de ejemplo flexibles para las edades de 1 a 5 años, trucos para los momentos de berrinche y una tabla gratis para imprimir."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "De 9 a 12 horas de sueño, y 1 de cada 20 sigue mojando la cama a los 10 años: qué ayuda de noche a los niños de 5 a 10 años",
+  "description": "Los niños de 6 a 12 años necesitan de 9 a 12 horas de sueño. Cerca de 1 de cada 5 moja la cama a los 5 años y 1 de cada 20 a los 10. Qué dicen NICE, el NHS y ERIC que ayuda, y cuándo acudir al médico de familia.",
+  "card": "Cuánto sueño necesitan los niños, pantallas y miedos nocturnos, y por qué mojar la cama de los 5 a los 10 años es habitual y tiene tratamiento"
+ },
+ "starting-school-homework": {
+  "headline": "Empezar el colegio sin batallas: la regla de los deberes de 10 minutos y qué es normal en el primer trimestre",
+  "description": "Los berrinches después del colegio son normales, estar listo para empezar tiene que ver con ir al baño y no con leer, y la evidencia sobre los deberes en primaria es débil: unos 10 minutos por noche por cada grado escolar de EE. UU. es una guía habitual.",
+  "card": "Berrinches, mitos sobre la preparación y la regla de los deberes de 10 minutos, contrastados con la AAP, el NHS y la EEF."
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "La pubertad puede empezar a los 8 años: cómo hablar del cuerpo, la regla y la intimidad antes de que empiece",
+  "description": "La pubertad puede empezar a los 8 años en las niñas y a los 9 en los niños. Rangos normales, cuándo acudir al médico de familia, las 5 reglas de seguridad PANTS, nociones sobre la regla y respuestas tranquilas a preguntas incómodas.",
+  "card": "Edades normales de la pubertad, signos de alerta para el médico de familia, las reglas de seguridad corporal PANTS y respuestas tranquilas para los 7 a 10 años."
+ },
+ "screen-time-first-phone": {
+  "headline": "A los 11 años, el 91 % de los niños del Reino Unido tiene móvil: lo que dicen la OMS, la AAP y nuevas investigaciones sobre las pantallas de 5 a 10 años",
+  "description": "La OMS, la AAP y el RCPCH no fijan un límite diario de pantalla después de los 5 años, usar dispositivos a la hora de acostarse se asocia con aproximadamente el doble de probabilidades de dormir poco, y el 91 % de los niños del Reino Unido tiene móvil a los 11 años.",
+  "card": "Límites de pantalla, clasificaciones PEGI, prohibiciones de móviles en el colegio y el primer móvil, contrastados con la OMS, la AAP y Ofcom."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "El mal comer de los 5 a los 10 años: se reduce a la mitad hacia los 6 años, y 15 intentos tranquilos valen más que 1 batalla a la hora de comer",
+  "description": "El mal comer baja del 27,6 % a los 3 años al 13,2 % a los 6. Por qué 15 intentos tranquilos valen más que la presión, ideas para la fiambrera, límites de azúcar y las nuevas normas de comida escolar de 2027.",
+  "card": "Por qué el mal comer se reduce a la mitad hacia los 6 años, por qué 15 intentos tranquilos valen más que la presión y fiambreras con menos azúcar."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 de cada 4 niños tienen miedos. Cómo distinguir la preocupación cotidiana de la ansiedad que necesita ayuda",
+  "description": "3 de cada 4 niños de 4 a 12 años dicen tener miedos, y el 15,7 % de los niños de 8 a 10 años de Inglaterra tiene un probable trastorno mental. Señales, rechazo escolar y qué ayuda.",
+  "card": "¿Preocupación normal o ansiedad? Señales, dolores de barriga por el colegio, 8 herramientas que ayudan y cuándo consultar a tu médico de familia."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Hasta 8 peleas entre hermanos por hora: cómo hacer de árbitro con justicia, poner normas en casa y manejar la paga y las mentiras",
+  "description": "Hasta 8 peleas por hora entre los 4 y los 8 años, y el 32 % de los niños sufre agresiones de un hermano en un año. Cómo hacer de árbitro, detectar el acoso, ser justo y manejar las mentiras.",
+  "card": "Peleas entre hermanos, trato justo, tareas, paga y mentiras: lo que dice la investigación y qué decir."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "¿Una discusión entre amigos o acoso escolar? En 4.º curso, el 15 % de los niños dice sufrir acoso casi cada semana. 3 pruebas los distinguen",
+  "description": "¿Discusión entre amigos o acoso? 3 pruebas: repetido, a propósito y con desequilibrio de poder. En 4.º curso, el 15 % sufre acoso casi cada semana. Frases para decir, pasos con el colegio y ayuda.",
+  "card": "3 pruebas que separan una discusión normal entre amigos del acoso, además de frases para usar y pasos con el colegio."
  }
 }

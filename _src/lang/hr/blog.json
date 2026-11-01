@@ -58,5 +58,45 @@
   "headline": "Rutina za malo dijete koja se savija, a ne lomi: 3 primjera dana za dob od 1 do 5 godina i besplatna tablica za ispis",
   "description": "Struktura bez krutog rasporeda: 3 fleksibilna primjera dana za dob od 1 do 5 godina prema smjernicama SZO-a o spavanju i igri, trikovi za prijelaze i besplatna tablica za ispis.",
   "card": "3 fleksibilna primjera dana za dob od 1 do 5 godina, trikovi za trenutke izljeva bijesa i besplatna tablica za ispis."
+ },
+ "starting-school-homework": {
+  "headline": "Početak škole bez borbi: pravilo od 10 minuta za zadaću i što je normalno u prvom polugodištu",
+  "description": "Slomovi nakon škole su normalni, spremnost se tiče samostalnog korištenja WC-a, a ne čitanja, a dokazi za zadaću u osnovnoj školi su slabi: otprilike 10 minuta svake večeri po američkom školskom razredu uobičajeno je okvirno pravilo.",
+  "card": "Slomovi, mitovi o spremnosti i pravilo od 10 minuta za zadaću, provjereno prema AAP-u, NHS-u i EEF-u."
+ },
+ "school-age-sleep-bedwetting": {
+  "headline": "9 do 12 sati sna, a 1 od 20 djece još mokri u krevet s 10 godina: što pomaže djeci od 5 do 10 godina noću",
+  "description": "Djeci od 6 do 12 godina treba 9 do 12 sati sna. Oko 1 od 5 djece mokri u krevet s 5 godina, a 1 od 20 s 10 godina. Što pomaže prema NICE-u, NHS-u i ERIC-u i kada se javiti obiteljskom liječniku (GP).",
+  "card": "Koliko sna treba djeci, ekrani i strahovi u noći, te zašto je mokrenje u krevet u dobi od 5 do 10 godina često i može se liječiti"
+ },
+ "puberty-body-talk-ages-8-to-10": {
+  "headline": "Pubertet može početi s 8 godina: kako razgovarati o tijelu, mjesečnici i privatnosti prije nego što počne",
+  "description": "Pubertet može početi s 8 godina kod djevojčica i 9 kod dječaka. Normalni rasponi, kada ići obiteljskom liječniku (GP), 5 pravila PANTS za sigurnost tijela, osnove o mjesečnici i mirni odgovori na neugodna pitanja.",
+  "card": "Normalne dobi za pubertet, znakovi upozorenja za obiteljskog liječnika, pravila PANTS za sigurnost tijela i mirni odgovori za dob od 7 do 10 godina."
+ },
+ "screen-time-first-phone": {
+  "headline": "Do 11. godine 91 % djece u UK-u ima mobitel: što SZO, AAP i nova istraživanja kažu o ekranima od 5 do 10 godina",
+  "description": "SZO, AAP i RCPCH ne određuju dnevno ograničenje vremena pred ekranom nakon 5. godine, uređaji pred spavanje povezuju se s otprilike dvostruko većim izgledima za kratak san, a 91 % djece u UK-u ima telefon do 11. godine.",
+  "card": "Ograničenja ekrana, oznake PEGI, zabrane telefona u školama i prvi mobitel, provjereno prema SZO-u, AAP-u i Ofcomu."
+ },
+ "picky-eating-lunchbox-family-meals": {
+  "headline": "Izbirljivost u jelu od 5 do 10 godina: do dobi od 6 godina prepolovi se, a 15 mirnih pokušaja bolje je od 1 bitke oko stola",
+  "description": "Izbirljivost u jelu pada s 27,6 % u dobi od 3 godine na 13,2 % u dobi od 6 godina. Zašto je 15 mirnih pokušaja bolje od pritiska, ideje za kutiju za užinu, ograničenja šećera i nova pravila o školskoj prehrani za 2027.",
+  "card": "Zašto se izbirljivost prepolovi do dobi od 6 godina, zašto je 15 mirnih pokušaja bolje od pritiska i kutije za užinu s manje šećera."
+ },
+ "school-age-anxiety-big-feelings": {
+  "headline": "3 od 4 djece ima strahove. Kako razlikovati svakodnevnu brigu od tjeskobe kojoj treba pomoć",
+  "description": "3 od 4 djece u dobi od 4 do 12 godina navodi strahove, a 15,7 % djece od 8 do 10 godina u Engleskoj ima vjerojatan mentalni poremećaj. Znakovi, izbjegavanje škole i što pomaže.",
+  "card": "Normalna briga ili tjeskoba? Znakovi, bolovi u trbuhu zbog škole, 8 alata koji pomažu i kada se obratiti obiteljskom liječniku (GP)."
+ },
+ "siblings-fights-fair-rules": {
+  "headline": "Do 8 svađa na sat među braćom i sestrama: kako pošteno posredovati, postaviti kućna pravila i nositi se s džeparcem i lažima",
+  "description": "Do 8 svađa na sat u dobi od 4 do 8 godina, a 32 % djece tijekom godine doživi agresiju brata ili sestre. Kako posredovati, prepoznati nasilje, zadržati pravednost i nositi se s lažima.",
+  "card": "Svađe braće i sestara, pravednost, kućanski poslovi, džeparac i laganje: što kaže istraživanje i što reći."
+ },
+ "friendships-fall-outs-bullying": {
+  "headline": "Svađa ili vršnjačko nasilje? U 4. razredu 15 % djece prijavljuje nasilje otprilike tjedno. 3 testa pokazuju razliku",
+  "description": "Svađa ili vršnjačko nasilje? 3 testa: ponavlja se, namjerno je i postoji neravnoteža moći. U 4. razredu otprilike tjedno je izloženo nasilju 15 % djece. Rečenice, koraci u školi, pomoć.",
+  "card": "3 testa koja razdvajaju običnu svađu od vršnjačkog nasilja, uz riječi koje možeš koristiti i korake u školi."
  }
 }
