@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "9",
+   "new": "Le Raising Children Network en Australie ajoute un point pratique. Une routine définit qui fait quoi, quand et dans quel ordre, et cela aide les enfants à coopérer. Quand les dents passent toujours avant l'histoire, il y a moins de choses à discuter.",
+   "why": "Ambiguous 'précise' (adjective or verb), sentence reads broken"
+  },
+  {
+   "unit": "103",
+   "new": "À 3 ans, la sieste de la journée raccourcit en général puis s'arrête, dit le Sydney Children's Hospitals Network, même si certains enfants d'âge préscolaire en ont encore besoin. Des parents d'un fil Mumsnet sur l'arrêt de la sieste décrivent des réveils matinaux et des couchers en larmes une fois la dernière sieste disparue. Une solution qu'ils suggèrent est un coucher plus tôt pendant que l'enfant s'adapte. Notre article sur <a href=\"/blog/baby-sleep-by-age.html\">le sommeil de bébé selon l'âge</a> donne les fourchettes complètes.",
+   "why": "Link text was the full article title, reads badly mid-sentence"
+  },
+  {
+   "unit": "119",
+   "new": "Dehors, un moment de jeu avec un camarade, aider pour de petites tâches",
+   "why": "'rendez-vous de jeu' is a calque of 'playdate'"
+  },
+  {
+   "unit": "131",
+   "new": "<b>Préviens deux fois.</b> « 5 minutes de plus, puis le bain. » Puis « Encore un toboggan, puis le bain. » Les tout-petits n'ont guère la notion du temps, donc relie l'avertissement à quelque chose qu'ils voient : 2 tours de plus, la fin de la chanson.",
+   "why": "'ont peu la notion' is stiff"
+  },
+  {
+   "unit": "137",
+   "new": "Fabrique le tableau avec ton enfant, et il voudra s'en servir",
+   "why": "Mixes vous imperative with tu and 'ton enfant'"
+  },
+  {
+   "unit": "143",
+   "new": "Coche avec lui. Laisse ton enfant faire la coche ou ajouter un autocollant. Montre l'image suivante au lieu de répéter la consigne.",
+   "why": "Mixes vous imperative with tu in the next sentence"
+  }
+ ]
+}

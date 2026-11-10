@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "36",
+   "new": "Finestre di veglia: le ricerche online sono salite del 3.700%, e non ci sono studi alle spalle",
+   "why": "Calco \"search interest\""
+  },
+  {
+   "unit": "37",
+   "new": "Le finestre di veglia sono tabelle che dicono quanto un bebè \"dovrebbe\" restare sveglio tra un sonno e l'altro a ogni età. Le ricerche online sono cresciute di circa il 3.700% negli ultimi anni, secondo lo strumento di tendenze Exploding Topics.",
+   "why": "Calco \"search interest\""
+  },
+  {
+   "unit": "40",
+   "new": "L'ultimo sonnellino può sparire in qualsiasi momento da prima dei 3 anni fino ai 4 anni circa",
+   "why": "Formulazione \"fino a circa i 4\" innaturale"
+  },
+  {
+   "unit": "58",
+   "new": "Niente fasce o sacchi nanna zavorrati e altri prodotti zavorrati. L'AAP dice che i prodotti zavorrati sul bebè o vicino a lui non sono sicuri.",
+   "why": "\"Weighted\" reso con \"appesantiti\" (impreciso); in italiano si dice zavorrati"
+  }
+ ]
+}

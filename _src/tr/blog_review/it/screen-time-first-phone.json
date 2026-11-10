@@ -1,0 +1,49 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "OMS, AAP e RCPCH non fissano un limite giornaliero al tempo davanti agli schermi dopo i 5 anni, i dispositivi a letto sono legati a probabilità circa doppie di dormire troppo poco, e il 91% dei bambini britannici ha un telefono a 11 anni.",
+   "why": "Tempo di schermo is a calque, older posts use tempo davanti agli schermi"
+  },
+  {
+   "unit": "card",
+   "new": "Limiti al tempo davanti agli schermi, classificazioni PEGI, divieti di telefono a scuola e primo telefono, verificati su OMS, AAP e Ofcom.",
+   "why": "Calque, consistency with older posts"
+  },
+  {
+   "unit": "3",
+   "new": "In Year 5 la maggior parte della classe ha avuto il telefono: cosa chiedono ora i genitori",
+   "why": "The pronoun has no antecedent in the heading"
+  },
+  {
+   "unit": "20",
+   "new": "In media almeno 60 minuti al giorno di attività da moderata a vigorosa. Limitare il tempo ricreativo davanti agli schermi, senza fissare un numero. Prove giudicate di bassa certezza.",
+   "why": "Calque, consistency"
+  },
+  {
+   "unit": "31",
+   "new": "Al posto di un limite, l'RCPCH suggerisce 4 controlli: se il tempo davanti agli schermi è sotto controllo, se ostacola la vita familiare, se influisce sul sonno e se gli spuntini sono sotto controllo. Se per tutti e 4 va bene, dice che probabilmente stai facendo del tuo meglio.",
+   "why": "Article before an acronym read letter by letter, and calque"
+  },
+  {
+   "unit": "79",
+   "new": "<b>Tieni le camere e l'ora di dormire senza schermi.</b> Carica ogni dispositivo, anche i tuoi, fuori dalle camere durante la notte. L'AAP e le linee guida slovene suggeriscono entrambe camere senza schermi, e l'RCPCH consiglia di evitare gli schermi nell'ora prima di dormire.",
+   "why": "Article before RCPCH"
+  },
+  {
+   "unit": "57",
+   "new": "<b>Una coorte statunitense di 10.588 bambini.</b> Uno studio guidato da Ran Barzilay è uscito su Pediatrics il 1° dicembre 2025. L'età mediana del primo smartphone era 11 anni. Possedere uno smartphone a 12 anni era legato a maggiori probabilità di depressione (1,31 volte), obesità (1,40 volte) e sonno insufficiente (1,62 volte). Sono solo associazioni, al netto di fattori socioeconomici, pubertà e supervisione dei genitori.",
+   "why": "Calque of adjusted for"
+  },
+  {
+   "unit": "66",
+   "new": "Telefono semplice o smartwatch per bambini con localizzazione, senza app",
+   "why": "Con posizione is stiff"
+  },
+  {
+   "unit": "97",
+   "new": "Il tuo bambino subisce bullismo online, oppure sembra spaventato dopo aver usato un dispositivo. Parlane con la scuola nella stessa settimana. Nel Regno Unito i bambini possono chiamare Childline gratis allo 0800 1111, giorno e notte. I genitori possono chiamare la linea di aiuto della National Society for the Prevention of Cruelty to Children (NSPCC) allo 0808 800 5000. In Slovenia i bambini possono chiamare TOM, la linea di aiuto gratuita per bambini, al 116 111, ogni giorno dalle 12 alle 20. Vedi la nostra guida \"<a href=\"/guides/friends-bullying.html\">Problemi di amicizia e bullismo</a>\".",
+   "why": "Number 116 takes al"
+  }
+ ]
+}

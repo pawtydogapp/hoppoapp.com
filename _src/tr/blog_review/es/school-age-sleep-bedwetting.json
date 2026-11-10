@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "49",
+   "new": "Un estudio neerlandés de 2001 entrevistó a 176 niños de 4 a 12 años y a sus madres y padres. El 73,3 % de los niños contó que tenía miedos por la noche. Los miedos eran más frecuentes entre los 7 y los 9 años que entre los 4 y los 6. Madres y padres tendían a subestimar la frecuencia con que sus hijos sentían miedo. Casi el 80 % de los niños relacionaba su miedo con algo que daba miedo y que habían visto o oído.",
+   "why": "Orden madres y padres, como en el resto de los artículos"
+  },
+  {
+   "unit": "89",
+   "new": "Las palabras también importan. Prueba con: «Muchos niños de tu edad mojan la cama. Tu cuerpo todavía está aprendiendo. Lo resolveremos juntos». Para las noches en casa de amigos, un plan discreto con la familia anfitriona y un pañal braga o ropa interior absorbente en el saco de dormir pueden proteger la confianza de un niño. Este último punto es nuestra opinión, no una guía clínica.",
+   "why": "Inglés innecesario, existe término local"
+  },
+  {
+   "unit": "104",
+   "new": "<b>Urgencia:</b> llama al 999 en el Reino Unido o al 112 en Europa si esos signos vienen con vómitos, dolor de barriga, respiración rápida y profunda, somnolencia o confusión (NHS).",
+   "why": "Unificar con dolor de barriga en los demás artículos"
+  }
+ ]
+}

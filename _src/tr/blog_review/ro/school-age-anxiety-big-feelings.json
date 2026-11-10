@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "6",
+   "new": "Pentru o grijă din seara asta, vezi <a href=\"/guides/worries.html\">ghidul nostru despre griji</a>. Dacă ție îți este greu să dormi noaptea din cauza grijilor, încearcă <a href=\"/guides/parent-anxiety.html\">ghidul despre anxietatea părintelui</a>.",
+   "why": "articol nehotărât, nu numeral"
+  },
+  {
+   "unit": "30",
+   "new": "Refuzul școlii și durerile de burtă: când grija se vede în corp",
+   "why": "termen unitar: în tot articolul se folosește \"dureri de burtă\""
+  },
+  {
+   "unit": "79",
+   "new": "În Marea Britanie, Childline este gratuită la 0800 1111 pentru persoanele sub 19 ani (NHS). În Slovenia, linia TOM este gratuită la 116 111, în fiecare zi între 12:00 și 20:00.",
+   "why": "format unitar pentru programul liniei TOM"
+  },
+  {
+   "unit": "106",
+   "new": "Pași mici, o săptămână pe rând",
+   "why": "\"câte 1 săptămână\" sună nenatural"
+  }
+ ]
+}

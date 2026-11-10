@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "30",
+   "new": "În practică, numără înapoi de la ora de trezire. Un copil de 7 ani care se trezește la 7 dimineața și vizează 10,5 ore, mijlocul intervalului AASM, ar trebui să adoarmă pe la 20:30.",
+   "why": "format orar unitar (24 de ore)"
+  },
+  {
+   "unit": "39",
+   "new": "<b>Păstrează camera răcoroasă și întunecată.</b> Același trust sugerează aproximativ 18 °C. O veioză slabă, roșie sau portocalie, este în regulă pentru un copil căruia îi este frică de întuneric.",
+   "why": "spațiu înaintea simbolului de grad în română"
+  },
+  {
+   "unit": "131",
+   "new": "Nopți mai liniștite, un pas mic odată",
+   "why": "\"câte 1 pas\" este nenatural"
+  },
+  {
+   "unit": "132",
+   "new": "Hoppo îți dă în fiecare săptămână o abilitate scurtă de exersat și un jurnal de somn simplu. Este gratuit, de la sarcină până la 10 ani.",
+   "why": "articol nehotărât, ca în aplicație"
+  }
+ ]
+}

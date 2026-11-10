@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "52",
+   "new": "Schoolmaaltijden in Engeland veranderen. Het Department for Education publiceerde zijn reactie op de raadpleging in september 2026. Onder voorbehoud van het Parlement gelden de nieuwe normen vanaf september 2027.",
+   "why": "\"consultatie\" is an English calque; Dutch uses \"raadpleging\""
+  },
+  {
+   "unit": "54",
+   "new": "<b>Toetjes:</b> basisscholen mogen maximaal 1 gezoet dessert of stuk gebak per week serveren. Middelbare scholen mogen er 2 serveren.",
+   "why": "\"gebakken product\" means fried in Dutch; EN is baked product"
+  },
+  {
+   "unit": "98",
+   "new": "Je kind valt af of groeit niet zoals verwacht. Als je kind geen grotere maat kleren of schoenen meer nodig heeft, kan dat een teken zijn, zegt AboutKidsHealth van het Canadese ziekenhuis SickKids.",
+   "why": "Confusing word order in the original sentence"
+  }
+ ]
+}

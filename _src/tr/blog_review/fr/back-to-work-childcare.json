@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "headline",
+   "new": "Reprendre le travail après un bébé : ce que disent les études sur la garde menées auprès de plus de 10 000 enfants, et comment choisir sans culpabiliser",
+   "why": "'sur plus de 10 000 enfants sur la garde' repeats 'sur' and is hard to parse"
+  },
+  {
+   "unit": "1",
+   "new": "Reprendre le travail après un bébé : ce que disent les études sur la garde menées auprès de plus de 10 000 enfants, et comment choisir sans culpabiliser",
+   "why": "Same as headline"
+  },
+  {
+   "unit": "card",
+   "new": "Ce qu'ont trouvé les études sur la garde menées auprès de plus de 10 000 enfants, avec une liste pour les visites et des au revoir plus doux.",
+   "why": "Same as headline"
+  },
+  {
+   "unit": "47",
+   "new": "La garde d'enfants est en général le plus gros coût des premières années. Notre article sur <a href=\"/blog/baby-cost-first-year.html\">ce que coûte un bébé la première année</a> t'aide à la budgéter.",
+   "why": "Link text was the full article title, reads badly mid-sentence"
+  },
+  {
+   "unit": "55",
+   "new": "<b>Ton regard.</b> Les adultes se mettent-ils au niveau des bébés, leur parlent-ils et consolent-ils vite les bébés qui pleurent ? Lis le dernier rapport d'inspection s'il y en a un.",
+   "why": "'consoler les pleurs' is a calque, you comfort babies, not crying"
+  }
+ ]
+}

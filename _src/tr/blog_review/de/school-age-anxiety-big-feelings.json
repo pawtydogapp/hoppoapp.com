@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "unit": "2",
+   "new": "Bauchweh morgens vor der Schule. Fragen vor dem Schlafen, die nie enden. Ein Kind, das ohne dich nicht auf eine Party geht. Das meiste davon ist normal und geht vorbei. Manches davon ist Angst, bei der Hilfe sinnvoll ist. Hier steht, was die Zahlen sagen, wie du den Unterschied erkennst, 8 Werkzeuge aus der Forschung und was du heute Abend sagen kannst.",
+   "why": "Schulmorgenden ist keine gültige Form (Plural von Morgen ist Morgen)"
+  },
+  {
+   "unit": "8",
+   "new": "Eine Studie der Universität Maastricht aus dem Jahr 2000 befragte 190 normale Kinder im Alter von 4 bis 12 Jahren zu ihren Ängsten. 75,8 % berichteten von Ängsten, 67,4 % von Sorgen und 80,5 % von Albträumen. Das Team um Peter Muris kam zu dem Schluss, dass diese Angstsymptome recht häufig sind.",
+   "why": "generisches Maskulinum, die anderen Beiträge sagen Autorinnen und Autoren, Team um ist kürzer"
+  },
+  {
+   "unit": "9",
+   "new": "Ängste und Albträume waren mit 4 bis 6 häufig, erreichten mit 7 bis 9 ihren Höhepunkt und gingen mit 10 bis 12 zurück. Sorgen waren bei älteren Kindern häufiger. Die Angst vor Fantasiewesen verblasste, während die Sorge vor Prüfungen zunahm.",
+   "why": "Fantasiewesen ist das übliche Wort für imaginary creatures"
+  },
+  {
+   "unit": "28",
+   "new": "Weltweit bezifferte eine Metaanalyse von 2015 mit 41 Studien aus 27 Ländern den Anteil der Kinder und Jugendlichen mit irgendeiner Angststörung auf 6,5 %. Das Faktenblatt der Weltgesundheitsorganisation (WHO) vom 1. September 2025 schätzt, dass 4,1 % der 10- bis 14-Jährigen eine Angststörung haben. Die US-amerikanischen Centers for Disease Control and Prevention (CDC) berichten, dass 2023 bis 2024 bei 11 % der Kinder im Alter von 3 bis 17 Jahren eine Angststörung diagnostiziert worden war.",
+   "why": "any anxiety disorder ist der Anteil der Betroffenen, nicht aller Störungen, und eine Angst diagnostiziert ist kein gültiger Ausdruck (Angststörung ist die gängige Diagnose)"
+  },
+  {
+   "unit": "29",
+   "new": "Eine britische Studie von Cathy Creswell und Kolleginnen und Kollegen aus dem Jahr 2017 weist darauf hin, dass die Hälfte aller Angststörungen schon vor dem 12. Lebensjahr beginnt. Anhaltende Sorge ist also früh ernst zu nehmen.",
+   "why": "Anglizismus, vor dem 12. Lebensjahr ist üblich"
+  },
+  {
+   "unit": "33",
+   "new": "Eine Empfehlung des Department for Education (DfE) in England vom 7. Februar 2023 besagt, dass viele Kinder normale, aber schwierige Gefühle gegenüber der Schule haben, etwa Sorgen wegen Freundschaften oder des Lernstoffs. Trotzdem wird erwartet, dass sie hingehen. Der Schulbesuch kann bei dem zugrunde liegenden Problem helfen, und eine lange Abwesenheit kann die Angst vor der Rückkehr verstärken. Schule und Eltern sollten gemeinsam einen Plan vereinbaren.",
+   "why": "Schularbeiten bedeutet in Österreich Klassenarbeit, hier ist schoolwork gemeint"
+  },
+  {
+   "unit": "62",
+   "new": "KVT lehrt Kinder, ängstliche Gedanken zu bemerken und sich Ängsten Schritt für Schritt zu stellen. Eine Cochrane-Übersicht von 2020 fasste 87 Studien mit 5.964 Kindern und Jugendlichen mit Angststörungen zusammen. Nach der Behandlung hatten 49,4 % der Kinder mit KVT ihre Hauptdiagnose Angst nicht mehr, gegenüber 17,8 % auf der Warteliste. Etwa 3 Kinder müssen mit KVT behandelt werden, damit 1 Kind zusätzlich genest. Die Belege wurden als von mittlerer Qualität eingestuft. KVT war der üblichen Versorgung nicht klar überlegen.",
+   "why": "Grammatik"
+  },
+  {
+   "unit": "77",
+   "new": "Du weißt nicht, wie du helfen kannst. In Großbritannien ist die Elternhotline von YoungMinds unter 0808 802 5544 werktags ab 9:30 Uhr kostenlos (NHS, YoungMinds). Die aktuellen Öffnungszeiten findest du auf der Website von YoungMinds.",
+   "why": "Zeitformat wie in den anderen Beiträgen (20:00 Uhr, 16:30 Uhr)"
+  }
+ ]
+}

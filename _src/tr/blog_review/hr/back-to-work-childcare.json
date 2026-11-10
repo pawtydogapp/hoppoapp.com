@@ -1,0 +1,59 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "Grize li te savjest zbog čuvanja djeteta? Što su velike studije stvarno pronašle, jaslice, čuvar djece u domu ili dadilja, popis za obilazak, kratki pozdravi, izdajanje mlijeka i prehlade.",
+   "why": "Gramatički neispravno (grizu te grižnja)"
+  },
+  {
+   "unit": "29",
+   "new": "Izvješće Organizacije za ekonomsku suradnju i razvoj (OECD) Starting Strong VI (2021.) sažima zašto kvaliteta toliko odlučuje. Djeca uče kroz svakodnevne interakcije s odgajateljima i drugom djecom. Topao odgajatelj koji odgovara na dijete srce je dobre skrbi.",
+   "why": "Uobičajeni naziv institucije"
+  },
+  {
+   "unit": "49",
+   "new": "<b>Omjeri.</b> Pitaj koliko beba čuva svaka odrasla osoba. Američki nacionalni standardi preporučuju najviše 3 bebe mlađe od 12 mjeseci po odrasloj osobi, u skupinama od najviše 6. Engleska zahtijeva 1 odraslu osobu na svako troje djece mlađe od 2 godine. Pravila se razlikuju od države do države, zato pitaj što vrijedi i za vrijeme ručka i kasno poslijepodne.",
+   "why": "Slaganje broja i roda (3 djece, odrasli)"
+  },
+  {
+   "unit": "50",
+   "new": "<b>Ključna osoba.</b> Pitaj tko će biti bebin glavni odgajatelj. U Engleskoj ga mora imati svako dijete u grupnoj ustanovi. Svugdje 1 poznata odrasla osoba pomaže bebi da se smiri i privikne.",
+   "why": "Pravopis: grupna"
+  },
+  {
+   "unit": "57",
+   "new": "AAP savjetuje kratak ritual pozdrava, svaki dan isti, a zatim odlazak. Kad jednom odeš, nemoj se vraćati osim ako planiraš ostati. Nikada se ne iskradaj bez pozdrava jer to može narušiti djetetovo povjerenje (California Childcare Health Program).",
+   "why": "Red riječi (enklitika)"
+  },
+  {
+   "unit": "61",
+   "new": "<b>Dogovori probni dan</b> prije prvog radnog dana, kako predlaže NHS.",
+   "why": "Tautologija isprobaj probni"
+  },
+  {
+   "unit": "75",
+   "new": "Do 4 sata, na 25 °C ili hladnije",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "77",
+   "new": "Do 8 dana na 4 °C ili niže (stranica NHS-a o povratku na posao kaže 5 dana). Unutar 3 dana ako ti je hladnjak topliji.",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "80",
+   "new": "Do 6 mjeseci na -18 °C ili niže",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "85",
+   "new": "2 izvora razlikuju se u vremenu u hladnjaku, a čak i 2 stranice NHS-a daju različita ograničenja. Kao sigurnu zadanu vrijednost koristi najkraća vremena: 4 sata na sobnoj temperaturi, 4 dana u hladnjaku (3 dana ako je topliji od 4 °C), 24 sata u hladnoj torbi i 6 mjeseci u zamrzivaču. Kad je beba jednom pila iz bočice, upotrijebi je unutar 1 sata, a ostatak baci. Odmrznuto mlijeko upotrijebi odmah i nikada ga ne zamrzavaj ponovno (NHS, CDC).",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "101",
+   "new": "Tvoja beba je mlađa od 3 mjeseca i ima temperaturu od 38 °C ili višu. To je hitno. Odmah nazovi liječnika, a u UK-u 111 (NHS, AAP).",
+   "why": "Razmak ispred oznake jedinice"
+  }
+ ]
+}

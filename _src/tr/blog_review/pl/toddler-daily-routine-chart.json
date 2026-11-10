@@ -1,0 +1,49 @@
+{
+ "edits": [
+  {
+   "unit": "9",
+   "new": "Raising Children Network w Australii dodaje praktyczną uwagę. Rutyna określa, kto co robi, kiedy i w jakiej kolejności, a to pomaga dzieciom współpracować. Gdy zęby zawsze są przed bajką, jest mniej powodów do kłótni.",
+   "why": "Calque \"praktyczny punkt\" and \"mniej do kłótni\""
+  },
+  {
+   "unit": "11",
+   "new": "2 uczciwe ograniczenia. To była ankieta, więc pokazuje związek i nie może dowieść przyczyny. Została też sfinansowana przez firmę produkującą artykuły dla dzieci. Mimo to wyniki zgadzają się z tym, co radzą poradnie zajmujące się snem dzieci. O trudnościach z porą snu więcej przeczytasz w naszym <a href=\"/guides/toddler-sleep.html\">poradniku o śnie malucha</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "35",
+   "new": "Zalecenia dotyczące ekranów różnią się między krajami. Amerykańska Akademia Pediatrii (AAP) dawniej robiła wyjątek dla rozmów wideo u dzieci poniżej 18 miesięcy i dopuszczała niektóre wysokiej jakości programy oglądane razem od 18 miesięcy. W styczniu 2026 zastąpiła tę radę stanowiskiem, które odchodzi od stałych limitów czasu i skupia się na jakości tego, co dzieci oglądają, i na wspólnym oglądaniu. Nasz <a href=\"/guides/screens.html\">poradnik o czasie przed ekranem</a> porównuje zalecenia. W wieku 5 lat dzieci przechodzą na wytyczne WHO dla wieku 5 do 17 lat, które zalecają średnio 60 minut dziennie umiarkowanej do intensywnej aktywności.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "74",
+   "new": "Śniadanie, potem dziecko odstawia swój kubek na bok",
+   "why": "Odnosi na bok is unnatural"
+  },
+  {
+   "unit": "103",
+   "new": "Do ukończenia 3 lat dzienna drzemka zwykle się skraca, a potem znika, podaje Sydney Children's Hospitals Network, choć niektóre dzieci w wieku przedszkolnym nadal jej potrzebują. Rodzice w wątku na Mumsnecie o rezygnacji z drzemki opisują wczesne budzenie się i zapłakane wieczory po zniknięciu ostatniej drzemki. Sugerowane przez nich rozwiązanie to wcześniejsza pora snu na czas przystosowania się dziecka. Nasz wpis o <a href=\"/blog/baby-sleep-by-age.html\">śnie dziecka według wieku</a> zawiera pełne przedziały.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "136",
+   "new": "Trochę łez i tak się zdarzy. To normalne w tym wieku i nie znaczy, że rutyna zawiodła. Nasz <a href=\"/guides/tantrums.html\">poradnik o napadach złości</a> opisuje, co robić w danej chwili.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "148",
+   "new": "<b>Dni w żłobku.</b> Zapytaj personel, kiedy dziecko tam drzemie i je, i dopasuj do tego dni w domu, jeśli możesz. Zrób z tabeli krótką wersję „poranek w żłobku”. Zmęczone, marudne wieczory są częste w pierwszych tygodniach. Nasz <a href=\"/guides/daycare.html\">poradnik o pójściu do żłobka</a> ma więcej o adaptacji.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "162",
+   "new": "Narysuj obrazek przy każdym kroku. Stawiaj ptaszek za każdym razem, gdy to robisz.",
+   "why": "Grammar: zaznacz ptaszek"
+  },
+  {
+   "unit": "205",
+   "new": "Bezpłatnie na hoppoapp.com, spokojna aplikacja dla rodziców od ciąży do 5 lat.",
+   "why": "Case error: apposition does not fit after z hoppoapp.com"
+  }
+ ]
+}

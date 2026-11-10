@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "9",
+   "new": "Amerykański rządowy serwis stopbullying.gov, przejrzany 7 października 2024, opisuje zachowanie agresywne z rzeczywistą lub postrzeganą nierównowagą sił, które zdarza się więcej niż raz lub może się powtórzyć. Przewaga może wynikać z siły fizycznej, popularności lub kompromitujących informacji. NSPCC i Ministerstwo Edukacji (DfE) w Anglii, w swoich wytycznych dla szkół z 2017 roku, używają tych samych pojęć.",
+   "why": "Powtórzenie 'siła ... siły'"
+  },
+  {
+   "unit": "32",
+   "new": "<b>4. rok nauki, międzynarodowo:</b> w badaniu Trends in International Mathematics and Science Study (TIMSS) 2023 dzieci w 4. klasie, ze średnim wiekiem co najmniej 9,5 roku, opisywały, co działo się w ostatnim roku. 15% było dręczonych mniej więcej co tydzień, 31% mniej więcej co miesiąc, a 53% nigdy lub prawie nigdy.",
+   "why": "Dosłowne i niejasne 'opisywały ostatni rok'"
+  },
+  {
+   "unit": "64",
+   "new": "Raport Ofcom z 7 maja 2025 wykazał, że 33% brytyjskich dzieci w wieku od 6 do 7 lat korzysta z WhatsApp, a 40% dzieci poniżej 13 lat ma profil w mediach społecznościowych. Wśród 8- i 9-latków korzystających z internetu 20% powiedziało, że ktoś był dla nich niemiły lub ich ranił za pośrednictwem technologii komunikacyjnej, takiej jak wiadomości lub aplikacje.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  }
+ ]
+}

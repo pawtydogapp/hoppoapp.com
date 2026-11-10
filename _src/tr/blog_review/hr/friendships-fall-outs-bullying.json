@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "2",
+   "new": "Tvoje dijete dolazi kući u suzama jer mu je najbolji prijatelj ili prijateljica rekao ili rekla: „više mi nisi prijatelj”. Do petka se opet igraju zajedno. Drugo dijete svaki dan čuje iste riječi od iste skupine i počinje se bojati školskih vrata. Oboje boli. Samo u 1 od tih situacija riječ je o nasilju. Evo 3 testa koja koriste stručnjaci, stvarnih brojki, što reći i kako surađivati sa školom.",
+   "why": "'od njih' wrongly points to the two children"
+  },
+  {
+   "unit": "8",
+   "new": "UK Anti-Bullying Alliance definira nasilje kao slučaj kad 1 osoba ili skupina ponavljano i namjerno povređuje drugu osobu ili skupinu, uz neravnotežu moći u odnosu. Može se događati licem u lice ili na internetu.",
+   "why": "Same verb spelled povređuje in the summary"
+  },
+  {
+   "unit": "27",
+   "new": "Tuga traje dan ili 2",
+   "why": "Missing verb"
+  },
+  {
+   "unit": "51",
+   "new": "Po Hoppovu mišljenju, samo „ignoriraj” i „uzvrati udarcem” obično ne pomažu. AAP kaže da nazivanje roditelja drugog djeteta nije prvi korak.",
+   "why": "'zvanje' means calling/profession, 'nazivanje' is the act of phoning"
+  },
+  {
+   "unit": "83",
+   "new": "Gdje potražiti pomoć: Childline za djecu na 0800 1111, besplatno i 24 sata dnevno. Linija NSPCC Helpline za odrasle na 0808 800 5000. U Sloveniji TOM telefon za djecu i tinejdžere na 116 111, svaki dan od 12 do 20 sati. U SAD-u nazovi ili pošalji poruku na 988 ako netko razmišlja o samoubojstvu.",
+   "why": "Consistent time format with other posts"
+  },
+  {
+   "unit": "78",
+   "new": "Kada se obratiti liječniku ili patronažnoj sestri",
+   "why": "Same heading as in the older posts"
+  }
+ ]
+}

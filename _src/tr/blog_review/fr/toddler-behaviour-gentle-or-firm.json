@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "13",
+   "new": "Exemple de phrase",
+   "why": "English column means example wording, 'ce que cela donne' means results"
+  },
+  {
+   "unit": "45",
+   "new": "Le camp « ferme » a aussi raison sur un point. Une analyse de 2025 a regroupé 14 essais européens de programmes de parentalité, avec 3 252 familles d'enfants de 1 à 13 ans. Les deux changements qui expliquaient le mieux un comportement plus calme étaient de tenir parole, et de gronder moins durement, par exemple sans crier. Être calme et être cohérent vont de pair.",
+   "why": "'tenir ce que les parents disaient' is a calque of 'following through'"
+  },
+  {
+   "unit": "48",
+   "new": "<b>Crée le lien, puis pose la limite.</b> Mets-toi à sa hauteur et nomme l'émotion avant la limite : « Tu es triste que le parc soit fini. On rentre à la maison maintenant. » L'UNICEF note que 10 minutes de vrai temps en tête-à-tête par jour peuvent faire une grande différence. La compétence de 5 minutes par semaine de Hoppo est un moyen facile d'installer ce temps.",
+   "why": "'Connecte-toi' reads as log in, 'corrige' is unclear"
+  },
+  {
+   "unit": "49",
+   "new": "<b>Garde peu de règles, et claires.</b> 3 règles qu'un tout-petit peut retenir valent mieux que 20 qu'il ne retient pas. Dis ce qu'il faut faire, pas seulement ce qu'il faut arrêter : « Les pieds par terre » plutôt que « Arrête de grimper ». L'UNICEF insiste sur des limites claires, adaptées à l'âge, répétées de la même façon à chaque fois. Un rythme quotidien régulier aide aussi, comme le montre notre <a href=\"/blog/toddler-daily-routine-chart.html\">tableau de routine du tout-petit</a>.",
+   "why": "Link text was the full article title, reads badly mid-sentence"
+  },
+  {
+   "unit": "51",
+   "new": "<b>Utilise un « time-in » ou un court « time-out ».</b> Les experts ne sont pas d'accord ici. Une revue de 2019 dans American Psychologist a trouvé de solides preuves pour un time-out bref et calme, c'est-à-dire un court temps à l'écart, utilisé dans une relation chaleureuse. Les critiques craignent que mettre un jeune enfant à l'écart soit vécu comme un rejet. Un time-in veut dire que tu restes près de lui pendant qu'il se calme. Hoppo suggère de rester près des moins de 2 ans, et pour les tout-petits plus grands de choisir la version que tu peux faire calmement. Le repère habituel de l'AAP est d'environ une minute par année d'âge. Ensuite, reconnecte-toi avec un câlin.",
+   "why": "'règle approximative' is a calque of 'rule of thumb'"
+  },
+  {
+   "unit": "59",
+   "new": "Peu de règles, une application calme des règles, des conséquences courtes et une réparation rapide après un mauvais moment font l'essentiel du travail.",
+   "why": "'suivi calme' does not convey 'calm follow-through'"
+  }
+ ]
+}

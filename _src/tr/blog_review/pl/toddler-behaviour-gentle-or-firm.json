@@ -1,0 +1,59 @@
+{
+ "edits": [
+  {
+   "unit": "5",
+   "new": "Jednocześnie łagodne rodzicielstwo traci część zwolenników. Amerykański serwis dla rodziców The Bump umieścił rodzicielstwo „hybrydowe” na pierwszym miejscu swojej listy trendów na 2026 i podał, że mniej niż 40% rodziców z pokolenia Z mówi, że stosuje łagodne rodzicielstwo. Ta liczba pochodzi z internetowej ankiety 2 000 rodziców dzieci w wieku 0 do 6 lat w USA, przeprowadzonej przez Talker Research dla sieci opieki nad dziećmi Kiddie Academy w sierpniu 2025. Wykazała ona 32%. To komercyjny sondaż, więc czytaj go ostrożnie. Psychoterapeutka cytowana w tym samym materiale ujęła problem prosto: gdzieś po drodze łagodność pomylono z przyzwalaniem na wszystko.",
+   "why": "Adjective after noun is stiff, and unit 42 already uses łagodne rodzicielstwo"
+  },
+  {
+   "unit": "7",
+   "new": "Ten artykuł dotyczy twojego codziennego podejścia. O napadach złości w supermarkecie przeczytasz w naszym <a href=\"/guides/tantrums.html\">poradniku o napadach złości</a>. O zębach na ramieniu kolegi z zabawy zobacz <a href=\"/guides/biting.html\">poradnik o gryzieniu</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "32",
+   "new": "W 2017 roku psycholog Martin Pinquart przeanalizował łącznie 1 435 badań o rodzicielstwie i problemach z zachowaniem u dzieci, takich jak agresja i łamanie zasad. Ciepło, jasne zasady i styl autorytatywny wiązały się z mniejszą liczbą problemów. Surowa kontrola oraz style autorytarny, pobłażliwy i zaniedbujący wiązały się z większą. Najsilniejsze związki ze wszystkich dotyczyły surowej kontroli i kontroli psychologicznej, takiej jak wzbudzanie poczucia winy lub odbieranie miłości.",
+   "why": "Literal \"combined\""
+  },
+  {
+   "unit": "37",
+   "new": "W kwestii kar fizycznych dowody są niezwykle jasne. Analiza z 2016 roku autorstwa Elizabeth Gershoff i Andrew Grogan-Kaylor objęła dane 160 927 dzieci. Klapsy były związane z gorszymi wynikami w 13 z 17 obszarów, w tym z większą agresją i zachowaniami antyspołecznymi. Żaden z nich nie był związany z lepszym zachowaniem.",
+   "why": "Literal \"pooled\""
+  },
+  {
+   "unit": "41",
+   "new": "Co łagodne rodzicielstwo robi dobrze i gdzie bywa błędnie rozumiane",
+   "why": "Word order, as in unit 42"
+  },
+  {
+   "unit": "42",
+   "new": "Na temat „łagodnego rodzicielstwa” pod tą nazwą jest bardzo mało badań. To etykieta z mediów społecznościowych, a nie zdefiniowany program. Ale jego podstawowe idee dobrze zgadzają się z wynikami badań.",
+   "why": "\"Dowody\" is a calque of evidence here"
+  },
+  {
+   "unit": "45",
+   "new": "Obóz „stanowczych” też ma rację. Analiza z 2025 roku zebrała 14 europejskich badań programów dla rodziców, obejmujących 3 252 rodziny dzieci w wieku 1 do 13 lat. 2 zmiany, które najlepiej wyjaśniały spokojniejsze zachowanie, to dotrzymywanie tego, co rodzice powiedzieli, i mniej surowe upominanie, takie jak krzyk. Spokój i konsekwencja okazały się sprzymierzeńcami.",
+   "why": "Literal \"pooled 14 trials\""
+  },
+  {
+   "unit": "46",
+   "new": "Dlatego propozycja Hoppo jest prosta. Nie musisz wybierać strony. Weź ciepło z łagodnego rodzicielstwa i konsekwencję ze stanowczego rodzicielstwa, a surowość odrzuć z obu.",
+   "why": "Word order"
+  },
+  {
+   "unit": "48",
+   "new": "<b>Najpierw kontakt, potem korekta.</b> Zejdź do poziomu oczu dziecka i nazwij uczucie, zanim wyznaczysz granicę: „Smutno ci, że zabawa w parku się skończyła. Teraz idziemy do domu.” UNICEF zauważa, że 10 minut prawdziwego czasu sam na sam dziennie może zrobić dużą różnicę. Cotygodniowa 5-minutowa umiejętność do ćwiczenia w Hoppo to łatwy sposób, by ten czas wbudować w dzień.",
+   "why": "\"Przed granicą\" is literal"
+  },
+  {
+   "unit": "49",
+   "new": "<b>Zasady niech będą nieliczne i jasne.</b> 3 zasady, które maluch zapamięta, są lepsze niż 20, których nie zapamięta. Mów, co robić, a nie tylko, czego przestać: „Stopy na podłodze” zamiast „Przestań się wspinać”. UNICEF podkreśla jasne granice dopasowane do wieku, powtarzane za każdym razem tak samo. Pomaga też stały rytm dnia, jak pokazuje nasza <a href=\"/blog/toddler-daily-routine-chart.html\">tabela rytmu dnia malucha</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "58",
+   "new": "Łagodne rodzicielstwo działa, gdy zachowuje granice. Bez granic staje się pobłażliwe.",
+   "why": "Word order"
+  }
+ ]
+}

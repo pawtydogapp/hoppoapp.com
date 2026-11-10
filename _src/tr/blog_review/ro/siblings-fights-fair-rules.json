@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "29",
+   "new": "<b>Lasă fiecare copil să vorbească, apoi rezumă ambele părți.</b> „Deci, Maja, tu construiai turnul, iar Luka, tu voiai rândul tău cu cuburile.” Expresia lui Kramer „vezi cum o văd eu, vezi cum o vezi tu” îi ajută pe copii să încetinească.",
+   "why": "\"tură\" nu se potrivește aici, sensul este \"a turn\""
+  },
+  {
+   "unit": "64",
+   "new": "Făcutul patului a fost cea mai frecventă treabă, cu o medie de 0,28 GBP de fiecare dată. Dintre familiile cu bani de buzunar regulați, 34,8% o fac să depindă de treburi.",
+   "why": "\"alocație\" înseamnă în română alocația de stat, iar articolul folosește \"bani de buzunar\""
+  },
+  {
+   "unit": "66",
+   "new": "Despre plata treburilor, AAP spune că depinde de scopul tău. Dacă plătești pentru treburi, spune exact ce se plătește cu cât și ține-te de asta. AAP spune și că copiii de vârstă școlară nu sunt pregătiți să plătească din banii lor lucruri de strictă necesitate, precum hainele.",
+   "why": "sens mai clar"
+  },
+  {
+   "unit": "71",
+   "new": "Un studiu din 2011 al lui Talwar și Kang Lee a comparat 2 școli din Africa de Vest, cu copii de 3 și 4 ani. În școala în care copiii erau bătuți, aproape toți cei care s-au uitat au mințit apoi. În școala care folosea time-out, puțin peste jumătate au făcut-o.",
+   "why": "termen unitar cu articolul despre comportamentul copilului mic (\"time-out\")"
+  },
+  {
+   "unit": "91",
+   "new": "Copiii pot cere ajutor și singuri. În Marea Britanie, Childline este gratuit la 0800 1111. În Irlanda, Childline este la 1800 66 66 66. În Slovenia, TOM telefon este la 116 111, gratuit, în fiecare zi între 12:00 și 20:00. Dacă un copil este rănit sau în pericol, sună la numărul local de urgență.",
+   "why": "format unitar pentru programul liniei TOM"
+  },
+  {
+   "unit": "121",
+   "new": "Hoppo îți dă în fiecare săptămână o abilitate scurtă de exersat, cum ar fi să spui ce simți sau să ții o ședință de familie de 20 de minute, ca regulile casei să fie mai ușor de respectat.",
+   "why": "articol nehotărât, ca în aplicație"
+  }
+ ]
+}

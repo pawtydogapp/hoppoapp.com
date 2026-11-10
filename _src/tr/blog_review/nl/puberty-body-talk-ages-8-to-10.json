@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "33",
+   "new": "De Copenhagen Puberty Study, gepubliceerd in Pediatrics in 2009, vergeleek 1.100 meisjes die in 1991 tot 1993 werden onderzocht met 995 meisjes die in 2006 tot 2008 werden onderzocht. De gemiddelde leeftijd van de eerste borstontwikkeling daalde van 10,88 naar 9,86 jaar. De gemiddelde leeftijd van de eerste menstruatie daalde veel minder, van 13,42 naar 13,13 jaar.",
+   "why": "Missing \"werden\": ungrammatical relative clause"
+  },
+  {
+   "unit": "91",
+   "new": "Schaamhaar, okselhaar of lichaamsgeur als bij volwassenen vóór deze leeftijden, ook als dit het enige teken is. Het is vaak onschuldig, maar laat het door je huisarts controleren.",
+   "why": "\"ook als het alleen is\" is unclear; EN is \"even alone\""
+  }
+ ]
+}

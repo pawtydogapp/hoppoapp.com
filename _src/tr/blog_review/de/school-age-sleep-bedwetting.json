@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "1",
+   "new": "9 bis 12 Stunden pro Nacht, und 1 von 20 macht mit 10 noch ins Bett: Schlaf von 5 bis 10 Jahren nach dem Stand der Forschung",
+   "why": "Nebensatz-Fragment nach Doppelpunkt, der Titel hat schon einen Doppelpunkt"
+  },
+  {
+   "unit": "6",
+   "new": "Bildschirme kommen als neuere Ebene hinzu. Am 21. Mai 2026 berichtete die britische Medienaufsicht Ofcom, dass der Besitz eines Smartphones von 56 % bei den 10-Jährigen auf 83 % bei den 11-Jährigen steigt. Sieh das als Signal für einen Wandel, nicht als Studie über Schlaf.",
+   "why": "einheitlich mit Signal in den anderen Beiträgen (treat as a signal)"
+  },
+  {
+   "unit": "45",
+   "new": "Die wichtigsten Belege liefert eine Übersichtsarbeit von 2016 mit 20 Studien und 125.198 Kindern und Jugendlichen im Alter von 6 bis 19 Jahren. Wer ein Gerät zur Schlafenszeit nutzte, hatte etwa doppelt so hohe Odds, nicht genug zu schlafen (Odds Ratio 2,17). Schon ein Gerät im Schlafzimmer, ohne es zu benutzen, war mit zu wenig Schlaf verbunden (Odds Ratio 1,79).",
+   "why": "Odds-Ratio-Wert wird mit Risiko wiedergegeben, das ist lockerer als die Statistik. Odds ist gleichbedeutend, aber für Eltern weniger geläufig (Entscheidung)"
+  },
+  {
+   "unit": "96",
+   "new": "Wann du deine Ärztin oder deinen Arzt um Hilfe bitten solltest",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  },
+  {
+   "unit": "97",
+   "new": "Dein Kind macht auch nach dem 6. oder 7. Geburtstag noch regelmäßig ins Bett oder nässt auch tagsüber ein (Sydney Children's Hospitals Network).",
+   "why": "nach dem Alter von ist ein Anglizismus"
+  },
+  {
+   "unit": "101",
+   "new": "Albträume sind häufig, folgen auf ein beängstigendes Ereignis oder halten über das 6. Lebensjahr hinaus an, oder Nachtschreck beginnt nach dem 5. Lebensjahr oder hält über das 12. Lebensjahr hinaus an (NHS).",
+   "why": "nach dem Alter von ist ein Anglizismus"
+  }
+ ]
+}

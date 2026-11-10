@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "U nedavnoj raspravi na Mumsnetu jedna je roditeljica pitala kada svojoj kćeri iz Year 6 dati telefon. Većina prijatelja dobila ga je na početku Year 5, kad su počeli sami hodati kući. Odgovori su se podijelili. Neki su predlagali osnovni telefon za pozive i poruke. Drugi su postavili čvrsta pravila, poput zabrane velikih grupnih chatova i telefona nakon 19 sati.",
+   "why": "Natural 24 h time format in Croatian"
+  },
+  {
+   "unit": "23",
+   "new": "Nema dnevnog ograničenja u satima. Fokus je na kvaliteti, kontekstu i razgovoru. Ekrani neka budu izvan spavaćih soba i obroka te u satu prije spavanja isključeni. Odgodi djetetov vlastiti tablet.",
+   "why": "Unclear who owns the tablets; EN: delay personal tablets"
+  },
+  {
+   "unit": "93",
+   "new": "Kada se obratiti liječniku ili patronažnoj sestri",
+   "why": "Same heading as in the older posts"
+  }
+ ]
+}

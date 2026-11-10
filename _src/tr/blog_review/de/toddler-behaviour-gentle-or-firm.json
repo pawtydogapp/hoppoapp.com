@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "2",
+   "new": "Dein Feed sagt dir, du sollst jedes Gefühl bestätigen. Deine Mutter sagt dir, Kinder kommen heute mit allem durch. Du fragst dich, zu welchem Lager du gehörst und ob du es falsch machst. Hier steht, was 6 Jahrzehnte Forschung wirklich gefunden haben und warum Schlagen das Einzige ist, das Fachleute einhellig ablehnen. Dazu kommen 7 Alltagswerkzeuge, die von 1 bis 5 Jahren wirken.",
+   "why": "das 1 ist als Pronomen falsch"
+  },
+  {
+   "unit": "36",
+   "new": "Schlagen: der einzige Punkt, in dem sich Fachleute und 70 Länder einig sind",
+   "why": "der 1 Punkt liest sich wie Englisch"
+  },
+  {
+   "unit": "54",
+   "new": "<b>Mach es gut, nachdem du die Beherrschung verloren hast.</b> Jeder Elternteil schreit manchmal. Wenn du ruhig bist, halte es kurz: „Ich habe geschrien. Das war nicht in Ordnung. Es tut mir leid. Ich hab dich lieb.“ Sich zu entschuldigen zeigt deinem Kind genau die Fähigkeit, die du von ihm lernen lassen möchtest.",
+   "why": "Elternteil ist maskulin, wie sonst im Text"
+  }
+ ]
+}

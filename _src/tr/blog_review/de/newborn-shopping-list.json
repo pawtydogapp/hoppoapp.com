@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "0",
+   "new": "<a href=\"/blog.html\">Alle Artikel</a> · 8 Min. Lesezeit · Abgeglichen mit dem Lullaby Trust, NHS, AAP, Which?, RoSPA und BFU",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "12",
+   "new": "Eine feste, flache Matratze, die ohne Lücken passt, und ein paar Spannbettlaken. Der Lullaby Trust sagt, der Kopf sollte nicht mehr als ein paar Millimeter einsinken",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "75",
+   "new": "Ein Sicherheitsetikett macht ein Produkt nicht sicher zum Schlafen. Der Lullaby Trust weist darauf hin, dass ein Produkt einen Standard erfüllen und trotzdem nicht den Empfehlungen für sichereren Schlaf folgen kann. Wenn dein Baby in einer Tragehilfe, einer Babyschaukel oder einem Autositz einschläft, rät die AAP, es so bald wie möglich auf den Rücken auf eine feste, flache Schlafunterlage zu legen. Unser <a href=\"/guides/safe-sleep.html\">Ratgeber zum sicheren Schlafen</a> enthält alle Regeln.",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "83",
+   "new": "Ein Sitz kann versteckte Schäden durch einen Unfall oder Sturz haben. Die Royal Society for the Prevention of Accidents (RoSPA) rät, keinen gebrauchten zu kaufen. Wenn überhaupt, dann nur von Familie oder Freunden und nur, wenn du seine ganze Vorgeschichte kennst, er die Originalanleitung hat und nicht zu alt ist. Der Lullaby Trust geht weiter und rät von jedem gebrauchten Autositz ab",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "86",
+   "new": "Der Lullaby Trust empfiehlt für jedes Baby eine neue Matratze. Wenn du deine eigene wiederverwendest, sollte sie fest, flach, sauber und trocken sein, ohne Risse oder Wasserschäden. Sie sollte ohne Lücken passen und einen wasserdichten Bezug und ein Etikett für Flammschutz haben",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "98",
+   "new": "Keine Kordeln oder losen Knöpfe, keine ausgefallenen Schlafsäcke mit Kapuze. Sterilisiere alles, was in den Mund kommt. Prüf Spielzeug auf Knopfzellen und Magnete",
+   "why": "verspielt trifft novelty nicht"
+  }
+ ]
+}

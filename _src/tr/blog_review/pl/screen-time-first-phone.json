@@ -1,0 +1,64 @@
+{
+ "edits": [
+  {
+   "unit": "6",
+   "new": "<b>Gry:</b> 41% dzieci w wieku od 6 do 7 lat i 63% dzieci w wieku od 8 do 9 lat gra online.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "8",
+   "new": "<b>Niepokojące treści:</b> 33% dzieci w wieku od 8 do 17 lat widziało w ciągu ostatnich 12 miesięcy w internecie coś niepokojącego lub nieprzyjemnego.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "17",
+   "new": "Brak siedzącego czasu przed ekranem poniżej 2. roku życia. W wieku od 2 do 4 lat nie więcej niż 1 godzina dziennie, a mniej jest lepiej.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "29",
+   "new": "Średnio co najwyżej 1 godzina rekreacyjnych ekranów dziennie w wieku od 6 do 9 lat i 1,5 godziny w wieku od 10 do 12 lat. Bez własnego smartfona ani tabletu w wieku od 6 do 9 lat, ale prosty telefon jest w porządku.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "36",
+   "new": "Najbardziej spójne dowody dotyczą snu. Metaanaliza Bena Cartera i współpracowników z 2016 roku w JAMA Pediatrics połączyła dane o 125 198 dzieciach w wieku od 6 do 19 lat. Korzystanie z urządzeń przed snem wiązało się z mniej więcej dwukrotnie wyższymi szansami na zbyt mało snu. Nawet nieużywane urządzenie w sypialni wiązało się z gorszym snem. Autorzy ocenili jakość dowodów jako niską.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "54",
+   "new": "Badanie Badera Chaarani z 2022 roku w JAMA Network Open objęło 2217 dzieci w wieku od 9 do 10 lat. Dzieci grające co najmniej 21 godzin tygodniowo wypadły nieco lepiej w testach kontroli impulsów i pamięci roboczej. Pracę wycofano i zastąpiono nową wersją 10 kwietnia 2023 z powodu błędów. Poprawiona wersja wykazała też wyższe wyniki dla problemów z uwagą, depresji i zespołu nadpobudliwości psychoruchowej z deficytem uwagi (ADHD) wśród graczy. To badanie przekrojowe, więc nie pokazuje przyczyny.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "59",
+   "new": "<b>Nowy brytyjski sygnał: wspólne odkładanie telefonu na później.</b> Kampania Smartphone Free Childhood zachęca rodziny do podpisania Parent Pact (paktu rodziców): żadnego smartfona przed 14. rokiem życia i żadnych mediów społecznościowych przed 16. Podaje ponad 100 000 podpisanych paktów. Dokument roboczy z lipca 2026 przygotowany dla Institute for Fiscal Studies (IFS) porównał angielskie szkoły podstawowe, w których podpisało co najmniej 20% rodzin, ze szkołami, w których podpisało mniej niż 5%. Odnotowane przez szkoły potrzeby w zakresie zdrowia psychicznego spadły o około 8,2%. Spadek liczby wniosków o świadczenia z tytułu niepełnosprawności psychicznej u dzieci był największy w wieku od 5 do 10 lat i wyniósł około 8,7%. Praca nie przeszła recenzji naukowej. Liczy podpisy, a nie telefony. Szkoły były zamożniejsze niż przeciętne.",
+   "why": "Termin 'dokument roboczy' i naturalniejszy szyk, oraz 'w wieku od X do Y'"
+  },
+  {
+   "unit": "88",
+   "new": "WHO, AAP i RCPCH nie ustalają dziennego limitu godzin po 5. roku życia. Słoweńscy pediatrzy sugerują 1 godzinę w wieku od 6 do 9 lat i 1,5 godziny w wieku od 10 do 12 lat.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "106",
+   "new": "<a href=\"https://nijz.si/wp-content/uploads/2022/11/uporaba_zaslonov_smernice_za_splet_150_vecje_ilustracije.pdf\">Słoweńskie Towarzystwo Lekarskie, sekcja pediatrii podstawowej, na stronie NIJZ: Smernice za uporabo zaslonov (wytyczne dotyczące ekranów)</a>, maj 2021, sprawdzono 1 listopada 2026",
+   "why": "Pozostawiony opis po angielsku"
+  },
+  {
+   "unit": "109",
+   "new": "<a href=\"https://n1info.si/novice/slovenija/kaj-tocno-pomeni-prepoved-telefonov-v-osnovnih-solah/\">N1 Slovenija: co dokładnie oznacza zakaz telefonów w szkołach podstawowych</a>, 29 sierpnia 2025, sprawdzono 1 listopada 2026",
+   "why": "Tytuł zostawiony po angielsku, w innych źródłach tego wpisu opis jest po polsku"
+  },
+  {
+   "unit": "114",
+   "new": "<a href=\"https://www.nationalelfservice.net/treatment/digital-health/wait-13-giving-kids-smartphone/\">The Mental Elf: przegląd liczb z badania Barzilaya</a>, 9 czerwca 2026, sprawdzono 1 listopada 2026",
+   "why": "Opis dodany przez Hoppo zostawiony po angielsku"
+  },
+  {
+   "unit": "115",
+   "new": "<a href=\"https://www.patientcareonline.com/view/smartphone-ownership-in-young-adolescence-drives-physical-and-emotional-health-risks\">Patient Care Online: omówienie ilorazów szans z badania Barzilaya</a>, sprawdzono 1 listopada 2026",
+   "why": "Opis dodany przez Hoppo zostawiony po angielsku"
+  }
+ ]
+}

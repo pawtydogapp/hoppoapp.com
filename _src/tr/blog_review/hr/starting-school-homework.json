@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "15",
+   "new": "Nekoj se djeci tjednima teško odvojiti od vrata učionice. Britanska nacionalna zdravstvena služba (NHS) kaže da je tjeskoba zbog odvajanja vrlo česta od otprilike 6 mjeseci do 3 godine te da nova škola kod nekog djeteta može izazvati tjeskobu. Predlaže da slušaš bez omalovažavanja briga i da održavaš stalne rutine. Rastanci neka budu kratki i svaki dan isti: zagrljaj, jedna rečenica, pa odlazak.",
+   "why": "Ambiguous with imperative 'Neka se djeca'; EN: some children cling at the door"
+  },
+  {
+   "unit": "21",
+   "new": "Hoppovo mišljenje: najkorisnija je priprema ona dosadna. Samostalno otići na WC, oprati ruke, obući jaknu, otvoriti kutiju za užinu, reći „Trebam pomoć”. Naš <a href=\"/guides/starting-school.html\">vodič „Dijete kreće u školu”</a> ima popis za provjeru.",
+   "why": "Stiff genitive, consistent with Hoppov(u) mišljenju elsewhere"
+  },
+  {
+   "unit": "81",
+   "new": "Tjeskoba je jaka, ne popušta i sprječava dijete da radi svakodnevne stvari. NHS kaže da je obiteljski liječnik (GP) dobar prvi korak. U UK-u je telefonska linija za roditelje YoungMinds, 0808 802 5544, besplatna, ali nije služba za krizne situacije. Radno vrijeme provjeri na web-stranici.",
+   "why": "Spelling consistent with older posts"
+  },
+  {
+   "unit": "77",
+   "new": "Kada se obratiti liječniku ili patronažnoj sestri",
+   "why": "Same heading as in the older posts"
+  }
+ ]
+}

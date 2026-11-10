@@ -1,0 +1,39 @@
+{
+ "edits": [
+  {
+   "unit": "2",
+   "new": "Bolovi u trbuhu ujutro prije škole. Pitanja pred spavanje koja nikad ne prestaju. Dijete koje ne želi na zabavu bez tebe. Većina toga je normalna i prođe. Nešto od toga je tjeskoba zbog koje vrijedi potražiti pomoć. Evo što kažu brojke, kako prepoznati razliku, 8 alata utemeljenih na dokazima i što reći još večeras.",
+   "why": "Literal 'iz dokaza'"
+  },
+  {
+   "unit": "36",
+   "new": "Što pomaže: 8 alata utemeljenih na dokazima",
+   "why": "Literal 'iz dokaza'"
+  },
+  {
+   "unit": "6",
+   "new": "Ako te večeras muči 1 briga, pogledaj naš <a href=\"/guides/worries.html\">vodič „Dijete se puno brine”</a>. Ako ti ne možeš zaspati, probaj <a href=\"/guides/parent-anxiety.html\">vodič „Stalno se brinem”</a>.",
+   "why": "Sentence fragment sounds literal"
+  },
+  {
+   "unit": "35",
+   "new": "Prema Hoppovu mišljenju, dijete koje kaže „Muka mi je” kad je pravi problem briga često se muči imenovati težak osjećaj. To nije isto što i namjerne neistine, o kojima govori naš <a href=\"/guides/lying.html\">vodič „Dijete laže”</a>.",
+   "why": "'nešto drugo od' is not idiomatic"
+  },
+  {
+   "unit": "39",
+   "new": "<b>Poduzimaj male korake prema strahu.</b> Kognitivno-bihevioralna terapija (KBT) uključuje postupno suočavanje sa zastrašujućim situacijama, kaže AAP. Britanska dobrotvorna organizacija Charlie Waller Trust predlaže da se težak zadatak razbije na manje korake. Za zabavu kod prijatelja: razgovarajte o tome, odite zajedno na 15 minuta, a zatim neka dijete ostane dulje dok ti čekaš u blizini. NHS upozorava da se dijete ne smije prisiljavati u stresnu situaciju bez prethodnog razgovora o tome što ga čini tjeskobnim, zato svaki korak dogovorite zajedno.",
+   "why": "'Za zabavu' reads as 'for fun'; EN: for a party"
+  },
+  {
+   "unit": "41",
+   "new": "<b>Pokaži povjerenje i nemoj izbjegavati umjesto djeteta.</b> Roditelji često mijenjaju ono što rade kako bi dijete poštedjeli neugode ili mu pomogli izbjeći strah, na primjer odgovaraju umjesto sramežljivog djeteta ili mijenjaju obiteljske rutine. Istraživači to zovu prilagođavanje (accommodation). Metaanaliza iz 2021. pronašla je umjerenu povezanost između većeg prilagođavanja i teže tjeskobe kad su roditelji prijavili oboje. To je povezanost, a ne dokaz. Charlie Waller Trust predlaže da kažeš „Vjerujem da to možeš”.",
+   "why": "Clumsy literal rendering"
+  },
+  {
+   "unit": "77",
+   "new": "Ne znaš kako pomoći. U UK-u je telefonska linija za roditelje YoungMinds besplatna na 0808 802 5544 radnim danom od 9.30 sati (NHS, YoungMinds). Aktualno radno vrijeme provjeri na web-stranici YoungMinds.",
+   "why": "Spelling consistent with older posts"
+  }
+ ]
+}

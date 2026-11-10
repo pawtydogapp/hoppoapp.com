@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "headline",
+   "new": "Litigio o bullismo? In quarta elementare il 15% dei bambini riferisce di subire bullismo circa ogni settimana. 3 criteri per distinguerli",
+   "why": "4° anno di scuola is a literal calque"
+  },
+  {
+   "unit": "description",
+   "new": "Litigio o bullismo? 3 criteri: ripetuto, intenzionale, squilibrio di potere. In quarta elementare il 15% subisce bullismo circa ogni settimana. Frasi da usare, passi con la scuola, aiuto.",
+   "why": "Same"
+  },
+  {
+   "unit": "1",
+   "new": "Litigio o bullismo? In quarta elementare il 15% dei bambini riferisce di subire bullismo circa ogni settimana. 3 criteri per distinguerli",
+   "why": "Same"
+  },
+  {
+   "unit": "32",
+   "new": "<b>Quarta elementare, a livello internazionale:</b> nel Trends in International Mathematics and Science Study (TIMSS) 2023, i bambini di quarta elementare, con età media di almeno 9,5 anni, hanno risposto riferendosi all'ultimo anno. Il 15% subiva bullismo circa ogni settimana, il 31% circa ogni mese e il 53% mai o quasi mai.",
+   "why": "Same"
+  },
+  {
+   "unit": "74",
+   "new": "In quarta elementare circa il 15% dei bambini dice di subire bullismo circa ogni settimana.",
+   "why": "Same"
+  },
+  {
+   "unit": "59",
+   "new": "<b>Concorda un piano e una data di verifica.</b> Chiedi cosa farà la scuola e chi sorveglierà negli intervalli. Secondo Hoppo, fai il punto dopo circa 2 settimane.",
+   "why": "Unit uses tu everywhere"
+  }
+ ]
+}

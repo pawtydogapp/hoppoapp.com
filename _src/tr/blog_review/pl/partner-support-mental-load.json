@@ -1,0 +1,49 @@
+{
+ "edits": [
+  {
+   "unit": "36",
+   "new": "Dotyczy to także partnerów. NHS podaje, że ojcowie i partnerzy mogą mieć depresję po narodzinach dziecka. Przegląd z 2010 roku w Journal of the American Medical Association (JAMA) objął 43 badania i stwierdził depresję u około 10% przyszłych i nowych ojców, związaną z depresją matki. Gdy 1 rodzic sobie nie radzi, drugi często też.",
+   "why": "\"Połączył badania\" is a literal rendering of pooled"
+  },
+  {
+   "unit": "60",
+   "new": "<b>Przypiszcie każde zadanie 1 osobie.</b> Wpiszcie obok zadania jej imię.",
+   "why": "\"Właściciel zadania\" is stiff business jargon"
+  },
+  {
+   "unit": "64",
+   "new": "Noce, zmiany i zagwarantowany odpoczynek",
+   "why": "Chroniony odpoczynek is a literal calque, same term as units 68 and 86"
+  },
+  {
+   "unit": "68",
+   "new": "<b>Zagwarantowany odpoczynek:</b> każdy rodzic dostaje co tydzień co najmniej 1 blok czasu, który jest naprawdę wolny, poza domem lub za zamkniętymi drzwiami.",
+   "why": "Calque of protected rest and bare \"blok tygodniowo\""
+  },
+  {
+   "unit": "69",
+   "new": "NHS radzi też odpoczywać, gdy dziecko śpi, bo odpoczynek może mieć większe znaczenie niż prace domowe. Nasz <a href=\"/guides/baby-sleep.html\">poradnik o śnie niemowlęcia</a> wyjaśnia, jak wyglądają noce w poszczególnych wiekach.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "76",
+   "new": "<b>Daj sobie i drugiej osobie czas na naukę.</b> Pierwszy miesiąc z nowym zadaniem idzie wolniej.",
+   "why": "\"Krzywa uczenia się\" is a jargon calque"
+  },
+  {
+   "unit": "80",
+   "new": "Jeśli wychowujesz dziecko w pojedynkę, twoja sieć wsparcia nadal może przejąć całe zadania. Poproś 1 znajomego o robienie cotygodniowych zakupów albo kogoś z rodziny o zabieranie dziecka na drzemkę raz w tygodniu. NHS proponuje poprosić znajomych lub rodzinę, by zostali na kilka dni, jeśli jesteś w domu bez żadnego wsparcia.",
+   "why": "Redundant regularne and cotygodniowych"
+  },
+  {
+   "unit": "86",
+   "new": "Przejmujcie całe zadania, miejcie 15-minutową cotygodniową rozmowę, dzielcie 1 kalendarz i dajcie każdemu rodzicowi zagwarantowany odpoczynek.",
+   "why": "Same term as unit 68"
+  },
+  {
+   "unit": "92",
+   "new": "Nasz <a href=\"/guides/low-mood.html\">poradnik o obniżonym nastroju</a> wyjaśnia objawy i to, od czego zacząć.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  }
+ ]
+}

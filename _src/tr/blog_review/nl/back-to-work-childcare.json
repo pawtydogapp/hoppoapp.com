@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "47",
+   "new": "Kinderopvang is meestal de grootste kostenpost van de eerste jaren. Ons artikel over <a href=\"/blog/baby-cost-first-year.html\">wat een baby echt kost in het eerste jaar</a> helpt je daarvoor te budgetteren.",
+   "why": "full title as link text reads badly mid-sentence"
+  },
+  {
+   "unit": "65",
+   "new": "De Wereldgezondheidsorganisatie (WHO) beveelt borstvoeding aan tot 2 jaar of langer, naast vaste voeding vanaf 6 maanden. Weer aan het werk gaan hoeft daar geen einde aan te maken. Sommige ouders kolven op het werk, sommige geven alleen 's ochtends en 's avonds borstvoeding, en sommige combineren met flesvoeding. Dat telt allemaal mee.",
+   "why": "vaste voeding is the term used in other posts"
+  },
+  {
+   "unit": "66",
+   "new": "Het verdrag inzake moederschapsbescherming (Maternity Protection Convention) van de Internationale Arbeidsorganisatie (ILO) geeft moeders die borstvoeding geven recht op dagelijkse betaalde pauzes of kortere uren, met details die elk land zelf bepaalt. Een ILO-rapport uit 2010 telde minstens 92 landen met borstvoedingspauzes in de wet. Kijk je eigen rechten na bij je werkgever, vakbond of de website van de overheid.",
+   "why": "untranslated English name with wrong article, give the Dutch name"
+  }
+ ]
+}

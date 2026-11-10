@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "9",
+   "new": "2011 hieß es in einer viel beachteten Umfrage, das erste Jahr koste 5.200 £. Auf Mumsnet wies ein Elternteil darauf hin, dass sie von einer Firma stammte, die Babyausstattung verkauft. Ein Elternteil, der etwa 900 £ ausgegeben hatte, fragte, wer wohl genug ausgegeben haben könnte, um den Durchschnitt über 5.000 £ zu heben. Die Summen auf den ersten Seiten dieses Threads reichten von etwa 900 £ bis über 5.000 £. Bei einem Elternteil machten die Krippengebühren mehr als die Hälfte von insgesamt 4.000 £ aus.",
+   "why": "Elternteil ist maskulin"
+  },
+  {
+   "unit": "70",
+   "new": "<b>Kauf die richtigen Dinge gebraucht.</b> Laut Which? (31. Oktober 2025) sind Kinderwagen, die meisten Kinderbetten und Kleidung gebraucht im Allgemeinen in Ordnung, wenn du Sicherheitsetiketten und Rückrufe prüfst. Bei einer Kinderbettmatratze ist das anders. Which? verweist auf eine Untersuchung des Lullaby Trust. Sie fand ein höheres Risiko für den plötzlichen Kindstod (SIDS) bei einer gebrauchten Matratze von außerhalb der eigenen Familie. In unserem <a href=\"/guides/safe-sleep.html\">Ratgeber zum sicheren Schlafen</a> steht, worauf du achten solltest.",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  }
+ ]
+}

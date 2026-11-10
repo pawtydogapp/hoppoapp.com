@@ -1,0 +1,32 @@
+<section class="ph">
+<div class="t">
+<p class="chipx blob1">{{g_eyebrow}}</p>
+<h1 style="margin-top:0;white-space:nowrap"><span class="ul">{{guide_count}} {{g_h1}}<svg aria-hidden="true" viewBox="0 0 520 24" preserveAspectRatio="none"><path d="M4 16 C 70 4, 150 22, 516 8" stroke="#B9A6E8" stroke-width="8" fill="none" stroke-linecap="round"/></svg></span></h1>
+<p class="lead">{{g_intro}}</p>
+</div>
+<div class="vis sm"><img src="/img/art-book.webp" alt="" width="500" height="425"></div>
+</section>
+<div class="chiprow"><div class="chips" role="group" id="gchips">
+<button type="button" class="chip on" data-f="all" aria-pressed="true">{{g_all}}</button>
+<button type="button" class="chip" data-f="pregnancy" aria-pressed="false">{{stage_pregnancy}}</button>
+<button type="button" class="chip" data-f="baby" aria-pressed="false">{{stage_baby}}</button>
+<button type="button" class="chip" data-f="any" aria-pressed="false">{{stage_any}}</button>
+<button type="button" class="chip" data-f="toddler" aria-pressed="false">{{stage_toddler}}</button>
+<button type="button" class="chip" data-f="school" aria-pressed="false">{{stage_school}}</button>
+<button type="button" class="chip" data-f="parent" aria-pressed="false">{{stage_parent}}</button>
+</div><p class="countline" aria-live="polite"><span id="gcount">{{guide_count}}</span> {{g_count}}</p></div>
+<div class="glist" id="glist">
+<section data-stage="pregnancy"><h2 class="stagehead">{{stage_pregnancy}}</h2><div class="gcols">
+{{guide_cards_pregnancy}}</div></section>
+<section data-stage="baby"><h2 class="stagehead">{{stage_baby}}</h2><div class="gcols">
+{{guide_cards_baby}}</div></section>
+<section data-stage="any"><h2 class="stagehead">{{stage_any}}</h2><div class="gcols">
+{{guide_cards_any}}</div></section>
+<section data-stage="toddler"><h2 class="stagehead">{{stage_toddler}}</h2><div class="gcols">
+{{guide_cards_toddler}}</div></section>
+<section data-stage="school"><h2 class="stagehead">{{stage_school}}</h2><div class="gcols">
+{{guide_cards_school}}</div></section>
+<section data-stage="parent"><h2 class="stagehead">{{stage_parent}}</h2><div class="gcols">
+{{guide_cards_parent}}</div></section>
+</div>
+<section class="stopbox"><div class="blob3"><h2>{{g_stop_h}}</h2><p>{{g_stop_p}}</p></div></section>

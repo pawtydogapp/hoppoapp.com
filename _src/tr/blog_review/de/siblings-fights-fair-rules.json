@@ -1,0 +1,49 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "Im Dezember 2024 sagte die US-Familienforscherin Laurie Kramer, dass Geschwister im Alter von 4 bis 8 Jahren bis zu 8-mal pro Stunde streiten können. Der Artikel sagt nicht, wie das gemessen wurde. Sieh es also als Schätzung einer Expertin.",
+   "why": "Komma statt Satzende nach Hauptsatz, und 4 bis 8 bis zu 8 liest sich unklar"
+  },
+  {
+   "unit": "7",
+   "new": "Wenn ein neues Baby unterwegs ist, lies unseren Beitrag zur <a href=\"/blog/toddler-and-newborn.html\">Vorbereitung eines Kleinkinds auf ein neues Baby</a>.",
+   "why": "Linktext mit substantiviertem Infinitiv wirkt steif"
+  },
+  {
+   "unit": "14",
+   "new": "Der Streit geht um etwas, zum Beispiel um ein Spielzeug, um die Reihenfolge oder um einen Platz.",
+   "why": "Aufzählung mit Nomen und Nebensatz gemischt"
+  },
+  {
+   "unit": "21",
+   "new": "Die Langzeitstudien zeigen Zusammenhänge, keinen Beweis. Eine britische Studie von Lucy Bowes und anderen, 2014 in Pediatrics, begleitete mehr als 6.900 Kinder. Kinder, die mit 12 oft von einem Geschwisterkind gemobbt wurden, hatten mit 18 etwa doppelt so hohe Odds für Depression und Selbstverletzung. Eine britische Studie von 2021 mit mehr als 17.000 jungen Menschen brachte häufigeres Mobbing unter Geschwistern mit 11 und 14 mit schlechterer psychischer Gesundheit mit 17 in Verbindung, sowohl bei den Mobbenden als auch bei den Gemobbten.",
+   "why": "Odds-Ratio-Wert wird mit Risiko wiedergegeben, das ist lockerer als die Statistik. Odds ist gleichbedeutend, aber für Eltern weniger geläufig (Entscheidung)"
+  },
+  {
+   "unit": "31",
+   "new": "<b>Bitte sie um eine Lösung, dann hilf, eine Wiedergutmachung zu vereinbaren.</b> „Was könnte für euch beide funktionieren?“ Wenn sie sich nicht einigen können, biete 2 Möglichkeiten an, zum Beispiel einen 10-Minuten-Timer oder eine Weile getrenntes Spielen.",
+   "why": "Aufzählung mit Nomen und Infinitiv gemischt"
+  },
+  {
+   "unit": "50",
+   "new": "Der NatWest Rooster Money Pocket Money Index 2026 nennt britische Durchschnittswerte von mehr als einer halben Million Kartennutzenden, März 2025 bis Februar 2026. Sieh ihn als Signal und nicht als Studie. Wer die App nutzt, ist vielleicht nicht typisch.",
+   "why": "einheitlich mit Signal in den anderen Beiträgen (treat as a signal)"
+  },
+  {
+   "unit": "69",
+   "new": "Fast jedes Kind lügt manchmal. Die AAP sagt, dass Kinder vor dem Alter von etwa 6 Jahren Tatsachen und Fantasie oft nicht klar trennen können. Nach etwa 6 ist eine Lüge meist absichtlich, am häufigsten, um Ärger zu vermeiden oder um Mama oder Papa nicht zu enttäuschen.",
+   "why": "Komma vor um-Infinitiv"
+  },
+  {
+   "unit": "84",
+   "new": "Wann du deine Ärztin oder deinen Arzt um Hilfe bitten solltest",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  },
+  {
+   "unit": "119",
+   "new": "Dieser Artikel enthält allgemeine Informationen und ist kein medizinischer Rat. Wenn du dir Sorgen um dein Kind machst, wende dich an deine Ärztin, deinen Arzt oder die Schulgesundheitspflege.",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  }
+ ]
+}

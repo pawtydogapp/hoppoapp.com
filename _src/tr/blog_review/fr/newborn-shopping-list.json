@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "16",
+   "new": "Un peu de taille nouveau-né, pas un placard plein. Les bébés sortent vite de la plus petite taille, donc achètes-en davantage quand tu sais quelle taille lui va",
+   "why": "'quelle taille va' is incomplete"
+  },
+  {
+   "unit": "43",
+   "new": "<b>Une poubelle spéciale pour couches.</b> Un parent sur Mumsnet l'a qualifiée de perte d'argent totale. Une poubelle à couvercle et des sacs pour couches font l'affaire.",
+   "why": "Unnatural phrase"
+  },
+  {
+   "unit": "49",
+   "new": "<b>Le bruit blanc.</b> Un parent sur Mumsnet a dit d'une appli que c'était l'argent le mieux dépensé de sa vie.",
+   "why": "'du meilleur argent' is ungrammatical and unnatural"
+  },
+  {
+   "unit": "51",
+   "new": "<b>Une petite spatule pour la crème de change.</b> La surprise de l'enquête ParentData.",
+   "why": "Double 'pour'"
+  },
+  {
+   "unit": "67",
+   "new": "L'AAP dit de ne rien mettre de lesté sur un bébé qui dort ni près de lui",
+   "why": "Missing verb, ungrammatical"
+  },
+  {
+   "unit": "103",
+   "new": "Quand la famille demande quoi acheter, oriente-la vers des couches de la taille au-dessus, ou vers un repas. Pour une vision plus complète des dépenses, vois notre article sur <a href=\"/blog/baby-cost-first-year.html\">ce que coûte un bébé la première année</a>.",
+   "why": "Link text was the full article title, reads badly mid-sentence"
+  }
+ ]
+}

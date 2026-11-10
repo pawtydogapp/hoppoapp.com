@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "34",
+   "new": "Econoom Emily Oster vatte het onderzoek samen op haar site ParentData. Een onderzoek uit 2016 naar gegevens van babyapps vond dat de nachtslaap in het 1e jaar langer werd, zonder dip op 4 maanden. Een overzichtsstudie uit 2018 vond dat ouders tussen 3 en 6 maanden meldden dat hun baby vaker wakker werd, maar dat draagbare trackers dat niet registreerden. De nachtslaap varieerde ook ongeveer 2 uur van dag tot dag. Oster noemt regressies een \"slecht gekozen term voor normale variatie in slaap\".",
+   "why": "\"meer wakker worden meldden\" is clumsy English word order"
+  },
+  {
+   "unit": "43",
+   "new": "Voor een dagplan dat meebuigt met het dutje, zie ons artikel over <a href=\"/blog/toddler-daily-routine-chart.html\">de peuterroutine die buigt zonder te breken</a>.",
+   "why": "full title as link text reads badly mid-sentence"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "10",
+   "new": "Dobra vijest je kako se izbirljivost mijenja s dobi. Nizozemska studija na 4.018 djece, objavljena 2015., pitala je majke o izbirljivosti u jelu u 3 različite dobi.",
+   "why": "'Vremenska crta' is a literal rendering of 'timeline'"
+  },
+  {
+   "unit": "43",
+   "new": "Zajednički obroci pomažu. Metaanaliza Mattee Dallacker i suradnika iz 2018. objedinila je 57 studija s 203.706 sudionika. Češći obiteljski obroci povezani su s boljom kvalitetom prehrane i nešto nižim indeksom tjelesne mase (ITM). Povezanosti su bile male, a studije ne mogu dokazati uzrok. AAP također savjetuje zajedničko jedenje bez ekrana.",
+   "why": "Spelling consistent with the other posts"
+  },
+  {
+   "unit": "55",
+   "new": "<b>Prženje i zaslađivači:</b> bez duboko prženih jela, a niskokalorični ili beskalorični zaslađivači ograničeni su u osnovnim školama.",
+   "why": "Spelling"
+  },
+  {
+   "unit": "89",
+   "new": "NHS predlaže zamjenu kolača, keksa i žitnih pločica voćnim kruhom ili cijelim voćem te da se suho voće jede uz obroke zbog zuba.",
+   "why": "Case error"
+  }
+ ]
+}

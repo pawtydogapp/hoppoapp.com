@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "Olvida los promedios que asustan. Costes reales y con fecha del primer año de un bebé en Europa y el Reino Unido, los 2 gastos que pillan por sorpresa a las familias y el dinero que puedes reclamar.",
+   "why": "medias is ambiguous (socks) and unnatural for averages"
+  },
+  {
+   "unit": "8",
+   "new": "Por qué los promedios altos les parecen erróneos a tantas familias",
+   "why": "medias for averages reads oddly, agreement"
+  }
+ ]
+}

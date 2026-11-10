@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "headline",
+   "new": "Cine își amintește de vaccinări? O cale echitabilă de a împărți munca invizibilă de după naștere, în 15 minute pe săptămână",
+   "why": "\"fair\" as in equitable is \"echitabil\", \"corect\" means correct"
+  },
+  {
+   "unit": "1",
+   "new": "Cine își amintește de vaccinări? O cale echitabilă de a împărți munca invizibilă de după naștere, în 15 minute pe săptămână",
+   "why": "Same as headline"
+  },
+  {
+   "unit": "32",
+   "new": "De ce contează echitatea pentru amândoi și pentru bebeluș",
+   "why": "\"corectitudine\" means correctness, fairness is \"echitate\""
+  },
+  {
+   "unit": "37",
+   "new": "Poate ai văzut și cuvântul matrescență, schimbarea de identitate prin care devii mamă. Căutările pentru el au crescut cu 5.000% la începutul lui 2026, în timpul unei campanii publicitare a aplicației pentru părinți Peanut, potrivit Chief Marketer. Vârful a venit odată cu o campanie de marketing, dar sentimentul este real pentru mulți părinți, iar o împărțire echitabilă lasă mai mult loc de adaptare.",
+   "why": "Same term fix"
+  },
+  {
+   "unit": "34",
+   "new": "Un al doilea studiu american, publicat în 2011, cu date dintr-un sondaj național pe 569 de soții, a analizat de ce mamele proaspete deveneau mai puțin fericite în căsnicie. Scăderea fericirii lor a fost legată de mai puțin timp singure cu partenerul și de un sentiment mai puternic că treburile casnice sunt nedrepte. Împărțirea în sine a contat mai puțin decât dacă părea echitabilă.",
+   "why": "Same term fix"
+  },
+  {
+   "unit": "85",
+   "new": "Depresia după naștere afectează mamele și partenerii. O împărțire mai echitabilă poate ajuta să vă protejeze pe amândoi.",
+   "why": "Same term fix"
+  }
+ ]
+}

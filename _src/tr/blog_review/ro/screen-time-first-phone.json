@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "Într-o discuție recentă de pe Mumsnet, un părinte a întrebat când să îi dea telefon fiicei sale din Year 6. Majoritatea prietenilor au primit unul la începutul clasei Year 5, când au început să meargă singuri spre casă. Răspunsurile au fost împărțite. Unii au sugerat un telefon simplu, pentru apeluri și mesaje. Alții au stabilit reguli ferme, cum ar fi fără grupuri mari de chat și fără telefon după ora 19:00.",
+   "why": "format orar unitar cu celelalte articole"
+  },
+  {
+   "unit": "31",
+   "new": "În loc de o limită, RCPCH sugerează 4 verificări: dacă timpul în fața ecranelor este sub control, dacă încurcă viața de familie, dacă afectează somnul și dacă gustările sunt sub control. Dacă toate cele 4 sunt în regulă pentru tine, spune că probabil faci tot ce poți.",
+   "why": "\"ronțăitul de gustări\" este pleonastic și nenatural"
+  },
+  {
+   "unit": "59",
+   "new": "<b>Un semnal nou din Marea Britanie despre amânarea împreună.</b> Campania Smartphone Free Childhood cere familiilor să semneze un Parent Pact (pact al părinților): niciun smartphone înainte de 14 ani și nicio rețea socială înainte de 16 ani. Raportează peste 100.000 de pacte. Un document de lucru din iulie 2026 pentru Institute for Fiscal Studies (IFS) a comparat școlile primare din Anglia în care cel puțin 20% dintre familii au semnat cu școlile în care au semnat sub 5%. Nevoile de sănătate mintală înregistrate de școli au scăzut cu aproximativ 8,2%. Scăderea solicitărilor de beneficii pentru dizabilitate psihiatrică la copii a fost cea mai mare la 5 până la 10 ani, aproximativ 8,7%. Documentul nu a fost evaluat de experți independenți, numără semnăturile, nu telefoanele, iar școlile erau mai înstărite decât media.",
+   "why": "\"claims\" înseamnă solicitări de beneficii, nu simple cereri"
+  },
+  {
+   "unit": "97",
+   "new": "Copilul este hărțuit online sau pare speriat după ce a folosit un dispozitiv. Vorbește cu școala în aceeași săptămână. Copiii din Marea Britanie pot suna gratuit la Childline, la 0800 1111, zi și noapte. Părinții pot suna la linia de ajutor a National Society for the Prevention of Cruelty to Children (NSPCC), la 0808 800 5000. În Slovenia, copiii pot suna la TOM, linia gratuită pentru copii, la 116 111, în fiecare zi între 12:00 și 20:00. Vezi <a href=\"/guides/friends-bullying.html\">ghidul nostru despre prieteni și bullying</a>.",
+   "why": "format unitar pentru programul liniei TOM în toate articolele"
+  }
+ ]
+}

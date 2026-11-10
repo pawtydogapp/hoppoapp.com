@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "47",
+   "new": "NHS 111 Wales zegt dat ouders enige jaloezie mogen verwachten. De National Childbirth Trust (NCT), een Britse ouderorganisatie, noemt het een natuurlijke reactie op de angst om vervangen te worden. Sommige peuters zijn boos op de baby, anderen hebben opeens een voorkeur voor 1 ouder, wat de HSE ook als normaal noemt.",
+   "why": "pronoun: anderen"
+  },
+  {
+   "unit": "48",
+   "new": "Het meest herhaalde advies is dagelijkse tijd 1 op 1. De HSE zegt dat zelfs 10 minuten alleen met je oudere kind al veel waard zijn.",
+   "why": "\"goed zijn\" is ungrammatical here"
+  },
+  {
+   "unit": "53",
+   "new": "De wekelijkse vaardigheid van 5 minuten van Hoppo past precies in die 10 minuten. Slaat je peuter de baby of heeft hij of zij grote driftbuien, dan kan onze <a href=\"/guides/tantrums.html\">gids over driftbuien</a> helpen.",
+   "why": "term consistency with app and other posts"
+  },
+  {
+   "unit": "80",
+   "new": "Bezoekers helpen het meest als ze klusjes doen. Zie ons artikel over <a href=\"/blog/newborn-visitors-grandparents.html\">bezoek bij een pasgeborene en grootouders</a>.",
+   "why": "full title as link text reads badly mid-sentence"
+  },
+  {
+   "unit": "121",
+   "new": "Hoppo geeft je elke week een vaardigheid van 5 minuten om te oefenen, plus voedings- en slaaplogboeken voor de pasgeboren dagen. Het is gratis, van zwangerschap tot 5 jaar.",
+   "why": "term consistency"
+  }
+ ]
+}

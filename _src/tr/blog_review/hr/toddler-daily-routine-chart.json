@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "25",
+   "new": "Vezano u sjedalici (kolica, stolica za hranjenje, nosiljka)",
+   "why": "hranilica nije uobičajen naziv"
+  },
+  {
+   "unit": "33",
+   "new": "180 minuta zvuči kao puno. Računa se sve: hodanje do dućana, penjanje po kauču, ples u kuhinji, guranje kolica za lutke. Ne mora se dogoditi u 1 komadu.",
+   "why": "igračkasta nije riječ"
+  },
+  {
+   "unit": "43",
+   "new": "Doručak u stolici za hranjenje",
+   "why": "hranilica nije uobičajen naziv"
+  },
+  {
+   "unit": "101",
+   "new": "Ne znaš gdje padaju prirodna vremena tvog djeteta? Tjedan dana bilježi spavanje u Hoppovu kalendaru. Pokazat će se uobičajeno vrijeme buđenja i trajanje drijemke, pa tablicu možeš izgraditi oko njih.",
+   "why": "Nedosljedno sklanjanje imena Hoppo"
+  },
+  {
+   "unit": "113",
+   "new": "Vrtić ili predškola ili jutro kod kuće s najmanje 1 sat trčanja, penjanja i skakanja",
+   "why": "Za dob 3 do 5 godina u Hrvatskoj je to vrtić, jaslice su do 3 godine"
+  }
+ ]
+}

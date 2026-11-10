@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "3",
+   "new": "115 răspunsuri într-o singură discuție: întrebarea pe care o tot pun părinții",
+   "why": "\"la 1 discuție\" este calc"
+  },
+  {
+   "unit": "32",
+   "new": "<b>Clasa a 4-a, la nivel internațional:</b> în Trends in International Mathematics and Science Study (TIMSS) 2023, copiii din clasa a 4-a, cu vârsta medie de cel puțin 9,5 ani, au raportat despre ultimul an. 15% au fost victime ale bullyingului aproximativ săptămânal, 31% aproximativ lunar și 53% niciodată sau aproape niciodată.",
+   "why": "prepoziție greșită"
+  },
+  {
+   "unit": "39",
+   "new": "Un studiu britanic a urmărit 7.771 de copii născuți într-o singură săptămână din 1958. Părinții au raportat bullying la 7 și la 11 ani. 28% au fost victime ocazional și 15% frecvent. La 50 de ani, cei care fuseseră des victime aveau o sănătate mintală și fizică mai slabă și legături sociale mai slabe, chiar și după luarea în calcul a IQ-ului din copilărie, a comportamentului și a mediului familial. Autoarea principală, profesoara Louise Arseneault, a spus că bullyingul nu ar trebui privit ca o parte inevitabilă a creșterii.",
+   "why": "formulare naturală"
+  },
+  {
+   "unit": "51",
+   "new": "Din punctul de vedere al Hoppo, „ignoră pur și simplu” de unul singur și „lovește-i înapoi” tind să nu ajute. AAP spune că a suna părinții celuilalt copil nu este primul pas.",
+   "why": "\"singur\" accentuat, devine ambiguu, sensul din engleză este \"ca unic sfat\""
+  },
+  {
+   "unit": "83",
+   "new": "Unde găsești ajutor: Childline pentru copii, la 0800 1111, gratuit, 24 de ore pe zi. Linia de ajutor NSPCC pentru adulți, la 0808 800 5000. În Slovenia, TOM telefon pentru copii și adolescenți, la 116 111, în fiecare zi între 12:00 și 20:00. În SUA, sună sau trimite un mesaj la 988 dacă cineva se gândește la sinucidere.",
+   "why": "format unitar pentru programul liniei TOM"
+  },
+  {
+   "unit": "115",
+   "new": "Hoppo îți dă o abilitate scurtă de exersat pe săptămână, pe care o faceți împreună. Timpul relaxat, unul lângă altul, face povestitul mai ușor.",
+   "why": "articol nehotărât, ca în aplicație"
+  }
+ ]
+}

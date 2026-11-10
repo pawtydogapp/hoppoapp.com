@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "28",
+   "new": "Najsurowsze tygodnie są krótkie. Gdy dziecko rośnie i zaczyna własne szczepienia, możesz krok po kroku łagodzić zasady. Jeśli dziecko jest już przeziębione, zobacz nasz <a href=\"/guides/colds.html\">poradnik o przeziębieniach</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "87",
+   "new": "Gdy ostrożności jest już za dużo",
+   "why": "Literal and stiff heading"
+  },
+  {
+   "unit": "88",
+   "new": "Niektórzy rodzice opisują, że myją i dezynfekują znacznie więcej, niż ktokolwiek prosił. Jeśli lęk przed zarazkami wypełnia twój dzień albo nie pozwala spać, porozmawiaj z pediatrą lub lekarzem rodzinnym. Lęk po porodzie jest częsty, a pomoc działa. Nasz <a href=\"/guides/low-mood.html\">poradnik o obniżonym nastroju</a> wyjaśnia, od czego zacząć.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "94",
+   "new": "Ustal zasady z partnerem lub partnerką, a potem przekaż je wcześnie i życzliwie.",
+   "why": "\"Powiedz je\" (say them) needs przekaż or powiedz o nich"
+  }
+ ]
+}

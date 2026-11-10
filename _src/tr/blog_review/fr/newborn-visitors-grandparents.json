@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "35",
+   "new": "Si une personne avec un bouton de fièvre a déjà embrassé ton bébé, essaie de ne pas paniquer. Appelle ton médecin généraliste, ta sage-femme ou une puéricultrice le jour même pour avoir un avis. Si ton bébé a de la fièvre ou une éruption qui ressemble à des cloques, ou s'il semble malade, demande un avis urgent tout de suite, avec les signes à la fin de ce guide. Le NHS dit que des nouveau-nés peuvent être orientés vers l'hôpital pour un avis ou un traitement.",
+   "why": "Broken syntax: the rash 'seems unwell'"
+  },
+  {
+   "unit": "87",
+   "new": "Quand la prudence devient excessive",
+   "why": "Literal calque of 'starts to feel like too much'"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "32",
+   "new": "American Academy of Pediatrics (AAP) navaja bolečine v trebuhu in glavobole med znaki tesnobe. O izogibanju šoli pravi, da se ti simptomi pojavljajo večinoma ob šolskih dneh, čez vikend pa običajno izostanejo. Svetuje, naj najprej otrokov zdravnik preveri, ali gre za telesno bolezen. Nato priznaj otrokove skrbi, a vztrajaj pri hitri vrnitvi v šolo. Dlje ko otrok ostaja doma, težje se vrne. Če izogibanje traja dlje kot 1 teden, boš morda potreboval ali potrebovala strokovno pomoč.",
+   "why": "\"Čim dlje\" needs \"tem\", natural form is \"Dlje ko ..., težje ...\""
+  },
+  {
+   "unit": "39",
+   "new": "<b>Delaj majhne korake proti strahu.</b> Kognitivno vedenjska terapija (KVT) vključuje postopno soočanje z zastrašujočimi situacijami, pravi AAP. Britanska dobrodelna organizacija Charlie Waller Trust predlaga, da težko stvar razdeliš na manjše korake. Na primer pri povabilu na zabavo: pogovorita se o njej, pojdita skupaj za 15 minut, nato pa naj otrok ostane dlje, ti pa počakaj v bližini. NHS svari pred prisiljevanjem otroka v stresno situacijo, ne da bi se prej pogovorila o tem, kaj mu vzbuja tesnobo. Zato se o vsakem koraku dogovorita skupaj.",
+   "why": "\"Za zabavo\" means \"for fun\", English meant \"for a party\""
+  },
+  {
+   "unit": "41",
+   "new": "<b>Pokaži zaupanje in otroku ne pomagaj, da se izogiba.</b> Starši pogosto spremenijo svoje ravnanje, da bi otroku prihranili stisko ali mu pomagali, da se izogne strahu. Na primer odgovarjajo namesto sramežljivega otroka ali spreminjajo družinske rutine. Raziskovalci temu pravijo prilagajanje. Metaanaliza iz leta 2021 je ugotovila zmerno povezavo med večjim prilagajanjem in hujšo tesnobo, kadar so starši poročali o obojem, a to je povezava, ne dokaz. Charlie Waller Trust predlaga, da rečeš »Verjamem, da zmoreš«.",
+   "why": "Garbled, English: do less of the avoiding for them"
+  },
+  {
+   "unit": "42",
+   "new": "<b>Odloži skrb.</b> NHS predlaga škatlo za skrbi, narejeno iz škatle za robčke, kamor otroci zapišejo ali narišejo skrbi, da jih pozneje pregledajo. Hoppo predlaga tudi kratek, določen čas, ko jo odpreta skupaj.",
+   "why": "Plural \"odprete\" breaks the dual used for parent and child elsewhere"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "unit": "22",
+   "new": "Ovo su cijene u UK-u, a tvoja se polica razlikuje. Isti zakonski standard vrijedi u cijelom EU-u i UK-u, pa viša cijena ne znači bolju prehranu.",
+   "why": "Padež: u EU-u i UK-u"
+  },
+  {
+   "unit": "30",
+   "new": "Zakonski obavezno u svakom adaptiranom mlijeku u EU-u i UK-u",
+   "why": "Padež: u EU-u i UK-u"
+  },
+  {
+   "unit": "90",
+   "new": "Svako adaptirano mlijeko za dojenčad u EU-u i UK-u mora zadovoljavati isti zakonski standard. NHS kaže da sva zadovoljavaju bebine potrebe, bez obzira na cijenu.",
+   "why": "Padež: u EU-u i UK-u"
+  },
+  {
+   "unit": "75",
+   "new": "Pravilo od 70 °C i druge osnove sigurnosti",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "78",
+   "new": "Pusti da se hladi najviše 30 minuta, kako bi ostala na 70 °C ili više. SZO kaže isto: ne hladnije od 70 °C.",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "85",
+   "new": "Još nekoliko pravila NHS-a: pripremaj po 1 obrok odjednom, nikada ne zagrijavaj adaptirano mlijeko u mikrovalnoj i ne dodavaj ništa u bočicu, poput šećera ili žitarica. Voda u bocama obično se ne preporučuje. Ako koristiš aparat za pripremu, provjeri da voda izlazi na 70 °C ili više.",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "94",
+   "new": "Pripremaj obroke vodom na 70 °C ili višom, točno slijedi pravilo mjerice i nikada ne razrjeđuj adaptirano mlijeko.",
+   "why": "Razmak ispred oznake jedinice"
+  },
+  {
+   "unit": "88",
+   "new": "Ako sumnjaš na refluks ili alergiju na mlijeko, razgovaraj s patronažnom sestrom ili liječnikom prije nego išta promijeniš. Dijagnosticirana alergija na kravlje mlijeko zahtijeva posebno adaptirano mlijeko koje propisuje liječnik, a zamjena marke je neće riješiti. Bilježenje hranjenja i pelena u Hoppovu kalendaru nekoliko dana daje im jasnu sliku za rad. Više o unosu pročitaj u vodiču <a href=\"/guides/enough-milk.html\">„Dobiva li beba dovoljno mlijeka?”</a>.",
+   "why": "Nedosljedno sklanjanje imena Hoppo (drugdje Hoppov, u Hoppu)"
+  }
+ ]
+}

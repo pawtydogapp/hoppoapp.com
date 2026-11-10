@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "headline",
+   "new": "Zacht of streng? 60 jaar onderzoek pleit voor beide tegelijk",
+   "why": "stiff, literal \"parents who are both\""
+  },
+  {
+   "unit": "1",
+   "new": "Zacht of streng? 60 jaar onderzoek pleit voor beide tegelijk",
+   "why": "same as headline"
+  },
+  {
+   "unit": "48",
+   "new": "<b>Maak contact, corrigeer dan.</b> Ga op ooghoogte zitten en benoem het gevoel vóór de grens: \"Je bent verdrietig dat het park klaar is. We gaan nu naar huis.\" UNICEF merkt op dat 10 minuten echte aandacht 1 op 1 per dag een groot verschil kan maken. De wekelijkse vaardigheid van 5 minuten van Hoppo is een makkelijke manier om die tijd in te bouwen.",
+   "why": "\"1 op 1\" used elsewhere, and term consistency"
+  },
+  {
+   "unit": "49",
+   "new": "<b>Houd de regels weinig en duidelijk.</b> 3 regels die een peuter kan onthouden, zijn beter dan 20 die hij of zij niet kan onthouden. Zeg wat te doen, niet alleen wat te stoppen: \"Voeten op de grond\" in plaats van \"Stop met klimmen\". UNICEF benadrukt duidelijke, bij de leeftijd passende grenzen, elke keer op dezelfde manier herhaald. Een vast dagritme helpt ook, zoals ons artikel over <a href=\"/blog/toddler-daily-routine-chart.html\">de peuterroutine die buigt zonder te breken</a> laat zien.",
+   "why": "full title as link text reads badly mid-sentence"
+  },
+  {
+   "unit": "87",
+   "new": "Hoppo geeft je elke week 1 korte vaardigheid om te oefenen, een eenvoudige manier om dagelijkse tijd 1 op 1 op te bouwen die het makkelijker maakt om de grenzen te houden.",
+   "why": "term consistency"
+  }
+ ]
+}

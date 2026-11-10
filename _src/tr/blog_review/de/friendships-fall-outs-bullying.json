@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "19",
+   "new": "1 Kind ist verletzt, das andere scheint es zu genießen oder es ist ihm egal",
+   "why": "Satzstellung nach oder"
+  },
+  {
+   "unit": "28",
+   "new": "Angst vor der Schule, Bauchweh, Schlafmangel oder verlorene Sachen",
+   "why": "verlorener Schlaf ist kein übliches Wort"
+  },
+  {
+   "unit": "45",
+   "new": "<b>Zum Einstieg:</b> Hoppo empfiehlt eine offene Alltagsfrage, zum Beispiel „Mit wem hast du heute in der Mittagspause gespielt?“, statt „Mobbt dich jemand?“",
+   "why": "at lunch ist die Mittagspause, beim Mittagessen spielt man nicht"
+  },
+  {
+   "unit": "55",
+   "new": "In England sagt das DfE, der Education and Inspections Act 2006 verpflichte staatlich finanzierte Schulen (maintained schools), Maßnahmen gegen alle Formen von Mobbing vorzusehen. In Slowenien forderte ein Rundschreiben des Ministeriums vom 4. März 2022 von den Schulen Nulltoleranz gegenüber Gewalt unter Gleichaltrigen und verlangte, in jedem Fall das nationale Protokoll des Nationalen Bildungsinstituts (ZRSŠ) zu befolgen. Die folgenden Schritte stammen vor allem von der NSPCC.",
+   "why": "Nulltoleranz wird zusammengeschrieben"
+  },
+  {
+   "unit": "78",
+   "new": "Wann du deine Ärztin oder deinen Arzt um Hilfe bitten solltest",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  }
+ ]
+}

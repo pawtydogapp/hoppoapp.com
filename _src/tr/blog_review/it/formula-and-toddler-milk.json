@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "87",
+   "new": "Passare da un latte artificiale di prima infanzia standard a un altro per risparmiare va bene, perché tutti soddisfano i bisogni del tuo bebè. Cambiare per risolvere il pianto o i rigurgiti è diverso. L'NHS dice che non ci sono prove che cambiare latte artificiale faccia bene o male. Leggi prima le nostre guide su \"<a href=\"/guides/crying.html\">Il mio bebè piange tanto</a>\" e \"<a href=\"/guides/spitting-up.html\">Il mio bebè rigurgita il latte</a>\".",
+   "why": "Titoli delle guide nel mezzo della frase senza virgolette, si leggono male"
+  },
+  {
+   "unit": "88",
+   "new": "Se sospetti un reflusso o un'allergia al latte, parla con il tuo infermiere di comunità o con il medico prima di cambiare qualsiasi cosa. Un'allergia al latte vaccino diagnosticata richiede un latte artificiale speciale prescritto da un medico, e cambiare marca non la risolve. Se segni poppate e pannolini nel calendario di Hoppo per qualche giorno, chi ti segue ha un quadro chiaro da cui partire. Per capire quanto latte beve il bebè, vedi \"<a href=\"/guides/enough-milk.html\">Il mio bebè prende abbastanza latte?</a>\"",
+   "why": "Titolo della guida senza virgolette a fine frase"
+  }
+ ]
+}

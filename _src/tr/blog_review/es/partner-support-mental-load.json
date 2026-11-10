@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "En 1 estudio de EE. UU., la carga de trabajo de las madres primerizas subió 2 horas al día y la de los padres 40 minutos. Cómo compartir el notar y el planificar, no solo las tareas, antes de que acabe en una discusión.",
+   "why": "el fijarse is a stiff nominal infinitive calque"
+  },
+  {
+   "unit": "8",
+   "new": "La carga mental es el trabajo de pensar que supone llevar una familia. Es todo el notar, planificar y recordar que viene antes de hacer.",
+   "why": "stiff calque, consistent with unit 82"
+  },
+  {
+   "unit": "82",
+   "new": "La carga mental es notar, planificar y recordar, además de hacer.",
+   "why": "consistency with unit 8 and anticipar in the 4 steps"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "Het laagste geloofwaardige cijfer in het VK komt van MoneyHelper, de gratis adviesdienst die door de Britse overheid wordt gesteund. Het \"heel basale\" eerste jaar kost daar ongeveer £1.645. Dat is bijna £600 in maand 1, daarna ongeveer £95 per maand (bijgewerkt op 20 juli 2026, op basis van productprijzen van idealo).",
+   "why": "\"op voet\" is stiff and literal, and unit 79 already uses \"heel basale\""
+  },
+  {
+   "unit": "9",
+   "new": "In 2011 meldde een veelbesproken enquête dat het eerste jaar £5.200 kostte. Op Mumsnet wees een ouder erop dat die enquête afkomstig was van een bedrijf dat babyspullen verkoopt. Een ouder die ongeveer £900 had uitgegeven, vroeg wie er genoeg kon hebben uitgegeven om het gemiddelde boven £5.000 te tillen. De totalen op de eerste pagina's van die topic liepen van ongeveer £900 tot ruim £5.000. Bij één ouder maakte het kinderdagverblijf meer dan de helft uit van een totaal van £4.000.",
+   "why": "agreement: singular subject, and \"1 ouder\" is meant"
+  },
+  {
+   "unit": "23",
+   "new": "Laag, maar niet gratis: een borstkolf, zoogcompressen of voedingsbeha's voor sommigen. Geen betrouwbaar Europees cijfer",
+   "why": "normal term is borstkolf"
+  },
+  {
+   "unit": "35",
+   "new": "Van £100 tot ruim £2.000. Gemiddelde nieuwe kinderwagen ongeveer £490",
+   "why": "same item is called kinderwagen in the row label and across posts"
+  },
+  {
+   "unit": "73",
+   "new": "<b>Wacht tot je baby er is.</b> Veel spijtaankopen hangen af van de grootte, het temperament en de voeding van je baby, en dat kan niemand vooraf weten. In onze <a href=\"/blog/newborn-shopping-list.html\">lijst met babyspullen voor een pasgeborene</a> lees je wat je nu kunt halen en wat kan wachten. In het groeilogboek van Hoppo zie je wanneer je baby bijna de volgende kledingmaat nodig heeft, zodat je die pas koopt als het nodig is.",
+   "why": "full title with colon reads badly mid-sentence"
+  },
+  {
+   "unit": "78",
+   "new": "De meeste Europese landen steunen nieuwe ouders met een mix van een eenmalige geboortepremie, een maandelijkse kinderbijslag en betaald ouderschapsverlof. Bedragen, regels en deadlines lopen sterk uiteen. Hier zijn 3 voorbeelden.",
+   "why": "shorter, more natural"
+  },
+  {
+   "unit": "88",
+   "new": "Vraag je geboortepremie, kinderbijslag en ouderschapsgeld aan, en noteer de deadlines.",
+   "why": "Elterngeld is called ouderschapsgeld in unit 56"
+  }
+ ]
+}

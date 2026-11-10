@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "45",
+   "new": "Produkowane według tych samych norm co mleko modyfikowane na bazie mleka krowiego",
+   "why": "Mleko na bazie mleka is clumsy"
+  },
+  {
+   "unit": "46",
+   "new": "NHS: nie jest mniej uczulające",
+   "why": "Unnatural calque of \"no less likely to cause allergy\""
+  },
+  {
+   "unit": "87",
+   "new": "Zamiana jednego standardowego mleka początkowego na inne, żeby zaoszczędzić, jest w porządku, bo wszystkie spełniają potrzeby dziecka. Zamiana w celu rozwiązania płaczu lub ulewania to co innego. NHS podaje, że nie ma dowodów, by zmiana mleka przynosiła korzyść lub szkodę. Przeczytaj najpierw nasze poradniki o <a href=\"/guides/crying.html\">płaczu</a> i <a href=\"/guides/spitting-up.html\">ulewaniu</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "88",
+   "new": "Jeśli podejrzewasz refluks lub alergię na mleko, porozmawiaj z pediatrą lub lekarzem, zanim cokolwiek zmienisz. Rozpoznana alergia na mleko krowie wymaga specjalnego mleka przepisanego przez lekarza, a zmiana marki jej nie rozwiąże. Zapisywanie karmień i pieluszek w kalendarzu Hoppo przez kilka dni daje im jasny obraz sytuacji. Więcej o ilości mleka znajdziesz w naszym poradniku o tym, <a href=\"/guides/enough-milk.html\">czy dziecko dostaje dość mleka</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  }
+ ]
+}

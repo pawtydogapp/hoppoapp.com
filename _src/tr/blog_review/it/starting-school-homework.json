@@ -1,0 +1,54 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "Le crisi dopo la scuola sono normali, la preparazione riguarda l'autonomia in bagno e non la lettura, e le prove a favore dei compiti alla primaria sono deboli: circa 10 minuti a sera per ogni classe USA è una guida comune.",
+   "why": "Grade is classe, anno scolastico means school year"
+  },
+  {
+   "unit": "20",
+   "new": "<b>Mito 3: la preparazione dipende dalle abilità scolastiche.</b> Un sondaggio di Kindred Squared su 1.000 membri del personale delle scuole primarie e 1.000 genitori, riportato il 1° settembre 2026, ha rilevato che il personale riteneva non pronto per la scuola il 37% dei bambini della Reception e non ancora senza pannolino il 26%. L'88% dei genitori ha detto che il proprio bambino era pronto. È un sondaggio di opinioni, quindi consideralo un segnale.",
+   "why": "Stiff and unclear for not toilet trained"
+  },
+  {
+   "unit": "23",
+   "new": "La revisione più nota è quella di Harris Cooper e colleghi della Duke University, pubblicata nel 2006. Ha riguardato ricerche statunitensi dal 1987 al 2003 e ha trovato prove generalmente coerenti che i compiti aiutano il rendimento nel complesso. Negli studi sulle semplici correlazioni, il legame era più forte nelle classi USA da 7 a 12 che dal kindergarten alla classe 6. Il Monitor dell'Associazione Psicologica Americana ha riassunto il risultato per la primaria nel marzo 2016 come \"solo prove deboli\" di beneficio.",
+   "why": "Grade is classe, not anno scolastico"
+  },
+  {
+   "unit": "24",
+   "new": "<b>La qualità batte la quantità.</b> Una revisione del 2017 di Fan e colleghi ha messo insieme 28 studi sui compiti di matematica e scienze, con più di 312.000 alunni, per lo più alla secondaria. Il legame complessivo era piccolo (r = 0,23). La qualità con cui gli alunni facevano i compiti era legata al rendimento più strettamente (r = 0,53) rispetto al tempo dedicato (r = 0,19). Per la primaria ha trovato un legame più forte di quello di Cooper, quindi le prove non sono definitive.",
+   "why": "Comparative needs rispetto a"
+  },
+  {
+   "unit": "27",
+   "new": "Cooper sostiene la regola dei 10 minuti: circa 10 minuti a sera per ogni classe. La National Parent Teacher Association (PTA) degli Stati Uniti la approva. È una guida, non il risultato di uno studio.",
+   "why": "Grade is classe"
+  },
+  {
+   "unit": "75",
+   "new": "Alla primaria, le prove che i compiti aiutino sono deboli e contrastanti. Circa 10 minuti a sera per ogni classe USA (nessuno al kindergarten) è una regola pratica comune, e la qualità batte la quantità.",
+   "why": "Grade is classe"
+  },
+  {
+   "unit": "19",
+   "new": "<b>Mito 2: far aspettare un anno aiuta sempre.</b> In Slovenia il rinvio dell'ingresso a scuola è passato dal 5,3% nel 2011/12 all'11,6% nel 2021/22. Nelle linee guida del 2024 l'Istituto nazionale per l'istruzione della Slovenia (Zavod Republike Slovenije za šolstvo) scrive che il rinvio non aiuta in automatico lo sviluppo. In Inghilterra l'Institute for Fiscal Studies (IFS) ha rilevato che i bambini nati ad agosto ottengono punteggi più bassi soprattutto perché fanno i test nazionali con circa 11 mesi in meno dei compagni nati a settembre. Un rinvio può comunque essere giusto per alcuni bambini, dopo la valutazione di un professionista.",
+   "why": "Double di is heavy"
+  },
+  {
+   "unit": "16",
+   "new": "Mal di testa o mal di pancia che compaiono nei giorni di scuola e spariscono nei fine settimana possono essere un segnale di rifiuto della scuola, dice il sito per genitori dell'Accademia Americana di Pediatria (AAP), HealthyChildren.org. Consiglia una visita di controllo e poi un rientro calmo e deciso, perché più un bambino resta a casa, più è difficile tornare. La nostra guida \"<a href=\"/guides/worries.html\">Il mio bambino si preoccupa molto</a>\" ha altre idee. Per i limiti a casa, vedi il nostro articolo su <a href=\"/blog/toddler-behaviour-gentle-or-firm.html\">come essere gentili o fermi</a>.",
+   "why": "Link text reads badly mid-sentence"
+  },
+  {
+   "unit": "52",
+   "new": "I compiti reali spesso sforano. Un sondaggio statunitense del 2015 su quasi 1.200 genitori, pubblicato su The American Journal of Family Therapy, ha rilevato che i bambini di kindergarten avevano circa 25 minuti di compiti a sera. I genitori riferivano più stress in casa. Chiedi all'insegnante di classe cosa si aspetta la scuola. La nostra guida \"<a href=\"/guides/homework.html\">Compiti senza battaglie</a>\" tratta gli aspetti pratici.",
+   "why": "Clarity: 25 minutes of what"
+  },
+  {
+   "unit": "60",
+   "new": "<b>Leggi anche tu al tuo bambino.</b> I libri sopra il suo livello tengono viva la storia mentre decifrare è ancora lento.",
+   "why": "Original means read to them, current reads as you too read aloud"
+  }
+ ]
+}

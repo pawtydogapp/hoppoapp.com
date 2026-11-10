@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "52",
+   "new": "«Suena a algo que da miedo. Es normal que te sientas así».",
+   "why": "Punto fuera de las comillas, como en el resto de la tabla"
+  },
+  {
+   "unit": "62",
+   "new": "La TCC enseña a los niños a notar los pensamientos ansiosos y a afrontar los miedos paso a paso. Una revisión Cochrane de 2020 combinó 87 estudios con 5.964 niños y jóvenes con trastornos de ansiedad. Tras el tratamiento, el 49,4 % de quienes recibieron TCC ya no tenía su diagnóstico principal de ansiedad, frente al 17,8 % de los que estaban en lista de espera. Hay que tratar con TCC a unos 3 niños para conseguir 1 recuperación adicional. La evidencia se calificó de calidad moderada. La TCC no superó claramente a la atención habitual.",
+   "why": "Calco poco claro del número necesario a tratar"
+  },
+  {
+   "unit": "65",
+   "new": "La guía del National Institute for Health and Care Excellence (NICE) sobre ansiedad social, del 22 de mayo de 2013, recomienda 8 a 12 sesiones de 45 minutos de TCC individual para niños, o TCC en grupo. Dice que se considere implicar a madres y padres, sobre todo con los niños pequeños.",
+   "why": "Ambiguo: puede leerse como edad de 8 a 12 años"
+  }
+ ]
+}

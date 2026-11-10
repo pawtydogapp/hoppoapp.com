@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "unit": "20",
+   "new": "<b>Mythos 3: Schulreife hängt von schulischen Fähigkeiten ab.</b> Am 1. September 2026 wurde über eine Umfrage von Kindred Squared berichtet, an der 1.000 Mitarbeitende an Grundschulen und 1.000 Eltern teilnahmen. Die Mitarbeitenden hielten 37 % der Reception-Kinder für nicht schulreif und 26 % für nicht sauber. 88 % der Eltern sagten, ihr Kind sei bereit. Es ist eine Meinungsumfrage, nimm sie also als Signal.",
+   "why": "einheitlich mit Signal in den anderen Beiträgen (treat as a signal)"
+  },
+  {
+   "unit": "23",
+   "new": "Die bekannteste Übersichtsarbeit stammt von Harris Cooper und Kolleginnen und Kollegen an der Duke University und erschien 2006. Sie wertete US-Forschung von 1987 bis 2003 aus und fand insgesamt einheitliche Belege dafür, dass Hausaufgaben die Leistung verbessern. In Studien mit einfachen Korrelationen war der Zusammenhang in den Klassen 7 bis 12 stärker als vom US-Kindergarten bis zur Klasse 6. Das Magazin Monitor on Psychology der American Psychological Association fasste das Ergebnis für die Grundschule im März 2016 so zusammen: „nur schwache Belege“ für einen Nutzen.",
+   "why": "Kindergarten ist im Deutschen die Vorschule, hier ist das US-Kindergartenjahr gemeint"
+  },
+  {
+   "unit": "52",
+   "new": "In der Praxis dauern Hausaufgaben oft länger. Eine US-Umfrage unter fast 1.200 Eltern, erschienen 2015 im American Journal of Family Therapy, ergab: Kinder im US-Kindergarten hatten etwa 25 Minuten pro Abend auf. Eltern berichteten von mehr Stress zu Hause. Frag die Klassenleitung, was die Schule erwartet. In unserem Ratgeber <a href=\"/guides/homework.html\">„Hausaufgaben ohne Kampf“</a> geht es um die praktische Seite.",
+   "why": "Kindergarten ist im Deutschen die Vorschule, hier US-Kindergarten"
+  },
+  {
+   "unit": "75",
+   "new": "In der Grundschule sind die Belege dafür, dass Hausaufgaben helfen, schwach und uneinheitlich. Etwa 10 Minuten pro Abend und US-Klassenstufe (keine im US-Kindergarten) sind ein gängiger Richtwert, und Qualität schlägt Menge.",
+   "why": "Kindergarten ist im Deutschen die Vorschule, hier US-Kindergarten"
+  },
+  {
+   "unit": "16",
+   "new": "Kopfschmerzen oder Bauchschmerzen, die an Schultagen kommen und am Wochenende verschwinden, können ein Zeichen für Schulvermeidung sein, sagt die Elternseite HealthyChildren.org der American Academy of Pediatrics (AAP). Sie rät zu einer Untersuchung und dann zu einer ruhigen, klaren Rückkehr in die Schule, denn je länger ein Kind zu Hause bleibt, desto schwerer wird der Weg zurück. In unserem Ratgeber <a href=\"/guides/worries.html\">„Mein Kind macht sich viele Sorgen“</a> findest du mehr Ideen. Zu Grenzen zu Hause lies unseren Beitrag <a href=\"/blog/toddler-behaviour-gentle-or-firm.html\">„Sanft oder konsequent?“</a>.",
+   "why": "Linktext ohne Einleitung liest sich mitten im Satz holprig, Titel in Anführungszeichen"
+  },
+  {
+   "unit": "70",
+   "new": "Bitte die Lehrkraft um ein kurzes Gespräch, wenn Hausaufgaben oft mit Tränen enden, dein Kind nach den ersten Ferien noch sehr müde oder aufgewühlt ist oder das Lesen deutlich schwerer fällt als den anderen Kindern in der Klasse. KidsHealth weist darauf hin, dass manche Kinder einen Sehtest oder eine Untersuchung auf eine Lernschwierigkeit brauchen. Ein einfacher Einstieg: „Ich wollte erzählen, was wir zu Hause sehen, und hören, was du in der Klasse siehst.“ Der NHS rät, die Lehrkraft oder die Fachkraft für sonderpädagogischen Förderbedarf (SENCO) zu treffen, wenn die Sorgen den Schulalltag betreffen. Wenn du selbst auf dem Zahnfleisch gehst, lies unseren Ratgeber <a href=\"/guides/parent-tired.html\">„Ich bin ständig erschöpft“</a>.",
+   "why": "half term ist nicht gleich Herbstferien (siehe Unit 72), und Klassenkameraden ist nur männlich, die Beiträge gendern sonst"
+  },
+  {
+   "unit": "72",
+   "new": "Müdigkeit, Tränen und Zusammenbrüche nach der Schule sind in den ersten Schulmonaten häufig. Eltern berichten oft, dass es bis zu den ersten Ferien oder nach Weihnachten besser wird.",
+   "why": "half term kommt im Herbst, Frühjahr und Sommer vor, Herbstferien ist zu spezifisch (Entscheidung, Alternative: bis zur ersten Ferienpause)"
+  },
+  {
+   "unit": "77",
+   "new": "Wann du deine Ärztin oder deinen Arzt um Hilfe bitten solltest",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "edits": [
+  {
+   "unit": "5",
+   "new": "Dobra wiadomość ma swoją liczbę. Australijski serwis dla rodziców Raising Children Network podaje, że prawie każde dziecko potrzebuje czasu na przystosowanie się, a pozytywna relacja rodzeństwa zwykle rozwija się, gdy niemowlę ma około 14 miesięcy. Ten trudny czas to tylko etap.",
+   "why": "Unnatural literal wording"
+  },
+  {
+   "unit": "27",
+   "new": "Rozpoczęcie chodzenia do żłobka",
+   "why": "\"Rozpoczęcie żłobka\" does not collocate"
+  },
+  {
+   "unit": "28",
+   "new": "Unikaj rozpoczynania tuż przed porodem",
+   "why": "Missing object"
+  },
+  {
+   "unit": "31",
+   "new": "Kontynuuj, nawet w krótszym wymiarze godzin",
+   "why": "Unnatural wording for shorter hours"
+  },
+  {
+   "unit": "33",
+   "new": "Jeśli maluch nie jest jeszcze gotowy na nocnik, czekanie jest w porządku. Zobacz nasz <a href=\"/guides/potty.html\">poradnik o nocniku</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "46",
+   "new": "Zazdrości warto się spodziewać, a nawet 10 minut sam na sam może pomóc",
+   "why": "\"Zazdrość jest oczekiwana\" is a calque"
+  },
+  {
+   "unit": "53",
+   "new": "Cotygodniowa umiejętność na 5 minut w Hoppo mieści się dokładnie w tych 10 minutach. Jeśli maluch bije niemowlę lub ma duże napady złości, może pomóc nasz <a href=\"/guides/tantrums.html\">poradnik o napadach złości</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "57",
+   "new": "<b>Trzymanie tylko na siedząco i z tobą.</b> Pregnancy, Birth and Baby sugeruje, by maluch trzymał niemowlę tylko z twoją pomocą, na przykład siedząc na twoich kolanach. AAP dodaje, że starsze dzieci powinny najpierw zapytać o zgodę i że trzeba je nauczyć, jak to robić. Albo posadź malucha na kanapie z poduszkami, połóż niemowlę w poprzek jego kolan i trzymaj rękę pod głową niemowlęcia.",
+   "why": "Broken sentence structure"
+  },
+  {
+   "unit": "60",
+   "new": "Nasze poradniki o <a href=\"/guides/home-safety.html\">bezpieczeństwie w domu</a> i <a href=\"/guides/choking.html\">zadławieniu</a> obejmują resztę domu.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "73",
+   "new": "<b>Dbaj o bezpieczne miejsce do spania niemowlęcia.</b> The Lullaby Trust, brytyjska organizacja zajmująca się bezpieczniejszym snem, podaje, że niemowlęta powinny spać na plecach we własnym łóżeczku lub koszu Mojżesza, bez zabawek, kocyków i poduszek, więc naucz malucha, by nie wkładał do niego zabawek. Jeśli śpicie z niemowlęciem w jednym łóżku, nie kładźcie do niego innych dzieci ani zwierząt. Zobacz nasz <a href=\"/guides/safe-sleep.html\">poradnik o bezpiecznym śnie</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "74",
+   "new": "Gdy kładzenie spać to bitwa, zajrzyj do naszego <a href=\"/guides/toddler-sleep.html\">poradnika o śnie malucha</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "80",
+   "new": "Goście pomagają najbardziej, gdy robią konkretne rzeczy. Zobacz nasz wpis o <a href=\"/blog/newborn-visitors-grandparents.html\">odwiedzinach u noworodka i dziadkach</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "95",
+   "new": "Maluch lub niemowlę dławi się i nie może oddychać, kaszleć ani płakać. Zadzwoń pod numer alarmowy (999 w Wielkiej Brytanii, 112 w całej Europie, 911 w USA) i postępuj według naszego <a href=\"/guides/choking.html\">poradnika o zadławieniu</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  }
+ ]
+}

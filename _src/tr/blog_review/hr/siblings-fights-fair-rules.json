@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "16",
+   "new": "Djeca se brzo pomire pa se i dalje igraju zajedno.",
+   "why": "Double 'i i'"
+  },
+  {
+   "unit": "30",
+   "new": "<b>Opiši problem neutralno.</b> „Ovdje je 1 kutija kockica i 2 graditelja.” Bez presude tko je počeo.",
+   "why": "'Ima 1 kutija' is ungrammatical"
+  },
+  {
+   "unit": "31",
+   "new": "<b>Zamoli ih za rješenje, zatim im pomozi da se dogovore kako će to popraviti.</b> „Što bi moglo funkcionirati za vas oboje?” Ako se ne mogu dogovoriti, ponudi 2 izbora, na primjer mjerač vremena od 10 minuta ili igru odvojeno neko vrijeme.",
+   "why": "Term 'mjerač vremena' used in the homework post"
+  },
+  {
+   "unit": "35",
+   "new": "Metaanaliza Alexandera Jensena i McKell Jorgensen-Wells iz 2025. u časopisu Psychological Bulletin objedinila je podatke o 19.469 ljudi. Utvrdila je da su i majke i očevi skloni favorizirati kćeri te djecu koja su odgovornija i organiziranija. Manje favorizirana braća i sestre u pravilu imaju lošije mentalno zdravlje, kažu autori. Rad je korelacijski.",
+   "why": "Spelling consistent with the other posts"
+  },
+  {
+   "unit": "91",
+   "new": "Djeca sama mogu potražiti pomoć. U UK-u je Childline besplatan na 0800 1111. U Irskoj je Childline na 1800 66 66 66. U Sloveniji je TOM telefon na 116 111, besplatno, od 12 do 20 sati. Ako je dijete ozlijeđeno ili u opasnosti, nazovi lokalni broj hitne službe.",
+   "why": "Consistent time format with other posts"
+  }
+ ]
+}

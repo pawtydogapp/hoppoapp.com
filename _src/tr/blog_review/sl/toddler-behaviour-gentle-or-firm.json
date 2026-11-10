@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "51",
+   "new": "<b>Uporabi »time-in« ali kratek umik za pomiritev.</b> Strokovnjaki se tu ne strinjajo. Pregled iz leta 2019 v American Psychologist je našel močne dokaze za kratek, miren »time-out«, uporabljen znotraj toplega odnosa. Kritike skrbi, da se majhnemu otroku pošiljanje stran zdi kot zavrnitev. »Time-in« pomeni, da ostaneš blizu, medtem ko se umirja. Hoppo predlaga, da pri otrocih, mlajših od 2 let, ostaneš blizu, pri starejših malčkih pa izbereš tisto različico, ki jo zmoreš mirno. Okvirno pravilo AAP je približno 1 minuta na leto starosti. Nato se znova poveži z objemom.",
+   "why": "\"Pravilo palca\" je kalk iz angleščine"
+  },
+  {
+   "unit": "53",
+   "new": "<b>Ohrani mirnost ali vzemi svoj premor.</b> AAP pravi, da si lahko vzameš svoj »time-out«, če čutiš, da izgubljaš nadzor, potem ko poskrbiš, da je otrok na varnem. UNICEF predlaga 10 počasnih, globokih vdihov, preden se odzoveš.",
+   "why": "\"počutiš, da\" je neustrezna zveza"
+  }
+ ]
+}

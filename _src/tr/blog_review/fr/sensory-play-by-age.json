@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "Pas besoin de cours ni de kits chers. Des idées simples de jeux sensoriels par âge de la naissance à 5 ans, les objectifs d'activité de l'OMS, 6 règles de sécurité et un document gratuit à imprimer d'une page.",
+   "why": "'de 1 page' is not natural French"
+  },
+  {
+   "unit": "51",
+   "new": "<b>Boîte aux lettres.</b> Glisser de grands couvercles de bocaux dans une fente d'un carton.",
+   "why": "'Poster' as a heading means to mail a letter, not to post through a slot"
+  },
+  {
+   "unit": "70",
+   "new": "<b>Utilise le test du rouleau de papier toilette pour les moins de 3 ans.</b> La Société canadienne de pédiatrie dit que si un objet tient dans un rouleau de papier toilette, c'est un risque d'étouffement. Les haricots secs, le riz, les pâtes, les boutons et les pièces échouent tous au test : ce sont des risques d'étouffement. Garde-les pour les plus de 3 ans, avec toi, loin des plus jeunes frères et sœurs. Vois notre guide <a href=\"/guides/choking.html\">« Que faire si mon enfant s'étouffe ? »</a>.",
+   "why": "Missing non-breaking space before colon"
+  },
+  {
+   "unit": "84",
+   "new": "Des problèmes de respiration ou une gorge ou une langue qui gonfle après avoir touché ou goûté un aliment. Le NHS dit que cela peut être une anaphylaxie, une urgence médicale.",
+   "why": "Agreement: gonflée agrees only with langue"
+  }
+ ]
+}

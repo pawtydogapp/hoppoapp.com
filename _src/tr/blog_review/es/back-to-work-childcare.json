@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "59",
+   "new": "<b>Entre los 7 y los 12 meses más o menos,</b> empieza la ansiedad ante los extraños. Haz la adaptación poco a poco si puedes.",
+   "why": "wrong preposition pair, natural range wording"
+  },
+  {
+   "unit": "77",
+   "new": "Hasta 8 días a 4 °C o menos (la página del NHS sobre la vuelta al trabajo dice 5 días). Hasta 3 días si tu nevera está a más temperatura.",
+   "why": "Dentro de means in 3 days, English is a limit (within)"
+  }
+ ]
+}

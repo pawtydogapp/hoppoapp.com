@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "59",
+   "new": "<b>Încearcă în această săptămână:</b> la cină, întreabă despre un lucru din ziua lui. Apoi sari împreună cu el într-un picior până la baie.",
+   "why": "Imperative of a sări is \"sari\", not \"sări\""
+  },
+  {
+   "unit": "73",
+   "new": "<b>Mișcarea (NHS Healthier Together).</b> Control slab al capului la 4 luni. Nu stă în șezut fără sprijin la 9 luni. Nu face câțiva pași singur la 18 luni. O parte a corpului se mișcă diferit sau pare mai slabă. Merge doar în vârful picioarelor. Mersul este încă foarte nesigur la 6 luni după ce a început. Mișcări repetitive de smucitură, zvâcnire sau răsucire. Corp foarte rigid ori foarte moale. Smucituri sau spasme bruște repetate la un bebeluș necesită consult medical în aceeași zi.",
+   "why": "Natural phrasing"
+  }
+ ]
+}

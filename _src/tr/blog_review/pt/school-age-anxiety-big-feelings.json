@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "Num inquérito nos EUA publicado a 19 de junho de 2023, o C.S. Mott Children's Hospital perguntou a 1 061 pais de crianças dos 3 aos 10 anos sobre dor de barriga. 17% disseram que o filho se queixa disso pelo menos uma vez por mês. 27% atribuíram-no a preocupação e ansiedade, a evitar a escola ou a procurar atenção. Os pais de crianças de 6 a 10 anos eram mais propensos a pensar assim (34%) do que os pais de crianças de 3 a 5 anos (20%). Lê este inquérito de pais como um sinal, não como um estudo.",
+   "why": "\"inquérito a pais\" reads as a survey given to parents with odd preposition, fix"
+  },
+  {
+   "unit": "50",
+   "new": "\"Vejo que estás preocupado. Como é que te sentes com isso?\"",
+   "why": "Literal calque of \"what does it feel like\""
+  },
+  {
+   "unit": "75",
+   "new": "A criança evita a escola há mais de 1 semana (AAP), ou tem dores de barriga ou de cabeça regulares nos dias de escola. Pede ao médico de família que verifique se há doença, e reúne-te com o professor ou o SENCO.",
+   "why": "Reflexive verb needed in European Portuguese"
+  }
+ ]
+}

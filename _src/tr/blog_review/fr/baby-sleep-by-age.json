@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "34",
+   "new": "L'économiste Emily Oster a résumé la recherche sur son site ParentData. Une étude de 2016 sur des données d'applis pour bébés a montré que le sommeil de nuit s'allongeait au cours de la première année, sans baisse à 4 mois. Une revue de 2018 a trouvé que les parents signalaient plus de réveils entre 3 et 6 mois, mais que les appareils de suivi portables ne les détectaient pas. Le sommeil de nuit variait aussi d'environ 2 heures d'un jour à l'autre. Oster appelle les régressions « un terme mal vendu pour parler de la variabilité normale du sommeil ».",
+   "why": "'traqueurs portés' is an unnatural calque of 'wearable trackers'"
+  },
+  {
+   "unit": "37",
+   "new": "Les fenêtres d'éveil sont des tableaux qui indiquent combien de temps un bébé « devrait » rester éveillé entre deux périodes de sommeil à chaque âge. Les recherches en ligne sur le sujet ont augmenté d'environ 3 700 % ces dernières années, selon l'outil de tendances Exploding Topics.",
+   "why": "'sommes' is rare and literary for tired parents"
+  },
+  {
+   "unit": "38",
+   "new": "Les preuves sont minces. Dans un article de 2024 du magazine de parentalité Romper, une consultante du sommeil a reconnu qu'aucune étude ne s'est penchée sur les fenêtres d'éveil. Le spécialiste du sommeil pédiatrique Dr Craig Canapari a dit que le terme n'est « pas vraiment utilisé en médecine du sommeil ». Il a ajouté qu'il y a peu de risques que le fait de les suivre soit nuisible.",
+   "why": "'que les suivre soit' is ungrammatical"
+  },
+  {
+   "unit": "43",
+   "new": "Pour un programme de journée qui s'adapte à la sieste, vois notre <a href=\"/blog/toddler-daily-routine-chart.html\">tableau de routine du tout-petit</a>.",
+   "why": "Link text was the full article title ('notre La routine ...'), reads badly mid-sentence"
+  },
+  {
+   "unit": "50",
+   "new": "Les critiques, dont un commentaire allemand sur l'essai de Price, soulignent que ne trouver aucune différence ne prouve pas qu'il n'y a aucun mal. Cette remarque est juste.",
+   "why": "'C'est juste' alone is ambiguous in French"
+  },
+  {
+   "unit": "59",
+   "new": "Les pays diffèrent sur le partage du lit. Dans une enquête de la Lullaby Trust auprès de plus de 3 400 parents britanniques, 9 sur 10 avaient dormi avec leur bébé, mais seulement 9 % d'entre eux l'avaient prévu avant la naissance. Le NHS et la Lullaby Trust donnent donc des conseils pour partager le lit plus sûrement. Ne dors jamais avec ton bébé si quelqu'un dans le lit a bu de l'alcool, fume, ou a pris des drogues récréatives ou un médicament qui rend somnolent. Ne le fais pas non plus si ton bébé est né avant 37 semaines ou pesait moins de 2,5 kg à la naissance. Aux États-Unis, l'AAP « ne peut approuver le partage du lit en aucune circonstance ».",
+   "why": "Double negation with 'en aucune circonstance'"
+  }
+ ]
+}

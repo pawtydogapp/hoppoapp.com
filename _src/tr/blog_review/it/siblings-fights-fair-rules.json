@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "A dicembre 2024, la ricercatrice statunitense sulla famiglia Laurie Kramer ha detto che i fratelli tra i 4 e gli 8 anni possono avere fino a 8 litigi all'ora. L'articolo non dice come sia stato misurato, quindi consideralo una stima di un esperto.",
+   "why": "Di famiglia reads wrong"
+  },
+  {
+   "unit": "91",
+   "new": "I bambini possono chiedere aiuto da soli. Nel Regno Unito, Childline è gratuita allo 0800 1111. In Irlanda, Childline risponde all'1800 66 66 66. In Slovenia, TOM telefon risponde al 116 111, gratuito, dalle 12:00 alle 20:00. Se un bambino è ferito o in pericolo, chiama il numero di emergenza locale.",
+   "why": "Number starting with 1 takes all'"
+  }
+ ]
+}

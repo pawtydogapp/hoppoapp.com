@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "3",
+   "new": "La réponse courte : un seul type de lait infantile pour la première année, puis du lait ordinaire",
+   "why": "Capital after colon"
+  },
+  {
+   "unit": "18",
+   "new": "Les sommes en jeu sont importantes :",
+   "why": "English says the numbers are large (big amounts), 'importants' loses that"
+  },
+  {
+   "unit": "23",
+   "new": "Sur les forums de parents, beaucoup échangent des noms de marques comme si la marque était la réponse. Cet instinct vient de l'amour. Tu peux lâcher prise.",
+   "why": "'laisser aller' is a calque of 'let go'"
+  },
+  {
+   "unit": "39",
+   "new": "Plus de caséine que de protéines de lactosérum",
+   "why": "Inconsistent number and awkward phrasing"
+  },
+  {
+   "unit": "69",
+   "new": "Pour 14 des 16 produits destinés aux enfants de 1 à 2 ans, il suffisait de 350 ml pour dépasser la limite recommandée de sucres libres.",
+   "why": "Literal 'just 350 ml went over', 'ml dépassaient' reads wrong"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "edits": [
+  {
+   "unit": "22",
+   "new": "Ne dulje od 1 sata odjednom u kolicima, stolici za hranjenje ili nosiljki",
+   "why": "hranilica nije uobičajen naziv za stolicu za hranjenje"
+  },
+  {
+   "unit": "74",
+   "new": "<b>Provjeri postoje li gumbaste baterije i magneti.</b> Svjetleće igračke, glazbene čestitke i daljinski upravljači skrivaju ih. OPSS kaže da progutana gumbasta baterija može progorjeti rupu u jednjaku, a Health Canada kaže da to može već za 2 sata. Progutani magneti mogu se spojiti unutar crijeva i prekinuti njegovu opskrbu krvlju. Pogledaj naš <a href=\"/guides/home-safety.html\">vodič „Kako učiniti dom sigurnim?”</a>.",
+   "why": "Uobičajeni naziv: gumbasta baterija"
+  },
+  {
+   "unit": "79",
+   "new": "Odmah isprazni vodu, nove namirnice prvo isprobaj za vrijeme obroka, a gumbaste baterije i magnete zaključaj.",
+   "why": "Uobičajeni naziv: gumbasta baterija"
+  },
+  {
+   "unit": "81",
+   "new": "Misliš da je tvoje dijete progutalo gumbastu bateriju ili magnete. OPSS kaže da treba odmah otići na hitni prijem (A&amp;E), čak i bez simptoma. Ne daj hranu ni piće i ne pokušavaj izazvati povraćanje.",
+   "why": "Uobičajeni naziv: gumbasta baterija"
+  },
+  {
+   "unit": "99",
+   "new": "<b>Sigurnost:</b> Do 3 godine nikakvi predmeti koji prolaze kroz rolu toaletnog papira. Nikakve kuglice od hidrogela. Odmah isprazni vodu. Nove namirnice prvo za vrijeme obroka. Gumbaste baterije i magneti izvan dosega.",
+   "why": "Uobičajeni naziv: gumbasta baterija"
+  }
+ ]
+}

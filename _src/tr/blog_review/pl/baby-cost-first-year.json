@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "62",
+   "new": "Przewijak, gdy wystarczyła przenośna mata, którą można nosić z pokoju do pokoju",
+   "why": "Repetition of przenośna/przenoszona"
+  },
+  {
+   "unit": "70",
+   "new": "<b>Kupuj używane tylko te rzeczy, które się do tego nadają.</b> Which? (31 października 2025) pisze, że wózki, większość łóżeczek i ubranka można zwykle kupować używane, jeśli sprawdzi się etykiety bezpieczeństwa i komunikaty o wycofaniu produktu. Materac do łóżeczka to co innego. Which? przywołuje badanie Lullaby Trust, które wykazało wyższe ryzyko nagłej śmierci łóżeczkowej (SIDS) przy używanym materacu spoza domu rodzinnego. Nasz <a href=\"/guides/safe-sleep.html\">poradnik o bezpiecznym śnie</a> wyjaśnia, na co zwracać uwagę.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "73",
+   "new": "<b>Poczekaj, aż dziecko się urodzi.</b> Wiele żałowanych zakupów zależy od wielkości dziecka, jego temperamentu i sposobu karmienia, których nikt nie może znać z góry. Nasza <a href=\"/blog/newborn-shopping-list.html\">lista zakupów dla noworodka</a> pokazuje, co kupić teraz, a co może poczekać. Dziennik wzrastania w Hoppo pokazuje, kiedy dziecko zbliża się do kolejnego rozmiaru ubranek, więc kupujesz go dopiero wtedy, gdy jest potrzebny.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "81",
+   "new": "<b>Finlandia (2026).</b> Instytucja ubezpieczeń społecznych Kela oferuje świadczenie na urodzenie dziecka (maternity grant): pudełko z ubrankami i produktami do pielęgnacji dziecka albo 210 EUR gotówki wolnej od podatku. Badanie lekarskie trzeba mieć przed końcem 4 miesiąca ciąży, a wniosek złożyć co najmniej 2 miesiące przed planowanym terminem porodu.",
+   "why": "Zasiłek macierzyński means maternity pay in Polish and is already used for SMP in unit 56; use the birth grant wording of units 78 and 82"
+  }
+ ]
+}

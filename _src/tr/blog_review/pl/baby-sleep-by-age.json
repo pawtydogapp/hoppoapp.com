@@ -1,0 +1,54 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "Światowa Organizacja Zdrowia (WHO), brytyjska służba zdrowia (NHS) i Amerykańska Akademia Medycyny Snu (AASM) publikują własne wytyczne. Amerykańska Akademia Pediatrii (AAP) popiera zalecenia AASM. Wszystkie sumy dotyczą 24 godzin i obejmują drzemki.",
+   "why": "Literal \"endorses figures\"; zalecenia is the natural collocation"
+  },
+  {
+   "unit": "25",
+   "new": "Zwróć uwagę, jak szeroki jest każdy przedział. Niemowlę w wieku 6 miesięcy, które śpi 12 godzin, i drugie, które śpi 16 godzin, mieszczą się w wytycznych WHO i amerykańskich. Wartości NHS leżą bliżej górnej granicy pozostałych 2 i powyżej WHO w przypadku noworodków. Więcej szczegółów znajdziesz w naszych poradnikach o <a href=\"/guides/baby-sleep.html\">śnie niemowlęcia</a> oraz <a href=\"/guides/toddler-sleep.html\">śnie malucha</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "43",
+   "new": "Plan dnia, który uwzględnia drzemkę, znajdziesz w naszej <a href=\"/blog/toddler-daily-routine-chart.html\">tabeli rytmu dnia malucha</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "46",
+   "new": "To prawdziwy efekt, ale niewielki. Brytyjska Agencja Standardów Żywności (Food Standards Agency) podała, że wyniki mają ograniczenia, i poprosiła rodziców o trzymanie się obecnych zaleceń. WHO i AAP zalecają samo mleko matki przez około pierwsze 6 miesięcy. NHS radzi zaczynać posiłki stałe w wieku około 6 miesięcy, gdy dziecko potrafi siedzieć ze stabilną głową, włożyć jedzenie do buzi i je połknąć. NHS wymienia częstsze niż zwykle wybudzanie się w nocy jako normalne zachowanie niemowlęcia, które samo w sobie nie oznacza gotowości. Zobacz nasz <a href=\"/guides/first-foods.html\">poradnik o pierwszych posiłkach stałych</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "51",
+   "new": "Co podpowiada Hoppo: jeśli sen w twojej rodzinie ci odpowiada, nie ma czego naprawiać. Jeśli nie, zarówno łagodne, jak i bardziej uporządkowane metody mają poparcie w badaniach i możesz wybrać to, co pasuje do dziecka i twojej rodziny. Ułożyć plan pomoże ci pediatra lub pielęgniarka.",
+   "why": "Register: wy and ty mixed in the same sentence"
+  },
+  {
+   "unit": "60",
+   "new": "Nasze zdanie: łóżeczko w twoim pokoju to najbezpieczniejsze miejsce. Jeśli myślisz, że możesz zasnąć z dzieckiem, z wyprzedzeniem bezpiecznie przygotuj swoje łóżko, bo kanapa lub fotel są znacznie bardziej ryzykowne. Pełna lista kontrolna jest w naszym <a href=\"/guides/safe-sleep.html\">poradniku o bezpiecznym śnie</a>.",
+   "why": "Register wy/ty mix, and link text was an article title"
+  },
+  {
+   "unit": "65",
+   "new": "Wczesne posiłki stałe dodały około 16 minut snu. Zalecenia nadal mówią o wieku około 6 miesięcy.",
+   "why": "Awkward \"o około 6 miesiącu\""
+  },
+  {
+   "unit": "71",
+   "new": "Nocnym wybudzeniom towarzyszy gorączka lub inne oznaki choroby. Nasz <a href=\"/guides/fever.html\">poradnik o gorączce</a> wyjaśnia, kiedy szukać pomocy.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "72",
+   "new": "Masz obniżony nastrój lub czujesz, że sobie nie radzisz. NHS radzi porozmawiać z lekarzem rodzinnym, położną lub pediatrą, nawet jeśli występują tylko niektóre objawy. Jeśli czujesz, że nie możesz zapewnić bezpieczeństwa sobie lub dziecku, zadzwoń od razu pod numer alarmowy lub jedź na najbliższy oddział ratunkowy. Zobacz nasz <a href=\"/guides/low-mood.html\">poradnik o obniżonym nastroju</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "73",
+   "new": "Sen od tygodni jest trudny dla twojej rodziny i nic nie pomaga.",
+   "why": "Register wy/ty"
+  }
+ ]
+}

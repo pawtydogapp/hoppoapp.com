@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "13",
+   "new": "Waarschijnlijk pesten",
+   "why": "\"Eerder pesten\" reads as \"earlier bullying\" in a table header; EN is \"More likely bullying\""
+  },
+  {
+   "unit": "42",
+   "new": "Scholen kunnen een verschil maken. Een Campbell-overzicht uit 2021 van 100 evaluaties vond dat anti-pestprogramma's op school pesten met ongeveer 18% tot 19% verminderden en gepest worden met ongeveer 15% tot 16%. De auteurs noemden de effecten bescheiden. In Finland verminderde een onderzoek naar het KiVa-programma op 78 scholen, met 8.237 leerlingen in het 4e tot 6e schooljaar, het pesten en het gepest worden binnen 9 maanden.",
+   "why": "Leftover English \"grade\"; the post uses \"4e schooljaar\" elsewhere"
+  }
+ ]
+}

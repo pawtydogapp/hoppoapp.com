@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "17",
+   "new": "Sem tempo de ecrã sedentário abaixo dos 2 anos. Dos 2 aos 4 anos, no máximo 1 hora por dia, e menos é melhor.",
+   "why": "\"Aos 2 a 4\" is not natural, use \"Dos 2 aos 4\""
+  },
+  {
+   "unit": "58",
+   "new": "<b>Um estudo mais pequeno que não encontrou ligação.</b> Uma equipa de Stanford acompanhou mais de 250 crianças latinas de baixos rendimentos na Califórnia. Tinham entre 7 e 11 anos no início e foram acompanhadas todos os anos até terem entre 11 e 15. O estudo saiu na Child Development em 2022. A idade do primeiro telemóvel não estava significativamente ligada às notas, ao sono nem a sintomas de depressão. A amostra era restrita.",
+   "why": "Smoother range wording"
+  },
+  {
+   "unit": "74",
+   "new": "Por isso, o telemóvel de uma criança mais nova serve sobretudo para o caminho de casa. Vê o nosso <a href=\"/guides/screens-school.html\">guia de ecrãs e escola</a>.",
+   "why": "\"criança pequena\" means toddler in the app, this is a 5 to 10 year old"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "9",
+   "new": "I geni hanno una parte importante. Nel 2007, Lucy Cooke e colleghi della University College London hanno studiato 5.390 coppie di gemelli da 8 a 11 anni. Hanno stimato che il 78% delle differenze nella neofobia alimentare dipendeva dai geni, e il 22% dall'ambiente.",
+   "why": "Wrong article"
+  },
+  {
+   "unit": "86",
+   "new": "<b>Succo e frullati:</b> al massimo 150 ml, un bicchiere piccolo, in totale al giorno.",
+   "why": "Bicchierino is a shot glass, 150 ml is a small glass"
+  },
+  {
+   "unit": "99",
+   "new": "L'elenco dei cibi che mangia il tuo bambino continua a ridursi, oppure il bambino rifiuta all'improvviso cibi che prima mangiava.",
+   "why": "Subject shifts and sounds like the list refuses"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "Jedna z największych brytyjskich stron dla rodziców wymienia 41 „niezbędnych” rzeczy plus 7 mile widzianych dodatków. To materiał reklamowy supermarketu, z linkami afiliacyjnymi, i nie ma w nim listy „nie kupuj”.",
+   "why": "\"7 miło mieć\" is ungrammatical"
+  },
+  {
+   "unit": "5",
+   "new": "W długim wątku na Mumsnecie z 2020 roku o tym, czego rodzice pierwszego dziecka nie potrzebują, odpowiedzi wciąż wracały do tego samego krótkiego zestawu podstaw: bezpieczne miejsce do spania, fotelik samochodowy, pieluszki, kilka śpioszków i mnóstwo pieluszek tetrowych.",
+   "why": "\"Krótki rdzeń\" is a literal rendering of core"
+  },
+  {
+   "unit": "18",
+   "new": "Głównie w rozmiarze 0 do 3 miesięcy. Duże noworodki mogą w ogóle pominąć rozmiar dla noworodka",
+   "why": "\"Dłuższe noworodki\" does not read as long babies"
+  },
+  {
+   "unit": "27",
+   "new": "<b>Jeśli brakuje pieniędzy lub miejsca, zacznij tutaj.</b> Miejsce do spania, fotelik samochodowy i to, co trafia do łóżeczka, mają większe znaczenie niż cokolwiek innego na tej stronie. Nasz <a href=\"/guides/hospital-bag.html\">poradnik o torbie do szpitala</a> opisuje, co zabrać na sam poród.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "40",
+   "new": "<b>Eleganckie stroje.</b> Stroje były na liście najgorszych ParentData. To także popularny prezent, więc i tak pewnie dostaniesz ich dużo.",
+   "why": "Same concept is \"eleganckie stroje\" in the costs post"
+  },
+  {
+   "unit": "42",
+   "new": "<b>Niedrapki i szlafroczki.</b> Ponad ćwierć kupujących powiedziało, że prawie ich nie używano.",
+   "why": "Normal Polish word for scratch mittens is niedrapki"
+  },
+  {
+   "unit": "75",
+   "new": "Etykieta bezpieczeństwa nie czyni produktu bezpiecznym do snu. Lullaby Trust zwraca uwagę, że produkt może spełniać normę i mimo to nie być zgodny z zaleceniami bezpiecznego snu. Jeśli dziecko zaśnie w nosidle, huśtawce lub foteliku samochodowym, AAP mówi, by jak najszybciej przenieść je na twardą, płaską powierzchnię do spania, na plecy. Pełny zestaw zasad opisuje nasz <a href=\"/guides/safe-sleep.html\">poradnik o bezpiecznym śnie</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "92",
+   "new": "Etykieta EN 1888, sprawne hamulce, płynne składanie bez pułapek na palce i brak wycofań z rynku. Nie przyjmuj używanego fotelika samochodowego razem z wózkiem w zestawie",
+   "why": "\"Zestaw podróżny\" is not the normal name for a travel system (the costs post says zestaw wózka z fotelikiem)"
+  },
+  {
+   "unit": "101",
+   "new": "Pełnej gotowości nie poczujesz nigdy, a jednak sobie poradzisz",
+   "why": "Clumsy gendered doublet in a heading"
+  },
+  {
+   "unit": "103",
+   "new": "Gdy rodzina pyta, co kupić, wskaż pieluszki w następnym rozmiarze albo obiad. Pełniejszy obraz wydatków znajdziesz we wpisie o <a href=\"/blog/baby-cost-first-year.html\">kosztach dziecka w pierwszym roku</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  }
+ ]
+}

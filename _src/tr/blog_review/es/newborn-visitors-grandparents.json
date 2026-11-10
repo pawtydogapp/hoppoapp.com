@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "En septiembre de 2026, un hilo de Mumsnet obtuvo 107 respuestas. Los suegros estaban molestos porque no les habían llevado a conocer a un bebé de una semana, y los padres no querían que pasara de regazo en regazo.",
+   "why": "ambiguous, reads as taking baby home from hospital"
+  },
+  {
+   "unit": "73",
+   "new": "<b>Pasarlo de mano en mano:</b> «Se agobia con mucha gente. Mejor que vengáis de 2 en 2, y todos tendrán un buen abrazo».",
+   "why": "literal calque of 2 visitors at a time"
+  },
+  {
+   "unit": "75",
+   "new": "<b>Que vengan a nuestra casa:</b> «Nos quedamos en casa mientras me recupero. ¿Podríais venir vosotros a la nuestra durante una hora el domingo?»",
+   "why": "label says go to your house but quote asks them to come to ours"
+  }
+ ]
+}

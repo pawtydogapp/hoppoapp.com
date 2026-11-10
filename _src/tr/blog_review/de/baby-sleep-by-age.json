@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "0",
+   "new": "<a href=\"/blog.html\">Alle Artikel</a> · 8 Min. Lesezeit · Abgeglichen mit WHO, NHS, AAP und dem Lullaby Trust",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "43",
+   "new": "Einen Tagesplan, der sich dem Nickerchen anpasst, findest du in unserem Artikel <a href=\"/blog/toddler-daily-routine-chart.html\">Der Kleinkind-Tagesablauf, der sich biegt, ohne zu brechen: 3 Beispieltage für das Alter von 1 bis 5 und eine kostenlose Druckvorlage</a>.",
+   "why": "sich um etwas biegen ist wörtlich aus dem Englischen"
+  },
+  {
+   "unit": "54",
+   "new": "Ein leeres Bettchen mit einer festen, flachen, wasserdichten Matratze. Keine Kissen, Bettdecken, Nestchen, losen Decken, Kuscheltiere oder Babynester und Kokons, die dein Baby festhalten.",
+   "why": "leeres Bettchen ist der Begriff in der App"
+  },
+  {
+   "unit": "57",
+   "new": "Schlaf niemals mit deinem Baby auf einem Sofa oder in einem Sessel ein. Der Lullaby Trust sagt, das kann das Risiko für den plötzlichen Kindstod (SIDS) auf bis zum 50-Fachen erhöhen.",
+   "why": "Lullaby Trust ist maskulin (der Trust), und Fall nach bis zu"
+  },
+  {
+   "unit": "59",
+   "new": "Die Länder unterscheiden sich beim gemeinsamen Schlafen im Bett. In einer Umfrage des Lullaby Trust unter über 3.400 Eltern in Großbritannien schliefen 9 von 10 mit ihrem Baby im selben Bett, aber nur 9 % von ihnen hatten das vor der Geburt geplant. Deshalb geben NHS und Lullaby Trust Hinweise für sichereres gemeinsames Schlafen. Dazu gehört, nie gemeinsam zu schlafen, wenn jemand im Bett Alkohol getrunken hat, raucht oder Drogen oder Medikamente genommen hat, die schläfrig machen. Das gilt auch, wenn dein Baby vor 37 Wochen geboren wurde oder bei der Geburt unter 2,5 kg wog. In den USA „kann die AAP das gemeinsame Schlafen im Bett unter keinen Umständen unterstützen“.",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  },
+  {
+   "unit": "67",
+   "new": "Rückenlage, leeres Bettchen, 6 Monate im selben Zimmer, nie gemeinsam auf einem Sofa einschlafen.",
+   "why": "leeres Bettchen ist der Begriff in der App"
+  }
+ ]
+}

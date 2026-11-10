@@ -1,0 +1,49 @@
+{
+ "edits": [
+  {
+   "unit": "2",
+   "new": "Dziecko z twojej grupy zabaw raczkuje w wieku 7 miesięcy, syn kuzyna zaczął chodzić w wieku 10 miesięcy, a twoje w wieku 11 miesięcy z zadowoleniem siedzi i się rozgląda. Jeśli leżysz po nocach i liczysz, jesteś w dobrym towarzystwie. Oto prawdziwe przedziały wiekowe Światowej Organizacji Zdrowia (WHO), to, co robi 3 na 4 dzieci w każdym wieku od narodzin do 5 lat, i sygnały, przy których zawsze warto zadzwonić do lekarza.",
+   "why": "Register: article addresses the reader as ty, not wy"
+  },
+  {
+   "unit": "8",
+   "new": "Słoweński Narodowy Instytut Zdrowia Publicznego (NIJZ) ujmuje to prosto w swoim poradniku dla nowych rodziców z 2026 roku. Specjaliści nigdy nie oceniają opóźnienia wyłącznie na podstawie ruchu czy kamieni milowych. Patrzą na całe dziecko. Jego rada dla rodziców brzmi: nie porównywać dziecka z innymi, a w razie obaw porozmawiać z pediatrą dziecka.",
+   "why": "Infinitive clause mixed with a finite verb in the 2nd person"
+  },
+  {
+   "unit": "31",
+   "new": "patrzą na twoją twarz i uspokajają się, gdy ktoś do nich mówi lub bierze je na ręce",
+   "why": "List follows większość dzieci with plural pronouns, so the verbs must be plural too"
+  },
+  {
+   "unit": "32",
+   "new": "uśmiechają się, gdy do nich mówisz lub się do nich uśmiechasz",
+   "why": "Number agreement with the list intro"
+  },
+  {
+   "unit": "33",
+   "new": "wydają dźwięki inne niż płacz",
+   "why": "Number agreement with the list intro"
+  },
+  {
+   "unit": "34",
+   "new": "unoszą głowę, leżąc na brzuszku",
+   "why": "Number agreement with the list intro"
+  },
+  {
+   "unit": "43",
+   "new": "Raczkowanie nie znajduje się na listach CDC w żadnym wieku. CDC usunęło je głównie z powodu braku danych, a 4,3% dzieci w badaniu WHO nigdy nie raczkowało na rękach i kolanach. Niektóre przesuwają się na pupie lub się toczą. NHS Healthier Together zauważa, że dzieci, które przesuwają się na pupie, zwykle zaczynają chodzić później niż te, które raczkują. Nasz <a href=\"/guides/crawling.html\">poradnik o raczkowaniu</a> opisuje różne style.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "54",
+   "new": "Na Mumsnecie 1 z rodziców opisał 2-latka z mnóstwem pojedynczych słów, który nie chciał ich łączyć. Jeszcze tego samego dnia dziecko nagle połączyło 2 słowa. Jeśli masz wątpliwości, i tak zapytaj. Nasz <a href=\"/guides/talking.html\">poradnik o mówieniu</a> ma pomysły do wypróbowania w domu.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "59",
+   "new": "<b>Wypróbuj w tym tygodniu:</b> przy kolacji zapytaj dziecko o 1 rzecz z jego dnia. Potem idźcie razem do kąpieli podskokami.",
+   "why": "Singular child, so ich is wrong here and the object of the question is missing"
+  }
+ ]
+}

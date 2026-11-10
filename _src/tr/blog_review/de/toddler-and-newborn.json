@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "12",
+   "new": "<b>Erklär, wer sich während der Geburt um dein Kind kümmern wird,</b> wie es der irische Health Service Executive (HSE) vorschlägt.",
+   "why": "Du-Imperativ wie im Rest des Textes"
+  },
+  {
+   "unit": "73",
+   "new": "<b>Halte den Schlafplatz des Babys sicher.</b> Der Lullaby Trust, eine britische Organisation für sichereren Schlaf, sagt, Babys sollten auf dem Rücken in ihrem eigenen Bettchen oder Stubenwagen schlafen, frei von Spielzeug, Decken und Kissen. Bring deinem Kleinkind also bei, kein Spielzeug hineinzulegen. Wenn ihr im selben Bett schlaft, nimm keine anderen Kinder oder Haustiere mit ins Bett. Lies unseren <a href=\"/guides/safe-sleep.html\">Ratgeber zum sicheren Schlafen</a>.",
+   "why": "Lullaby Trust ist maskulin (der Trust)"
+  }
+ ]
+}

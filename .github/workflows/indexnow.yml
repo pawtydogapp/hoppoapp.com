@@ -1,0 +1,33 @@
+name: IndexNow
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: [completed]
+  workflow_dispatch:
+jobs:
+  ping:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Submit changed URLs
+        run: |
+          python3 - <<'PY'
+          import subprocess, re, json, sys
+          cfg = json.load(open('_src/config.json', encoding='utf-8'))
+          dom = cfg['domain']
+          try:
+              files = subprocess.check_output(['git','diff','--name-only','HEAD~1','HEAD'], text=True).split()
+          except Exception:
+              files = []
+          urls = set()
+          for f in files:
+              if not f.endswith('.html') or f.startswith(('_src','.github')) or f in ('404.html','cart.html','product.html','order-complete.html') or re.search(r'(^|/)(cart|product|order-complete|404)\.html$', f): continue
+              u = f[:-len('index.html')] if f.endswith('/index.html') or f == 'index.html' else f
+              urls.add(f'{dom}/{u}')
+          if not urls:
+              print('No changed pages.'); sys.exit(0)
+          subprocess.check_call(['python3','_src/tools/indexnow.py'] + sorted(urls)[:9000])
+          PY

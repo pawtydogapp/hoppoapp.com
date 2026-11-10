@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "11",
+   "new": "<b>WHO-Zeitfenster.</b> Die WHO Motor Development Study begleitete 816 gesunde Kinder in Ghana, Indien, Norwegen, Oman und den USA. Für 6 Bewegungsmeilensteine veröffentlichte sie ein „Zeitfenster für das Erreichen“. Jedes Fenster reicht vom 1. bis zum 99. Perzentil. 98 von 100 gesunden Kindern erreichten die Fähigkeit also innerhalb dieses Fensters.",
+   "why": "steif, Bezugswort fehlt"
+  },
+  {
+   "unit": "66",
+   "new": "Die CDC-Altersangaben zeigen, was 3 von 4 Kindern können. 1 Punkt nicht zu schaffen ist ein Grund nachzufragen und kein Grund zur Panik.",
+   "why": "das alleinstehende 1 liest sich falsch"
+  }
+ ]
+}

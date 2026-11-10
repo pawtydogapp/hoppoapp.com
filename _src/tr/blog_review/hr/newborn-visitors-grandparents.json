@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "4",
+   "new": "U rujnu 2026. rasprava na Mumsnetu privukla je 107 odgovora. Tazbina je bila uvrijeđena što tjedan dana staru bebu nisu donijeli u posjet, a roditelji nisu željeli da se beba prenosi iz krila u krilo.",
+   "why": "Neprirodan oblik da je se prenosi"
+  },
+  {
+   "unit": "74",
+   "new": "<b>„Odgojili smo troje djece i dobro su prošla”:</b> „Odlično ste to napravili. Savjeti su se malo promijenili i puno bi nam značilo da ih slijedite.”",
+   "why": "Slaganje broja: troje djece"
+  },
+  {
+   "unit": "87",
+   "new": "Kad oprez postane previše",
+   "why": "Doslovan prijevod, naslov se loše čita"
+  },
+  {
+   "unit": "96",
+   "new": "Tvoja beba je mlađa od 3 mjeseca i ima temperaturu od 38 °C ili višu. To je hitno. NHS kaže da treba potražiti hitan savjet od NHS 111, a AAP kaže da treba odmah nazvati djetetova liječnika.",
+   "why": "Razmak ispred oznake jedinice"
+  }
+ ]
+}

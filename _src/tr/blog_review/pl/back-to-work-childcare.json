@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "unit": "13",
+   "new": "EPPSE, Anglia, od 1997 do 2014, 2 800 dzieci w wieku od 3 do 16 lat",
+   "why": "Missing od before a year range"
+  },
+  {
+   "unit": "42",
+   "new": "Opieka 1 na 1, twoje zwyczaje, bez rozstania przy drzwiach, a chore dziecko może zostać w domu.",
+   "why": "Register: neighbouring cell uses twoim domu"
+  },
+  {
+   "unit": "47",
+   "new": "Opieka nad dzieckiem to zwykle największy koszt pierwszych lat. Nasz wpis o <a href=\"/blog/baby-cost-first-year.html\">kosztach dziecka w pierwszym roku</a> pomaga zaplanować budżet.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "52",
+   "new": "<b>Bezpieczny sen.</b> Niemowlęta powinny spać na plecach na twardym, płaskim materacu, bez poduszek, ochraniaczy, kocyków i pluszaków, i nigdy w foteliku samochodowym, huśtawce ani leżaczku. Zapytaj, jak często sprawdza się śpiące niemowlęta. Te zasady wynikają z zaleceń Amerykańskiej Akademii Pediatrii (AAP), a NHS podaje te same podstawowe rady. Zobacz nasz <a href=\"/guides/safe-sleep.html\">poradnik o bezpiecznym śnie</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "62",
+   "new": "<b>Zabierz przytulankę lub inną ulubioną rzecz</b> z domu.",
+   "why": "\"Rzecz do pocieszania\" is a literal rendering of comfort item"
+  },
+  {
+   "unit": "63",
+   "new": "Na początku spodziewaj się zmęczonych i przylepnych wieczorów. Nasz <a href=\"/guides/daycare.html\">poradnik o pójściu do żłobka</a> ma więcej pomysłów.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "88",
+   "new": "Ustal zastępstwo na dni choroby, zanim wrócisz. Nasz <a href=\"/guides/colds.html\">poradnik o przeziębieniach</a> wyjaśnia, co pomaga w domu i kiedy szukać pomocy.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "103",
+   "new": "Twój nastrój jest obniżony przez większość dni albo zmartwienie o powrót wypełnia twoje myśli. Nasz <a href=\"/guides/low-mood.html\">poradnik o obniżonym nastroju</a> wyjaśnia, od czego zacząć.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  }
+ ]
+}

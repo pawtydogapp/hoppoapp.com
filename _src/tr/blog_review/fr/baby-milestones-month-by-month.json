@@ -1,0 +1,54 @@
+{
+ "edits": [
+  {
+   "unit": "38",
+   "new": "À 6 mois, les CDC ajoutent : se retourner du ventre vers le dos, rire, faire des bruits de lèvres et échanger des sons à tour de rôle avec toi. Certains bébés s'assoient déjà, puisque la fenêtre de l'OMS pour la position assise s'ouvre à 3,8 mois.",
+   "why": "Stiff, ungrammatical 'ajoutent' + infinitives; natural wording for blowing raspberries"
+  },
+  {
+   "unit": "42",
+   "new": "À 12 mois, les CDC citent le fait de se mettre debout en s'agrippant, de marcher en se tenant aux meubles, de faire au revoir de la main, d'appeler un parent « maman », « papa » ou un autre nom spécial, et de comprendre « non ».",
+   "why": "'indiquent' followed by bare infinitives is not grammatical French"
+  },
+  {
+   "unit": "46",
+   "new": "Marcher seul a la fenêtre de l'OMS la plus tardive, de 8,2 à 17,6 mois. Selon les CDC, les enfants font quelques pas seuls à 15 mois et marchent sans se tenir à 18 mois.",
+   "why": "'indiquent' followed by bare infinitives is not grammatical French"
+  },
+  {
+   "unit": "52",
+   "new": "À 30 mois, les CDC citent environ 50 mots, des phrases de 2 mots avec un verbe d'action comme « chien court », des mots comme « je », « moi » et « nous », et le saut à pieds joints.",
+   "why": "Infinitive in a noun list reads stiff"
+  },
+  {
+   "unit": "57",
+   "new": "À 4 ans, les CDC citent des phrases de 4 mots ou plus, le fait de parler d'au moins une chose de leur journée, le jeu de faire semblant et le fait d'attraper un gros ballon la plupart du temps.",
+   "why": "Mixed noun and infinitive list after 'indiquent'"
+  },
+  {
+   "unit": "58",
+   "new": "À 5 ans, la plupart des enfants sautent à cloche-pied, maintiennent une conversation de plus de 3 échanges, comptent jusqu'à 10 et attendent leur tour dans les jeux avec d'autres enfants.",
+   "why": "Redundant: à cloche-pied already means on one foot"
+  },
+  {
+   "unit": "62",
+   "new": "<b>« Le quatre pattes est indispensable. »</b> Certains thérapeutes pensent que le quatre pattes a des bienfaits. Mais très peu d'études se sont penchées sur ce que signifie le fait de passer cette étape, et les CDC l'ont retiré de leurs listes.",
+   "why": "'le sauter' is an unclear calque of 'skipping it'"
+  },
+  {
+   "unit": "66",
+   "new": "Les âges des CDC montrent ce que font 3 enfants sur 4. Un point non atteint est une raison de demander conseil, pas de paniquer.",
+   "why": "'En manquer un' is ambiguous and stiff"
+  },
+  {
+   "unit": "67",
+   "new": "Dans une étude de Zurich sur 222 enfants, marcher tôt n'était un signe ni d'intelligence ni de coordination.",
+   "why": "'a pas annoncé l'intelligence' is a literal calque of 'did not predict'"
+  },
+  {
+   "unit": "73",
+   "new": "<b>Mouvement (NHS Healthier Together).</b> Mauvais contrôle de la tête à 4 mois, pas assis sans soutien à 9 mois, pas de quelques pas seul à 18 mois, un côté du corps qui bouge différemment ou qui semble plus faible, marche uniquement sur la pointe des pieds, marche encore très instable 6 mois après le début, mouvements répétés de secousses, de contractions ou de torsions, ou corps très raide ou très mou. Des secousses ou des spasmes soudains et répétés chez un bébé demandent à voir un médecin le jour même.",
+   "why": "Missing verb: 'demandent un médecin'"
+  }
+ ]
+}

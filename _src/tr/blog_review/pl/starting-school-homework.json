@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "unit": "6",
+   "new": "Część obrazu to sen. Amerykańska Akademia Medycyny Snu (AASM) zaleca 10 do 13 godzin w ciągu 24 godzin dla dzieci w wieku od 3 do 5 lat, łącznie z drzemkami, oraz 9 do 12 godzin dla dzieci w wieku od 6 do 12 lat. Pedagog szkolny cytowany przez słoweński portal N1 w sierpniu 2025 zasugerował, by pierwszoklasiści kładli się spać najpóźniej o 20:00. Zajrzyj do naszego <a href=\"/guides/sleep-school.html\">poradnika o śnie w wieku szkolnym</a>.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "13",
+   "new": "<b>Odłóż pytanie „Jak było w szkole?”</b> Spróbuj przy kolacji albo przed snem: „Opowiedz mi o 1 fajnej i 1 trudnej rzeczy z dzisiaj”.",
+   "why": "Niezgrabne powtórzenie 'rzeczy'"
+  },
+  {
+   "unit": "15",
+   "new": "Niektóre dzieci przez tygodnie czepiają się drzwi klasy. Brytyjska służba zdrowia (NHS) podaje, że lęk separacyjny jest bardzo częsty od około 6 miesięcy do 3 lat oraz że nowa szkoła może u niektórych dzieci wywołać lęk. Zaleca słuchanie bez zbywania obaw i utrzymywanie stałych rytuałów. Niech pożegnania będą krótkie i takie same każdego dnia: przytulenie, jedno zdanie, wyjście.",
+   "why": "Porządkowa liczba w złej formie, wystarczy zwykłe 'od 6 miesięcy do 3 lat'"
+  },
+  {
+   "unit": "16",
+   "new": "Bóle głowy albo brzucha, które pojawiają się w dni szkolne i znikają w weekendy, mogą być oznaką unikania szkoły, podaje serwis dla rodziców Amerykańskiej Akademii Pediatrii (AAP), HealthyChildren.org. Radzi zgłosić się na badanie kontrolne, a potem spokojnie i stanowczo wrócić do szkoły, bo im dłużej dziecko zostaje w domu, tym trudniej jest wrócić. W naszym <a href=\"/guides/worries.html\">poradniku o zmartwieniach</a> znajdziesz więcej pomysłów. O granicach w domu przeczytasz w artykule <a href=\"/blog/toddler-behaviour-gentle-or-firm.html\">łagodnie czy stanowczo</a>.",
+   "why": "Naturalniejsza kolokacja"
+  },
+  {
+   "unit": "19",
+   "new": "<b>Mit 2: odroczenie szkoły o rok zawsze pomaga.</b> W Słowenii odsetek dzieci z odroczonym rozpoczęciem nauki wzrósł z 5,3% w roku szkolnym 2011/12 do 11,6% w 2021/22. Narodowy Instytut Edukacji Słowenii (Zavod Republike Slovenije za šolstvo) napisał w wytycznych z 2024 roku, że odroczenie nie pomaga automatycznie w rozwoju. W Anglii Institute for Fiscal Studies (IFS) ustalił, że dzieci urodzone w sierpniu mają niższe wyniki głównie dlatego, że piszą ogólnokrajowe testy, będąc młodsze o około 11 miesięcy od kolegów urodzonych we wrześniu. Odroczenie nadal może być słuszne dla niektórych dzieci, po ocenie specjalisty.",
+   "why": "Kalka z angielskiego, niejasne 'mając 11 miesięcy mniej'"
+  },
+  {
+   "unit": "23",
+   "new": "Najbardziej znany przegląd badań przygotował Harris Cooper ze współpracownikami z Duke University i opublikował go w 2006 roku. Objął amerykańskie badania z lat 1987 do 2003 i wykazał ogólnie spójne dowody, że praca domowa poprawia wyniki w nauce. W badaniach prostych korelacji związek był silniejszy w klasach 7 do 12 niż od zerówki do klasy 6. Monitor Amerykańskiego Towarzystwa Psychologicznego (APA) podsumował wynik dla szkoły podstawowej w marcu 2016 jako „tylko słabe dowody” korzyści.",
+   "why": "Brakujące 'roku'"
+  },
+  {
+   "unit": "54",
+   "new": "National Literacy Trust przebadał na początku 2025 roku 114 970 dzieci i młodych osób w wieku od 5 do 18 lat. Tylko 44,5% dzieci w wieku od 5 do 8 lat czytało codziennie w wolnym czasie, o 9,1 punktu procentowego mniej niż w 2019. Wśród osób w wieku od 8 do 18 lat 32,7% lubiło czytać w wolnym czasie, czyli o 36% mniej niż w 2005.",
+   "why": "'w wieku od X do Y' zamiast 'w wieku X do Y', spójnie z resztą bloga"
+  },
+  {
+   "unit": "82",
+   "new": "Jeśli dziecko mówi, że chce zrobić sobie krzywdę, skontaktuj się z lekarzem rodzinnym tego samego dnia. W Wielkiej Brytanii możesz też zadzwonić pod numer NHS 111 i wybrać opcję zdrowia psychicznego. Jeśli dziecko zrobiło sobie krzywdę, życie jest zagrożone albo nie możesz zapewnić mu bezpieczeństwa, zadzwoń teraz pod 999 w Wielkiej Brytanii lub pod 112 w dowolnym miejscu Unii Europejskiej (UE). Childline (0800 1111) jest bezpłatny dla osób poniżej 19 lat w Wielkiej Brytanii.",
+   "why": "Szyk wyrazów"
+  }
+ ]
+}

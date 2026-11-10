@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "60",
+   "new": "Po našem pregledu dokazov se dokazi nagibajo k previdnosti, a niso dokončni. Menimo, da je koristno vprašanje, za kaj otrok telefon potrebuje. Napravo prilagodi potrebi.",
+   "why": "\"ti\" reads as \"you\", subject \"dokazi\" was missing"
+  },
+  {
+   "unit": "59",
+   "new": "<b>Nov britanski signal o skupnem odlogu prvega pametnega telefona.</b> Kampanja Smartphone Free Childhood družine poziva, naj podpišejo Parent Pact: brez pametnega telefona pred 14. letom in brez družbenih omrežij pred 16. letom. Poroča o več kot 100.000 podpisanih paktih. Delovni dokument za Institute for Fiscal Studies (IFS) iz julija 2026 je primerjal angleške osnovne šole, kjer je pakt podpisalo vsaj 20 % družin, s šolami, kjer ga je podpisalo manj kot 5 %. Potrebe na področju duševnega zdravja, ki jih evidentirajo šole, so se zmanjšale za približno 8,2 %. Zmanjšanje zahtevkov za otroško psihiatrično invalidnost je bilo največje pri starosti 5 do 10 let, približno 8,7 %. Dokument ni strokovno recenziran, šteje podpise in ne telefonov, šole pa so bile premožnejše od povprečja.",
+   "why": "\"odlaganje\" also reads as dumping, say what is delayed"
+  }
+ ]
+}

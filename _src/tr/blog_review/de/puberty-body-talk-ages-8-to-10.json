@@ -1,0 +1,39 @@
+{
+ "edits": [
+  {
+   "unit": "7",
+   "new": "Eine britische Umfrage von 2020 im Zusammenhang mit einer Kampagne von WaterAid befragte mehr als 1.000 Personen im Alter von 14 bis 21 Jahren. 64 % der jungen Frauen wussten vor ihrer ersten Periode sehr wenig oder nichts über die Periode. 23 % hatten Angst, als sie einsetzte. Sieh das als Signal und nicht als Studie.",
+   "why": "einheitlich mit Signal in den anderen Beiträgen (treat as a signal)"
+  },
+  {
+   "unit": "36",
+   "new": "Eine Übersichtsarbeit von 2017 im Psychological Bulletin mit 101 Studien brachte eine frühe Pubertät mit etwas mehr emotionalen und Verhaltensproblemen in der Jugend in Verbindung, bei Mädchen und Jungen. Die Effekte waren klein, und die Studien zeigen einen Zusammenhang, keine Ursache. Eine Sache können Eltern tun: Kinder, die früh beginnen, darauf vorbereiten.",
+   "why": "holpriger Satzbau, englische Wortstellung"
+  },
+  {
+   "unit": "50",
+   "new": "<b>Finde heraus, was die Schule unterrichtet.</b> In England können Eltern ihre Kinder weder vom Unterricht zu Beziehungen und zur Gesundheit noch vom Thema Pubertät im Naturwissenschaftsunterricht abmelden. Sie können eine Abmeldung nur vom Sexualkundeunterricht beantragen, und Grundschulen müssen zustimmen. Frag, wann die Stunden stattfinden, damit du vorher sprechen kannst.",
+   "why": "Präpositionen in der Aufzählung passen nicht zusammen"
+  },
+  {
+   "unit": "70",
+   "new": "„Warum hat meine Freundin schon Brüste und ich nicht?“",
+   "why": "EN my friend, das Kind spricht von seiner Freundin"
+  },
+  {
+   "unit": "88",
+   "new": "Bring deinem Kind die 5 PANTS-Regeln bei. Sein Körper gehört ihm, und beunruhigende Geheimnisse darf es immer erzählen.",
+   "why": "beibringen braucht ein Dativobjekt"
+  },
+  {
+   "unit": "89",
+   "new": "Wann du deine Ärztin oder deinen Arzt um Hilfe bitten solltest",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  },
+  {
+   "unit": "95",
+   "new": "Dein Kind wirkt sehr ängstlich, niedergeschlagen oder zurückgezogen wegen seines Körpers oder wird deswegen gehänselt.",
+   "why": "Bezug unklar"
+  }
+ ]
+}

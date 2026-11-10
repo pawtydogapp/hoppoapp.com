@@ -1,0 +1,49 @@
+{
+ "edits": [
+  {
+   "unit": "36",
+   "new": "WHO ocenia je jako zalecenia mocne, oparte na dowodach o bardzo niskiej pewności. Traktuj je jako wskazówkę dla typowego dnia, a deszczowy dzień w domu jest w porządku. O ekranach przeczytasz w naszym <a href=\"/guides/screens.html\">poradniku o czasie przed ekranem</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "39",
+   "new": "<b>Czas na brzuszku.</b> Na twojej piersi, gdy masz pewność, że nie zaśniesz, albo na kocu na podłodze, po kilka minut naraz, stopniowo do 30 minut dziennie.",
+   "why": "Clumsy \"gdy ty nie śpisz i w pełni czuwasz\""
+  },
+  {
+   "unit": "44",
+   "new": "<b>Zabawa jedzeniem przy posiłkach.</b> Rozgnieciony banan, ugotowany makaron i jogurt na tacce. Zobacz nasz <a href=\"/guides/first-foods.html\">poradnik o pierwszych posiłkach stałych</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "70",
+   "new": "<b>Stosuj test rolki po papierze toaletowym dla dzieci poniżej 3 lat.</b> Kanadyjskie Towarzystwo Pediatryczne podaje, że jeśli przedmiot mieści się w rolce po papierze toaletowym, stanowi zagrożenie zadławieniem. Sucha fasola, ryż, makaron, guziki i monety nie przechodzą testu. Zachowaj je dla dzieci powyżej 3 lat, pod twoim okiem, z dala od młodszego rodzeństwa. Zobacz nasz <a href=\"/guides/choking.html\">poradnik o zadławieniu</a>.",
+   "why": "Suche fasole is wrong for dried beans, and link text was an article title"
+  },
+  {
+   "unit": "71",
+   "new": "<b>Całkowicie zrezygnuj z kulek wodnych.</b> Brytyjski Urząd ds. Bezpieczeństwa i Norm Produktów (OPSS) podaje, że połknięte kulki mogą urosnąć ponad 400 razy, mogą wymagać operacji i nie są widoczne na zdjęciu rentgenowskim. Jego ostrzeżenie z 19 września 2024 mówi, by trzymać je z dala od dzieci poniżej 5 lat i poza domami z małymi dziećmi, nawet jeśli bawią się nimi starsze dzieci. Amerykańska Komisja Bezpieczeństwa Produktów Konsumenckich (CPSC) szacuje 6 300 wizyt na oddziale ratunkowym z powodu połkniętych kulek wodnych w latach 2017 do 2022 i informuje też o śmierci 10-miesięcznej dziewczynki w 2023 roku. Ugotowany makaron daje podobne wrażenie.",
+   "why": "\"Podaje o\" is not grammatical, use informuje o"
+  },
+  {
+   "unit": "72",
+   "new": "<b>Traktuj każdą wodę jako ryzyko utonięcia.</b> Child Accident Prevention Trust (CAPT) podaje, że większość utonięć niemowląt i małych dzieci w domu zdarza się w kilku centymetrach wody, bezgłośnie. Bądź na wyciągnięcie ręki i opróżniaj tacki, wiadra i brodziki zaraz potem.",
+   "why": "Natural wording for silently and within arm reach"
+  },
+  {
+   "unit": "74",
+   "new": "<b>Sprawdź baterie guzikowe i magnesy.</b> Ukrywają się w zabawkach ze światełkami, kartkach muzycznych i pilotach. OPSS podaje, że połknięta bateria guzikowa może wypalić dziurę w przełyku, a Health Canada mówi, że w zaledwie 2 godziny. Połknięte magnesy mogą przyciągnąć się wewnątrz jelit i odciąć dopływ krwi. Zobacz nasz <a href=\"/guides/home-safety.html\">poradnik o bezpieczeństwie w domu</a>.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "83",
+   "new": "Zadławienie, które nie ustępuje, albo objawy, które NHS uznaje za nagły przypadek, takie jak trudności z oddychaniem lub niebieska, szara lub blada skóra, wargi lub język. Zadzwoń pod 999 w Wielkiej Brytanii, 112 w całej Europie lub 911 w USA. Nasz <a href=\"/guides/choking.html\">poradnik o zadławieniu</a> pokazuje pierwszą pomoc.",
+   "why": "Link text was a full article title and read badly mid-sentence; use a short descriptive phrase"
+  },
+  {
+   "unit": "100",
+   "new": "Bezpłatnie na hoppoapp.com, spokojna aplikacja dla rodziców od ciąży do 5 lat.",
+   "why": "Case error: apposition \"spokojnej aplikacji\" does not fit after z hoppoapp.com"
+  }
+ ]
+}

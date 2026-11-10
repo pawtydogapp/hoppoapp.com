@@ -1,0 +1,14 @@
+{
+ "edits": [
+  {
+   "unit": "37",
+   "new": "<b>Depende de tu bebé: pide prestado o prueba primero.</b> Algunos artículos encabezan la lista de «mejores» de 1 familia y la de «peores» de otra. En una encuesta a unos 1.400 lectores de la economista Emily Oster (ParentData, 2024), el cojín de lactancia salió citado tantas veces entre los mejores como entre los peores. Las hamacas, los vigilabebés y los gimnasios de actividades aparecieron en ambas listas. Oster también sugiere probar juegos de arrullos, chupetes y biberones, porque los bebés son distintos, y señala que artículos como un moisés pueden usarse casi nada de tiempo. Pídelos prestados o cómpralos de segunda mano cuando ya conozcas a tu bebé.",
+   "why": "clumsy como como, unclear"
+  },
+  {
+   "unit": "58",
+   "new": "Tienen laterales blandos, elevados o acolchados, y mantienen al bebé en una sola posición",
+   "why": "no verb for first part, second verb has no subject"
+  }
+ ]
+}

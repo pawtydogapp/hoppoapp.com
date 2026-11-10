@@ -1,0 +1,44 @@
+{
+ "edits": [
+  {
+   "unit": "headline",
+   "new": "D'un enfant à deux : comment préparer ton tout-petit à l'arrivée d'un bébé, et les 10 minutes par jour qui peuvent aider",
+   "why": "'De 1 enfant à 2' reads as a literal digit calque"
+  },
+  {
+   "unit": "1",
+   "new": "D'un enfant à deux : comment préparer ton tout-petit à l'arrivée d'un bébé, et les 10 minutes par jour qui peuvent aider",
+   "why": "Same as headline"
+  },
+  {
+   "unit": "description",
+   "new": "Biberon qui revient, jalousie, tétées avec un tout-petit qui te grimpe dessus : ce qui est normal en passant d'un enfant à deux, comment s'y préparer, et les 10 minutes par jour qui adoucissent tout cela.",
+   "why": "Same as headline"
+  },
+  {
+   "unit": "18",
+   "new": "Passer du lit bébé au grand lit",
+   "why": "Incomplete: 'au lit' after 'lit bébé'"
+  },
+  {
+   "unit": "25",
+   "new": "Faire le changement bien à l'avance, pour que ton tout-petit ne se sente pas mis de côté",
+   "why": "'poussé dehors' is a calque of 'pushed out'"
+  },
+  {
+   "unit": "28",
+   "new": "À éviter autour de la naissance",
+   "why": "'Éviter près de' is stiff"
+  },
+  {
+   "unit": "69",
+   "new": "Le sommeil avec 2 enfants : protège d'abord le coucher du tout-petit",
+   "why": "'Dormir avec 2 enfants' reads as co-sleeping with both children"
+  },
+  {
+   "unit": "80",
+   "new": "Les visiteurs aident le plus quand ils font des tâches. Vois notre article sur <a href=\"/blog/newborn-visitors-grandparents.html\">les visites et les grands-parents pour un nouveau-né</a>.",
+   "why": "Link text was the full article title, reads badly mid-sentence"
+  }
+ ]
+}

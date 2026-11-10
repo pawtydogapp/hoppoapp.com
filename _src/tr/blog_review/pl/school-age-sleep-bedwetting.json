@@ -1,0 +1,19 @@
+{
+ "edits": [
+  {
+   "unit": "86",
+   "new": "<b>Cierpliwość przy budziku.</b> NICE podaje, by ocenić postępy po 4 tygodniach i kontynuować, aż minie co najmniej 2 tygodnie suchych nocy z rzędu. Bladder and Bowel UK podaje, że większość dzieci, u których budzik działa, jest sucha w ciągu od 12 do 16 tygodni.",
+   "why": "Niegramatyczne 'co najmniej do 2 tygodni'"
+  },
+  {
+   "unit": "90",
+   "new": "Krótka wersja",
+   "why": "Spójny nagłówek podsumowania w całym blogu ('Krótka wersja')"
+  },
+  {
+   "unit": "111",
+   "new": "<a href=\"https://www.rtvslo.si/zdravje/svetovni-dan-spanja-vpliv-telefonov-na-spanje-je-zelo-slab/701805\">RTV Slovenija: relacja ze Światowego Dnia Snu o śnie dzieci</a>, 16 marca 2024",
+   "why": "Poprawna forma przyimka"
+  }
+ ]
+}

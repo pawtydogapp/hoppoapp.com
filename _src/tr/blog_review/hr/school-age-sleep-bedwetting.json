@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "1",
+   "new": "9 do 12 sati noću, a 1 od 20 djece još mokri u krevet s 10 godina: spavanje od 5 do 10 godina, što kažu dokazi",
+   "why": "'prema dokazima' is literal"
+  },
+  {
+   "unit": "2",
+   "new": "Škola donosi rano ustajanje, zadaću, prve mobitele i, nekim obiteljima, mokre plahte gotovo svako jutro. Ovaj vodič pokazuje koliko sna djeci treba prema zdravstvenim tijelima. Objašnjava što mogu postići rutina za spavanje i isključivanje ekrana te kako se nositi sa strahovima u noći. Objašnjava i zašto je mokrenje u krevet često, zašto nije djetetova krivnja i zašto se može liječiti.",
+   "why": "'rane budilice' is a literal calque"
+  },
+  {
+   "unit": "3",
+   "new": "32 odgovora i 1 iscrpljen roditelj: što obitelji pitaju nakon 5. godine",
+   "why": "Wrong adjective form after numeral"
+  },
+  {
+   "unit": "30",
+   "new": "U praksi računaj unatrag od vremena buđenja. Dijete od 7 godina koje ustaje u 7:00, a cilj mu je 10,5 sati, sredina raspona AASM-a, trebalo bi zaspati oko 20:30.",
+   "why": "Calque 'cilja na' and clock format"
+  },
+  {
+   "unit": "46",
+   "new": "2 ograničenja, iskreno rečeno. Prosječna dob bila je 14,5 godina, pa je mlađa djeca bila mali dio podataka. Studije su promatrale obitelji, pa pokazuju povezanost, a ne dokaz da uređaji uzrokuju loše spavanje.",
+   "why": "'poštena' is a literal rendering of 'honest'"
+  },
+  {
+   "unit": "69",
+   "new": "ERIC opisuje 3 sustava koji moraju sazrijeti.",
+   "why": "Standard spelling"
+  }
+ ]
+}

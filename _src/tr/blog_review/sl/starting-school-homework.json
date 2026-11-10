@@ -1,0 +1,34 @@
+{
+ "edits": [
+  {
+   "unit": "11",
+   "new": "<b>Pusti odmor.</b> Henry Ford predlaga približno 30 do 60 minut prostega časa pred domačo nalogo ali opravili.",
+   "why": "Same concept is \"prostega časa\" in unit 65, \"neurejen čas\" reads stiff"
+  },
+  {
+   "unit": "16",
+   "new": "Glavoboli ali bolečine v trebuhu, ki se pojavijo ob šolskih dneh in čez vikend izginejo, so lahko znak izogibanja šoli. Tako pravi starševska stran HealthyChildren.org organizacije American Academy of Pediatrics (AAP). Svetuje pregled, nato miren, a odločen povratek v šolo. Dlje ko otrok ostaja doma, težje se vrne. Več idej je v vodniku <a href=\"/guides/worries.html\">Otroka veliko skrbi</a>. Za meje doma poglej <a href=\"/blog/toddler-behaviour-gentle-or-firm.html\">Nežno ali odločno?</a>.",
+   "why": "\"Čim dlje\" needs \"tem\", natural form is \"Dlje ko ..., težje ...\""
+  },
+  {
+   "unit": "21",
+   "new": "Hoppovo mnenje: najbolj koristna priprava je dolgočasna. Samostojna uporaba stranišča, umivanje rok, oblačenje jakne, odpiranje malice, prošnja »Potrebujem pomoč«. Naš vodnik <a href=\"/guides/starting-school.html\">Otrok začenja hoditi v šolo</a> ima seznam.",
+   "why": "\"izrek\" means a saying or proverb; list of nouns needs a request"
+  },
+  {
+   "unit": "23",
+   "new": "Najbolj znan pregled so leta 2006 objavili Harris Cooper in sodelavci z univerze Duke. Zajel je ameriške raziskave od leta 1987 do 2003. Našel je na splošno dosledne dokaze, da domača naloga izboljša dosežke. V raziskavah preprostih korelacij je bila povezava močnejša od 7. do 12. razreda kot od kindergartna do 6. razreda. Revija Monitor American Psychological Association je marca 2016 rezultat za osnovno šolo povzela kot »le šibke dokaze« koristi.",
+   "why": "Ordinal numbers for school grades"
+  },
+  {
+   "unit": "64",
+   "new": "Nasvet AAP ob začetku šolskega leta, posodobljen 26. avgusta 2026, predlaga redno uro za domačo nalogo, miren prostor brez zaslonov in odmore. KidsHealth, ameriška spletna stran o otroškem zdravju, pravi, naj otroci domačo nalogo opravijo sami in naj delajo lastne napake.",
+   "why": "Literal \"back to school\", natural Slovenian is začetek šolskega leta"
+  },
+  {
+   "unit": "111",
+   "new": "Hoppo ti vsak teden ponudi 1 kratko veščino za vadenje, preprost način, da v zasedene šolske večere vgradiš miren čas z otrokom.",
+   "why": "Case/form: accusative of masculine inanimate is \"miren čas\""
+  }
+ ]
+}

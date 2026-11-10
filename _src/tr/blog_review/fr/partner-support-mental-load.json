@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "Dans une étude américaine, la charge de travail des nouvelles mères a augmenté de 2 heures par jour et celle des pères de 40 minutes. Comment partager le fait de remarquer et de planifier, pas seulement les tâches, avant que cela tourne à la dispute.",
+   "why": "'Dans 1 étude' is not natural French (article, not digit)"
+  },
+  {
+   "unit": "23",
+   "new": "Les deux parents pensaient que leur charge de travail quotidienne avait augmenté de plus de 4 heures. Les relevés du temps passé ont montré qu'elle avait augmenté d'environ 2 heures par jour pour les femmes et d'environ 40 minutes pour les hommes.",
+   "why": "'journaux de temps' is a calque of 'time diaries'"
+  },
+  {
+   "unit": "33",
+   "new": "La qualité de la relation baisse souvent après un bébé. Une étude américaine, publiée en 2009, a suivi 218 couples pendant leurs 8 premières années de mariage. Les couples qui ont eu un bébé ont montré une chute soudaine de la qualité de leur relation après la naissance. Les couples sans enfant déclinaient plus lentement.",
+   "why": "'Les relations baissent' is a literal calque of 'relationships dip'"
+  },
+  {
+   "unit": "84",
+   "new": "Un sentiment d'injustice, plus que la répartition exacte, est lié au fait d'être moins heureux dans le couple.",
+   "why": "'malheur' is far too strong for 'unhappiness'"
+  }
+ ]
+}

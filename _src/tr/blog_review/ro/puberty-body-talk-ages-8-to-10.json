@@ -1,0 +1,24 @@
+{
+ "edits": [
+  {
+   "unit": "29",
+   "new": "După cifrele AAP, 2 fete din aceeași clasă pot începe pubertatea la o distanță de până la 5 ani una de alta și ambele pot fi normale.",
+   "why": "\"din 1 clasă\" sună ca un calc"
+  },
+  {
+   "unit": "36",
+   "new": "O analiză din 2017 a 101 studii din Psychological Bulletin a asociat pubertatea timpurie cu ceva mai multe probleme emoționale și de comportament în adolescență, la fete și la băieți. Efectele au fost mici, iar studiile arată o legătură, nu o cauză. Pregătirea celor care încep devreme este un lucru pe care îl pot face părinții.",
+   "why": "articol nehotărât"
+  },
+  {
+   "unit": "38",
+   "new": "NHS spune că semnele de pubertate înainte de 8 ani ar putea fi pubertate precoce și că lipsa semnelor până la 15 ani ar putea fi pubertate întârziată. Ghidul de trimitere al NHS Scotland pentru medici, revizuit în ianuarie 2024, spune să suspectezi pubertate precoce la o fată sub 8 ani sau la un băiat sub 9 ani. AAP folosește aceleași vârste. KidsHealth folosește înainte de 7 ani pentru fete. Dacă ai dubii, întreabă medicul de familie.",
+   "why": "evită forma de masculin, restul textului folosește formule neutre"
+  },
+  {
+   "unit": "125",
+   "new": "Hoppo îți dă în fiecare săptămână o abilitate scurtă, inclusiv moduri simple de a vorbi despre corp, intimitate și creștere.",
+   "why": "articol nehotărât, ca în aplicație"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "edits": [
+  {
+   "unit": "description",
+   "new": "WHO, AAP und RCPCH legen für Kinder ab 5 Jahren keine tägliche Bildschirmgrenze fest. Geräte zur Schlafenszeit gehen mit etwa doppelt so hohen Odds für zu wenig Schlaf einher, und 91 % der Kinder in Großbritannien besitzen mit 11 ein Handy.",
+   "why": "Odds-Ratio-Wert wird mit Risiko wiedergegeben, das ist lockerer als die Statistik. Odds ist gleichbedeutend, aber für Eltern weniger geläufig (Entscheidung)"
+  },
+  {
+   "unit": "35",
+   "new": "Die Art der Nutzung zählte mehr als die Gesamtzeit. Allgemeine Bildschirmnutzung ging mit schwächerer Lese- und Schreibkompetenz einher. Wenn Eltern gemeinsam mit ihren Kindern schauten, wurde der Zusammenhang positiv. Die Autorinnen und Autoren warnen, dass 95 der 102 Metaanalysen ein mittleres bis hohes Risiko für Verzerrungen hatten.",
+   "why": "literacy umfasst Lesen und Schreiben"
+  },
+  {
+   "unit": "36",
+   "new": "Beim Schlaf sind die Belege am einheitlichsten. Eine Metaanalyse von Ben Carter und Kolleginnen und Kollegen aus dem Jahr 2016 in JAMA Pediatrics fasste Daten von 125.198 Kindern im Alter von 6 bis 19 Jahren zusammen. Die Nutzung von Geräten zur Schlafenszeit ging mit etwa doppelt so hohen Odds für zu wenig Schlaf einher. Schon ein unbenutztes Gerät im Schlafzimmer ging mit schlechterem Schlaf einher. Die Autorinnen und Autoren stuften die Belege als qualitativ gering ein.",
+   "why": "Odds-Ratio-Wert wird mit Risiko wiedergegeben, das ist lockerer als die Statistik. Odds ist gleichbedeutend, aber für Eltern weniger geläufig (Entscheidung)"
+  },
+  {
+   "unit": "57",
+   "new": "<b>Eine US-Kohortenstudie mit 10.588 Kindern.</b> Eine Studie unter der Leitung von Ran Barzilay erschien am 1. Dezember 2025 in Pediatrics. Im Median bekamen die Kinder ihr erstes Smartphone mit 11. Mit 12 Jahren ein Smartphone zu besitzen ging mit höheren Odds für Depression (1,31-fach), Adipositas (1,40-fach) und zu wenig Schlaf (1,62-fach) einher. Das sind nur Zusammenhänge, bereinigt um sozioökonomische Faktoren, Pubertät und elterliche Kontrolle.",
+   "why": "Odds-Ratio-Wert wird mit Risiko wiedergegeben, das ist lockerer als die Statistik. Odds ist gleichbedeutend, aber für Eltern weniger geläufig (Entscheidung)"
+  },
+  {
+   "unit": "73",
+   "new": "In Slowenien verbietet eine im Juni 2025 beschlossene Änderung des Grundschulgesetzes die Geräte der Schülerinnen und Schüler im Unterricht und in den Pausen der Grundschule. Sie gilt ab dem Schuljahr, das am 1. September 2025 beginnt. Lehrkräfte können die Nutzung für schulische Aufgaben erlauben. Für gesundheitliche Bedürfnisse gibt es Ausnahmen.",
+   "why": "Schularbeiten bedeutet in Österreich Klassenarbeit und im Norden Hausaufgaben, school work ist hier Schulaufgaben"
+  },
+  {
+   "unit": "82",
+   "new": "<b>Such die Inhalte aus und schau oder spiel manchmal mit.</b> In der Übersichtsarbeit von Sanders ging gemeinsames Schauen mit besserer Lese- und Schreibkompetenz einher. Frag: „Zeig mir die beste Stelle in deinem Spiel.“",
+   "why": "literacy umfasst Lesen und Schreiben"
+  },
+  {
+   "unit": "93",
+   "new": "Wann du deine Ärztin oder deinen Arzt um Hilfe bitten solltest",
+   "why": "Health Visitor ist ein englisches Wort ohne deutsche Entsprechung (die App sagt Kinderärztin/Kinderarzt), Rest des Textes nennt nur Ärztin/Arzt"
+  }
+ ]
+}

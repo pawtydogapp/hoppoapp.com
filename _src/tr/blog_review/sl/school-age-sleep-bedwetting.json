@@ -1,0 +1,54 @@
+{
+ "edits": [
+  {
+   "unit": "34",
+   "new": "Drobni tisk: zajela je otroke, mlajše od 6 let, in uporabila poročila mater. Kaže povezavo, ne dokaz. Financiralo jo je podjetje Johnson and Johnson.",
+   "why": "Case: \"povezavo, ne dokaz\""
+  },
+  {
+   "unit": "47",
+   "new": "NIJZ svetuje, naj se pred spanjem izogibaš interaktivnim vsebinam, ker otroci izgubijo občutek za čas. Preprosto hišno pravilo je, da vse telefone in tablice, tudi telefone odraslih, čez noč polniš v kuhinji. Za omejitve čez dan glej naš <a href=\"/guides/screens-school.html\">vodnik »Zasloni, igre in prvi telefon«</a>.",
+   "why": "Typo"
+  },
+  {
+   "unit": "45",
+   "new": "Glavni dokaz je pregled 20 študij iz leta 2016, ki je zajel 125.198 otrok in najstnikov, starih od 6 do 19 let. Uporaba naprave ob uspavanju je bila povezana s približno 2-krat večjimi možnostmi za premalo spanja (razmerje obetov 2,17). Tudi samo prisotnost naprave v spalnici, brez uporabe, je bila povezana s premalim spanjem (razmerje obetov 1,79).",
+   "why": "Same statistic is \"možnosti\" in the screen-time post, plain wording for parents"
+  },
+  {
+   "unit": "86",
+   "new": "<b>Potrpežljivost z alarmom.</b> NICE pravi, naj napredek preveriš v 4 tednih in nadaljuješ, dokler otrok ni suh vsaj 2 tedna zapored. Bladder and Bowel UK pravi, da je večina otrok, ki se odzovejo, suha v 12 do 16 tednih.",
+   "why": "Natural time expression (unit 100 says \"po 4 tednih\")"
+  },
+  {
+   "unit": "card",
+   "new": "Koliko spanja potrebujejo otroci, zasloni in strahovi ponoči ter zakaj je močenje postelje med 5 in 10 let pogosto in ozdravljivo",
+   "why": "\"nočni strahovi\" is also used here for night terrors, keep the two concepts apart"
+  },
+  {
+   "unit": "2",
+   "new": "Šola prinese zgodnje bujenje, domače naloge, prve telefone in v nekaterih družinah mokre rjuhe skoraj vsako jutro. Ta vodnik pove, koliko spanja po navedbah zdravstvenih organizacij otroci potrebujejo. Pojasni, kaj lahko naredita večerna rutina in čas brez zaslonov in kako ravnati ob strahovih ponoči. Pove tudi, zakaj je močenje postelje pogosto, ni otrokova krivda in ga je mogoče zdraviti.",
+   "why": "Same word used for night fears and night terrors"
+  },
+  {
+   "unit": "48",
+   "new": "Strahovi ponoči in nočne more: pogosti in običajno le prehodna faza",
+   "why": "Same word used for night fears and night terrors (unit 52)"
+  },
+  {
+   "unit": "49",
+   "new": "Nizozemska študija iz leta 2001 je intervjuvala 176 otrok, starih od 4 do 12 let, skupaj z njihovimi starši. 73,3 % otrok je poročalo o strahovih ponoči. Strahovi so bili pogostejši pri 7 do 9 letih kot pri 4 do 6 letih. Starši so pogostost otrokovih strahov običajno podcenjevali. Skoraj 80 % otrok je svoj strah povezalo s strašljivimi stvarmi, ki so jih videli ali slišali.",
+   "why": "Same word used for night fears and night terrors"
+  },
+  {
+   "unit": "93",
+   "new": "V 1 študiji je okoli 3 od 4 otrok, starih od 4 do 12 let, poročalo o strahovih ponoči. Mirni, kratki obiski so dobro izhodišče.",
+   "why": "Same word used for night fears and night terrors"
+  },
+  {
+   "unit": "90",
+   "new": "Kratka različica",
+   "why": "Older and other new posts use \"Kratka različica\""
+  }
+ ]
+}
