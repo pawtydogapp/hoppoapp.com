@@ -165,6 +165,38 @@ def first_sentence(s):
     m = re.match(r'(.+?[.?])(\s|$)', s)
     return m.group(1) if m else s
 
+
+def seo_title(h, suffix, total=60):
+    """Search-result title: the first clause of a long headline, cut at a word boundary. The full headline stays as the page H1."""
+    lim = total - len(suffix)
+    h = h.strip()
+    if len(h) <= lim: return h
+    segs = [s.strip() for s in re.split(r'(?<=[:?!])\s+|(?<=[a-z0-9\u00e0-\u024f])\.\s+(?=[A-Z0-9\u00c0-\u024f])|\s[\u2013\u2014-]\s', h) if s.strip()]
+    out = segs[0] if segs else h
+    i = 1
+    while len(out) < 24 and i < len(segs) and len(out) + 1 + len(segs[i]) <= lim:
+        out = out.rstrip(':.') + ': ' + segs[i] if not out.endswith(('?', '!')) else out + ' ' + segs[i]; i += 1
+    if len(out) > lim:
+        cand = out[:lim + 1]; k = cand.rfind(',')
+        out = cand[:k] if k >= 20 else cand.rsplit(' ', 1)[0]
+    out = out.rstrip(' ,;:.-')
+    words = out.split(' ')
+    stop = {'and','or','the','an','to','of','in','for','with','what','how','und','oder','der','die','das','den','dem','ein','eine','mit','y','el','la','los','las','et','ou','le','les','une','des','du','ili','kaj','lahko','ali','oraz','lub','sau','si','of','het','een','met','en','van','voor','per','com','ou','um','uma','para','che','per','con','gli','dei'}
+    while len(words) > 3 and (words[-1].lower().strip(',') in stop or (len(words[-1]) <= 2 and not words[-1].isdigit())): words.pop()
+    return ' '.join(words).rstrip(' ,;:.-')
+
+def trim_desc(d, limit=158):
+    d = d.strip()
+    if len(d) <= 160: return d
+    out = ''
+    for part in re.findall(r'[^.?!]+[.?!]', d):
+        part = part.strip()
+        if len(out) + len(part) + 1 > limit: break
+        out = (out + ' ' + part).strip()
+    if len(out) >= 90: return out
+    cut = d[:limit - 1].rsplit(' ', 1)[0].rstrip(' ,;:.-')
+    return cut + '\u2026'
+
 def short_desc(s, limit=158):
     """Whole sentences up to the limit, for meta descriptions."""
     out = ''
@@ -181,6 +213,19 @@ def article_ld(headline, desc, u, date):
         "description": desc, "author": {"@type": "Person", "name": "Matej Mesko"},
         "publisher": {"@type": "Organization", "name": "Hoppo"}, "mainEntityOfPage": u,
         "datePublished": date}, ensure_ascii=False)
+
+
+def page_ld(lang, path, title, desc, u, home_label, suffix):
+    dom = cfg['domain'].rstrip('/')
+    name = title[:-len(suffix)] if suffix and title.endswith(suffix) else title
+    kind = 'CollectionPage' if path in ('guides.html', 'blog.html') else ('ContactPage' if path == 'support.html' else 'WebPage')
+    return json.dumps({"@context": "https://schema.org", "@graph": [
+        {"@type": "Organization", "@id": dom + "/#org", "name": "Hoppo", "url": dom + "/", "logo": dom + "/img/icon-512.png", "email": SELLER.get('email') or 'info@hoppoapp.com'},
+        {"@type": kind, "@id": u + "#page", "url": u, "name": name, "description": desc, "inLanguage": lang,
+         "isPartOf": {"@type": "WebSite", "name": "Hoppo", "url": dom + "/"}, "publisher": {"@id": dom + "/#org"}},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": home_label, "item": url(lang, 'index.html')},
+            {"@type": "ListItem", "position": 2, "name": name, "item": u}]}]}, ensure_ascii=False)
 
 def build_lang(lang):
     L = f'lang/{lang}/'
@@ -263,7 +308,7 @@ def build_lang(lang):
     seller_vars['shop_terms_sentence'] = LS['shop_terms_sentence'] if SELLER_READY else ''
     seller_vars.update({k: esc(v) for k, v in chrome.items() if k.startswith('stage_')})
     for _k, _v in stages.items(): seller_vars.setdefault('stage_' + _k, esc(_v['name']))     # stages the app names but the page shell does not (school): the app's own translation
-    page_vars = dict(stores=stores, stores_hero=stores_hero, guide_count=str(len(gshared)), blog_cards=blog_grid, blog_feat=blog_feat, blog_chips=blog_chips, home_blog_cards=home_blog_cards, home_guides=home_guides, home_faq=home_faq,
+    page_vars = dict(shot_dir=('/img' if lang == 'en' else '/img/' + lang), stores=stores, stores_hero=stores_hero, guide_count=str(len(gshared)), blog_cards=blog_grid, blog_feat=blog_feat, blog_chips=blog_chips, home_blog_cards=home_blog_cards, home_guides=home_guides, home_faq=home_faq,
                      shop_boot=shop_boot, **pvars, **seller_vars, **{'guide_cards_' + k: v for k, v in groups.items()})
     gby = {'guides/' + g['slug'] + '.html': g for g in gshared}
     for pg in PAGES:
@@ -281,20 +326,21 @@ def build_lang(lang):
                      help_block=help_block, urgent_block=urgent_block, stage_name=stage_name, stores=stores)
             main = render(T['guide'], v, path)
             head = t.get('title') or b['title']
-            title = head + chrome['title_suffix']; desc = t.get('description') or short_desc(b['intro'])
+            title = seo_title(head, chrome['title_suffix']) + chrome['title_suffix']; desc = trim_desc(t.get('description') or short_desc(b['intro'] if len(b['intro']) >= 100 else (b['intro'] + ' ' + ' '.join(b['common']))))
             ld = article_ld(head, desc, u, g['date'])
         elif pg['kind'] == 'post':
             b = bmeta[path[5:-5]]
             body = rd(L + 'pages/' + path)
             main = render(body, page_vars, path)
-            title = b['headline'] + chrome['title_suffix']; desc = b['description']
+            title = seo_title(b['headline'], chrome['title_suffix']) + chrome['title_suffix']; desc = trim_desc(b['description'])
             ld = article_ld(b['headline'], desc, u, b['date'])
         else:
             m = meta[path]
             body = T[path] if path in SHARED else rd(L + 'pages/' + path)
             main = render(body, dict(chrome, **page_vars) if path in SHARED else page_vars, path)
-            title = m['title'].replace('{guide_count}', str(len(gshared))); desc = m['description'].replace('{guide_count}', str(len(gshared)))
+            title = m['title'].replace('{guide_count}', str(len(gshared))); desc = trim_desc(m['description'].replace('{guide_count}', str(len(gshared))))
             ld = article_ld(m['headline'], desc, u, pg['date']) if pg.get('ld') == 'article' else m.get('ld')
+            if not ld and not pg.get('noindex') and path != 'index.html': ld = page_ld(lang, path, title, desc, u, chrome['nav_home'], chrome['title_suffix'])
         touch(lang, pg, u, title + '\n' + desc + '\n' + main)
         canonical = '<meta name="robots" content="noindex">' if pg.get('noindex') else f'<link rel="canonical" href="{u}">'
         if pg['path'] == 'index.html':
@@ -335,10 +381,35 @@ def sitemap():
             rows.append(f'  <url><loc>{url(l, pg["path"])}</loc><lastmod>{LM[url(l, pg["path"])]["d"]}</lastmod><priority>{pg["priority"]}</priority></url>')
     return '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + '\n'.join(rows) + '\n</urlset>\n'
 
+
+def llms_txt():
+    dom = cfg['domain'].rstrip('/')
+    ng = sum(1 for p in PAGES if p['kind'] == 'guide'); nb = sum(1 for p in PAGES if p['kind'] == 'post')
+    L = ['# Hoppo', '',
+         '> Hoppo is a free parenting app and website for families from pregnancy to age 10. It gives one small skill to practise each week, milestones with keepsake cards, a pregnancy view week by week, and short practical guides.', '',
+         '## Main pages', '',
+         f'- [Home]({dom}/): what Hoppo does and how it works',
+         f'- [Guides]({dom}/guides.html): {ng} short "Is this normal?" guides covering what is common, what can help and when to talk to a doctor, midwife or health visitor',
+         f'- [Blog]({dom}/blog.html): {nb} researched articles for parents, from the first weeks to age 10',
+         f'- [Marketplace]({dom}/shop.html): family products from Hoppo and partner shops',
+         f'- [Partners]({dom}/partners.html): how shops can join the Hoppo Marketplace',
+         f'- [Support]({dom}/support.html): answers to common questions about the app',
+         f'- [Privacy]({dom}/privacy.html)',
+         f'- [Terms]({dom}/terms.html)', '',
+         '## Languages', '',
+         'Every page is available in 11 languages. English is at the root. Other languages use a folder:', '']
+    L += [f'- {NATIVE[l]}: {dom}/' + (prefix(l) if l != 'en' else '') for l in LANGS] + ['',
+         '## Notes', '',
+         '- Guides and articles are general information for parents and are not medical advice.',
+         f'- Sitemap: {dom}/sitemap.xml',
+         f'- Contact: {SELLER.get("email") or "info@hoppoapp.com"}', '']
+    return '\n'.join(L)
+
 if __name__ == '__main__':
     allw = []
     for l in LANGS: allw += build_lang(l)
     wr('sitemap.xml', sitemap())
+    wr('llms.txt', llms_txt())
     if cfg.get('indexnow_key'): wr(cfg['indexnow_key'] + '.txt', cfg['indexnow_key'])
     json.dump(dict(sorted(LM.items())), open(LM_PATH, 'w', encoding='utf-8'), indent=0)
     if CSS_MODE != 'inline':

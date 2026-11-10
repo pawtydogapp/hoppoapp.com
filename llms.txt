@@ -1,0 +1,36 @@
+# Hoppo
+
+> Hoppo is a free parenting app and website for families from pregnancy to age 10. It gives one small skill to practise each week, milestones with keepsake cards, a pregnancy view week by week, and short practical guides.
+
+## Main pages
+
+- [Home](https://hoppoapp.com/): what Hoppo does and how it works
+- [Guides](https://hoppoapp.com/guides.html): 55 short "Is this normal?" guides covering what is common, what can help and when to talk to a doctor, midwife or health visitor
+- [Blog](https://hoppoapp.com/blog.html): 20 researched articles for parents, from the first weeks to age 10
+- [Marketplace](https://hoppoapp.com/shop.html): family products from Hoppo and partner shops
+- [Partners](https://hoppoapp.com/partners.html): how shops can join the Hoppo Marketplace
+- [Support](https://hoppoapp.com/support.html): answers to common questions about the app
+- [Privacy](https://hoppoapp.com/privacy.html)
+- [Terms](https://hoppoapp.com/terms.html)
+
+## Languages
+
+Every page is available in 11 languages. English is at the root. Other languages use a folder:
+
+- English: https://hoppoapp.com/
+- Deutsch: https://hoppoapp.com/de/
+- Español: https://hoppoapp.com/es/
+- Français: https://hoppoapp.com/fr/
+- Hrvatski: https://hoppoapp.com/hr/
+- Italiano: https://hoppoapp.com/it/
+- Nederlands: https://hoppoapp.com/nl/
+- Polski: https://hoppoapp.com/pl/
+- Português: https://hoppoapp.com/pt/
+- Română: https://hoppoapp.com/ro/
+- Slovenščina: https://hoppoapp.com/sl/
+
+## Notes
+
+- Guides and articles are general information for parents and are not medical advice.
+- Sitemap: https://hoppoapp.com/sitemap.xml
+- Contact: info@hoppoapp.com

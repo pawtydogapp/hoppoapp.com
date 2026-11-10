@@ -4,7 +4,7 @@
   "description": "Seite auf hoppoapp.com nicht gefunden."
  },
  "index.html": {
-  "title": "Hoppo: eine kleine Fähigkeit pro Woche, von der Schwangerschaft bis zum Alter von 10 Jahren",
+  "title": "Hoppo: eine kleine Fähigkeit pro Woche, bis 10 Jahre",
   "description": "Ruhige, freundliche Hilfe für Eltern. 200 kurze Fähigkeiten zum Üben von der Geburt bis zum Alter von 10 Jahren, 214 Meilensteine mit Erinnerungskarten, jede Schwangerschaftswoche und {guide_count} „Ist das normal?“-Ratgeber. Kostenlos.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"Kostenlose App für Eltern von der Schwangerschaft bis zum Alter von 10 Jahren: wöchentliche Fähigkeiten zum Üben, Meilensteine mit Erinnerungskarten, Schwangerschaft Woche für Woche, „Ist das normal?“-Ratgeber, Kalender, Protokolle für Schlaf, Mahlzeiten und Wachstum.\",\"url\":\"https://hoppoapp.com/de/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"de\"}"
  },

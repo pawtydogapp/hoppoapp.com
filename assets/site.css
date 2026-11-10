@@ -167,6 +167,7 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 .ctah span{color:#B9A6E8}
 .ctal{margin:20px 0 32px;font-family:'Fredoka',sans-serif;font-weight:500;font-size:26px;color:#F7F4FC}
 .ctab svg.ctam{flex:0 0 340px;display:block}
+.ctab img.ctam{flex:0 0 360px;width:360px;height:auto;display:block;align-self:center;margin:0 0 64px;background:#E6DEF8}
 
 /* ---------- inner page hero ---------- */
 .ph{display:flex;align-items:center;gap:56px;max-width:1240px;margin:0 auto;padding:40px 32px 28px}
@@ -279,7 +280,7 @@ footer .langrow a{margin:0;white-space:nowrap}footer .langrow a[aria-current]{co
  .hhero{padding-bottom:70px;gap:24px}
  .hhero h1{font-size:44px}
  .hvis{height:420px;flex-basis:auto}.arch{right:auto;left:50%;transform:translateX(-50%);width:min(100%,380px);height:400px;border-radius:190px 190px 30px 24px}
- .trail,.ph .vis,.hide-s,.ctab svg.ctam,.promise svg.mm{display:none}
+ .trail,.ph .vis,.hide-s,.ctab svg.ctam,.ctab img.ctam,.promise svg.mm{display:none}
  .band .nums,.stks{grid-template-columns:repeat(2,minmax(0,1fr))}
  .howg,.cards3,.why{grid-template-columns:1fr}
  .gcols{grid-template-columns:1fr}
@@ -320,8 +321,8 @@ footer .langrow a{margin:0;white-space:nowrap}footer .langrow a[aria-current]{co
 /* ---------- shop, cart and checkout ---------- */
 nav .links .cartlink{display:inline-flex;align-items:center;gap:4px;margin-left:15px;color:#F7F4FC;position:relative;vertical-align:middle}
 nav .links .cartlink[hidden]{display:none}
-nav .links .cartlink span{background:#FFD9BF;color:#2B2340;border-radius:999px;font-size:11px;font-weight:800;min-width:18px;height:18px;line-height:18px;text-align:center;padding:0 5px}
-@media(max-width:760px){nav .links .nav-home{display:none}nav .links .cartlink{margin-left:0}}
+nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;font-size:11px;font-weight:800;min-width:18px;height:18px;line-height:18px;text-align:center;padding:0 5px}
+@media(max-width:760px){nav .links .cartlink{margin-left:0}}
 .shopwrap{max-width:1240px;margin:0 auto;padding:8px 32px 32px}
 .shopwrap h1{font-family:'Fredoka',sans-serif;font-size:36px;color:#6B4FBB;margin-bottom:6px}
 .shopwrap .lead{font-size:17.5px;font-weight:600;color:#5E5675;max-width:640px;margin:0 0 18px}
@@ -341,7 +342,7 @@ nav .links .cartlink span{background:#FFD9BF;color:#2B2340;border-radius:999px;f
 .pcard h3 a{color:inherit;text-decoration:none}
 .pcard .phead{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
 .plogo{width:48px;height:48px;border-radius:12px;object-fit:cover;flex:0 0 auto}
-.tag{display:inline-block;align-self:flex-start;background:#FFD9BF;color:#2B2340;font-size:12px;font-weight:800;border-radius:999px;padding:3px 10px}
+.tag{display:inline-block;align-self:flex-start;background:#E6DEF8;color:#4F3A93;font-size:12px;font-weight:800;border-radius:999px;padding:3px 10px}
 .pcard.placeholder .tag{align-self:center}
 .pill{display:inline-block;border:2px dashed #B9A6E8;color:#6B4FBB;font-family:'Fredoka',sans-serif;font-weight:700;font-size:14px;border-radius:999px;padding:4px 16px;margin-top:4px}
 .pcat{font-size:13.5px;color:#5E5675;margin:0}
@@ -435,3 +436,4 @@ nav .links .cartlink span{background:#FFD9BF;color:#2B2340;border-radius:999px;f
 .ph h1.sm{font-size:clamp(32px,3.8vw,54px);letter-spacing:-.8px}
 
 @media(max-width:900px){.ph>*,.hhero>*,.insidew>*,.promise .in2>*,.ctab>*,.feat>*,.applybox>*{flex:none !important}.ph .t,.hhero .t{width:100%}}
+@media(max-width:480px){nav .links{gap:6px 14px;flex-wrap:wrap;overflow:visible}nav .links a{font-size:14px}}
