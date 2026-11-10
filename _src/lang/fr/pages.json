@@ -17,7 +17,7 @@
   "description": "De l'aide pour l'app Hoppo : naissance prématurée, bébé est là, plusieurs enfants, comptes partagés, photos, rappels et suppression du compte."
  },
  "shop.html": {
-  "title": "Boutique | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Des offres de boutiques partenaires pour les bébés, les tout-petits et les parents, selon ton pays."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Devenir partenaire de Hoppo | Hoppo",
-  "description": "Touche les parents de la grossesse à 10 ans grâce à la Boutique Hoppo. Liens affiliés via Awin ou codes promo, affichés dans l'appli et sur ce site."
+  "description": "Touche les parents de la grossesse à 10 ans grâce à la Marketplace Hoppo. Liens affiliés via Awin ou codes promo, affichés dans l'appli et sur ce site."
  },
  "blog.html": {
   "title": "Blog Hoppo : des réponses honnêtes, de la grossesse à 10 ans",

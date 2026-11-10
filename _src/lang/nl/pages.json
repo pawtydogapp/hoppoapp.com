@@ -17,7 +17,7 @@
   "description": "Hulp bij de Hoppo-app: te vroeg geboren, baby is geboren, meer dan 1 kind, gedeelde accounts, foto's, herinneringen en je account verwijderen."
  },
  "shop.html": {
-  "title": "Winkel | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Aanbiedingen van partnerwinkels voor baby's, peuters en ouders, gefilterd op land."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Samenwerken met Hoppo | Hoppo",
-  "description": "Bereik ouders van zwangerschap tot 10 jaar via de Hoppo-winkel. Affiliatelinks via Awin of kortingscodes, getoond in de app en op deze website."
+  "description": "Bereik ouders van zwangerschap tot 10 jaar via de Marketplace. Affiliatelinks via Awin of kortingscodes, getoond in de app en op deze website."
  },
  "blog.html": {
   "title": "Hoppo-blog: eerlijke antwoorden, van zwangerschap tot 10 jaar",

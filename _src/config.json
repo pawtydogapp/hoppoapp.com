@@ -132,10 +132,13 @@
  "supabase_url": "https://gffvfjworknrcgrlycok.supabase.co",
  "supabase_anon_key": "sb_publishable_yktFt9ycP7sD08Xdeou7Mw_LE_rSg6E",
  "seller": {
-  "name": "",
-  "address": "",
-  "country": "",
+  "name": "Darija Mesko s.p.",
+  "address": "Ljubljanska cesta 38, 1360 Vrhnika",
+  "country": "Slovenia",
   "vat_id": "",
   "email": "info@hoppoapp.com"
- }
+ },
+ "indexnow_key": "f24d4f586f6a6b10519de67e90a5cc28",
+ "google_verification": "",
+ "bing_verification": ""
 }

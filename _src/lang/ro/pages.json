@@ -17,7 +17,7 @@
   "description": "Ajutor pentru aplicația Hoppo: naștere prematură, bebelușul a sosit, mai mult de 1 copil, conturi comune, fotografii, mementouri și ștergerea contului."
  },
  "shop.html": {
-  "title": "Magazin | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Oferte de la magazine partenere pentru bebeluși, copii mici și părinți, filtrate după țară."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Devino partener Hoppo | Hoppo",
-  "description": "Ajungi la părinți, de la sarcină până la 10 ani, prin Magazinul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
+  "description": "Ajungi la părinți, de la sarcină până la 10 ani, prin Marketplace-ul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
  },
  "blog.html": {
   "title": "Blogul Hoppo: răspunsuri sincere, de la sarcină până la 10 ani",

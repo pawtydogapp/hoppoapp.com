@@ -17,7 +17,7 @@
   "description": "Ayuda con la app Hoppo: nacimiento prematuro, bebé ya nacido, más de 1 hijo, cuentas compartidas, fotos, recordatorios y eliminar tu cuenta."
  },
  "shop.html": {
-  "title": "Tienda | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Ofertas de tiendas asociadas para bebés, niños pequeños y familias, filtradas por país."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Colabora con Hoppo | Hoppo",
-  "description": "Llega a madres y padres desde el embarazo hasta los 10 años a través de la Tienda de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web."
+  "description": "Llega a madres y padres desde el embarazo hasta los 10 años a través del Marketplace de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web."
  },
  "blog.html": {
   "title": "Blog de Hoppo: respuestas sinceras, del embarazo a los 10 años",

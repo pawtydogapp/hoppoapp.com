@@ -17,7 +17,7 @@
   "description": "Pomoč za aplikacijo Hoppo: prezgodnje rojstvo, dojenček je tu, več kot 1 otrok, skupni računi, fotografije, opomniki in brisanje računa."
  },
  "shop.html": {
-  "title": "Trgovina | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Ponudbe partnerskih trgovin za dojenčke, malčke in starše, filtrirane po državi."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Postani partner Hoppo | Hoppo",
-  "description": "Doseži starše od nosečnosti do 10 let starosti prek Trgovine Hoppo. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
+  "description": "Doseži starše od nosečnosti do 10 let starosti prek Hoppo Marketplace. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
  },
  "blog.html": {
   "title": "Blog Hoppo: iskreni odgovori za starše, od nosečnosti do 10 let",

@@ -62,13 +62,18 @@ BLOG = json.load(open(os.path.join(SRC, 'lang', 'en', 'blog.json'), encoding='ut
 BLOG_LIVE = [b for b in BLOG if os.path.exists(os.path.join(SRC, 'lang', 'en', 'pages', 'blog', b['slug'] + '.html'))]
 GROUPS = [('Pregnancy and newborn', 'blog_group_1'), ('Baby', 'blog_group_2'), ('Toddler and preschool', 'blog_group_3'), ('School age', 'blog_group_5'), ('Family life', 'blog_group_4')]
 SELLER = cfg.get('seller', {})
-SELLER_READY = all(SELLER.get(k) for k in ('name', 'address', 'country'))
+SELLER_READY = bool(cfg.get('shop_terms_live')) and all(SELLER.get(k) for k in ('name', 'address', 'country'))  # set shop_terms_live true in config.json when the shop goes live
 PAGES = [p for p in cfg['pages'] if p.get('when') != 'seller' or SELLER_READY] + ([{'path': 'blog.html', 'kind': 'page', 'lastmod': max(b['date'] for b in BLOG_LIVE), 'priority': '0.8'}] if BLOG_LIVE else []) + [
     {'path': f"blog/{b['slug']}.html", 'kind': 'post', 'lastmod': b['date'], 'date': b['date'], 'priority': '0.8'} for b in BLOG_LIVE] + [
     {'path': f"guides/{g['slug']}.html", 'kind': 'guide', 'lastmod': g['date'], 'priority': '0.8'}
     for g in json.load(open(os.path.join(SRC, 'guides.json'), encoding='utf-8'))]
 PAGE_PATHS = {p['path'] for p in PAGES}
-T = {n: rd(f'templates/{n}.html') for n in ['base', 'stores', 'guide', 'guide-card', 'posthog', 'lang-switch']}
+T = {n: rd(f'templates/{n}.html') for n in ['base', 'stores', 'guide', 'guide-card', 'posthog', 'lang-switch', 'cta', 'home']}
+SHARED = {'index.html': 'home', 'guides.html': 'pages/guides', 'blog.html': 'pages/blog', 'shop.html': 'pages/shop', 'partners.html': 'pages/partners', 'support.html': 'pages/support'}   # one body for every language, text from chrome.json
+T.update({k: rd(f'templates/{v}.html') for k, v in SHARED.items() if v != 'home'})
+T['index.html'] = T['home']
+NOCTA = {'shop.html', 'partners.html', 'product.html', 'cart.html', 'order-complete.html', '404.html', 'shop-terms.html'}
+BLOG_IMGS = ['book', 'steps', 'celebrate', 'words', 'peekaboo', 'pretend']
 CSS = rd('assets/site.css'); JS = rd('assets/site.js')
 SHOPJS = rd('assets/shop.js')
 def h8(s): return hashlib.md5(s.encode()).hexdigest()[:8]
@@ -129,6 +134,7 @@ def available(lang, path):
     pg = next(p for p in PAGES if p['path'] == path)
     if pg.get('noindex'): return False
     if pg['kind'] == 'guide': return os.path.exists(os.path.join(SRC, 'lang', lang, 'guides.json'))
+    if path in SHARED: return os.path.exists(os.path.join(SRC, 'lang', lang, 'chrome.json')) or lang == 'en'
     return os.path.exists(os.path.join(SRC, 'lang', lang, 'pages', path))
 
 def target(lang, path):
@@ -195,17 +201,54 @@ def build_lang(lang):
             'card': esc(t.get('card') or first_sentence(gapp[g['id']]['intro']))}, 'card')
     groups = {st: ''.join(card_of(g) for g in gshared if g['stage'] == st) for st in ['pregnancy', 'baby', 'any', 'toddler', 'school', 'parent']}
     bmeta = {b['slug']: b for b in posts}
-    def post_card(b):
-        return f'<div class="postcard"><a href="/blog/{b["slug"]}.html"><h3>{esc(b["headline"])}</h3></a><p>{esc(b["card"])}</p></div>\n'
-    blog_cards = ''.join(f'<h2 class="blogcat">{esc(chrome.get(key) or stages['school']['name'])}</h2>\n' + ''.join(post_card(b) for b in posts if b['group'] == g)
-                         for g, key in GROUPS if any(b['group'] == g for b in posts))
+    def img_of(b): return '/img/art-' + BLOG_IMGS[[x['slug'] for x in BLOG_LIVE].index(b['slug']) % len(BLOG_IMGS)] + '.webp'
+    gname = {g: (chrome.get(key) or stages['school']['name']) for g, key in GROUPS}
+    def blog_card(b):
+        return (f'<a class="cardx blob3 card-h" data-group="{esc(b["group"])}" href="/blog/{b["slug"]}.html"><img src="{img_of(b)}" alt="" width="500" height="425" loading="lazy">'
+                f'<div class="tx"><span class="tag">{esc(gname[b["group"]])}</span><h3>{esc(b["headline"])}</h3><p>{esc(b["card"])}</p></div></a>\n')
     latest = sorted(posts, key=lambda b: (b['date'], b.get('order', 0)), reverse=True)[:3]
-    home_blog = ''
+    blog_chips = ''.join(f'<button type="button" class="chip" data-f="{esc(g)}" aria-pressed="false">{esc(gname[g])}</button>\n' for g, key in GROUPS if any(b['group'] == g for b in posts))
+    blog_grid = ''.join(blog_card(b) for b in sorted(posts, key=lambda b: (b['date'], b.get('order', 0)), reverse=True))
+    blog_feat = ''
     if latest:
-        home_blog = (f'<h2 class="sec">{esc(chrome["home_blog_title"])}</h2>\n<div class="reveal" style="padding:18px 0 8px">\n' + ''.join(post_card(b) for b in latest)
-                     + f'<div class="postcard"><a href="/blog.html"><h3>{esc(chrome["home_blog_all"])}</h3></a><p>{esc(chrome["home_blog_all_text"])}</p></div>\n</div>\n')
+        f0 = latest[0]
+        blog_feat = (f'<div class="featwrap"><a class="feat blob3 card-h" href="/blog/{f0["slug"]}.html"><div class="im"><img src="{img_of(f0)}" alt="" width="500" height="425"></div>'
+                     f'<div class="tx"><span class="pill">{esc(chrome["b_latest"])}</span><h2>{esc(f0["headline"])}</h2><p>{esc(f0["card"])}</p><p class="go">{esc(chrome["b_read"])}</p></div></a></div>\n')
+    home_blog_cards = ''.join(blog_card(b) for b in latest)
+    def gcard_html(slug):
+        g = next(x for x in gshared if x['slug'] == slug); t = gtext.get(g['id'], {}); i = ['art-words', 'art-steps', 'art-peekaboo'][['crying', 'first-foods', 'tantrums'].index(slug)]
+        return (f'<a class="cardx blob3 card-h" href="/guides/{slug}.html"><img src="/img/{i}.webp" alt="" width="500" height="425" loading="lazy"><div class="tx"><span class="tag">{esc(stages[g["stage"]]["name"])}</span>'
+                f'<h3>{esc(gapp[g["id"]]["title"])}</h3><p>{esc(t.get("card") or first_sentence(gapp[g["id"]]["intro"]))}</p></div></a>\n')
+    home_guides = ''.join(gcard_html(x) for x in ['crying', 'first-foods', 'tantrums'])
+    sup = rd(L + 'pages/support.html')
+    faqs = re.findall(r'<div class="faq"><h3>(.*?)</h3><p>(.*?)</p></div>', sup, re.S)[:4]
+    home_faq = ''.join(f'<details class="fq"><summary>{q}</summary><p>{a}</p></details>\n' for q, a in faqs)
+    def _body(name):
+        f = os.path.join(SRC, 'lang', lang, 'pages', name)
+        return open(f, encoding='utf-8').read() if os.path.exists(f) else ''
+    _fx = (lambda t: t.replace('Shop', 'Marketplace')) if lang == 'en' else (lambda t: t)    # English texts say Shop, the page is now called Marketplace
+    pb, sb = _body('partners.html'), _body('support.html')
+    pw = re.findall(r'<div class="w"><h3>(.*?)</h3><p>(.*?)</p></div>', pb); ph = re.findall(r'<h2>(.*?)</h2>\s*<p>(.*?)</p>', pb)
+    plead = re.search(r'<p class="guide-intro">(.*?)</p>', pb, re.S)
+    if pb:
+        assert len(pw) == 3 and len(ph) == 5 and plead, 'partners body shape in ' + lang
+        psent = re.split(r'(?<=[.!?])\s+', ph[2][1]); assert len(psent) == 4, 'partners links sentences in ' + lang
+    pvars = {}
+    if pb:
+        pvars = dict(pa_lead=_fx(plead.group(1)), pa_comm_h=ph[0][0], pa_comm_p=_fx(ph[0][1]), pa_works_h=ph[1][0], pa_works_p=_fx(ph[1][1]),
+                     pa_links_h=ph[2][0], pa_l1=' '.join(psent[:2]), pa_l2=psent[2], pa_l3=psent[3], pa_fam_h=ph[4][0], pa_fam_p=_fx(ph[4][1]))
+        for i, (h, t) in enumerate(pw, 1): pvars[f'pa_a{i}h'] = h; pvars[f'pa_a{i}p'] = _fx(t)
+    sup_intro = re.search(r'<p class="meta">.*?</p>\s*<p>(.*?)</p>', sb, re.S)
+    sup_h2 = re.search(r'<h2>(.*?)</h2>', sb)
+    sup_faq = ''.join(f'<details class="fq"><summary>{q}</summary><p>{a}</p></details>\n' for q, a in re.findall(r'<div class="faq"><h3>(.*?)</h3><p>(.*?)</p></div>', sb))
+    pvars.update(sup_intro=_fx(sup_intro.group(1)) if sup_intro else '', sup_faq_h=sup_h2.group(1) if sup_h2 else '', sup_faq=_fx(sup_faq))
+    chrome = dict(chrome, p_who_p_html=esc(chrome['p_who_p']).replace('{names}', '<span id="who-names"></span>').replace('{link}', '<a href="/shop.html">' + chrome['p_who_link'] + '</a>'),
+                  p_early_html=chrome['p_early_p'].replace('{mail}', '<a href="mailto:info@hoppoapp.com?subject=Partnership">info@hoppoapp.com</a>'))
     chrome = dict(chrome, nav_blog_link=f'<a href="/blog.html">{esc(chrome["nav_blog"])}</a>' if BLOG_LIVE else '',
-                  footer_shop_terms_link=(f'·<a href="/shop-terms.html">{esc(chrome["footer_shop_terms"])}</a>' if SELLER_READY else ''))
+                  footer_shop_terms_link=(f'<a href="/shop-terms.html">{esc(chrome["footer_shop_terms"])}</a>' if SELLER_READY else ''),
+                  h_all_guides=chrome['h_all_guides'].replace('{n}', str(len(gshared))), g_intro=chrome['g_intro'].replace('{n}', str(len(gshared))),
+                  s_retail_text=chrome['s_retail_p'].replace('{link}', f'<a href="/partners.html">{chrome["s_retail_link"]}</a>').replace('{mail}', '<a href="mailto:info@hoppoapp.com">info@hoppoapp.com</a>'),
+                  blog_total=str(len(posts)))
     cats = {k: v['name'] for k, v in app_json(lang)['content']['shopCats'].items()} if lang != 'en' else {k: v['name'] for k, v in app_json('en')['content']['shopCats'].items()}
     base = '' if lang == 'en' else '/' + lang
     hoppo = dict(lang=lang, base=base, locale=LOCALE[lang].replace('_', '-'), sb=cfg['supabase_url'], key=cfg['supabase_anon_key'],
@@ -220,8 +263,8 @@ def build_lang(lang):
     seller_vars['shop_terms_sentence'] = LS['shop_terms_sentence'] if SELLER_READY else ''
     seller_vars.update({k: esc(v) for k, v in chrome.items() if k.startswith('stage_')})
     for _k, _v in stages.items(): seller_vars.setdefault('stage_' + _k, esc(_v['name']))     # stages the app names but the page shell does not (school): the app's own translation
-    page_vars = dict(stores=stores, stores_hero=stores_hero, guide_count=str(len(gshared)), blog_cards=blog_cards, home_blog=home_blog,
-                     shop_boot=shop_boot, **seller_vars, **{'guide_cards_' + k: v for k, v in groups.items()})
+    page_vars = dict(stores=stores, stores_hero=stores_hero, guide_count=str(len(gshared)), blog_cards=blog_grid, blog_feat=blog_feat, blog_chips=blog_chips, home_blog_cards=home_blog_cards, home_guides=home_guides, home_faq=home_faq,
+                     shop_boot=shop_boot, **pvars, **seller_vars, **{'guide_cards_' + k: v for k, v in groups.items()})
     gby = {'guides/' + g['slug'] + '.html': g for g in gshared}
     for pg in PAGES:
         path = pg['path']; u = url(lang, path)
@@ -248,19 +291,23 @@ def build_lang(lang):
             ld = article_ld(b['headline'], desc, u, b['date'])
         else:
             m = meta[path]
-            body = rd(L + 'pages/' + path)
-            main = render(body, page_vars, path)
+            body = T[path] if path in SHARED else rd(L + 'pages/' + path)
+            main = render(body, dict(chrome, **page_vars) if path in SHARED else page_vars, path)
             title = m['title'].replace('{guide_count}', str(len(gshared))); desc = m['description'].replace('{guide_count}', str(len(gshared)))
             ld = article_ld(m['headline'], desc, u, pg['date']) if pg.get('ld') == 'article' else m.get('ld')
         touch(lang, pg, u, title + '\n' + desc + '\n' + main)
         canonical = '<meta name="robots" content="noindex">' if pg.get('noindex') else f'<link rel="canonical" href="{u}">'
+        if pg['path'] == 'index.html':
+            if cfg.get('google_verification'): canonical += f'\n<meta name="google-site-verification" content="{cfg["google_verification"]}">'
+            if cfg.get('bing_verification'): canonical += f'\n<meta name="msvalidate.01" content="{cfg["bing_verification"]}">'
         alts = ''
         if len(langs_here) > 1 and not pg.get('noindex'):
             alts = ''.join(f'\n<link rel="alternate" hreflang="{l}" href="{url(l, path)}">' for l in langs_here)
             alts += f'\n<link rel="alternate" hreflang="x-default" href="{url("en", path)}">'
         v = dict(chrome, lang=lang, title=title, description=desc, url=u, canonical=canonical + alts, og_locale=(f'\n<meta property="og:locale" content="{LOCALE[lang]}">' if len(LANGS) > 1 else ''),
                  css=css, posthog=T['posthog'], ld=(f'<script type="application/ld+json">{ld}</script>\n' if ld else ''),
-                 main=main, js=jsx, boot=boot)
+                 main=main, js=jsx, boot=boot,
+                 cta='' if (path in NOCTA or pg['kind'] == 'page' and path in ('404.html',)) else render(T['cta'], dict(chrome, stores=stores), 'cta'))
         out = localize_links(render(T['base'], v, path), lang)
         out = out.replace('@@LANGSWITCH@@', lang_switch(lang, path, chrome)).replace('@@LANGFOOT@@', lang_footer(lang, path))
         wr(prefix(lang) + path, out); written.append(prefix(lang) + path)
@@ -292,6 +339,7 @@ if __name__ == '__main__':
     allw = []
     for l in LANGS: allw += build_lang(l)
     wr('sitemap.xml', sitemap())
+    if cfg.get('indexnow_key'): wr(cfg['indexnow_key'] + '.txt', cfg['indexnow_key'])
     json.dump(dict(sorted(LM.items())), open(LM_PATH, 'w', encoding='utf-8'), indent=0)
     if CSS_MODE != 'inline':
         wr('assets/site.css', CSS); wr('assets/site.js', JS); wr('assets/shop.js', SHOPJS)

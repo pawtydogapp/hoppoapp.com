@@ -107,7 +107,7 @@
     if (p.offer) h += '<p class="poffer">' + esc(p.offer) + '</p>';
     h += '<div class="pactions">';
     if (p.promo_code) h += '<span class="pcode">' + esc(p.promo_code) + '</span><button type="button" class="btn sm ghost" data-copy="' + esc(p.promo_code) + '">' + esc(T('copy_code')) + '</button>';
-    if (u) h += '<a class="btn sm" href="' + esc(u) + '" target="_blank" rel="' + (p.own ? 'noopener' : 'sponsored nofollow noopener') + '">' + esc(T('visit')) + '</a>';
+    if (u) h += '<a class="btn sm" href="' + esc(u) + '" target="_blank" rel="' + (p.own ? 'noopener' : 'sponsored nofollow noopener') + '">' + esc(T('visit_partner').replace('{name}', p.name)) + '</a>';
     return h + '</div></div>';
   }
   function productCard(p) {
@@ -136,11 +136,11 @@
             return aliases(country).some(function (c) { return p.countries.indexOf(c) > -1; });
           });
           var rows = rowsFor(partners, country, cat);
-          h += '<div class="shopbar"><label for="shop-cc">' + esc(T('country')) + '</label><select id="shop-cc" class="inp"><option value="ALL"' + (country === 'ALL' ? ' selected' : '') + '>' + esc(T('all_countries')) + '</option>' +
-            countries.map(function (c) { return '<option value="' + esc(c) + '"' + (c === country ? ' selected' : '') + '>' + esc(cname(c)) + '</option>'; }).join('') + '</select></div>';
           h += '<div class="chips" role="group">' + Object.keys(H.cats || {}).map(function (id) {
             return '<button type="button" class="chip' + (cat === id ? ' on' : '') + '" data-cat="' + esc(id) + '" aria-pressed="' + (cat === id) + '">' + esc(H.cats[id]) + '</button>';
           }).join('') + '</div>';
+          h += '<div class="shopbar"><label for="shop-cc">' + esc(T('country_to')) + '</label><select id="shop-cc" class="inp"><option value="ALL"' + (country === 'ALL' ? ' selected' : '') + '>' + esc(T('all_countries')) + '</option>' +
+            countries.map(function (c) { return '<option value="' + esc(c) + '"' + (c === country ? ' selected' : '') + '>' + esc(cname(c)) + '</option>'; }).join('') + '</select></div>';
           h += '<div class="pgrid">';
           if (ownProducts.length) h += ownProducts.map(productCard).join('');
           h += rows.map(partnerCard).join('');
@@ -290,8 +290,18 @@
     root.innerHTML = '<h1>' + esc(T('thanks_title')) + '</h1><p>' + esc(T('thanks_text')) + '</p><p>' + esc(T('thanks_help')) + ' <a href="mailto:' + esc(H.email) + '">' + esc(H.email) + '</a></p><p><a class="btn" href="' + H.base + '/shop.html">' + esc(T('back_to_shop')) + '</a></p>';
   }
 
+  function whoPage(box) {
+    rest('partners?select=name,active,starts_at,ends_at').then(function (rows) {
+      var names = rowsFor(rows, 'ALL', 'all').map(function (p) { return p.name; }).filter(Boolean);
+      var span = $('who-names');
+      if (!names.length || !span) return;
+      span.textContent = names.join(', ');
+      box.hidden = false;
+    }).catch(function () { /* stays hidden */ });
+  }
   var root;
-  if ((root = $('shop-root'))) shopPage(root);
+  if ((root = $('who'))) whoPage(root);
+  else if ((root = $('shop-root'))) shopPage(root);
   else if ((root = $('product-root'))) productPage(root);
   else if ((root = $('cart-root'))) cartPage(root);
   else if ((root = $('order-root'))) orderPage(root);

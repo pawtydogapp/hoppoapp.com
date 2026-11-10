@@ -9,7 +9,7 @@
   } else {
     document.querySelectorAll('.reveal').forEach(function(el){ el.classList.add('in'); });
   }
-  var nums = document.querySelectorAll('.stat .n[data-to]');
+  var nums = document.querySelectorAll('.nums .n[data-to]');
   if(nums.length){
     var run = function(el){
       var to = parseInt(el.dataset.to,10), suf = el.dataset.suffix||'', t0 = null;
@@ -89,4 +89,33 @@
     .then(function(r){ return r.ok ? r.json() : []; })
     .then(function(rows){ var m={}; rows.forEach(function(r){ if(r.value) m[r.key]=r.value; }); write(m); apply(m); })
     .catch(function(){});
+})();
+
+
+(function(){
+  /* Current page in the menu. */
+  var p = location.pathname.replace(/\/+$/,'') || '/';
+  p = p.replace(/^\/[a-z]{2}(?=\/|$)/,'') || '/';
+  document.querySelectorAll('nav .links a').forEach(function(a){
+    var h = a.getAttribute('href').replace(/^\/[a-z]{2}(?=\/)/,'') || '/';
+    h = h.replace(/\/+$/,'') || '/';
+    if (h === p || (h !== '/' && p.indexOf(h.replace('.html','')) === 0 && h.indexOf('.html')>0 && p.indexOf('/guides/')===0 && h==='/guides.html') || (h==='/blog.html' && p.indexOf('/blog/')===0)) a.setAttribute('aria-current','page');
+  });
+  /* Filter chips on the guides and blog lists. */
+  function chips(id, items, count, attr){
+    var box = document.getElementById(id); if(!box) return;
+    box.addEventListener('click', function(e){
+      var b = e.target.closest && e.target.closest('.chip'); if(!b) return;
+      var f = b.getAttribute('data-f');
+      box.querySelectorAll('.chip').forEach(function(c){ var on = c===b; c.classList.toggle('on', on); c.setAttribute('aria-pressed', on ? 'true' : 'false'); });
+      var n = 0;
+      document.querySelectorAll(items).forEach(function(el){
+        var show = f === 'all' || el.getAttribute(attr) === f;
+        el.hidden = !show; if(show) n += (el.hasAttribute('data-stage') ? el.querySelectorAll('.gcard').length : 1);
+      });
+      var c = document.getElementById(count); if(c) c.textContent = String(n);
+    });
+  }
+  chips('gchips', '#glist > section', 'gcount', 'data-stage');
+  chips('bchips', '#blist > a', 'bcount', 'data-group');
 })();

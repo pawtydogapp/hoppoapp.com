@@ -17,7 +17,7 @@
   "description": "Pomoc w aplikacji Hoppo: urodzone przed terminem, dziecko przyszło na świat, więcej niż 1 dziecko, wspólne konta, zdjęcia, przypomnienia i usuwanie konta."
  },
  "shop.html": {
-  "title": "Sklep | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Oferty sklepów partnerskich dla niemowląt, maluchów i rodziców, filtrowane według kraju."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Współpraca z Hoppo | Hoppo",
-  "description": "Dotrzyj do rodziców od ciąży do 10 lat przez Sklep Hoppo. Linki afiliacyjne przez Awin lub kody promocyjne, widoczne w aplikacji i na tej stronie."
+  "description": "Dotrzyj do rodziców od ciąży do 10 lat przez Marketplace Hoppo. Linki afiliacyjne przez Awin lub kody promocyjne, widoczne w aplikacji i na tej stronie."
  },
  "blog.html": {
   "title": "Blog Hoppo: szczere odpowiedzi dla rodziców, od ciąży do 10 lat",

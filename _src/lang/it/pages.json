@@ -17,7 +17,7 @@
   "description": "Aiuto con l'app Hoppo: nascita anticipata, bebè arrivato, più di 1 bambino, account condivisi, foto, promemoria e eliminazione dell'account."
  },
  "shop.html": {
-  "title": "Negozio | Hoppo",
+  "title": "Marketplace | Hoppo",
   "description": "Offerte dei negozi partner per bebè, bambini piccoli e genitori, filtrate per paese."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Diventa partner di Hoppo | Hoppo",
-  "description": "Raggiungi i genitori dalla gravidanza ai 10 anni con il Negozio di Hoppo. Link di affiliazione tramite Awin o codici promozionali, mostrati nell'app e su questo sito."
+  "description": "Raggiungi i genitori dalla gravidanza ai 10 anni con il Marketplace di Hoppo. Link di affiliazione tramite Awin o codici promozionali, mostrati nell'app e su questo sito."
  },
  "blog.html": {
   "title": "Il blog di Hoppo: risposte sincere, dalla gravidanza ai 10 anni",
