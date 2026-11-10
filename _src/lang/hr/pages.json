@@ -22,7 +22,7 @@
  },
  "cart.html": {
   "title": "Košarica | Hoppo",
-  "description": "Tvoja košarica u Hoppo trgovini."
+  "description": "Vaša košarica u Hoppo trgovini."
  },
  "product.html": {
   "title": "Proizvod | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Hvala | Hoppo",
-  "description": "Tvoja Hoppo narudžba je potvrđena."
+  "description": "Vaša Hoppo narudžba je potvrđena."
  },
  "privacy.html": {
   "title": "Pravila privatnosti | Hoppo",
-  "description": "Kako Hoppo postupa s tvojim podacima: izričita privola za zdravstvene podatke, fotografije koje ostaju na tvom telefonu, pohrana u EU, izbori o oglasima i tvoja prava prema GDPR-u."
+  "description": "Kako Hoppo postupa s vašim podacima: izričita privola za zdravstvene podatke, fotografije koje ostaju na vašem telefonu, pohrana u EU, izbori o oglasima i vaša prava prema GDPR-u."
  },
  "terms.html": {
   "title": "Uvjeti korištenja | Hoppo",
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Partnerstvo s Hoppom | Hoppo",
-  "description": "Dopri do roditelja od trudnoće do 10 godina preko Hoppo Marketplacea. Partnerske poveznice putem Awina ili promo kodovi, prikazani u aplikaciji i na ovoj web stranici."
+  "description": "Dopirite do roditelja od trudnoće do 10 godina preko Hoppo Marketplacea. Partnerske poveznice putem Awina ili promo kodovi, prikazani u aplikaciji i na ovoj web stranici."
  },
  "blog.html": {
   "title": "Hoppo blog: iskreni odgovori za roditelje, od trudnoće do 10 godina",

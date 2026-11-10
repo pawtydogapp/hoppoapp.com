@@ -6,7 +6,7 @@
  "index.html": {
   "title": "Hoppo: una piccola abilità a settimana, dalla gravidanza ai 10 anni",
   "description": "Un aiuto sereno e amichevole per i genitori. 200 piccole abilità da esercitare dalla nascita ai 10 anni, 214 traguardi con cartoline ricordo, ogni settimana di gravidanza e {guide_count} guide \"È normale?\". Gratis.",
-  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita per genitori dalla gravidanza ai 10 anni: abilità settimanali da esercitare, traguardi con cartoline ricordo, gravidanza settimana per settimana, guide \\\"È normale?\\\", calendario, diari di sonno, pasti e crescita.\",\"url\":\"https://hoppoapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
+  "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplichition\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplichition\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita per genitori dalla gravidanza ai 10 anni: abilità settimanali da esercitare, traguardi con cartoline ricordo, gravidanza settimana per settimana, guide \\\"È normale?\\\", calendario, diari di sonno, pasti e crescita.\",\"url\":\"https://hoppoapp.com/it/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"it\"}"
  },
  "guides.html": {
   "title": "{guide_count} guide \"È normale?\" per genitori | Hoppo",
@@ -22,7 +22,7 @@
  },
  "cart.html": {
   "title": "Carrello | Hoppo",
-  "description": "Il tuo carrello del negozio Hoppo."
+  "description": "Il Suo carrello del negozio Hoppo."
  },
  "product.html": {
   "title": "Prodotto | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Grazie | Hoppo",
-  "description": "Il tuo ordine Hoppo è confermato."
+  "description": "Il Suo ordine Hoppo è confermato."
  },
  "privacy.html": {
   "title": "Informativa sulla privacy | Hoppo",
-  "description": "Come Hoppo tratta i tuoi dati: consenso esplicito per i dati sulla salute, foto che restano sul tuo telefono, conservazione nell'UE, scelte sulla pubblicità e i tuoi diritti GDPR."
+  "description": "Come Hoppo tratta i Suoi dati: consenso esplicito per i dati sulla salute, foto che restano sul Suo telefono, conservazione nell'UE, scelte sulla pubblicità e i Suoi diritti GDPR."
  },
  "terms.html": {
   "title": "Termini e condizioni | Hoppo",
@@ -45,8 +45,8 @@
   "description": "Condizioni di vendita dei prodotti della famiglia Hoppo: prezzi, consegna nell'UE, diritto di recesso di 14 giorni, prodotti difettosi e codici promozionali."
  },
  "partners.html": {
-  "title": "Diventa partner di Hoppo | Hoppo",
-  "description": "Raggiungi i genitori dalla gravidanza ai 10 anni con il Marketplace di Hoppo. Link di affiliazione tramite Awin o codici promozionali, mostrati nell'app e su questo sito."
+  "title": "Diventi partner di Hoppo | Hoppo",
+  "description": "Raggiunga i genitori dalla gravidanza ai 10 anni con il Marketplace di Hoppo. Link di affiliazione tramite Awin o codici promozionali, mostrati nell'app e su questo sito."
  },
  "blog.html": {
   "title": "Il blog di Hoppo: risposte sincere, dalla gravidanza ai 10 anni",

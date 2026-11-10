@@ -99,18 +99,18 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 .ctastores{justify-content:center}
 
 /* ---------- home hero ---------- */
-.hhero{position:relative;display:flex;align-items:center;gap:48px;max-width:1240px;margin:0 auto;padding:40px 32px 130px}
+.hhero{position:relative;display:flex;align-items:center;gap:48px;max-width:1240px;margin:0 auto;padding:12px 32px 64px}
 .hhero .t{flex:1 1 560px;min-width:0;position:relative;z-index:2}
 .hhero h1{font-family:'Fredoka',sans-serif;font-weight:600;font-size:76px;line-height:1;letter-spacing:-1.5px;color:#2B2340;margin:0 0 26px}
 .hhero .sub{font-size:20px;line-height:1.65;color:#5E5675;max-width:540px;margin-bottom:34px}
 .hhero .sub strong{color:#2B2340}
-.hvis{flex:1 1 470px;min-width:0;position:relative;height:580px}
-.arch{position:absolute;right:20px;top:20px;width:470px;max-width:100%;height:540px;border-radius:235px 235px 36px 30px;overflow:hidden;background:#E6DEF8;box-shadow:0 40px 80px rgba(79,58,147,.2)}
+.hvis{flex:1 1 470px;min-width:0;position:relative;height:clamp(330px,calc(100vh - 340px),580px)}
+.arch{position:absolute;right:20px;top:20px;width:470px;max-width:100%;height:calc(100% - 40px);border-radius:235px 235px 36px 30px;overflow:hidden;background:#E6DEF8;box-shadow:0 40px 80px rgba(79,58,147,.2)}
 .arch img{width:100%;height:100%;object-fit:cover;object-position:center bottom;display:block}
 .trail{position:absolute;left:50%;bottom:0;width:1240px;margin-left:-620px;height:90px;pointer-events:none}
 .trail svg{display:block}
 .band{border-top:1px solid #D9CFEE;border-bottom:1px solid #D9CFEE;background:#fff}
-.band .nums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;text-align:center;padding-top:36px;padding-bottom:36px}
+.band .nums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;text-align:center;padding-top:24px;padding-bottom:28px}
 .nums .n{font-family:'Fredoka',sans-serif;font-weight:600;font-size:56px;line-height:1;color:#6B4FBB}
 .nums .l{margin-top:6px;font-weight:700;color:#5E5675}
 .stks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:36px}

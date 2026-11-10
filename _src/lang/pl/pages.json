@@ -22,7 +22,7 @@
  },
  "cart.html": {
   "title": "Koszyk | Hoppo",
-  "description": "Twój koszyk w sklepie Hoppo."
+  "description": "Państwa koszyk w sklepie Hoppo."
  },
  "product.html": {
   "title": "Produkt | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Dziękujemy | Hoppo",
-  "description": "Twoje zamówienie w Hoppo zostało potwierdzone."
+  "description": "Państwa zamówienie w Hoppo zostało potwierdzone."
  },
  "privacy.html": {
   "title": "Polityka prywatności | Hoppo",
-  "description": "Jak Hoppo postępuje z twoimi danymi: wyraźna zgoda na dane o zdrowiu, zdjęcia, które zostają w twoim telefonie, przechowywanie w Unii Europejskiej, wybory dotyczące reklam i twoje prawa wynikające z RODO."
+  "description": "Jak Hoppo postępuje z Państwa danymi: wyraźna zgoda na dane o zdrowiu, zdjęcia, które zostają w Państwa telefonie, przechowywanie w Unii Europejskiej, wybory dotyczące reklam i Państwa prawa wynikające z RODO."
  },
  "terms.html": {
   "title": "Regulamin | Hoppo",
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Współpraca z Hoppo | Hoppo",
-  "description": "Dotrzyj do rodziców od ciąży do 10 lat przez Marketplace Hoppo. Linki afiliacyjne przez Awin lub kody promocyjne, widoczne w aplikacji i na tej stronie."
+  "description": "Dotrą Państwo do rodziców od ciąży do 10 lat przez Marketplace Hoppo. Linki afiliacyjne przez Awin lub kody promocyjne, widoczne w aplikacji i na tej stronie."
  },
  "blog.html": {
   "title": "Blog Hoppo: szczere odpowiedzi dla rodziców, od ciąży do 10 lat",

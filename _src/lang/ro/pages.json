@@ -10,7 +10,7 @@
  },
  "guides.html": {
   "title": "{guide_count} de ghiduri „E normal?” pentru părinți | Hoppo",
-  "description": "Ghiduri scurte, verificate, despre plâns, somnul bebelușului, febră, apariția dinților, primele alimente, crize de furie, dezvățul de scutec, sarcină și altele. Ce este frecvent, ce ajută și când să ceri ajutor."
+  "description": "Ghiduri scurte, verificate, despre plâns, somnul bebelușului, febră, apariția dinților, primele alimente, crize de furie, dezvățul de scutec, sarcină și altele. Ce este frecvent, ce ajută și când să cereți ajutor."
  },
  "support.html": {
   "title": "Asistență | Hoppo",
@@ -22,7 +22,7 @@
  },
  "cart.html": {
   "title": "Coș | Hoppo",
-  "description": "Coșul tău din magazinul Hoppo."
+  "description": "Coșul dumneavoastră din magazinul Hoppo."
  },
  "product.html": {
   "title": "Produs | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Mulțumim | Hoppo",
-  "description": "Comanda ta Hoppo este confirmată."
+  "description": "Comanda dumneavoastră Hoppo este confirmată."
  },
  "privacy.html": {
   "title": "Politica de confidențialitate | Hoppo",
-  "description": "Cum gestionează Hoppo datele tale: consimțământ explicit pentru datele privind sănătatea, fotografii care rămân pe telefonul tău, stocare în UE, opțiuni privind reclamele și drepturile tale conform GDPR."
+  "description": "Cum gestionează Hoppo datele dumneavoastră: consimțământ explicit pentru datele privind sănătatea, fotografii care rămân pe telefonul dumneavoastră, stocare în UE, opțiuni privind reclamele și drepturile dumneavoastră conform GDPR."
  },
  "terms.html": {
   "title": "Termeni și condiții | Hoppo",
@@ -45,8 +45,8 @@
   "description": "Condiții de vânzare pentru produsele din familia Hoppo: prețuri, livrare în UE, dreptul de retragere de 14 zile, produse defecte și coduri promoționale."
  },
  "partners.html": {
-  "title": "Devino partener Hoppo | Hoppo",
-  "description": "Ajungi la părinți, de la sarcină până la 10 ani, prin Marketplace-ul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
+  "title": "Deveniți partener Hoppo | Hoppo",
+  "description": "Ajungeți la părinți, de la sarcină până la 10 ani, prin Marketplace-ul Hoppo. Linkuri afiliate prin Awin sau coduri promoționale, afișate în aplicație și pe acest site."
  },
  "blog.html": {
   "title": "Blogul Hoppo: răspunsuri sincere, de la sarcină până la 10 ani",

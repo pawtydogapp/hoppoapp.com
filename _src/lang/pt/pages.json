@@ -22,7 +22,7 @@
  },
  "cart.html": {
   "title": "Carrinho | Hoppo",
-  "description": "O teu carrinho da loja Hoppo."
+  "description": "O seu carrinho da loja Hoppo."
  },
  "product.html": {
   "title": "Produto | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Obrigado | Hoppo",
-  "description": "A tua encomenda Hoppo está confirmada."
+  "description": "A sua encomenda Hoppo está confirmada."
  },
  "privacy.html": {
   "title": "Política de privacidade | Hoppo",
-  "description": "Como o Hoppo trata os teus dados: consentimento explícito para os dados de saúde, fotos que ficam no teu telemóvel, armazenamento na UE, escolhas de publicidade e os teus direitos ao abrigo do RGPD."
+  "description": "Como o Hoppo trata os seus dados: consentimento explícito para os dados de saúde, fotos que ficam no seu telemóvel, armazenamento na UE, escolhas de publicidade e os seus direitos ao abrigo do RGPD."
  },
  "terms.html": {
   "title": "Termos e condições | Hoppo",
@@ -45,8 +45,8 @@
   "description": "Condições de venda dos produtos da família Hoppo: preços, entrega na UE, o direito de livre resolução de 14 dias, bens defeituosos e códigos promocionais."
  },
  "partners.html": {
-  "title": "Faz parceria com o Hoppo | Hoppo",
-  "description": "Chega aos pais da gravidez aos 10 anos através do Marketplace do Hoppo. Links de afiliados via Awin ou códigos promocionais, mostrados na app e neste site."
+  "title": "Faça parceria com o Hoppo | Hoppo",
+  "description": "Chegue aos pais da gravidez aos 10 anos através do Marketplace do Hoppo. Links de afiliados via Awin ou códigos promocionais, mostrados na app e neste site."
  },
  "blog.html": {
   "title": "O blogue Hoppo: respostas honestas para pais, da gravidez aos 10 anos",

@@ -22,7 +22,7 @@
  },
  "cart.html": {
   "title": "Košarica | Hoppo",
-  "description": "Tvoja košarica v trgovini Hoppo."
+  "description": "Vaša košarica v trgovini Hoppo."
  },
  "product.html": {
   "title": "Izdelek | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Hvala | Hoppo",
-  "description": "Tvoje naročilo v trgovini Hoppo je potrjeno."
+  "description": "Vaše naročilo v trgovini Hoppo je potrjeno."
  },
  "privacy.html": {
   "title": "Politika zasebnosti | Hoppo",
-  "description": "Kako Hoppo ravna s tvojimi podatki: izrecna privolitev za podatke o zdravju, fotografije, ki ostanejo na tvojem telefonu, shranjevanje v EU, izbire glede oglaševanja in tvoje pravice po GDPR."
+  "description": "Kako Hoppo ravna z vašimi podatki: izrecna privolitev za podatke o zdravju, fotografije, ki ostanejo na vašem telefonu, shranjevanje v EU, izbire glede oglaševanja in vaše pravice po GDPR."
  },
  "terms.html": {
   "title": "Pogoji uporabe | Hoppo",
@@ -45,8 +45,8 @@
   "description": "Pogoji prodaje za izdelke iz družine Hoppo: cene, dostava v EU, 14-dnevna pravica do odstopa od pogodbe, blago z napako in promocijske kode."
  },
  "partners.html": {
-  "title": "Postani partner Hoppo | Hoppo",
-  "description": "Doseži starše od nosečnosti do 10 let starosti prek Hoppo Marketplace. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
+  "title": "Postanite partner Hoppo | Hoppo",
+  "description": "Dosežite starše od nosečnosti do 10 let starosti prek Hoppo Marketplace. Partnerske povezave prek Awin ali promocijske kode, prikazane v aplikaciji in na tej spletni strani."
  },
  "blog.html": {
   "title": "Blog Hoppo: iskreni odgovori za starše, od nosečnosti do 10 let",

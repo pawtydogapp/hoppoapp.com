@@ -18,11 +18,11 @@
  },
  "shop.html": {
   "title": "Marketplace | Hoppo",
-  "description": "Des offres de boutiques partenaires pour les bébés, les tout-petits et les parents, selon ton pays."
+  "description": "Des offres de boutiques partenaires pour les bébés, les tout-petits et les parents, selon votre pays."
  },
  "cart.html": {
   "title": "Panier | Hoppo",
-  "description": "Ton panier de la boutique Hoppo."
+  "description": "Votre panier de la boutique Hoppo."
  },
  "product.html": {
   "title": "Produit | Hoppo",
@@ -30,11 +30,11 @@
  },
  "order-complete.html": {
   "title": "Merci | Hoppo",
-  "description": "Ta commande Hoppo est confirmée."
+  "description": "Votre commande Hoppo est confirmée."
  },
  "privacy.html": {
   "title": "Politique de confidentialité | Hoppo",
-  "description": "Comment Hoppo traite tes données : consentement explicite pour les données de santé, photos qui restent sur ton téléphone, stockage dans l'UE, choix en matière de publicité et tes droits RGPD."
+  "description": "Comment Hoppo traite vos données : consentement explicite pour les données de santé, photos qui restent sur votre téléphone, stockage dans l'UE, choix en matière de publicité et vos droits RGPD."
  },
  "terms.html": {
   "title": "Conditions générales | Hoppo",
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Devenir partenaire de Hoppo | Hoppo",
-  "description": "Touche les parents de la grossesse à 10 ans grâce à la Marketplace Hoppo. Liens affiliés via Awin ou codes promo, affichés dans l'appli et sur ce site."
+  "description": "Touchez les parents de la grossesse à 10 ans grâce à la Marketplace Hoppo. Liens affiliés via Awin ou codes promo, affichés dans l'appli et sur ce site."
  },
  "blog.html": {
   "title": "Blog Hoppo : des réponses honnêtes, de la grossesse à 10 ans",
