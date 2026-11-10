@@ -4,20 +4,20 @@
   "description": "Página no encontrada en hoppoapp.com."
  },
  "index.html": {
-  "title": "Hoppo: una pequeña habilidad a la semana, del embarazo a los 10 años",
-  "description": "Ayuda cercana y tranquila para familias. 200 habilidades cortas para practicar desde el nacimiento hasta los 10 años, 214 hitos con tarjetas de recuerdo, cada semana del embarazo y {guide_count} guías ¿Es normal? Gratis.",
+  "title": "Hoppo: una habilidad a la semana, del embarazo a los 10 años",
+  "description": "Ayuda cercana y tranquila para familias: 200 habilidades de 0 a 10 años, 214 hitos con tarjetas, el embarazo semana a semana y {guide_count} guías. Gratis.",
   "ld": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Hoppo\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":\"iOS, Android\",\"description\":\"App gratuita para familias desde el embarazo hasta los 10 años: habilidades semanales para practicar, hitos con tarjetas de recuerdo, embarazo semana a semana, guías ¿Es normal?, calendario y registros de sueño, alimentación y crecimiento.\",\"url\":\"https://hoppoapp.com/es/\",\"author\":{\"@type\":\"Person\",\"name\":\"Matej Mesko\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"EUR\"},\"inLanguage\":\"es\"}"
  },
  "guides.html": {
   "title": "{guide_count} guías ¿Es normal? para familias | Hoppo",
-  "description": "Guías cortas y contrastadas sobre llanto, sueño del bebé, fiebre, dentición, primeros alimentos, rabietas, control de esfínteres, embarazo y más. Qué es habitual, qué ayuda y cuándo pedir ayuda."
+  "description": "Guías cortas y contrastadas sobre llanto, sueño, fiebre, dentición, rabietas, control de esfínteres y más: qué es habitual, qué ayuda y cuándo pedir ayuda."
  },
  "support.html": {
   "title": "Ayuda | Hoppo",
   "description": "Ayuda con la app Hoppo: nacimiento prematuro, bebé ya nacido, más de 1 hijo, cuentas compartidas, fotos, recordatorios y eliminar su cuenta."
  },
  "shop.html": {
-  "title": "Marketplace | Hoppo",
+  "title": "Mercado | Hoppo",
   "description": "Ofertas de tiendas asociadas para bebés, niños pequeños y familias, filtradas por país."
  },
  "cart.html": {
@@ -34,7 +34,7 @@
  },
  "privacy.html": {
   "title": "Política de privacidad | Hoppo",
-  "description": "Cómo trata Hoppo sus datos: consentimiento explícito para los datos de salud, fotos que se quedan en su móvil, almacenamiento en la UE, opciones sobre la publicidad y sus derechos según el RGPD."
+  "description": "Cómo trata Hoppo sus datos: consentimiento explícito para los de salud, fotos en su móvil, almacenamiento en la UE, opciones de publicidad y derechos RGPD."
  },
  "terms.html": {
   "title": "Términos y condiciones | Hoppo",
@@ -42,14 +42,14 @@
  },
  "shop-terms.html": {
   "title": "Condiciones de venta | Hoppo",
-  "description": "Condiciones de venta de los productos de la familia Hoppo: precios, entrega en la UE, el derecho de desistimiento de 14 días, productos defectuosos y códigos promocionales."
+  "description": "Condiciones de venta de los productos de la familia Hoppo: precios, entrega en la UE, desistimiento de 14 días, productos defectuosos y códigos promocionales."
  },
  "partners.html": {
   "title": "Colabore con Hoppo | Hoppo",
-  "description": "Llegue a madres y padres desde el embarazo hasta los 10 años a través del Marketplace de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, visibles en la app y en este sitio web."
+  "description": "Llegue a madres y padres desde el embarazo hasta los 10 años con el Mercado de Hoppo. Enlaces de afiliados vía Awin o códigos promocionales, en la app y la web."
  },
  "blog.html": {
   "title": "Blog de Hoppo: respuestas sinceras, del embarazo a los 10 años",
-  "description": "Artículos sobre sueño, gastos del primer año, visitas al bebé, leche de fórmula, juego sensorial y rutinas. Con fuentes, internacionales y sin enlaces a productos."
+  "description": "Artículos sobre sueño, gastos del primer año, visitas al bebé, leche de fórmula, juego sensorial y rutinas. Con fuentes y sin enlaces a productos."
  }
 }

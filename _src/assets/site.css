@@ -437,3 +437,5 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 
 @media(max-width:900px){.ph>*,.hhero>*,.insidew>*,.promise .in2>*,.ctab>*,.feat>*,.applybox>*{flex:none !important}.ph .t,.hhero .t{width:100%}}
 @media(max-width:480px){nav .links{gap:6px 14px;flex-wrap:wrap;overflow:visible}nav .links a{font-size:14px}}
+
+.faqs.lft{max-width:1240px}.faqs.lft .fq{max-width:900px}

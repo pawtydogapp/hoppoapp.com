@@ -17,7 +17,7 @@
   "description": "Hilfe zur Hoppo App: zu früh geboren, Baby ist da, mehr als 1 Kind, gemeinsame Konten, Fotos, Erinnerungen und Konto löschen."
  },
  "shop.html": {
-  "title": "Marketplace | Hoppo",
+  "title": "Marktplatz | Hoppo",
   "description": "Angebote von Partnershops für Babys, Kleinkinder und Eltern, nach Land gefiltert."
  },
  "cart.html": {
@@ -46,10 +46,10 @@
  },
  "partners.html": {
   "title": "Partner von Hoppo werden | Hoppo",
-  "description": "Erreichen Sie Eltern von der Schwangerschaft bis zum Alter von 10 Jahren über den Hoppo Marketplace. Affiliate-Links über Awin oder Gutscheincodes, angezeigt in der App und auf dieser Website."
+  "description": "Erreichen Sie Eltern von der Schwangerschaft bis 10 Jahre über den Hoppo-Marktplatz mit Awin-Affiliate-Links oder Gutscheincodes in der App und auf der Website."
  },
  "blog.html": {
-  "title": "Hoppo-Blog: ehrliche Antworten, von der Schwangerschaft bis 10 Jahre",
+  "title": "Hoppo-Blog: ehrliche Antworten, Schwangerschaft bis 10 Jahre",
   "description": "Artikel zu Babyschlaf, Kosten im ersten Jahr, Besuch bei Neugeborenen, Pre-Nahrung, Spielen, Routinen und Schulzeit. Mit Quellen und ohne Produktlinks."
  }
 }

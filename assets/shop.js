@@ -136,7 +136,7 @@
             return aliases(country).some(function (c) { return p.countries.indexOf(c) > -1; });
           });
           var rows = rowsFor(partners, country, cat);
-          h += '<div class="chips" role="group">' + Object.keys(H.cats || {}).map(function (id) {
+          h += '<div class="chips" role="group"><button type="button" class="chip' + (cat === 'all' ? ' on' : '') + '" data-cat="all" aria-pressed="' + (cat === 'all') + '">' + esc(T('cat_all')) + '</button>' + Object.keys(H.cats || {}).map(function (id) {
             return '<button type="button" class="chip' + (cat === id ? ' on' : '') + '" data-cat="' + esc(id) + '" aria-pressed="' + (cat === id) + '">' + esc(H.cats[id]) + '</button>';
           }).join('') + '</div>';
           h += '<div class="shopbar"><label for="shop-cc">' + esc(T('country_to')) + '</label><select id="shop-cc" class="inp"><option value="ALL"' + (country === 'ALL' ? ' selected' : '') + '>' + esc(T('all_countries')) + '</option>' +

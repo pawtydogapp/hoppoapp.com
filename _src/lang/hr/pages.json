@@ -17,7 +17,7 @@
   "description": "Pomoć za aplikaciju Hoppo: prijevremeni porod, beba je stigla, više od 1 djeteta, zajednički računi, fotografije, podsjetnici i brisanje računa."
  },
  "shop.html": {
-  "title": "Marketplace | Hoppo",
+  "title": "Tržnica | Hoppo",
   "description": "Ponude partnerskih trgovina za bebe, mališane i roditelje, filtrirane po državi."
  },
  "cart.html": {
@@ -46,7 +46,7 @@
  },
  "partners.html": {
   "title": "Partnerstvo s Hoppom | Hoppo",
-  "description": "Dopirite do roditelja od trudnoće do 10 godina preko Hoppo Marketplacea. Partnerske poveznice putem Awina ili promo kodovi, prikazani u aplikaciji i na ovoj web stranici."
+  "description": "Dopirite do roditelja od trudnoće do 10 godina preko Tržnice. Partnerske poveznice putem Awina ili promo kodovi, prikazani u aplikaciji i na ovoj web stranici."
  },
  "blog.html": {
   "title": "Hoppo blog: iskreni odgovori za roditelje, od trudnoće do 10 godina",
