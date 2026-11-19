@@ -436,6 +436,12 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 .ph h1.sm{font-size:clamp(32px,3.8vw,54px);letter-spacing:-.8px}
 
 @media(max-width:900px){.ph>*,.hhero>*,.insidew>*,.promise .in2>*,.ctab>*,.feat>*,.applybox>*{flex:none !important}.ph .t,.hhero .t{width:100%}}
-@media(max-width:480px){nav .links{gap:6px 14px;flex-wrap:wrap;overflow:visible}nav .links a{font-size:14px}}
+@media(max-width:480px){nav .links{gap:0;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}nav .links::-webkit-scrollbar{display:none}nav .links a{font-size:14px}}
 
 .faqs.lft{max-width:1240px}.faqs.lft .fq{max-width:900px}
+
+/* tap targets */
+@media(max-width:760px){nav .links a{display:inline-flex;align-items:center;min-height:44px;padding:0 10px}nav .links{gap:0}}
+.stores .s{font-size:12px}
+@media(max-width:480px){nav .links{-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent);padding-right:24px}nav .links a{padding:0 8px}}
+@media(max-width:380px){nav{gap:6px 8px}nav .logo{font-size:22px;gap:6px}nav .logo svg{width:32px;height:30px}nav .getbtn{padding:10px 12px;font-size:13px;min-height:44px}}
