@@ -4,7 +4,7 @@
  "added": "Adicionado ao carrinho",
  "view_cart": "Ver carrinho",
  "back_to_shop": "Voltar ao Mercado",
- "price_vat": "Preço com IVA incluído",
+ "price_vat": "Preço final, sem IVA cobrado",
  "in_stock": "Em stock",
  "out_of_stock": "Esgotado",
  "low_stock": "Restam só {n}",
@@ -17,7 +17,7 @@
  "subtotal": "Subtotal",
  "shipping": "Envio",
  "discount": "Desconto",
- "total": "Total, IVA incluído",
+ "total": "Total",
  "free": "Grátis",
  "ship_to": "Enviar para",
  "ship_eu": "Enviamos para toda a União Europeia.",
@@ -44,5 +44,9 @@
  "partner_link": "link de parceiro",
  "cat_all": "Tudo",
  "country_to": "Entrega em",
- "visit_partner": "Visitar o link de parceiro de {name}"
+ "visit_partner": "Visitar o link de parceiro de {name}",
+ "colour": "Cor",
+ "choose_colour": "Escolher cor",
+ "from_price": "desde {price}",
+ "sold_out_colour": "{name}, esgotado"
 }

@@ -4,7 +4,7 @@
  "added": "Dodano do koszyka",
  "view_cart": "Zobacz koszyk",
  "back_to_shop": "Wróć do Pasażu",
- "price_vat": "Cena zawiera VAT",
+ "price_vat": "Cena ostateczna, VAT nie jest naliczany",
  "in_stock": "Dostępny",
  "out_of_stock": "Niedostępny",
  "low_stock": "Zostało tylko {n}",
@@ -17,7 +17,7 @@
  "subtotal": "Suma częściowa",
  "shipping": "Dostawa",
  "discount": "Rabat",
- "total": "Razem, z VAT",
+ "total": "Razem",
  "free": "Za darmo",
  "ship_to": "Wyślij do",
  "ship_eu": "Wysyłamy na terenie Unii Europejskiej.",
@@ -44,5 +44,9 @@
  "partner_link": "link partnerski",
  "cat_all": "Wszystko",
  "country_to": "Dostawa do",
- "visit_partner": "Przejdź do {name}, link partnerski"
+ "visit_partner": "Przejdź do {name}, link partnerski",
+ "colour": "Kolor",
+ "choose_colour": "Wybierz kolor",
+ "from_price": "od {price}",
+ "sold_out_colour": "{name}, niedostępny"
 }

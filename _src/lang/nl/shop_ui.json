@@ -4,7 +4,7 @@
  "added": "Toegevoegd aan winkelwagen",
  "view_cart": "Bekijk winkelwagen",
  "back_to_shop": "Terug naar de Winkel",
- "price_vat": "Prijs inclusief btw",
+ "price_vat": "Eindprijs, geen btw berekend",
  "in_stock": "Op voorraad",
  "out_of_stock": "Niet op voorraad",
  "low_stock": "Nog maar {n} over",
@@ -17,7 +17,7 @@
  "subtotal": "Subtotaal",
  "shipping": "Verzending",
  "discount": "Korting",
- "total": "Totaal, inclusief btw",
+ "total": "Totaal",
  "free": "Gratis",
  "ship_to": "Verzenden naar",
  "ship_eu": "We verzenden binnen de Europese Unie.",
@@ -44,5 +44,9 @@
  "partner_link": "partnerlink",
  "cat_all": "Alles",
  "country_to": "Bezorgt in",
- "visit_partner": "Ga naar de partnerlink van {name}"
+ "visit_partner": "Ga naar de partnerlink van {name}",
+ "colour": "Kleur",
+ "choose_colour": "Kies een kleur",
+ "from_price": "vanaf {price}",
+ "sold_out_colour": "{name}, uitverkocht"
 }

@@ -4,7 +4,7 @@
  "added": "Adăugat în coș",
  "view_cart": "Vedeți coșul",
  "back_to_shop": "Înapoi la Magazin",
- "price_vat": "Prețul include TVA",
+ "price_vat": "Preț final, nu se percepe TVA",
  "in_stock": "În stoc",
  "out_of_stock": "Stoc epuizat",
  "low_stock": "Au mai rămas {n}",
@@ -17,7 +17,7 @@
  "subtotal": "Subtotal",
  "shipping": "Livrare",
  "discount": "Reducere",
- "total": "Total, cu TVA inclus",
+ "total": "Total",
  "free": "Gratuit",
  "ship_to": "Livrare în",
  "ship_eu": "Livrăm în Uniunea Europeană.",
@@ -44,5 +44,9 @@
  "partner_link": "link partener",
  "cat_all": "Toate",
  "country_to": "Se livrează în",
- "visit_partner": "Vizitați linkul partener pentru {name}"
+ "visit_partner": "Vizitați linkul partener pentru {name}",
+ "colour": "Culoare",
+ "choose_colour": "Alegeți culoarea",
+ "from_price": "de la {price}",
+ "sold_out_colour": "{name}, stoc epuizat"
 }

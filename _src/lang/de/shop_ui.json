@@ -4,7 +4,7 @@
  "added": "Im Warenkorb",
  "view_cart": "Warenkorb ansehen",
  "back_to_shop": "Zurück zum Marktplatz",
- "price_vat": "Preis inklusive MwSt.",
+ "price_vat": "Endpreis, keine Mehrwertsteuer berechnet",
  "in_stock": "Auf Lager",
  "out_of_stock": "Nicht auf Lager",
  "low_stock": "Nur noch {n} übrig",
@@ -17,7 +17,7 @@
  "subtotal": "Zwischensumme",
  "shipping": "Versand",
  "discount": "Rabatt",
- "total": "Gesamt, inklusive MwSt.",
+ "total": "Gesamt",
  "free": "Gratis",
  "ship_to": "Lieferland",
  "ship_eu": "Wir liefern innerhalb der Europäischen Union.",
@@ -44,5 +44,9 @@
  "partner_link": "Partnerlink",
  "cat_all": "Alle",
  "country_to": "Lieferung nach",
- "visit_partner": "Partnerlink von {name} besuchen"
+ "visit_partner": "Partnerlink von {name} besuchen",
+ "colour": "Farbe",
+ "choose_colour": "Farbe wählen",
+ "from_price": "ab {price}",
+ "sold_out_colour": "{name}, ausverkauft"
 }

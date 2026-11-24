@@ -445,3 +445,13 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 .stores .s{font-size:12px}
 @media(max-width:480px){nav .links{-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent);padding-right:24px}nav .links a{padding:0 8px}}
 @media(max-width:380px){nav{gap:6px 8px}nav .logo{font-size:22px;gap:6px}nav .logo svg{width:32px;height:30px}nav .getbtn{padding:10px 12px;font-size:13px;min-height:44px}}
+.sws{display:flex;flex-wrap:wrap;gap:6px;margin:2px 0 0}
+.sw{display:inline-block;width:18px;height:18px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1.5px #B9A6E8;padding:0}
+.sws.big{gap:10px;margin:6px 0 12px}
+.sws.big .sw{width:36px;height:36px;cursor:pointer;box-shadow:0 0 0 2px #D7CCF2}
+.sws.big .sw.on{box-shadow:0 0 0 3px #4F3A93}
+.sw.out{opacity:.35;background-image:linear-gradient(135deg,transparent 45%,#5E5675 45%,#5E5675 55%,transparent 55%)}
+.sw:focus-visible{outline:3px solid #6B4FBB;outline-offset:3px}
+.colourline{margin:10px 0 0}
+.pdetails{margin:14px 0 0;padding-left:20px;font-size:15px;color:#3A3252}
+.pdetails li{margin:4px 0}

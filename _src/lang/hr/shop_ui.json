@@ -4,7 +4,7 @@
  "added": "Dodano u košaricu",
  "view_cart": "Pogledajte košaricu",
  "back_to_shop": "Natrag u Tržnicu",
- "price_vat": "Cijena uključuje PDV",
+ "price_vat": "Konačna cijena, PDV se ne obračunava",
  "in_stock": "Na zalihi",
  "out_of_stock": "Nema na zalihi",
  "low_stock": "Preostalo samo {n}",
@@ -17,7 +17,7 @@
  "subtotal": "Međuzbroj",
  "shipping": "Dostava",
  "discount": "Popust",
- "total": "Ukupno, PDV uključen",
+ "total": "Ukupno",
  "free": "Besplatno",
  "ship_to": "Dostava u",
  "ship_eu": "Dostavljamo unutar Europske unije.",
@@ -44,5 +44,9 @@
  "partner_link": "partnerska poveznica",
  "cat_all": "Sve",
  "country_to": "Dostavlja se u",
- "visit_partner": "Posjetite partnersku poveznicu: {name}"
+ "visit_partner": "Posjetite partnersku poveznicu: {name}",
+ "colour": "Boja",
+ "choose_colour": "Odaberite boju",
+ "from_price": "od {price}",
+ "sold_out_colour": "{name}, rasprodano"
 }

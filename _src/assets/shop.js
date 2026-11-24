@@ -121,6 +121,38 @@
     return h;
   }
 
+  /* ---------- colour families: one card, one page, a colour picker ---------- */
+  function isOut(p) { return p.stock != null && p.stock <= 0; }
+  function groupOf(list) {
+    var out = [], seen = {};
+    list.forEach(function (p) {
+      if (!p.family) { out.push({ p: p, vs: [p] }); return; }
+      if (seen[p.family]) { seen[p.family].vs.push(p); return; }
+      var g = { p: p, vs: [p] }; seen[p.family] = g; out.push(g);
+    });
+    out.forEach(function (g) { g.vs.sort(function (a, b) { return (a.sort || 100) - (b.sort || 100); }); g.p = g.vs.filter(function (v) { return !isOut(v); })[0] || g.vs[0]; });
+    return out;
+  }
+  function swatchHtml(v, selected, asButton) {
+    var nm = loc(v.colour), out = isOut(v);
+    var st = 'background:' + esc(/^#[0-9A-Fa-f]{3,8}$/.test(v.swatch || '') ? v.swatch : '#E6DEF8');
+    var label = out ? T('sold_out_colour', { name: nm }) : nm;
+    if (!asButton) return '<span class="sw' + (out ? ' out' : '') + '" style="' + st + '" title="' + esc(label) + '"></span>';
+    return '<button type="button" class="sw' + (selected ? ' on' : '') + (out ? ' out' : '') + '" data-slug="' + esc(v.slug) + '" style="' + st + '" title="' + esc(label) + '" aria-label="' + esc(label) + '" aria-pressed="' + !!selected + '"></button>';
+  }
+  function groupCard(g) {
+    if (g.vs.length < 2) return productCard(g.p);
+    var p = g.p, im = imgOf(p), href = H.base + '/product.html?p=' + encodeURIComponent(p.slug), allOut = g.vs.every(isOut);
+    var min = Math.min.apply(null, g.vs.map(function (v) { return v.price_cents; })), max = Math.max.apply(null, g.vs.map(function (v) { return v.price_cents; }));
+    var h = '<div class="pcard prod"><a class="pimg" href="' + esc(href) + '">' +
+      (im ? '<img src="' + esc(im) + '" alt="" width="400" height="400" loading="lazy">' : '<span class="pimg-ph" aria-hidden="true"></span>') + '</a>';
+    h += '<span class="tag">' + esc(T('own_badge')) + '</span><h3><a href="' + esc(href) + '">' + esc(loc(p.family_name || p.name)) + '</a></h3>';
+    h += '<div class="sws" aria-label="' + esc(T('colour')) + '">' + g.vs.map(function (v) { return swatchHtml(v, false, false); }).join('') + '</div>';
+    h += '<div class="pprice">' + (min !== max ? esc(T('from_price', { price: money(min) })) : '<b>' + esc(money(min)) + '</b>') + '</div>';
+    h += '<div class="pactions">' + (allOut ? '<span class="pcat">' + esc(T('out_of_stock')) + '</span>' : '<a class="btn sm" href="' + esc(href) + '">' + esc(T('choose_colour')) + '</a>') + '</div></div>';
+    return h;
+  }
+
   function shopPage(root) {
     root.innerHTML = '<p class="shopmsg">' + esc(T('loading')) + '</p>';
     Promise.all([rest('partners?select=*&order=sort'), restSoft('app_config?select=key,value'), restSoft('products?select=*&order=sort'), restSoft('shipping_rates?select=country')])
@@ -142,7 +174,7 @@
           h += '<div class="shopbar"><label for="shop-cc">' + esc(T('country_to')) + '</label><select id="shop-cc" class="inp"><option value="ALL"' + (country === 'ALL' ? ' selected' : '') + '>' + esc(T('all_countries')) + '</option>' +
             countries.map(function (c) { return '<option value="' + esc(c) + '"' + (c === country ? ' selected' : '') + '>' + esc(cname(c)) + '</option>'; }).join('') + '</select></div>';
           h += '<div class="pgrid">';
-          if (ownProducts.length) h += ownProducts.map(productCard).join('');
+          if (ownProducts.length) h += groupOf(ownProducts).map(groupCard).join('');
           h += rows.map(partnerCard).join('');
           h += '</div>';
           if (!rows.length && !ownProducts.length) h += '<p class="shopmsg">' + esc(T(partners.length || products.length ? 'shop_intro_empty' : 'offers_soon')) + '</p>';
@@ -169,25 +201,46 @@
     Promise.all([restSoft('products?slug=eq.' + slug + '&select=*'), restSoft('app_config?select=key,value')]).then(function (r) {
       var p = r[0][0], open = cfgMap(r[1]).shop_enabled === '1';
       if (!p || !open) { root.innerHTML = back + '<p class="shopmsg">' + esc(open ? T('product_missing') : T('shop_closed')) + '</p>'; return; }
-      var name = loc(p.name); document.title = name + ' | Hoppo';
-      var imgs = (p.images || []).filter(safeUrl), out = p.stock != null && p.stock <= 0, max = Math.min(p.max_per_order || 10, p.stock != null ? Math.max(p.stock, 1) : 10);
-      var h = back + '<div class="prodpage"><div class="gal">' + (imgs.length ? '<img id="pmain" src="' + esc(imgs[0]) + '" alt="' + esc(name) + '" width="640" height="640">' : '<span class="pimg-ph big" aria-hidden="true"></span>');
-      if (imgs.length > 1) h += '<div class="thumbs">' + imgs.map(function (u, i) { return '<button type="button" class="thumb" data-img="' + esc(u) + '" aria-label="' + (i + 1) + '"><img src="' + esc(u) + '" alt="" width="64" height="64" loading="lazy"></button>'; }).join('') + '</div>';
-      h += '</div><div class="info"><span class="tag">' + esc(T('own_badge')) + '</span><h1>' + esc(name) + '</h1>';
-      h += '<div class="pprice big">' + (p.compare_at_cents ? '<s>' + esc(money(p.compare_at_cents)) + '</s> ' : '') + '<b>' + esc(money(p.price_cents)) + '</b></div><p class="pcat">' + esc(T('price_vat')) + '</p>';
-      var stockMsg = out ? T('out_of_stock') : (p.stock != null && p.stock <= 5 ? T('low_stock', { n: p.stock }) : T('in_stock'));
-      h += '<p class="stock' + (out ? ' out' : '') + '">' + esc(stockMsg) + '</p>';
-      loc(p.description).split(/\n+/).forEach(function (para) { if (para.trim()) h += '<p>' + esc(para.trim()) + '</p>'; });
-      if (!out) h += '<div class="buyrow"><label for="pqty">' + esc(T('quantity')) + '</label><input id="pqty" class="inp qty" type="number" min="1" max="' + max + '" value="1" inputmode="numeric"><button type="button" class="btn" id="padd">' + esc(T('add_to_cart')) + '</button></div><p id="pmsg" class="pcat" aria-live="polite"></p>';
-      h += '<p class="pcat">' + esc(T('ship_eu')) + '</p></div></div>';
-      root.innerHTML = h;
-      root.addEventListener('click', function (e) {
-        var t = e.target.closest ? e.target.closest('button') : null; if (!t) return;
-        if (t.hasAttribute('data-img')) { var m = $('pmain'); if (m) m.src = t.getAttribute('data-img'); return; }
-        if (t.id === 'padd') {
-          var q = Math.max(1, Math.min(max, parseInt($('pqty').value, 10) || 1)); cartAdd(p.id, q, p.max_per_order || 10);
-          $('pmsg').innerHTML = esc(T('added')) + '. <a href="' + H.base + '/cart.html">' + esc(T('view_cart')) + '</a>';
+      var sibs = p.family && /^[a-z0-9-]+$/.test(p.family) ? restSoft('products?family=eq.' + p.family + '&select=*&order=sort') : Promise.resolve([p]);
+      return sibs.then(function (vs) {
+        if (!vs.length) vs = [p];
+        var cur = p;
+        function render() {
+          var name = loc(cur.name); document.title = name + ' | Hoppo';
+          var imgs = (cur.images || []).filter(safeUrl), out = isOut(cur), max = Math.min(cur.max_per_order || 10, cur.stock != null ? Math.max(cur.stock, 1) : 10);
+          var h = back + '<div class="prodpage"><div class="gal">' + (imgs.length ? '<img id="pmain" src="' + esc(imgs[0]) + '" alt="' + esc(name) + '" width="640" height="640">' : '<span class="pimg-ph big" aria-hidden="true"></span>');
+          if (imgs.length > 1) h += '<div class="thumbs">' + imgs.map(function (u, i) { return '<button type="button" class="thumb" data-img="' + esc(u) + '" aria-label="' + (i + 1) + '"><img src="' + esc(u) + '" alt="" width="64" height="64" loading="lazy"></button>'; }).join('') + '</div>';
+          h += '</div><div class="info"><span class="tag">' + esc(T('own_badge')) + '</span><h1>' + esc(cur.family ? loc(cur.family_name || cur.name) : name) + '</h1>';
+          h += '<div class="pprice big">' + (cur.compare_at_cents ? '<s>' + esc(money(cur.compare_at_cents)) + '</s> ' : '') + '<b>' + esc(money(cur.price_cents)) + '</b></div><p class="pcat">' + esc(T('price_vat')) + '</p>';
+          if (vs.length > 1) {
+            h += '<p class="colourline"><b>' + esc(T('colour')) + ':</b> <span id="cname">' + esc(loc(cur.colour)) + '</span></p><div class="sws big" role="group" aria-label="' + esc(T('colour')) + '">' +
+              vs.map(function (v) { return swatchHtml(v, v.slug === cur.slug, true); }).join('') + '</div>';
+          }
+          var stockMsg = out ? T('out_of_stock') : (cur.stock != null && cur.stock <= 5 ? T('low_stock', { n: cur.stock }) : T('in_stock'));
+          h += '<p class="stock' + (out ? ' out' : '') + '">' + esc(stockMsg) + '</p>';
+          loc(cur.description).split(/\n+/).forEach(function (para) { if (para.trim()) h += '<p>' + esc(para.trim()) + '</p>'; });
+          if (!out) h += '<div class="buyrow"><label for="pqty">' + esc(T('quantity')) + '</label><input id="pqty" class="inp qty" type="number" min="1" max="' + max + '" value="1" inputmode="numeric"><button type="button" class="btn" id="padd">' + esc(T('add_to_cart')) + '</button></div><p id="pmsg" class="pcat" aria-live="polite"></p>';
+          h += '<p class="pcat">' + esc(T('ship_eu')) + '</p>';
+          var det = loc(cur.details).split(/\n+/).filter(function (x) { return x.trim(); });
+          if (det.length) h += '<ul class="pdetails">' + det.map(function (x) { return '<li>' + esc(x.trim()) + '</li>'; }).join('') + '</ul>';
+          h += '</div></div>';
+          root.innerHTML = h;
         }
+        render();
+        root.addEventListener('click', function (e) {
+          var t = e.target.closest ? e.target.closest('button') : null; if (!t) return;
+          if (t.hasAttribute('data-img')) { var m = $('pmain'); if (m) m.src = t.getAttribute('data-img'); return; }
+          if (t.hasAttribute('data-slug')) {
+            var n = vs.filter(function (v) { return v.slug === t.getAttribute('data-slug'); })[0];
+            if (n && n !== cur) { cur = n; try { history.replaceState(null, '', '?p=' + encodeURIComponent(n.slug)); } catch (x) { /* ignore */ } render(); }
+            return;
+          }
+          if (t.id === 'padd') {
+            var mx = Math.min(cur.max_per_order || 10, cur.stock != null ? Math.max(cur.stock, 1) : 10);
+            var q = Math.max(1, Math.min(mx, parseInt($('pqty').value, 10) || 1)); cartAdd(cur.id, q, cur.max_per_order || 10);
+            $('pmsg').innerHTML = esc(T('added')) + '. <a href="' + H.base + '/cart.html">' + esc(T('view_cart')) + '</a>';
+          }
+        });
       });
     }).catch(function () { root.innerHTML = back + '<p class="shopmsg">' + esc(T('err_generic')) + '</p>'; });
   }

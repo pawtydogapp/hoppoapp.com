@@ -4,7 +4,7 @@
  "added": "Ajouté au panier",
  "view_cart": "Voir le panier",
  "back_to_shop": "Retour au Marché",
- "price_vat": "Prix TVA incluse",
+ "price_vat": "Prix final, TVA non appliquée",
  "in_stock": "En stock",
  "out_of_stock": "Rupture de stock",
  "low_stock": "Plus que {n}",
@@ -17,7 +17,7 @@
  "subtotal": "Sous-total",
  "shipping": "Livraison",
  "discount": "Réduction",
- "total": "Total, TVA incluse",
+ "total": "Total",
  "free": "Gratuit",
  "ship_to": "Pays de livraison",
  "ship_eu": "Nous livrons dans l'Union européenne.",
@@ -44,5 +44,9 @@
  "partner_link": "lien partenaire",
  "cat_all": "Tout",
  "country_to": "Pays de livraison",
- "visit_partner": "Ouvrir le lien partenaire de {name}"
+ "visit_partner": "Ouvrir le lien partenaire de {name}",
+ "colour": "Couleur",
+ "choose_colour": "Choisir la couleur",
+ "from_price": "à partir de {price}",
+ "sold_out_colour": "{name}, épuisé"
 }

@@ -4,7 +4,7 @@
   "added": "Added to cart",
   "view_cart": "View cart",
   "back_to_shop": "Back to Marketplace",
-  "price_vat": "Price includes VAT",
+  "price_vat": "Final price, no VAT charged",
   "in_stock": "In stock",
   "out_of_stock": "Out of stock",
   "low_stock": "Only {n} left",
@@ -18,7 +18,7 @@
   "subtotal": "Subtotal",
   "shipping": "Shipping",
   "discount": "Discount",
-  "total": "Total, VAT included",
+  "total": "Total",
   "free": "Free",
   "ship_to": "Ship to",
   "ship_eu": "We ship within the European Union.",
@@ -58,5 +58,9 @@
   "cat_all": "All",
   "offers_soon": "Shops are coming soon",
   "country_to": "Delivers to",
-  "visit_partner": "Visit {name} partner link"
+  "visit_partner": "Visit {name} partner link",
+  "colour": "Colour",
+  "choose_colour": "Choose colour",
+  "from_price": "from {price}",
+  "sold_out_colour": "{name}, sold out"
 }
