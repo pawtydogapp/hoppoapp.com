@@ -28,7 +28,7 @@
  "checkout_note": "U betaalt op een beveiligde Stripe-pagina. Hoppo ziet uw kaartgegevens nooit.",
  "terms_agree": "Ik ga akkoord met de {link}.",
  "terms_link": "verkoopvoorwaarden",
- "delivery_days": "Levering in {min} tot {max} werkdagen",
+ "delivery_days": "Binnen 5 dagen verstuurd.",
  "err_stock": "Niet genoeg voorraad voor {name}.",
  "err_inactive": "{name} is niet meer beschikbaar.",
  "err_country": "We verzenden nog niet naar dit land.",

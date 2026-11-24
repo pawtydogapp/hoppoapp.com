@@ -455,3 +455,10 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 .colourline{margin:10px 0 0}
 .pdetails{margin:14px 0 0;padding-left:20px;font-size:15px;color:#3A3252}
 .pdetails li{margin:4px 0}
+
+.pcard.fam{grid-column:1 / -1;flex-direction:row;align-items:center;gap:28px;padding:20px 24px;border-color:#B9A6E8}
+.pcard.fam .fambody{flex:0 0 auto;width:260px;display:flex;flex-direction:column;gap:6px}
+.famimgs{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;flex:1;min-width:0}
+.famimgs a{display:block;border-radius:12px;overflow:hidden;background:#F1ECFB;aspect-ratio:1/1}
+.famimgs img{width:100%;height:100%;object-fit:cover;display:block}
+@media(max-width:760px){.pcard.fam{flex-direction:column;align-items:stretch;gap:14px}.pcard.fam .fambody{width:auto}.famimgs{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}}

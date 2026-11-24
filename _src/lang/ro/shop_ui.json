@@ -28,7 +28,7 @@
  "checkout_note": "Plătiți pe o pagină Stripe securizată. Hoppo nu vede niciodată datele cardului dumneavoastră.",
  "terms_agree": "Sunt de acord cu {link}.",
  "terms_link": "condițiile de vânzare",
- "delivery_days": "Livrare în {min} până la {max} zile lucrătoare",
+ "delivery_days": "Expediere în 5 zile.",
  "err_stock": "Stoc insuficient pentru {name}.",
  "err_inactive": "{name} nu mai este disponibil.",
  "err_country": "Încă nu livrăm în această țară.",

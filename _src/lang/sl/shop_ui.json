@@ -28,7 +28,7 @@
  "checkout_note": "Plačate na varni strani Stripe. Hoppo nikoli ne vidi podatkov vaše kartice.",
  "terms_agree": "Strinjam se s {link}.",
  "terms_link": "pogoji prodaje",
- "delivery_days": "Dostava v {min} do {max} delovnih dneh",
+ "delivery_days": "Pošljemo v 5 dneh.",
  "err_stock": "Izdelka {name} ni dovolj na zalogi.",
  "err_inactive": "Izdelek {name} ni več na voljo.",
  "err_country": "V to državo še ne dostavljamo.",

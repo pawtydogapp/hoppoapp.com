@@ -28,7 +28,7 @@
  "checkout_note": "Sie zahlen auf einer sicheren Stripe-Seite. Hoppo sieht Ihre Kartendaten nie.",
  "terms_agree": "Ich stimme den {link} zu.",
  "terms_link": "Verkaufsbedingungen",
- "delivery_days": "Lieferung in {min} bis {max} Werktagen",
+ "delivery_days": "Verschickt innerhalb von 5 Tagen.",
  "err_stock": "Nicht genug Bestand für {name}.",
  "err_inactive": "{name} ist nicht mehr verfügbar.",
  "err_country": "In dieses Land liefern wir noch nicht.",

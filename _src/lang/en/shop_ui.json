@@ -29,7 +29,7 @@
   "checkout_note": "You pay on a secure Stripe page. Hoppo never sees your card details.",
   "terms_agree": "I agree to the {link}.",
   "terms_link": "terms of sale",
-  "delivery_days": "Delivery in {min} to {max} working days",
+  "delivery_days": "Sent within 5 days.",
   "err_generic": "Something went wrong. Please try again.",
   "err_stock": "Not enough stock for {name}.",
   "err_inactive": "{name} is no longer available.",

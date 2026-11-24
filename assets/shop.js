@@ -142,15 +142,18 @@
   }
   function groupCard(g) {
     if (g.vs.length < 2) return productCard(g.p);
-    var p = g.p, im = imgOf(p), href = H.base + '/product.html?p=' + encodeURIComponent(p.slug), allOut = g.vs.every(isOut);
+    var p = g.p, href = H.base + '/product.html?p=' + encodeURIComponent(p.slug), allOut = g.vs.every(isOut);
     var min = Math.min.apply(null, g.vs.map(function (v) { return v.price_cents; })), max = Math.max.apply(null, g.vs.map(function (v) { return v.price_cents; }));
-    var h = '<div class="pcard prod"><a class="pimg" href="' + esc(href) + '">' +
-      (im ? '<img src="' + esc(im) + '" alt="" width="400" height="400" loading="lazy">' : '<span class="pimg-ph" aria-hidden="true"></span>') + '</a>';
-    h += '<span class="tag">' + esc(T('own_badge')) + '</span><h3><a href="' + esc(href) + '">' + esc(loc(p.family_name || p.name)) + '</a></h3>';
+    var strip = g.vs.filter(function (v) { return !isOut(v) && imgOf(v); }).slice(0, 6);
+    if (!strip.length) strip = g.vs.filter(function (v) { return imgOf(v); }).slice(0, 6);
+    var h = '<div class="pcard fam"><div class="fambody"><span class="tag">' + esc(T('own_badge')) + '</span><h3><a href="' + esc(href) + '">' + esc(loc(p.family_name || p.name)) + '</a></h3>';
     h += '<div class="sws" aria-label="' + esc(T('colour')) + '">' + g.vs.map(function (v) { return swatchHtml(v, false, false); }).join('') + '</div>';
     h += '<div class="pprice">' + (min !== max ? esc(T('from_price', { price: money(min) })) : '<b>' + esc(money(min)) + '</b>') + '</div>';
     h += '<div class="pactions">' + (allOut ? '<span class="pcat">' + esc(T('out_of_stock')) + '</span>' : '<a class="btn sm" href="' + esc(href) + '">' + esc(T('choose_colour')) + '</a>') + '</div></div>';
-    return h;
+    if (strip.length) h += '<div class="famimgs">' + strip.map(function (v) {
+      return '<a href="' + esc(H.base + '/product.html?p=' + encodeURIComponent(v.slug)) + '"><img src="' + esc(imgOf(v)) + '" alt="' + esc(loc(v.colour)) + '" width="300" height="300" loading="lazy"></a>';
+    }).join('') + '</div>';
+    return h + '</div>';
   }
 
   function shopPage(root) {
@@ -289,7 +292,7 @@
           if (quote.discount_cents) h += '<dt>' + esc(T('discount')) + (quote.promo ? ' (' + esc(quote.promo) + ')' : '') + '</dt><dd>-' + esc(money(quote.discount_cents)) + '</dd>';
           h += '<dt>' + esc(T('shipping')) + '</dt><dd>' + (quote.shipping_cents ? esc(money(quote.shipping_cents)) : esc(T('free'))) + '</dd>';
           h += '<dt class="grand">' + esc(T('total')) + '</dt><dd class="grand">' + esc(money(quote.total_cents)) + '</dd></dl>';
-          if (quote.days_min && quote.days_max) h += '<p class="pcat">' + esc(T('delivery_days', { min: quote.days_min, max: quote.days_max })) + '</p>';
+          h += '<p class="pcat">' + esc(T('delivery_days')) + '</p>';
           return h;
         }
         function draw(msg) {

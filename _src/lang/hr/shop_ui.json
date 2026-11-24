@@ -28,7 +28,7 @@
  "checkout_note": "Plaćate na sigurnoj stranici Stripea. Hoppo nikad ne vidi podatke vaše kartice.",
  "terms_agree": "Slažem se s {link}.",
  "terms_link": "uvjetima prodaje",
- "delivery_days": "Dostava za {min} do {max} radnih dana",
+ "delivery_days": "Šaljemo u roku od 5 dana.",
  "err_stock": "Nema dovoljno zalihe za {name}.",
  "err_inactive": "{name} više nije dostupan.",
  "err_country": "Još ne dostavljamo u ovu državu.",
