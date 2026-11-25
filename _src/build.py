@@ -132,7 +132,7 @@ def available(lang, path):
     """A page exists in a language once its text exists. Until then links fall back to English."""
     if lang == 'en': return True
     pg = next(p for p in PAGES if p['path'] == path)
-    if pg.get('noindex'): return False
+    if pg.get('noindex'): return os.path.exists(os.path.join(SRC, 'lang', lang, 'pages', path))   # shop pages (product, cart, order-complete) are not indexed but exist in every language
     if pg['kind'] == 'guide': return os.path.exists(os.path.join(SRC, 'lang', lang, 'guides.json'))
     if path in SHARED: return os.path.exists(os.path.join(SRC, 'lang', lang, 'chrome.json')) or lang == 'en'
     return os.path.exists(os.path.join(SRC, 'lang', lang, 'pages', path))

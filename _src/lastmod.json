@@ -92,12 +92,16 @@
 "d": "2026-11-10"
 },
 "https://hoppoapp.com/cart.html": {
-"h": "08ee6cd90a6a197c",
-"d": "2026-11-24"
+"h": "12fdc96ed3ac3394",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/de/": {
 "h": "c7146d85eeb2e57e",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/de/404.html": {
+"h": "7e1bc0ad8feaa531",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/de/blog.html": {
 "h": "6c0f119e4d7e40f8",
@@ -182,6 +186,10 @@
 "https://hoppoapp.com/de/blog/toddler-daily-routine-chart.html": {
 "h": "8ecabd480e8cb90a",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/de/cart.html": {
+"h": "8e9e33f1611edefa",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/de/guides.html": {
 "h": "138c0f9ed59c526f",
@@ -407,21 +415,29 @@
 "h": "5f338718d3ba70b7",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/de/order-complete.html": {
+"h": "49367c8edd69ac28",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/de/partners.html": {
-"h": "0dde9366623511ef",
-"d": "2026-11-24"
+"h": "1ff0bb7a42d26aa5",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/de/privacy.html": {
 "h": "137d865a99467c62",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/de/product.html": {
+"h": "9c7b8ad3f1eefe4d",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/de/shop-terms.html": {
 "h": "ff3312e90d0f7c0f",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/de/shop.html": {
-"h": "f4630a3ed5046a11",
-"d": "2026-11-24"
+"h": "a14dbe0c9d61fcae",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/de/support.html": {
 "h": "758502bb1e9f3315",
@@ -434,6 +450,10 @@
 "https://hoppoapp.com/es/": {
 "h": "db987449f7419b99",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/es/404.html": {
+"h": "f4f5a1c926532df0",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/es/blog.html": {
 "h": "2a5a409aac46a3dd",
@@ -518,6 +538,10 @@
 "https://hoppoapp.com/es/blog/toddler-daily-routine-chart.html": {
 "h": "ae8065d2aded8d28",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/es/cart.html": {
+"h": "6117d62d7fbee57b",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/es/guides.html": {
 "h": "a7bfed97d9e2cc57",
@@ -743,21 +767,29 @@
 "h": "f278257647605379",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/es/order-complete.html": {
+"h": "4410ccd258b17d43",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/es/partners.html": {
-"h": "5021be0e45cf2f13",
-"d": "2026-11-24"
+"h": "131ba506c09fe86f",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/es/privacy.html": {
 "h": "12bbc1d9710067d1",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/es/product.html": {
+"h": "a59255924b6f49c3",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/es/shop-terms.html": {
 "h": "ec2809e4bada8b1c",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/es/shop.html": {
-"h": "c94e9947f6c9b7f0",
-"d": "2026-11-24"
+"h": "083670deebb6c907",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/es/support.html": {
 "h": "40f7b5eb2787385f",
@@ -770,6 +802,10 @@
 "https://hoppoapp.com/fr/": {
 "h": "6a6a1810f4a7c310",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/fr/404.html": {
+"h": "b14fc3fc71c1fe13",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/fr/blog.html": {
 "h": "c33c44928738b049",
@@ -854,6 +890,10 @@
 "https://hoppoapp.com/fr/blog/toddler-daily-routine-chart.html": {
 "h": "04542729e9a3214f",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/fr/cart.html": {
+"h": "b2694bf600ecd63b",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/fr/guides.html": {
 "h": "73c348d2ca87705e",
@@ -1079,21 +1119,29 @@
 "h": "5051d4b925162df5",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/fr/order-complete.html": {
+"h": "a22225b41ddb630d",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/fr/partners.html": {
-"h": "8fb649374e4d90a0",
-"d": "2026-11-24"
+"h": "c43ebb9ecb58b10d",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/fr/privacy.html": {
 "h": "741071143e888130",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/fr/product.html": {
+"h": "3c52c1bc3d05a8a2",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/fr/shop-terms.html": {
 "h": "ecdfc372b583ceec",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/fr/shop.html": {
-"h": "d71c5a3c846ef230",
-"d": "2026-11-24"
+"h": "4c33039175b9b7af",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/fr/support.html": {
 "h": "4815f7b72df73367",
@@ -1331,6 +1379,10 @@
 "h": "29b1e85b4b88d4a4",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/hr/404.html": {
+"h": "08065abc8d48a945",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/hr/blog.html": {
 "h": "b504822581fef6e2",
 "d": "2026-11-10"
@@ -1414,6 +1466,10 @@
 "https://hoppoapp.com/hr/blog/toddler-daily-routine-chart.html": {
 "h": "0beae24fd27a3939",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/hr/cart.html": {
+"h": "7623e11658b10e5c",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/hr/guides.html": {
 "h": "2f13a30651ae633c",
@@ -1639,21 +1695,29 @@
 "h": "fee584cee02c9c12",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/hr/order-complete.html": {
+"h": "e9f5525c9bc8d2f6",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/hr/partners.html": {
-"h": "e1e704050a898b90",
-"d": "2026-11-24"
+"h": "33d1df4e13f28956",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/hr/privacy.html": {
 "h": "5bdb9f47d08940fd",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/hr/product.html": {
+"h": "f8131fde32d8f4e6",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/hr/shop-terms.html": {
 "h": "479bc2a7f4166ce1",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/hr/shop.html": {
-"h": "3b5d369ee49f87a8",
-"d": "2026-11-24"
+"h": "6c8b7d7f26c80ab0",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/hr/support.html": {
 "h": "541603b81c44392c",
@@ -1666,6 +1730,10 @@
 "https://hoppoapp.com/it/": {
 "h": "34b3fd3fe1cacbfb",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/it/404.html": {
+"h": "b8c02ee6d3812978",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/it/blog.html": {
 "h": "505abe5fd9feb182",
@@ -1750,6 +1818,10 @@
 "https://hoppoapp.com/it/blog/toddler-daily-routine-chart.html": {
 "h": "26cd87b00297cf96",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/it/cart.html": {
+"h": "2b6b49158438538b",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/it/guides.html": {
 "h": "191efb68c369c640",
@@ -1975,21 +2047,29 @@
 "h": "aa11c4843ad2a24d",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/it/order-complete.html": {
+"h": "e5712b52f249688e",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/it/partners.html": {
-"h": "4f79ac9dd353df73",
-"d": "2026-11-24"
+"h": "e1939e0ff53f0240",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/it/privacy.html": {
 "h": "c3a6068a456a9a1e",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/it/product.html": {
+"h": "0ff88175a531dbaa",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/it/shop-terms.html": {
 "h": "e4a0ec5dd7f0ba8b",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/it/shop.html": {
-"h": "dd2b45342bad5692",
-"d": "2026-11-24"
+"h": "c7f23e49a7deaa99",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/it/support.html": {
 "h": "5b2b8ed68f4dc1b4",
@@ -2002,6 +2082,10 @@
 "https://hoppoapp.com/nl/": {
 "h": "a20ed711d6bff85c",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/nl/404.html": {
+"h": "cbac9929250fe986",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/nl/blog.html": {
 "h": "ef45de584be2d298",
@@ -2086,6 +2170,10 @@
 "https://hoppoapp.com/nl/blog/toddler-daily-routine-chart.html": {
 "h": "03524425aa4cd695",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/nl/cart.html": {
+"h": "e1567c1fc02a53ca",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/nl/guides.html": {
 "h": "f4ffc5066df8464a",
@@ -2311,21 +2399,29 @@
 "h": "77c8ba687f17a2b1",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/nl/order-complete.html": {
+"h": "f892331d3e153159",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/nl/partners.html": {
-"h": "9c6df34af6fae837",
-"d": "2026-11-24"
+"h": "162da272696fa420",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/nl/privacy.html": {
 "h": "6e729ddb3e0ad7e3",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/nl/product.html": {
+"h": "81b9f73168a2acba",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/nl/shop-terms.html": {
 "h": "6c2753cb19badda6",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/nl/shop.html": {
-"h": "485fe53714a9d456",
-"d": "2026-11-24"
+"h": "a7af4381f0b25509",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/nl/support.html": {
 "h": "4f18b7bc6c364508",
@@ -2336,16 +2432,20 @@
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/order-complete.html": {
-"h": "e4a6b6b76e89a207",
-"d": "2026-11-24"
+"h": "e31fd1f7d36b8f93",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/partners.html": {
-"h": "575551c60defae6c",
-"d": "2026-11-24"
+"h": "9a515f9fb687564d",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pl/": {
 "h": "d1097ac51c8030b3",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/pl/404.html": {
+"h": "b314e39976f6fd8b",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pl/blog.html": {
 "h": "a945cdb7a4e0ef26",
@@ -2430,6 +2530,10 @@
 "https://hoppoapp.com/pl/blog/toddler-daily-routine-chart.html": {
 "h": "098b780839032720",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/pl/cart.html": {
+"h": "054eccc436d320aa",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pl/guides.html": {
 "h": "399b946523d5efef",
@@ -2655,21 +2759,29 @@
 "h": "220ea018f340be54",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/pl/order-complete.html": {
+"h": "74d0e603d5261ec8",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/pl/partners.html": {
-"h": "6bf9291a8701e567",
-"d": "2026-11-24"
+"h": "d6fdf4d5ee5b4f12",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pl/privacy.html": {
 "h": "741a3ccafd0a6565",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/pl/product.html": {
+"h": "296a4a00035b7efe",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pl/shop-terms.html": {
 "h": "c6130c0ffd36b1cc",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/pl/shop.html": {
-"h": "01e1bd1ed3aab676",
-"d": "2026-11-24"
+"h": "f1913fcd72e9ba2d",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pl/support.html": {
 "h": "8e8bb4aaa43fb83d",
@@ -2684,12 +2796,16 @@
 "d": "2026-11-23"
 },
 "https://hoppoapp.com/product.html": {
-"h": "9ba0573344606b3c",
-"d": "2026-11-24"
+"h": "dc5041818a95dc26",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pt/": {
 "h": "f52d748d22308ec8",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/pt/404.html": {
+"h": "d737860a6090704b",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pt/blog.html": {
 "h": "050c6cf6943cde02",
@@ -2774,6 +2890,10 @@
 "https://hoppoapp.com/pt/blog/toddler-daily-routine-chart.html": {
 "h": "3e68bc68725d1a83",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/pt/cart.html": {
+"h": "1d72c1398486cbe8",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pt/guides.html": {
 "h": "a10fc0fc742080d7",
@@ -2999,21 +3119,29 @@
 "h": "dfd5728351f1b33b",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/pt/order-complete.html": {
+"h": "9aec48dba771089a",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/pt/partners.html": {
-"h": "e910156b12e5964c",
-"d": "2026-11-24"
+"h": "41882aed5ae63f2a",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pt/privacy.html": {
 "h": "b55ab0aad84fd1c8",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/pt/product.html": {
+"h": "6e84ff09a31ac719",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pt/shop-terms.html": {
 "h": "0661800d22adab29",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/pt/shop.html": {
-"h": "532f5888a3048bfe",
-"d": "2026-11-24"
+"h": "d2232b4bdfddbc75",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/pt/support.html": {
 "h": "ebf2d32458369b32",
@@ -3026,6 +3154,10 @@
 "https://hoppoapp.com/ro/": {
 "h": "1325b412cbc8ed22",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/ro/404.html": {
+"h": "01cf4a0101f98fce",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/ro/blog.html": {
 "h": "a12e3ad218020ea0",
@@ -3110,6 +3242,10 @@
 "https://hoppoapp.com/ro/blog/toddler-daily-routine-chart.html": {
 "h": "85958217818385ff",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/ro/cart.html": {
+"h": "cb78dded061955cb",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/ro/guides.html": {
 "h": "079e0b31fb593999",
@@ -3335,21 +3471,29 @@
 "h": "13cad7944f5a0358",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/ro/order-complete.html": {
+"h": "0dc8816c8a0078aa",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/ro/partners.html": {
-"h": "b7fbda9f4fbb11cd",
-"d": "2026-11-24"
+"h": "b5c5e8468d24380b",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/ro/privacy.html": {
 "h": "21a99fab34cd4956",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/ro/product.html": {
+"h": "be7eef2f9dbeecdc",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/ro/shop-terms.html": {
 "h": "eb9946317a810d82",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/ro/shop.html": {
-"h": "f663f553fea9e2c3",
-"d": "2026-11-24"
+"h": "50ebeb4f4dd8e2d0",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/ro/support.html": {
 "h": "278e1706e043bf33",
@@ -3364,12 +3508,16 @@
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/shop.html": {
-"h": "a439bec29bb8a876",
-"d": "2026-11-24"
+"h": "45a0c0c0ace17bb9",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/sl/": {
 "h": "725d7e91adb7ca5a",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/sl/404.html": {
+"h": "6dc6a94f09e49b21",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/sl/blog.html": {
 "h": "37667b01f449d83e",
@@ -3454,6 +3602,10 @@
 "https://hoppoapp.com/sl/blog/toddler-daily-routine-chart.html": {
 "h": "4de058d1fe829684",
 "d": "2026-11-10"
+},
+"https://hoppoapp.com/sl/cart.html": {
+"h": "617471833b138bca",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/sl/guides.html": {
 "h": "b89bf37e1691ff77",
@@ -3679,21 +3831,29 @@
 "h": "fa35afe8663727a1",
 "d": "2026-11-10"
 },
+"https://hoppoapp.com/sl/order-complete.html": {
+"h": "1356796f151801e7",
+"d": "2026-11-25"
+},
 "https://hoppoapp.com/sl/partners.html": {
-"h": "bde9d0d8f5042287",
-"d": "2026-11-24"
+"h": "2feaf4ae5e0d306a",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/sl/privacy.html": {
 "h": "edd349b8cef49f34",
 "d": "2026-11-23"
+},
+"https://hoppoapp.com/sl/product.html": {
+"h": "ed9bf6aeb7d9b893",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/sl/shop-terms.html": {
 "h": "1e5fd0ea4554e2f4",
 "d": "2026-11-24"
 },
 "https://hoppoapp.com/sl/shop.html": {
-"h": "4bd6d8954be508c0",
-"d": "2026-11-24"
+"h": "5f1426488ce3e21f",
+"d": "2026-11-25"
 },
 "https://hoppoapp.com/sl/support.html": {
 "h": "65222283b16d36d5",

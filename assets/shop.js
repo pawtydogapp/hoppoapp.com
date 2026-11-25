@@ -70,6 +70,7 @@
     var mine = aliases(country), t = today();
     return (list || []).filter(function (p) {
       if (!p || !p.active) return false;
+      if (p.own && /\/shop\.html([?#]|$)/.test(p.affiliate_url || '')) return false;   /* link to this shop: listed in the app only, the site has its own cards */
       if (p.starts_at && p.starts_at > t) return false;
       if (p.ends_at && p.ends_at < t) return false;
       if (cat && cat !== 'all' && p.category !== cat) return false;
@@ -347,7 +348,7 @@
   }
 
   function whoPage(box) {
-    rest('partners?select=name,active,starts_at,ends_at').then(function (rows) {
+    rest('partners?select=name,active,starts_at,ends_at,own,affiliate_url').then(function (rows) {
       var names = rowsFor(rows, 'ALL', 'all').map(function (p) { return p.name; }).filter(Boolean);
       var span = $('who-names');
       if (!names.length || !span) return;
