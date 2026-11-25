@@ -34,7 +34,7 @@
  "err_country": "Non spediamo ancora in questo paese.",
  "err_promo": "Questo codice non è valido.",
  "err_promo_expired": "Questo codice è scaduto.",
- "err_promo_min": "Questo codice richiede un ordine più alto.",
+ "err_promo_min": "Questo codice richiede un ordine di importo maggiore.",
  "err_max": "Può ordinare al massimo {n} di {name}.",
  "err_terms": "Accetti le condizioni di vendita.",
  "thanks_title": "Grazie per il Suo ordine",
@@ -44,9 +44,13 @@
  "partner_link": "link partner",
  "cat_all": "Tutti",
  "country_to": "Consegna in",
- "visit_partner": "Vada al link partner di {name}",
+ "visit_partner": "Visiti il link partner di {name}",
  "colour": "Colore",
  "choose_colour": "Scelga il colore",
  "from_price": "da {price}",
- "sold_out_colour": "{name}, esaurito"
+ "sold_out_colour": "{name}, esaurito",
+ "choose_country": "Scelga un paese",
+ "copy_code": "Copi il codice",
+ "remove": "Rimuova",
+ "visit": "Visiti il negozio"
 }

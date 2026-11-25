@@ -3,7 +3,7 @@
  "add_to_cart": "Dodajte v košarico",
  "added": "Dodano v košarico",
  "view_cart": "Poglejte košarico",
- "back_to_shop": "Nazaj v Tržnico",
+ "back_to_shop": "Nazaj na Tržnico",
  "price_vat": "Končna cena, DDV ni obračunan",
  "in_stock": "Na zalogi",
  "out_of_stock": "Ni na zalogi",
@@ -36,11 +36,11 @@
  "err_promo_expired": "Ta koda je potekla.",
  "err_promo_min": "Ta koda zahteva večje naročilo.",
  "err_max": "Izdelka {name} lahko naročite največ {n}.",
- "err_terms": "Za nadaljevanje potrdite, da se strinjate s pogoji prodaje.",
+ "err_terms": "Prosimo, potrdite, da se strinjate s pogoji prodaje.",
  "thanks_title": "Hvala za naročilo",
  "thanks_text": "Stripe vam po e-pošti pošilja račun. Naročilo bomo kmalu pripravili in poslali.",
  "thanks_help": "Vprašanja o naročilu? Pišite na",
- "paying": "Odpiram varno plačilo…",
+ "paying": "Odpiranje varnega plačila …",
  "partner_link": "partnerska povezava",
  "cat_all": "Vse",
  "country_to": "Dostava v",
@@ -48,5 +48,6 @@
  "colour": "Barva",
  "choose_colour": "Izberite barvo",
  "from_price": "od {price}",
- "sold_out_colour": "{name}, ni na zalogi"
+ "sold_out_colour": "{name}, ni na zalogi",
+ "loading": "Nalaganje ponudb …"
 }

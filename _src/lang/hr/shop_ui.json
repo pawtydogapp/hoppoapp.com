@@ -29,13 +29,13 @@
  "terms_agree": "Slažem se s {link}.",
  "terms_link": "uvjetima prodaje",
  "delivery_days": "Šaljemo u roku od 5 dana.",
- "err_stock": "Nema dovoljno zalihe za {name}.",
+ "err_stock": "Nema dovoljno zaliha za {name}.",
  "err_inactive": "{name} više nije dostupan.",
  "err_country": "Još ne dostavljamo u ovu državu.",
  "err_promo": "Ovaj kod nije važeći.",
  "err_promo_expired": "Ovaj kod je istekao.",
- "err_promo_min": "Ovaj kod traži veću narudžbu.",
- "err_max": "Možete naručiti najviše {n} za {name}.",
+ "err_promo_min": "Za ovaj kod potrebna je veća narudžba.",
+ "err_max": "Najveća količina za {name} je {n}.",
  "err_terms": "Molimo vas da prihvatite uvjete prodaje.",
  "thanks_title": "Hvala na narudžbi",
  "thanks_text": "Stripe vam e-poštom šalje račun. Uskoro ćemo spakirati i poslati vašu narudžbu.",
@@ -48,5 +48,7 @@
  "colour": "Boja",
  "choose_colour": "Odaberite boju",
  "from_price": "od {price}",
- "sold_out_colour": "{name}, rasprodano"
+ "sold_out_colour": "{name}, rasprodano",
+ "err_generic": "Došlo je do pogreške. Pokušajte ponovno.",
+ "shop_intro_empty": "Ponude u ovoj kategoriji stižu uskoro."
 }

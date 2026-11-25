@@ -18,7 +18,7 @@
  "shipping": "Dostawa",
  "discount": "Rabat",
  "total": "Razem",
- "free": "Za darmo",
+ "free": "Bezpłatnie",
  "ship_to": "Wyślij do",
  "ship_eu": "Wysyłamy na terenie Unii Europejskiej.",
  "promo_label": "Kod promocyjny",
@@ -48,5 +48,6 @@
  "colour": "Kolor",
  "choose_colour": "Wybierz kolor",
  "from_price": "od {price}",
- "sold_out_colour": "{name}, niedostępny"
+ "sold_out_colour": "{name}, niedostępny",
+ "shop_intro_empty": "Oferty w tej kategorii pojawią się wkrótce."
 }

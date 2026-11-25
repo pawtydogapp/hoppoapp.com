@@ -38,7 +38,7 @@
  "err_max": "Pode encomendar no máximo {n} de {name}.",
  "err_terms": "Aceite as condições de venda.",
  "thanks_title": "Obrigado pela sua encomenda",
- "thanks_text": "A Stripe está a enviar o recibo por email. Vamos preparar a sua encomenda e enviá-la em breve.",
+ "thanks_text": "A Stripe está a enviar o recibo por e-mail. Vamos preparar a sua encomenda e enviá-la em breve.",
  "thanks_help": "Dúvidas sobre a sua encomenda? Escreva para",
  "paying": "A abrir o pagamento seguro…",
  "partner_link": "link de parceiro",
