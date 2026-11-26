@@ -177,6 +177,7 @@
           }).join('') + '</div>';
           h += '<div class="shopbar"><label for="shop-cc">' + esc(T('country_to')) + '</label><select id="shop-cc" class="inp"><option value="ALL"' + (country === 'ALL' ? ' selected' : '') + '>' + esc(T('all_countries')) + '</option>' +
             countries.map(function (c) { return '<option value="' + esc(c) + '"' + (c === country ? ' selected' : '') + '>' + esc(cname(c)) + '</option>'; }).join('') + '</select></div>';
+          if (ownProducts.length) h += '<p class="promohint">' + esc(T('promo_hint')) + '</p>';
           h += '<div class="pgrid">';
           if (ownProducts.length) h += groupOf(ownProducts).map(groupCard).join('');
           h += rows.map(partnerCard).join('');
@@ -220,8 +221,9 @@
             h += '<p class="colourline"><b>' + esc(T('colour')) + ':</b> <span id="cname">' + esc(loc(cur.colour)) + '</span></p><div class="sws big" role="group" aria-label="' + esc(T('colour')) + '">' +
               vs.map(function (v) { return swatchHtml(v, v.slug === cur.slug, true); }).join('') + '</div>';
           }
-          var stockMsg = out ? T('out_of_stock') : (cur.stock != null && cur.stock <= 5 ? T('low_stock', { n: cur.stock }) : T('in_stock'));
+          var stockMsg = out ? T('out_of_stock') : (cur.stock != null ? T('stock_n', { n: cur.stock }) : T('in_stock'));
           h += '<p class="stock' + (out ? ' out' : '') + '">' + esc(stockMsg) + '</p>';
+          h += '<p class="promohint">' + esc(T('promo_hint')) + '</p>';
           loc(cur.description).split(/\n+/).forEach(function (para) { if (para.trim()) h += '<p>' + esc(para.trim()) + '</p>'; });
           if (!out) h += '<div class="buyrow"><label for="pqty">' + esc(T('quantity')) + '</label><input id="pqty" class="inp qty" type="number" min="1" max="' + max + '" value="1" inputmode="numeric"><button type="button" class="btn" id="padd">' + esc(T('add_to_cart')) + '</button></div><p id="pmsg" class="pcat" aria-live="polite"></p>';
           h += '<p class="pcat">' + esc(T('ship_eu')) + '</p>';
@@ -299,7 +301,7 @@
         function draw(msg) {
           var h = '<div class="cartgrid"><div>' + lines() + '</div><aside class="cbox">';
           h += '<label for="c-cc">' + esc(T('ship_to')) + '</label><select id="c-cc" class="inp">' + countries.map(function (c) { return '<option value="' + esc(c) + '"' + (c === country ? ' selected' : '') + '>' + esc(cname(c)) + '</option>'; }).join('') + '</select><p class="pcat">' + esc(T('ship_eu')) + '</p>';
-          h += '<label for="c-promo">' + esc(T('promo_label')) + '</label><div class="promorow"><input id="c-promo" class="inp" type="text" autocomplete="off" autocapitalize="characters" value="' + esc(promo) + '"><button type="button" class="btn sm ghost" id="c-apply">' + esc(T('promo_apply')) + '</button></div>';
+          h += '<p class="promohint">' + esc(T('promo_hint')) + '</p>'; h += '<label for="c-promo">' + esc(T('promo_label')) + '</label><div class="promorow"><input id="c-promo" class="inp" type="text" autocomplete="off" autocapitalize="characters" value="' + esc(promo) + '"><button type="button" class="btn sm ghost" id="c-apply">' + esc(T('promo_apply')) + '</button></div>';
           if (quote && quote.ok && quote.promo) h += '<p class="okmsg">' + esc(T('promo_applied', { code: quote.promo })) + '</p>';
           h += '<div id="c-tot" aria-live="polite">' + totals() + '</div>';
           if (H.terms) h += '<label class="agree"><input type="checkbox" id="c-terms"> ' + esc(T('terms_agree')).replace('{link}', '<a href="' + H.base + H.terms + '" target="_blank" rel="noopener">' + esc(T('terms_link')) + '</a>') + '</label>';

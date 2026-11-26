@@ -52,5 +52,7 @@
  "choose_country": "Scelga un paese",
  "copy_code": "Copi il codice",
  "remove": "Rimuova",
- "visit": "Visiti il negozio"
+ "visit": "Visiti il negozio",
+ "stock_n": "Disponibilità: {n}",
+ "promo_hint": "Da 3 paia in su, inserisca il codice SOCKS3 nel carrello e ottenga il 30% di sconto. 3 paia costano quindi 20,98 EUR."
 }

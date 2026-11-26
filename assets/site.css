@@ -462,3 +462,5 @@ nav .links .cartlink span{background:#E6DEF8;color:#4F3A93;border-radius:999px;f
 .famimgs a{display:block;border-radius:12px;overflow:hidden;background:#F1ECFB;aspect-ratio:1/1}
 .famimgs img{width:100%;height:100%;object-fit:cover;display:block}
 @media(max-width:760px){.pcard.fam{flex-direction:column;align-items:stretch;gap:14px}.pcard.fam .fambody{width:auto}.famimgs{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}}
+
+.promohint{background:#F3EEFC;border:1px solid #B9A6E8;border-radius:12px;padding:10px 14px;margin:12px 0;font-weight:700;color:#4F3A93;font-size:.95rem;line-height:1.45}

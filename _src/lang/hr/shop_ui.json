@@ -50,5 +50,7 @@
  "from_price": "od {price}",
  "sold_out_colour": "{name}, rasprodano",
  "err_generic": "Došlo je do pogreške. Pokušajte ponovno.",
- "shop_intro_empty": "Ponude u ovoj kategoriji stižu uskoro."
+ "shop_intro_empty": "Ponude u ovoj kategoriji stižu uskoro.",
+ "stock_n": "Na zalihi: {n}",
+ "promo_hint": "Od 3 para nadalje unesite kod SOCKS3 u košarici i dobijte 30 % popusta. Tada 3 para koštaju 20,98 EUR."
 }

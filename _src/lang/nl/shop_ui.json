@@ -48,5 +48,7 @@
  "colour": "Kleur",
  "choose_colour": "Kies een kleur",
  "from_price": "vanaf {price}",
- "sold_out_colour": "{name}, uitverkocht"
+ "sold_out_colour": "{name}, uitverkocht",
+ "stock_n": "{n} op voorraad",
+ "promo_hint": "Vanaf 3 paar: voer de code SOCKS3 in het winkelwagentje in voor 30% korting. 3 paar kosten dan 20,98 EUR."
 }

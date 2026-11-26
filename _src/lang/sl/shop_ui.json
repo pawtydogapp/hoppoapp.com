@@ -49,5 +49,7 @@
  "choose_colour": "Izberite barvo",
  "from_price": "od {price}",
  "sold_out_colour": "{name}, ni na zalogi",
- "loading": "Nalaganje ponudb …"
+ "loading": "Nalaganje ponudb …",
+ "stock_n": "Na zalogi: {n}",
+ "promo_hint": "Pri 3 ali več parih v košarici vnesite kodo SOCKS3 in prejmite 30 % popusta. 3 pari tako stanejo 20,98 EUR."
 }

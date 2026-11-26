@@ -48,5 +48,7 @@
  "colour": "Farbe",
  "choose_colour": "Farbe wählen",
  "from_price": "ab {price}",
- "sold_out_colour": "{name}, ausverkauft"
+ "sold_out_colour": "{name}, ausverkauft",
+ "stock_n": "{n} auf Lager",
+ "promo_hint": "Ab 3 Paaren: Geben Sie im Warenkorb den Code SOCKS3 ein und erhalten Sie 30 % Rabatt. 3 Paare kosten dann 20,98 EUR."
 }
